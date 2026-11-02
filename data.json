@@ -342,41 +342,45 @@
      "date": "2026-11-02",
      "sport": "Multi",
      "game": "NBA 6-leg (CLE/PHI/ORL/BOS@HOU/PHX@GS and others)",
-     "pick": "NBA 6-leg prop parlay (0.75u as placed; DK est +882, price from Shay multiplication not a quoted slip price; est win pays +6.62u):\n⏳ Jarrett Allen 7+ reb -291\n⏳ Diabate 8+ reb -296\n⏳ VJ Edgecombe 6+ reb -154\n⏳ Queen 5+ reb -286\n⏳ Jayson Tatum 6+ ast -196\n⏳ Draymond Green 6+ ast -160",
-     "book": "DraftKings (Tony placed)",
-     "odds": "+882",
-     "implied": "10.2%",
+     "pick": "NBA 6-leg prop parlay (0.75u as placed; slip price +827; win pays +6.20u):\n⏳ Jarrett Allen 7+ reb -270 (alt\n⏳ 5:10 PM AZ)\n⏳ Diabate 8+ reb -260\n⏳ VJ Edgecombe 6+ reb -192\n⏳ Queen 5+ reb -340\n⏳ Jayson Tatum 6+ ast -192\n⏳ Draymond Green 6+ ast -158 (8:10 PM AZ)",
+     "book": "FanDuel (book not named on slip; Tony placed)",
+     "odds": "+827",
+     "implied": "10.8%",
      "est": "",
      "result": "",
      "favorite": "N",
      "tony_played": "Y",
      "Stake (u)": 0.75,
      "Profit (u)": "",
-     "title": "NBA 6-leg prop parlay (0.75u as placed; DK est +882, price from Shay multiplication not a quoted slip price; est win pays +6.62u):",
+     "title": "NBA 6-leg prop parlay (0.75u as placed; slip price +827; win pays +6.20u):",
      "legs": [
       {
        "mark": "pending",
-       "text": "Jarrett Allen 7+ reb -291"
+       "text": "Jarrett Allen 7+ reb -270 (alt"
       },
       {
        "mark": "pending",
-       "text": "Diabate 8+ reb -296"
+       "text": "5:10 PM AZ)"
       },
       {
        "mark": "pending",
-       "text": "VJ Edgecombe 6+ reb -154"
+       "text": "Diabate 8+ reb -260"
       },
       {
        "mark": "pending",
-       "text": "Queen 5+ reb -286"
+       "text": "VJ Edgecombe 6+ reb -192"
       },
       {
        "mark": "pending",
-       "text": "Jayson Tatum 6+ ast -196"
+       "text": "Queen 5+ reb -340"
       },
       {
        "mark": "pending",
-       "text": "Draymond Green 6+ ast -160"
+       "text": "Jayson Tatum 6+ ast -192"
+      },
+      {
+       "mark": "pending",
+       "text": "Draymond Green 6+ ast -158 (8:10 PM AZ)"
       }
      ]
     }
@@ -10365,7 +10369,7 @@
  ],
  "legend": "Green = win, Red = loss, Yellow = push, Gray = pending. Newest day first.",
  "ticket_count": 475,
- "version": "57810a54a9",
+ "version": "8bfb539414",
  "archive_sports": {},
  "live_ticket_count": 475,
  "totals": {
