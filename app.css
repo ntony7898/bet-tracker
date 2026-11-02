@@ -1,4 +1,4 @@
-/* Design: Graphic, /workspace/shared/bet-tracker/design/style.css (verbatim). All styling lives in this file. */
+/* Design: Graphic v2 sports theme, /workspace/shared/bet-tracker/design/style.css (verbatim). All styling lives in this file. */
 :root{--bg:#0B0F14;--sf:#141A22;--sf2:#1C2430;--ln:#263142;--tx:#F2F5F8;--mu:#8B98A9;--win:#22C55E;--winbg:#0F2A1B;--loss:#EF4444;--lossbg:#2E1416;--pend:#F59E0B;--pendbg:#2E2110;--push:#94A3B8;--pushbg:#1E2633;--acc:#60A5FA}
 *{box-sizing:border-box;margin:0;padding:0}
 body{background:var(--bg);color:var(--tx);font:16px/1.4 Inter,-apple-system,"SF Pro Text",Roboto,system-ui,sans-serif;padding-bottom:84px}
@@ -39,6 +39,21 @@ body:has(#daily:target) .tabs a[href="#daily"],body:has(#daily :target) .tabs a[
 .rt{padding:14px;margin-bottom:12px}.rt h3{font-size:18px;margin-bottom:6px}.rg{padding:10px 0;border-top:1px solid var(--ln)}.rn{font-weight:800;margin-bottom:8px}
 .rcs{display:grid;grid-template-columns:repeat(4,1fr);gap:6px}.rc{background:var(--sf2);border-radius:10px;padding:6px 8px}.rc b{display:block;font-size:16px;color:var(--tx)!important}.rc.all{background:#1E3A5F}
 .rfoot{display:flex;flex-wrap:wrap;gap:8px;align-items:baseline;border-top:1px solid var(--ln);padding-top:10px;font-size:14px;color:var(--mu)}.rfoot b{font-size:22px}.rfoot.neg b{color:var(--loss)}.rfoot em{font-style:normal;color:var(--pend)}
+/* ---- v2 sports theme ---- */
+:root{--s-fb:#A16207;--s-ncaa:#EA580C;--s-nhl:#38BDF8;--s-mlb:#E11D48;--s-nba:#F97316;--s-wnba:#FB923C;--s-soc:#10B981;--s-multi:#A78BFA}
+.s-NFL{--spc:var(--s-fb)}.s-NCAAF,.s-CFB{--spc:var(--s-ncaa)}.s-NHL{--spc:var(--s-nhl)}.s-MLB{--spc:var(--s-mlb)}.s-NBA{--spc:var(--s-nba)}.s-WNBA{--spc:var(--s-wnba)}.s-SOCCER,.s-EPL,.s-MLS{--spc:var(--s-soc)}.s-MULTI,.s-LADDER{--spc:var(--s-multi)}.s-ALL{--spc:#FCD34D}
+.ic{width:14px;height:14px;flex:none;vertical-align:-2px;margin-right:4px}
+.sp{display:inline-flex;align-items:center;color:var(--tx);border:1px solid var(--spc,var(--ln));background:color-mix(in srgb,var(--spc,#1C2430) 18%,var(--sf2))}.sp .ic{color:var(--spc)}
+.tk{box-shadow:inset 4px 0 0 var(--spc,transparent);padding-left:18px}
+.rc i{display:flex;align-items:center;white-space:nowrap}.rc .ic{width:12px;height:12px;margin-right:3px;color:var(--spc,var(--mu))}.rc{border-top:2px solid var(--spc,transparent)}
+.hero{position:relative;overflow:hidden;background:linear-gradient(90deg,transparent 49.6%,rgba(255,255,255,.05) 49.6% 50.4%,transparent 50.4%),radial-gradient(circle at 50% 50%,transparent 58px,rgba(255,255,255,.05) 59px 60px,transparent 61px),repeating-linear-gradient(90deg,rgba(34,197,94,.045) 0 39px,rgba(34,197,94,0) 39px 78px),var(--sf)}
+.hero>*{position:relative}
+.sbd{position:relative;overflow:hidden;background-image:radial-gradient(rgba(255,255,255,.07) 1px,transparent 1.4px),repeating-linear-gradient(90deg,transparent 0 calc(100% - 18px),rgba(255,255,255,.06) calc(100% - 18px) calc(100% - 12px),transparent calc(100% - 12px) calc(100% - 8px),rgba(255,255,255,.06) calc(100% - 8px) calc(100% - 2px),transparent calc(100% - 2px))!important;background-size:5px 5px,100% 100%}
+.bn-d{text-transform:uppercase;letter-spacing:.08em;font-size:15px}
+.bn-net.sb{display:inline-block;font-family:"DejaVu Sans Mono","SF Mono",Menlo,Consolas,monospace;font-variant-numeric:tabular-nums;font-size:44px;letter-spacing:.04em;background:#05080B;border:1px solid rgba(255,255,255,.12);border-radius:10px;padding:2px 14px;margin:8px 0 4px;text-shadow:0 0 10px currentColor;box-shadow:inset 0 0 0 3px #0B0F14}
+.bn-net.sm.sb{font-size:22px;text-shadow:none}
+.bn-st div{border:1px solid rgba(255,255,255,.06)}.bn-st b{font-variant-numeric:tabular-nums}
+
 /* App additions (design tokens only): filter / jump controls */
 .filters{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-bottom:8px}.filters input{grid-column:1/-1}
 .filters select,.filters input{min-height:44px;font:inherit;font-size:15px;background:var(--sf);color:var(--tx);border:1px solid var(--ln);border-radius:10px;padding:0 10px}

@@ -20,7 +20,7 @@ with sync_playwright() as p:
   pg.goto('http://localhost:8767/#daily');pg.wait_for_timeout(500)
   chk('tickets',pg.locator('#daily .tk').count(),len(tix))
   chk('days',pg.locator('#daily .day').count(),len(banners))
-  labs=pg.locator('#daily .bn-d').all_inner_texts();chk('newest first',labs[0],banners[0].split('|')[0].strip())
+  labs=[x.title().replace('Nov 0','Nov 0').replace(' Of ',' of ') for x in pg.locator('#daily .bn-d').all_text_contents()];chk('newest first',labs[0],banners[0].split('|')[0].strip())
   nn=pg.locator('#daily .day .bn-net').all_inner_texts();web={l:(n if n!='no units' else None) for l,n in zip(labs,nn)}
   chk('daily net units',web,nets)
   legs=[l for r in tix for l in str(r[3]).split('\n')[1:]]
@@ -28,8 +28,10 @@ with sync_playwright() as p:
   chk('VOID tickets',pg.locator('#daily .tk .chip.big', has_text='VOID').count(),sum(1 for r in tix if r[8]=='void'))
   chk('stake? tiles',pg.locator('#daily .meta div:first-child b',has_text='stake?').count(),sum(1 for r in tix if r[11]=='stake?'))
   chk('$ only in note',pg.locator('body').inner_text().count('$'),pg.locator('body').inner_text().count('1 unit = $20'))
-  pg.screenshot(path='screenshots/daily-nov02.png')
-  pg.goto('http://localhost:8767/#d2026-11-01');pg.wait_for_timeout(500);pg.screenshot(path='screenshots/daily-nov01-1.png')
+  chk('Today = newest day only',pg.locator('#today + .day .bn-d').inner_text(),banners[0].split('|')[0].strip().upper())
+  chk('Past picks heading',pg.locator('#past').count(),1)
+  pg.screenshot(path='screenshots/daily-1.png')
+  pg.goto('http://localhost:8767/#past');pg.wait_for_timeout(500);pg.screenshot(path='screenshots/daily-nov01-1.png')
   pg.goto('http://localhost:8767/');pg.wait_for_timeout(500);st=pg.locator('#summary').inner_text()
   chk('grand total + note on summary',units['Grand total'] in st and '1 unit = $20' in st,True);pg.screenshot(path='screenshots/summary-1.png')
   pg.click('.tabs a[href="#totals"]');ut=pg.locator('#totals').inner_text()
