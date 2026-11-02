@@ -77,7 +77,7 @@
      "date": "2026-11-02",
      "sport": "Multi",
      "game": "CHI@SEA / WSH@ORL / POR@DEN",
-     "pick": "LADDER day 2 (3-leg); FD +109; win pays +1.09u/, ):\n⏳ Jaxon Smith-Njigba 70+ rec yds -380 (CHI@SEA 6:15 PM AZ)\n⏳ Trae Young 8+ ast -360 (WSH@ORL 5:30 PM AZ)\n⏳ Nikola Jokic 8+ ast -340 (POR@DEN 7:00 PM AZ)",
+     "pick": "LADDER day 2 (3-leg; 1u as placed; FD +109; win pays +1.09u):\n⏳ Jaxon Smith-Njigba 70+ rec yds -380 (CHI@SEA 6:15 PM AZ)\n⏳ Trae Young 8+ ast -360 (WSH@ORL 5:30 PM AZ)\n⏳ Nikola Jokic 8+ ast -340 (POR@DEN 7:00 PM AZ)",
      "book": "FanDuel",
      "odds": "+109",
      "implied": "47.9%",
@@ -85,9 +85,9 @@
      "result": "",
      "favorite": "N",
      "tony_played": "Y",
-     "Stake (u)": 1,
+     "Stake (u)": 0.5,
      "Profit (u)": "",
-     "title": "LADDER day 2 (3-leg); FD +109; win pays +1.09u/, ):",
+     "title": "LADDER day 2 (3-leg; 1u as placed; FD +109; win pays +1.09u):",
      "legs": [
       {
        "mark": "pending",
@@ -10241,5 +10241,5 @@
  ],
  "legend": "Green = win, Red = loss, Yellow = push, Gray = pending. Newest day first.",
  "ticket_count": 470,
- "version": "07b3ffa044"
+ "version": "a5ee4f96dc"
 }
