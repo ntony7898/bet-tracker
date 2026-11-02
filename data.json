@@ -48,7 +48,7 @@
    "period": "November 2026",
    "net": "-15.35u",
    "settled": 28,
-   "pending": 5
+   "pending": 6
   },
   {
    "period": "October 2026",
@@ -60,18 +60,18 @@
    "period": "Year 2026",
    "net": "-1.03u",
    "settled": 71,
-   "pending": 7
+   "pending": 8
   },
   {
    "period": "Grand total",
    "net": "-1.03u",
    "settled": 71,
-   "pending": 7
+   "pending": 8
   }
  ],
  "days": [
   {
-   "banner": "Monday, Nov 02   |   Day: 2-1 (11 pending)   |   Tony played: 1-0   |   Net +0.00u (4 pending)   |   Running -1.03u",
+   "banner": "Monday, Nov 02   |   Day: 2-1 (12 pending)   |   Tony played: 1-0   |   Net +0.00u (5 pending)   |   Running -1.03u",
    "label": "Monday, Nov 02",
    "tickets": [
     {
@@ -337,11 +337,53 @@
        "text": "Devin Booker 4+ ast (PHX@GS 8:00 PM AZ)"
       }
      ]
+    },
+    {
+     "date": "2026-11-02",
+     "sport": "Multi",
+     "game": "NBA 6-leg (CLE/PHI/ORL/BOS@HOU/PHX@GS and others)",
+     "pick": "NBA 6-leg prop parlay (0.75u as placed; DK est +882, price from Shay multiplication not a quoted slip price; est win pays +6.62u):\n⏳ Jarrett Allen 7+ reb -291\n⏳ Diabate 8+ reb -296\n⏳ VJ Edgecombe 6+ reb -154\n⏳ Queen 5+ reb -286\n⏳ Jayson Tatum 6+ ast -196\n⏳ Draymond Green 6+ ast -160",
+     "book": "DraftKings (Tony placed)",
+     "odds": "+882",
+     "implied": "10.2%",
+     "est": "",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 0.75,
+     "Profit (u)": "",
+     "title": "NBA 6-leg prop parlay (0.75u as placed; DK est +882, price from Shay multiplication not a quoted slip price; est win pays +6.62u):",
+     "legs": [
+      {
+       "mark": "pending",
+       "text": "Jarrett Allen 7+ reb -291"
+      },
+      {
+       "mark": "pending",
+       "text": "Diabate 8+ reb -296"
+      },
+      {
+       "mark": "pending",
+       "text": "VJ Edgecombe 6+ reb -154"
+      },
+      {
+       "mark": "pending",
+       "text": "Queen 5+ reb -286"
+      },
+      {
+       "mark": "pending",
+       "text": "Jayson Tatum 6+ ast -196"
+      },
+      {
+       "mark": "pending",
+       "text": "Draymond Green 6+ ast -160"
+      }
+     ]
     }
    ],
-   "day": "2-1 (11 pending)",
+   "day": "2-1 (12 pending)",
    "tony_played": "1-0",
-   "net": "+0.00u (4 pending)",
+   "net": "+0.00u (5 pending)",
    "running": "-1.03u",
    "date": "2026-11-02"
   },
@@ -10269,7 +10311,7 @@
    ],
    "units": {
     "net": "-15.35u",
-    "pending": "5 pending"
+    "pending": "6 pending"
    }
   },
   {
@@ -10322,17 +10364,17 @@
   }
  ],
  "legend": "Green = win, Red = loss, Yellow = push, Gray = pending. Newest day first.",
- "ticket_count": 474,
- "version": "643cacfbc6",
+ "ticket_count": 475,
+ "version": "57810a54a9",
  "archive_sports": {},
- "live_ticket_count": 474,
+ "live_ticket_count": 475,
  "totals": {
   "grand": [
    -1.03,
    202,
    254,
-   14,
-   474
+   15,
+   475
   ],
   "m2026-10": [
    14.32,
@@ -10345,8 +10387,8 @@
    -15.35,
    19,
    35,
-   12,
-   66
+   13,
+   67
   ],
   "sLadder": [
    11.51,
@@ -10367,7 +10409,7 @@
    0,
    0,
    0,
-   1
+   2
   ],
   "sNBA": [
    -1.98,
@@ -10415,8 +10457,8 @@
    -1.03,
    202,
    254,
-   14,
-   474
+   15,
+   475
   ]
  },
  "prune_cutoff": "2026-09-02",
