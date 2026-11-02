@@ -48,7 +48,7 @@
    "period": "November 2026",
    "net": "-15.35u",
    "settled": 28,
-   "pending": 2
+   "pending": 3
   },
   {
    "period": "October 2026",
@@ -60,18 +60,18 @@
    "period": "Year 2026",
    "net": "-1.03u",
    "settled": 71,
-   "pending": 4
+   "pending": 5
   },
   {
    "period": "Grand total",
    "net": "-1.03u",
    "settled": 71,
-   "pending": 4
+   "pending": 5
   }
  ],
  "days": [
   {
-   "banner": "Monday, Nov 02   |   Day: 0-0 (10 pending)   |   Tony played: 0-0   |   Net +0.00u (1 pending)   |   Running -1.03u",
+   "banner": "Monday, Nov 02   |   Day: 0-0 (12 pending)   |   Tony played: 0-0   |   Net +0.00u (2 pending)   |   Running -1.03u",
    "label": "Monday, Nov 02",
    "tickets": [
     {
@@ -256,11 +256,45 @@
      "Profit (u)": "",
      "title": "SLEEPER WSH ML",
      "legs": []
+    },
+    {
+     "date": "2026-11-02",
+     "sport": "Soccer",
+     "game": "Everton @ Newcastle (EPL, 1:00 PM AZ)",
+     "pick": "Everton +0.5 (low confidence lean)",
+     "book": "DraftKings via ESPN (FanDuel not pulled)",
+     "odds": "-145",
+     "implied": "59.2%",
+     "est": "61%",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "Everton +0.5 (low confidence lean)",
+     "legs": []
+    },
+    {
+     "date": "2026-11-02",
+     "sport": "Soccer",
+     "game": "Everton @ Newcastle (EPL, 1:00 PM AZ)",
+     "pick": "Barry score or assist (1u as placed; price not given)",
+     "book": "FanDuel (Tony placed)",
+     "odds": "",
+     "implied": "",
+     "est": "",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": "",
+     "title": "Barry score or assist (1u as placed; price not given)",
+     "legs": []
     }
    ],
-   "day": "0-0 (10 pending)",
+   "day": "0-0 (12 pending)",
    "tony_played": "0-0",
-   "net": "+0.00u (1 pending)",
+   "net": "+0.00u (2 pending)",
    "running": "-1.03u",
    "date": "2026-11-02"
   },
@@ -10188,7 +10222,7 @@
    ],
    "units": {
     "net": "-15.35u",
-    "pending": "2 pending"
+    "pending": "3 pending"
    }
   },
   {
@@ -10241,8 +10275,8 @@
   }
  ],
  "legend": "Green = win, Red = loss, Yellow = push, Gray = pending. Newest day first.",
- "ticket_count": 470,
- "version": "653873ad02",
+ "ticket_count": 472,
+ "version": "712e541736",
  "units_by_sport": {
   "sports": [
    "NFL",
