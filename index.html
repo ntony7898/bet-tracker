@@ -1,0 +1,12 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Bet Tracker</title><link rel="manifest" href="manifest.webmanifest"><meta name="theme-color" content="#111418">
+<link rel="icon" href="icon.svg"><link rel="stylesheet" href="app.css"></head><body>
+<header class="summary" id="summary"></header>
+<nav class="tabs" role="tablist">
+<button data-view="days" class="tab is-active">Days</button><button data-view="units" class="tab">Units</button><button data-view="records" class="tab">Records</button></nav>
+<section id="view-days" class="view"><div class="filters">
+<select id="jump" aria-label="Jump to date"></select>
+<select id="filter" aria-label="Ticket filter"><option value="all">All tickets</option><option value="played">Tony played</option><option value="fav">Favorites</option><option value="pending">Pending</option></select>
+<input id="q" type="search" placeholder="Search picks" aria-label="Search picks"></div><div id="days"></div></section>
+<section id="view-units" class="view" hidden></section><section id="view-records" class="view" hidden></section>
+<footer id="foot" class="foot"></footer><script src="app.js"></script></body></html>
