@@ -1,5 +1,5 @@
-const VERSION='v5-ladder'; // bump per app release
-const C='bet-tracker-'+VERSION, SHELL=['./','index.html','app.css','app.js','manifest.webmanifest','icon.svg'];
+const VERSION='v6-icon'; // bump per app release
+const C='bet-tracker-'+VERSION, SHELL=['./','index.html','app.css','app.js','manifest.webmanifest','icon.svg','favicon-32.png','apple-touch-icon.png','icon-192.png','icon-512.png'];
 self.addEventListener('install',e=>{e.waitUntil(caches.open(C).then(c=>c.addAll(SHELL)));self.skipWaiting()});
 self.addEventListener('activate',e=>{e.waitUntil(caches.keys().then(k=>Promise.all(k.filter(n=>n!==C).map(n=>caches.delete(n)))));self.clients.claim()});
 self.addEventListener('fetch',e=>{const u=new URL(e.request.url);if(e.request.method!=='GET')return;

@@ -1,1 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><rect width="512" height="512" rx="96" fill="#0B0F14"/><text x="256" y="330" font-size="260" text-anchor="middle" fill="#60A5FA" font-family="sans-serif" font-weight="700">u</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+<defs><clipPath id="fb"><ellipse cx="560" cy="330" rx="270" ry="160" transform="rotate(-35 560 330)"/></clipPath>
+<clipPath id="sc"><circle cx="630" cy="600" r="230"/></clipPath>
+<clipPath id="bk"><circle cx="390" cy="640" r="240"/></clipPath></defs>
+<rect width="1024" height="1024" fill="#f6ecd6"/>
+<g stroke="#2b2a2e" stroke-width="22" stroke-linecap="round" stroke-linejoin="round">
+<g clip-path="url(#fb)"><rect x="200" y="50" width="800" height="600" fill="#e8661a" stroke="none"/>
+<ellipse cx="520" cy="400" rx="300" ry="150" transform="rotate(-35 560 330)" fill="#b84e12" stroke="none" opacity=".0"/>
+<path d="M300 520 Q560 520 760 260 L900 300 L700 700 Z" fill="#b84e12" stroke="none"/>
+<g transform="rotate(-35 560 330)"><rect x="740" y="150" width="34" height="360" fill="#e9e3cc"/><rect x="346" y="150" width="34" height="360" fill="#e9e3cc"/></g></g>
+<ellipse cx="560" cy="330" rx="270" ry="160" transform="rotate(-35 560 330)" fill="none"/>
+<g transform="rotate(-35 560 330)"><line x1="470" y1="330" x2="650" y2="330"/><line x1="495" y1="300" x2="495" y2="360"/><line x1="540" y1="300" x2="540" y2="360"/><line x1="585" y1="300" x2="585" y2="360"/><line x1="630" y1="300" x2="630" y2="360"/></g>
+<circle cx="630" cy="600" r="230" fill="#e9e3cc"/>
+<g clip-path="url(#sc)"><path d="M860 370 A230 230 0 0 1 400 830 L910 880Z" fill="#c9c2a4" stroke="none"/>
+<circle cx="590" cy="560" r="200" fill="#e9e3cc" stroke="none"/>
+<polygon points="630.0,525.0 701.3,576.8 674.1,660.7 585.9,660.7 558.7,576.8" fill="#4d4a47"/><polygon points="703.5,498.9 676.2,415.0 747.6,363.2 818.9,415.0 791.6,498.9" fill="#4d4a47"/><line x1="630.0" y1="525.0" x2="630.0" y2="450.0"/><polygon points="748.9,638.6 820.2,586.8 891.5,638.6 864.3,722.5 776.1,722.5" fill="#4d4a47"/><line x1="701.3" y1="576.8" x2="772.7" y2="553.6"/><polygon points="630.0,725.0 701.3,776.8 674.1,860.7 585.9,860.7 558.7,776.8" fill="#4d4a47"/><line x1="674.1" y1="660.7" x2="718.2" y2="721.4"/><polygon points="511.1,638.6 483.9,722.5 395.7,722.5 368.5,638.6 439.8,586.8" fill="#4d4a47"/><line x1="585.9" y1="660.7" x2="541.8" y2="721.4"/><polygon points="556.5,498.9 468.4,498.9 441.1,415.0 512.4,363.2 583.8,415.0" fill="#4d4a47"/><line x1="558.7" y1="576.8" x2="487.3" y2="553.6"/></g><circle cx="630" cy="600" r="230" fill="none"/>
+<circle cx="390" cy="640" r="240" fill="#e8661a"/>
+<g clip-path="url(#bk)"><circle cx="460" cy="710" r="240" fill="#b84e12" stroke="none"/><circle cx="360" cy="610" r="220" fill="#e8661a" stroke="none"/>
+<path d="M150 620 Q390 670 630 660" fill="none"/>
+<path d="M380 400 Q340 640 400 880" fill="none"/>
+<path d="M220 460 Q300 630 190 790" fill="none"/>
+<path d="M570 470 Q460 650 580 810" fill="none"/></g>
+<circle cx="390" cy="640" r="240" fill="none"/></g></svg>
