@@ -86,7 +86,7 @@
      "result": "",
      "favorite": "N",
      "tony_played": "Y",
-     "Stake (u)": 0.5,
+     "Stake (u)": 1,
      "Profit (u)": "",
      "title": "LADDER day 2 (3-leg; 1u as placed; FD +109; win pays +1.09u):",
      "legs": [
@@ -10242,5 +10242,5 @@
  ],
  "legend": "Green = win, Red = loss, Yellow = push, Gray = pending. Newest day first.",
  "ticket_count": 470,
- "version": "f707bb0989"
+ "version": "653873ad02"
 }

@@ -1,16 +1,5 @@
 <!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>Bet Tracker</title><link rel="manifest" href="manifest.webmanifest"><meta name="theme-color" content="#0B0F14">
 <link rel="icon" href="icon.svg"><link rel="apple-touch-icon" href="icon.svg"><link rel="stylesheet" href="app.css"></head><body>
-<header class="top"><span>Bet Tracker</span><span class="pill" id="pill"></span></header>
-<main>
-<section id="daily" class="view"><h1>Daily</h1>
-<div class="filters"><select id="jump" aria-label="Jump to date"></select>
-<select id="filter" aria-label="Ticket filter"><option value="all">All tickets</option><option value="played">Tony played</option><option value="fav">★ Favorites</option><option value="pending">Pending</option></select>
-<input id="q" type="search" placeholder="Search picks or games" aria-label="Search picks"></div>
-<div id="days"></div><p class="legend" id="legend"></p></section>
-<section id="totals" class="view"><h1>Totals</h1><div id="totals-body"></div></section>
-<section id="records" class="view"><h1>Records</h1><div id="records-body"></div></section>
-<section id="summary" class="view"><h1>Summary</h1><div id="summary-body"></div></section>
-</main>
-<nav class="tabs"><a href="#summary">Summary</a><a href="#daily">Daily</a><a href="#totals">Totals</a><a href="#records">Records</a></nav>
-<script src="app.js"></script></body></html>
+<div id="root"></div><script src="app.js"></script>
+<script>if("serviceWorker" in navigator)navigator.serviceWorker.register("sw.js")</script></body></html>

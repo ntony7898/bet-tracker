@@ -1,6 +1,10 @@
 #!/usr/bin/env bash
-# Rebuild Excel, regenerate data.json, commit and push to GitHub Pages.
+# Rebuild the public Bet Tracker web app from Bet_tracker.xlsx + units_by_sport.json, test it, and push to GitHub Pages.
 set -euo pipefail
-cd /workspace/results && python3 build_tracker.py >/dev/null
-cd /workspace/bet-tracker && python3 refresh.py
-git add -A && (git diff --cached --quiet && echo "no changes" || { git commit -qm "data: $(date +%F\ %H:%M)"; git push -q origin main; echo pushed; })
+cd "$(dirname "$0")"
+[ -f /workspace/results/build_tracker.py ] && (cd /workspace/results && python3 build_tracker.py)
+python3 build_canvas.py            # data.json (+units_by_sport), app.js (web app), canvas.tsx/preview.html
+python3 test_canvas.py --web | tail -1 | grep -q 'ALL PASS' || { echo "web tests FAILED, not pushing" >&2; exit 1; }
+git add index.html app.js app.css sw.js data.json manifest.webmanifest icon.svg
+git commit -qm "data: $(date '+%F %H:%M')" || { echo "no changes"; exit 0; }
+git push -q origin main && echo "pushed: https://ntony7898.github.io/bet-tracker/ (live in ~1 min)"
