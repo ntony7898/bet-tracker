@@ -29,3 +29,7 @@ The tracker is a **private Canvas** in Tony's Grok Bot Library, titled "Bet Trac
 - `refresh_canvas.py`: xlsx -> data lines -> `canvas_live_edits.json`. It runs `build_canvas.py` and `refresh.py` for the data. It changes data lines only, never the live render code or CSS.
 - `build_canvas.py` / `canvas_template.tsx` / `preview.html` / `test_canvas.py`: data generation and the local preview harness.
 - The old PWA files (`index.html`, `app.js`, `app.css`, `sw.js`) are kept for reference only.
+
+## Keep totals forever: `units_history.json` (NEVER DELETE)
+Tickets older than ~2 months (cutoff = today minus 2 months, America/Phoenix; days with a pending ticket are kept) drop out of the ticket list. Before a day is pruned, `prune.py` (called by `build_canvas.py`) snapshots its units, W/L/void/pending counts, ticket count and per-sport breakdown into **`units_history.json`** (atomic write, previous copy in `units_history.json.bak`, both committed). Totals = archive + live tickets. Pruned days still show in Past as a compact row with their net units.
+Publish aborts if the archive is missing after being in git, or if pruned totals differ from unpruned totals or from the xlsx Grand total. `test_canvas.py` simulates later "today" cutoffs on a temp copy and asserts identical totals. Testing overrides only: `PRUNE_DAYS=N`, `BT_TODAY=YYYY-MM-DD`.

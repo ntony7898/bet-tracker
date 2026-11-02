@@ -3,7 +3,8 @@
 set -euo pipefail
 cd "$(dirname "$0")"
 [ -f /workspace/results/build_tracker.py ] && (cd /workspace/results && python3 build_tracker.py)
-python3 build_canvas.py            # data.json (+units_by_sport), app.js (web app), canvas.tsx/preview.html
+[ -f units_history.json ] || ! git cat-file -e HEAD:units_history.json 2>/dev/null || { echo "ABORT: units_history.json missing but it is in git. Restore: git checkout units_history.json" >&2; exit 1; }
+python3 build_canvas.py            # data.json (+units_by_sport; prunes tickets >2 months into units_history.json), app.js (web app), canvas.tsx/preview.html
 python3 test_canvas.py --web | tail -1 | grep -q 'ALL PASS' || { echo "web tests FAILED, not pushing" >&2; exit 1; }
 git add index.html app.js app.css sw.js data.json manifest.webmanifest icon.svg units_history.json units_history.json.bak build_canvas.py prune.py test_canvas.py README.md publish.sh
 git commit -qm "data: $(date '+%F %H:%M')" || { echo "no changes"; exit 0; }
