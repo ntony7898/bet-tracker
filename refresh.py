@@ -11,7 +11,7 @@ note=s(rows[0][0]); i=1
 rec_hdr=[s(c) for c in rows[i] if s(c)]; i+=1; records=[]
 while s(rows[i][0]): records.append([s(c) for c in rows[i][:len(rec_hdr)]]); i+=1
 while not s(rows[i][0]).startswith('Units'): i+=1
-i+=1; units=[]
+units_label=s(rows[i][0]); i+=1; units=[]
 while s(rows[i][0]): units.append({'period':s(rows[i][0]),'net':s(rows[i][1]),'settled':rows[i][2],'pending':rows[i][3]}); i+=1
 while s(rows[i][0])!='date': i+=1
 hdr=[s(c) for c in rows[i]]; i+=1
@@ -36,7 +36,7 @@ for r in wb['Monthly'].iter_rows(values_only=True):
   if cur is None: cur={'month':r[0],'cols':[c for c in r[1:] if c],'rows':[],'units':None}; monthly.append(cur)
   elif r[0].startswith('Unit profit'): cur['units']={'net':r[1],'pending':r[2]}
   else: cur['rows'].append(r[:len(cur['cols'])+1])
-data={'note':note,'record_header':rec_hdr,'records':records,'units':units,'days':days,'monthly':monthly,'legend':legend,'ticket_count':sum(len(d['tickets']) for d in days)}
+data={'note':note,'units_label':units_label,'record_header':rec_hdr,'records':records,'units':units,'days':days,'monthly':monthly,'legend':legend,'ticket_count':sum(len(d['tickets']) for d in days)}
 js=json.dumps(data,ensure_ascii=False,indent=1)
 if '$' in js.replace(note,'',1): print('WARNING: "$" found beyond the unit note',file=sys.stderr)
 data['version']=hashlib.sha1(js.encode()).hexdigest()[:10]

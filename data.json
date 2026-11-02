@@ -1,5 +1,6 @@
 {
  "note": "1 unit = $20",
+ "units_label": "Units (from 2026-10-28)",
  "record_header": [
   "Record",
   "All",
@@ -10241,5 +10242,5 @@
  ],
  "legend": "Green = win, Red = loss, Yellow = push, Gray = pending. Newest day first.",
  "ticket_count": 470,
- "version": "a5ee4f96dc"
+ "version": "f707bb0989"
 }

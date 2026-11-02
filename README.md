@@ -1,5 +1,7 @@
 # Bet Tracker (mobile PWA)
 
+Design: Graphic's approved spec (`/workspace/shared/bet-tracker/design/`); `app.css` = its style.css verbatim plus filter controls.
+
 Static app (no build step). It reads only `data.json`, which `refresh.py` generates from `/workspace/results/Bet_tracker.xlsx`, the output of Bet's `build_tracker.py`. The Excel file is the source of truth, so the leg marks, cleaned pick text, units and banners match it exactly.
 
 ## Refresh after each grading (one command)
