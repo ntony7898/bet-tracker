@@ -48,7 +48,7 @@
    "period": "November 2026",
    "net": "-15.35u",
    "settled": 28,
-   "pending": 4
+   "pending": 5
   },
   {
    "period": "October 2026",
@@ -60,18 +60,18 @@
    "period": "Year 2026",
    "net": "-1.03u",
    "settled": 71,
-   "pending": 6
+   "pending": 7
   },
   {
    "period": "Grand total",
    "net": "-1.03u",
    "settled": 71,
-   "pending": 6
+   "pending": 7
   }
  ],
  "days": [
   {
-   "banner": "Monday, Nov 02   |   Day: 2-1 (10 pending)   |   Tony played: 1-0   |   Net +0.00u (3 pending)   |   Running -1.03u",
+   "banner": "Monday, Nov 02   |   Day: 2-1 (11 pending)   |   Tony played: 1-0   |   Net +0.00u (4 pending)   |   Running -1.03u",
    "label": "Monday, Nov 02",
    "tickets": [
     {
@@ -307,11 +307,41 @@
      "Profit (u)": "",
      "title": "San Jose ML (1u as placed; price -125 as quoted, not confirmed from slip)",
      "legs": []
+    },
+    {
+     "date": "2026-11-02",
+     "sport": "Multi",
+     "game": "BOS@HOU / MIA@LAL / PHX@GS",
+     "pick": "NBA 3-leg parlay (1u as placed; FD +111 as quoted, not confirmed from slip; win pays +1.11u):\n⏳ Alperen Sengun 7+ reb (BOS@HOU 6:30 PM AZ)\n⏳ Bam Adebayo 7+ reb (MIA@LAL 8:00 PM AZ)\n⏳ Devin Booker 4+ ast (PHX@GS 8:00 PM AZ)",
+     "book": "FanDuel (Tony placed)",
+     "odds": "+111",
+     "implied": "47.4%",
+     "est": "",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": "",
+     "title": "NBA 3-leg parlay (1u as placed; FD +111 as quoted, not confirmed from slip; win pays +1.11u):",
+     "legs": [
+      {
+       "mark": "pending",
+       "text": "Alperen Sengun 7+ reb (BOS@HOU 6:30 PM AZ)"
+      },
+      {
+       "mark": "pending",
+       "text": "Bam Adebayo 7+ reb (MIA@LAL 8:00 PM AZ)"
+      },
+      {
+       "mark": "pending",
+       "text": "Devin Booker 4+ ast (PHX@GS 8:00 PM AZ)"
+      }
+     ]
     }
    ],
-   "day": "2-1 (10 pending)",
+   "day": "2-1 (11 pending)",
    "tony_played": "1-0",
-   "net": "+0.00u (3 pending)",
+   "net": "+0.00u (4 pending)",
    "running": "-1.03u",
    "date": "2026-11-02"
   },
@@ -10239,7 +10269,7 @@
    ],
    "units": {
     "net": "-15.35u",
-    "pending": "4 pending"
+    "pending": "5 pending"
    }
   },
   {
@@ -10292,17 +10322,17 @@
   }
  ],
  "legend": "Green = win, Red = loss, Yellow = push, Gray = pending. Newest day first.",
- "ticket_count": 473,
- "version": "b00fe3f38e",
+ "ticket_count": 474,
+ "version": "643cacfbc6",
  "archive_sports": {},
- "live_ticket_count": 473,
+ "live_ticket_count": 474,
  "totals": {
   "grand": [
    -1.03,
    202,
    254,
-   13,
-   473
+   14,
+   474
   ],
   "m2026-10": [
    14.32,
@@ -10315,8 +10345,8 @@
    -15.35,
    19,
    35,
-   11,
-   65
+   12,
+   66
   ],
   "sLadder": [
    11.51,
@@ -10331,6 +10361,13 @@
    10,
    0,
    22
+  ],
+  "sMulti": [
+   0.0,
+   0,
+   0,
+   0,
+   1
   ],
   "sNBA": [
    -1.98,
@@ -10378,8 +10415,8 @@
    -1.03,
    202,
    254,
-   13,
-   473
+   14,
+   474
   ]
  },
  "prune_cutoff": "2026-09-02",
