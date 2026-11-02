@@ -10242,5 +10242,61 @@
  ],
  "legend": "Green = win, Red = loss, Yellow = push, Gray = pending. Newest day first.",
  "ticket_count": 470,
- "version": "653873ad02"
+ "version": "653873ad02",
+ "units_by_sport": {
+  "sports": [
+   "NFL",
+   "NHL",
+   "NBA",
+   "WNBA",
+   "Soccer",
+   "NCAAF",
+   "MLB",
+   "Multi"
+  ],
+  "rows": [
+   {
+    "period": "November 2026",
+    "units": {
+     "NFL": -12.46,
+     "NHL": -1.0,
+     "NBA": -1.0,
+     "WNBA": 0,
+     "Soccer": -1.0,
+     "NCAAF": 0,
+     "MLB": 0,
+     "Multi": 0.11
+    },
+    "total": -15.35
+   },
+   {
+    "period": "October 2026",
+    "units": {
+     "NFL": -2.43,
+     "NHL": 0.19,
+     "NBA": -0.98,
+     "WNBA": -1.0,
+     "Soccer": 11.89,
+     "NCAAF": -4.75,
+     "MLB": 0,
+     "Multi": 11.4
+    },
+    "total": 14.32
+   },
+   {
+    "period": "Grand total",
+    "units": {
+     "NFL": -14.89,
+     "NHL": -0.81,
+     "NBA": -1.98,
+     "WNBA": -1.0,
+     "Soccer": 10.89,
+     "NCAAF": -4.75,
+     "MLB": 0,
+     "Multi": 11.51
+    },
+    "total": -1.03
+   }
+  ]
+ }
 }

@@ -40,8 +40,8 @@ body:has(#daily:target) .tabs a[href="#daily"],body:has(#daily :target) .tabs a[
 .rcs{display:grid;grid-template-columns:repeat(4,1fr);gap:6px}.rc{background:var(--sf2);border-radius:10px;padding:6px 8px}.rc b{display:block;font-size:16px;color:var(--tx)!important}.rc.all{background:#1E3A5F}
 .rfoot{display:flex;flex-wrap:wrap;gap:8px;align-items:baseline;border-top:1px solid var(--ln);padding-top:10px;font-size:14px;color:var(--mu)}.rfoot b{font-size:22px}.rfoot.neg b{color:var(--loss)}.rfoot em{font-style:normal;color:var(--pend)}
 /* ---- v2 sports theme ---- */
-:root{--s-fb:#A16207;--s-ncaa:#EA580C;--s-nhl:#38BDF8;--s-mlb:#E11D48;--s-nba:#F97316;--s-wnba:#FB923C;--s-soc:#10B981;--s-multi:#A78BFA}
-.s-NFL{--spc:var(--s-fb)}.s-NCAAF,.s-CFB{--spc:var(--s-ncaa)}.s-NHL{--spc:var(--s-nhl)}.s-MLB{--spc:var(--s-mlb)}.s-NBA{--spc:var(--s-nba)}.s-WNBA{--spc:var(--s-wnba)}.s-SOCCER,.s-EPL,.s-MLS{--spc:var(--s-soc)}.s-MULTI,.s-LADDER{--spc:var(--s-multi)}.s-ALL{--spc:#FCD34D}
+:root{--s-fb:#A16207;--s-ncaa:#EA580C;--s-nhl:#38BDF8;--s-mlb:#E11D48;--s-nba:#F97316;--s-wnba:#FB923C;--s-soc:#10B981;--s-multi:#A78BFA;--s-ladder:#FACC15}
+.s-NFL{--spc:var(--s-fb)}.s-NCAAF,.s-CFB{--spc:var(--s-ncaa)}.s-NHL{--spc:var(--s-nhl)}.s-MLB{--spc:var(--s-mlb)}.s-NBA{--spc:var(--s-nba)}.s-WNBA{--spc:var(--s-wnba)}.s-SOCCER,.s-EPL,.s-MLS{--spc:var(--s-soc)}.s-MULTI{--spc:var(--s-multi)}.s-LADDER{--spc:var(--s-ladder)}.s-ALL{--spc:#FCD34D}
 .ic{width:14px;height:14px;flex:none;vertical-align:-2px;margin-right:4px}
 .sp{display:inline-flex;align-items:center;color:var(--tx);border:1px solid var(--spc,var(--ln));background:color-mix(in srgb,var(--spc,#1C2430) 18%,var(--sf2))}.sp .ic{color:var(--spc)}
 .tk{box-shadow:inset 4px 0 0 var(--spc,transparent);padding-left:18px}
