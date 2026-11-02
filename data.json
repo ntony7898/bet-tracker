@@ -48,7 +48,7 @@
    "period": "November 2026",
    "net": "-15.35u",
    "settled": 28,
-   "pending": 3
+   "pending": 4
   },
   {
    "period": "October 2026",
@@ -60,18 +60,18 @@
    "period": "Year 2026",
    "net": "-1.03u",
    "settled": 71,
-   "pending": 5
+   "pending": 6
   },
   {
    "period": "Grand total",
    "net": "-1.03u",
    "settled": 71,
-   "pending": 5
+   "pending": 6
   }
  ],
  "days": [
   {
-   "banner": "Monday, Nov 02   |   Day: 2-1 (9 pending)   |   Tony played: 1-0   |   Net +0.00u (2 pending)   |   Running -1.03u",
+   "banner": "Monday, Nov 02   |   Day: 2-1 (10 pending)   |   Tony played: 1-0   |   Net +0.00u (3 pending)   |   Running -1.03u",
    "label": "Monday, Nov 02",
    "tickets": [
     {
@@ -290,11 +290,28 @@
      "Profit (u)": "",
      "title": "Barry score or assist (1u as placed; price not given)",
      "legs": []
+    },
+    {
+     "date": "2026-11-02",
+     "sport": "NHL",
+     "game": "CGY@SJ 7:00 PM AZ",
+     "pick": "San Jose ML (1u as placed; price -125 as quoted, not confirmed from slip)",
+     "book": "FanDuel (Tony placed)",
+     "odds": "-125",
+     "implied": "55.6%",
+     "est": "",
+     "result": "",
+     "favorite": "Y",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": "",
+     "title": "San Jose ML (1u as placed; price -125 as quoted, not confirmed from slip)",
+     "legs": []
     }
    ],
-   "day": "2-1 (9 pending)",
+   "day": "2-1 (10 pending)",
    "tony_played": "1-0",
-   "net": "+0.00u (2 pending)",
+   "net": "+0.00u (3 pending)",
    "running": "-1.03u",
    "date": "2026-11-02"
   },
@@ -10222,7 +10239,7 @@
    ],
    "units": {
     "net": "-15.35u",
-    "pending": "3 pending"
+    "pending": "4 pending"
    }
   },
   {
@@ -10275,17 +10292,17 @@
   }
  ],
  "legend": "Green = win, Red = loss, Yellow = push, Gray = pending. Newest day first.",
- "ticket_count": 472,
- "version": "628ce06922",
+ "ticket_count": 473,
+ "version": "b00fe3f38e",
  "archive_sports": {},
- "live_ticket_count": 472,
+ "live_ticket_count": 473,
  "totals": {
   "grand": [
    -1.03,
    202,
    254,
-   12,
-   472
+   13,
+   473
   ],
   "m2026-10": [
    14.32,
@@ -10298,8 +10315,8 @@
    -15.35,
    19,
    35,
-   10,
-   64
+   11,
+   65
   ],
   "sLadder": [
    11.51,
@@ -10341,7 +10358,7 @@
    40,
    42,
    0,
-   86
+   87
   ],
   "sSoccer": [
    10.89,
@@ -10361,8 +10378,8 @@
    -1.03,
    202,
    254,
-   12,
-   472
+   13,
+   473
   ]
  },
  "prune_cutoff": "2026-09-02",
