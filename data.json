@@ -48,7 +48,7 @@
    "period": "November 2026",
    "net": "-13.85u",
    "settled": 29,
-   "pending": 9
+   "pending": 10
   },
   {
    "period": "October 2026",
@@ -60,18 +60,18 @@
    "period": "Year 2026",
    "net": "+0.47u",
    "settled": 72,
-   "pending": 11
+   "pending": 12
   },
   {
    "period": "Grand total",
    "net": "+0.47u",
    "settled": 72,
-   "pending": 11
+   "pending": 12
   }
  ],
  "days": [
   {
-   "banner": "Monday, Nov 02   |   Day: 2-1 (16 pending)   |   Tony played: 1-0   |   Net +1.50u (8 pending)   |   Running +0.47u",
+   "banner": "Monday, Nov 02   |   Day: 2-1 (17 pending)   |   Tony played: 1-0   |   Net +1.50u (9 pending)   |   Running +0.47u",
    "label": "Monday, Nov 02",
    "tickets": [
     {
@@ -530,11 +530,28 @@
      "Profit (u)": "",
      "title": "D'Andre Swift anytime TD straight (1u as placed; price -105 as quoted, unconfirmed, no slip yet; win pays +0.95u)",
      "legs": []
+    },
+    {
+     "date": "2026-11-02",
+     "sport": "NFL",
+     "game": "CHI@SEA MNF 6:15 PM AZ",
+     "pick": "D'Andre Swift anytime TD straight, add-on 2nd unit (1u as placed; price -105 assumed same as first unit, unconfirmed, no slip yet; win pays +0.95u)",
+     "book": "FanDuel (as quoted, unconfirmed)",
+     "odds": "-105",
+     "implied": "",
+     "est": "",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": "",
+     "title": "D'Andre Swift anytime TD straight, add-on 2nd unit (1u as placed; price -105 assumed same as first unit, unconfirmed, no slip yet; win pays +0.95u)",
+     "legs": []
     }
    ],
-   "day": "2-1 (16 pending)",
+   "day": "2-1 (17 pending)",
    "tony_played": "1-0",
-   "net": "+1.50u (8 pending)",
+   "net": "+1.50u (9 pending)",
    "running": "+0.47u",
    "date": "2026-11-02"
   },
@@ -10462,7 +10479,7 @@
    ],
    "units": {
     "net": "-13.85u",
-    "pending": "9 pending"
+    "pending": "10 pending"
    }
   },
   {
@@ -10515,17 +10532,17 @@
   }
  ],
  "legend": "Green = win, Red = loss, Yellow = push, Gray = pending. Newest day first.",
- "ticket_count": 479,
- "version": "178ada6908",
+ "ticket_count": 480,
+ "version": "d4d58abda9",
  "archive_sports": {},
- "live_ticket_count": 479,
+ "live_ticket_count": 480,
  "totals": {
   "grand": [
    0.47,
    202,
    254,
-   19,
-   479
+   20,
+   480
   ],
   "m2026-10": [
    14.32,
@@ -10538,8 +10555,8 @@
    -13.85,
    19,
    35,
-   17,
-   71
+   18,
+   72
   ],
   "sLadder": [
    11.51,
@@ -10581,7 +10598,7 @@
    32,
    54,
    0,
-   93
+   94
   ],
   "sNHL": [
    -0.81,
@@ -10608,8 +10625,8 @@
    0.47,
    202,
    254,
-   19,
-   479
+   20,
+   480
   ]
  },
  "prune_cutoff": "2026-09-02",
