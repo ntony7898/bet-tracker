@@ -14,8 +14,8 @@
  "records": [
   [
    "All picks",
-   "202-255",
-   "32-54",
+   "204-258",
+   "34-57",
    "40-43",
    "11-10",
    "6-14",
@@ -34,8 +34,8 @@
   ],
   [
    "Tony played",
-   "59-101",
-   "7-30",
+   "61-104",
+   "9-33",
    "9-13",
    "0-0",
    "4-11",
@@ -46,9 +46,9 @@
  "units": [
   {
    "period": "November 2026",
-   "net": "-14.85u",
-   "settled": 30,
-   "pending": 9
+   "net": "-15.20u",
+   "settled": 35,
+   "pending": 4
   },
   {
    "period": "October 2026",
@@ -58,20 +58,20 @@
   },
   {
    "period": "Year 2026",
-   "net": "-0.53u",
-   "settled": 73,
-   "pending": 11
+   "net": "-0.88u",
+   "settled": 78,
+   "pending": 6
   },
   {
    "period": "Grand total",
-   "net": "-0.53u",
-   "settled": 73,
-   "pending": 11
+   "net": "-0.88u",
+   "settled": 78,
+   "pending": 6
   }
  ],
  "days": [
   {
-   "banner": "Monday, Nov 02   |   Day: 2-2 (16 pending)   |   Tony played: 1-1   |   Net +0.50u (8 pending)   |   Running -0.53u",
+   "banner": "Monday, Nov 02   |   Day: 4-5 (11 pending)   |   Tony played: 3-4   |   Net +0.15u (3 pending)   |   Running -0.88u",
    "label": "Monday, Nov 02",
    "tickets": [
     {
@@ -388,64 +388,64 @@
      "date": "2026-11-02",
      "sport": "NFL",
      "game": "CHI@SEA MNF 6:15 PM AZ",
-     "pick": "NFL 7-leg same-game parlay (0.75u as placed; FD +1367 with 30% profit boost, unboosted +1051; win pays +9.95u, total return 10.68u; placed 5:\n⏳ 24 PM AZ\n⏳ slip shows Burden 30+ rec\n⏳ Darnold 225+ pass\n⏳ Kupp 20+ rec\n⏳ Swift 50+ rush\n⏳ other 3 legs per Sam card not visible on slip): Sam Darnold 225+ pass yds\n⏳ Cooper Kupp 20+ rec yds\n⏳ Zach Charbonnet 15+ rush yds\n⏳ D'Andre Swift 50+ rush yds\n⏳ Rome Odunze 25+ rec yds\n⏳ Luther Burden III 30+ rec yds\n⏳ Colston Loveland 30+ rec yds",
+     "pick": "NFL 7-leg same-game parlay (0.75u as placed; FD +1367 with 30% profit boost, unboosted +1051; win pays +9.95u, total return 10.68u; placed 5:\n- 24 PM AZ\n- slip shows Burden 30+ rec\n❌ Darnold 225+ pass\n❌ Kupp 20+ rec\n✅ Swift 50+ rush\n❌ other 3 legs per Sam card not visible on slip): Sam Darnold 225+ pass yds\n❌ Cooper Kupp 20+ rec yds\n✅ Zach Charbonnet 15+ rush yds\n✅ D'Andre Swift 50+ rush yds\n✅ Rome Odunze 25+ rec yds\n✅ Luther Burden III 30+ rec yds\n✅ Colston Loveland 30+ rec yds",
      "book": "FanDuel (Tony placed)",
      "odds": "+1367",
      "implied": "",
      "est": "",
-     "result": "",
+     "result": "L",
      "favorite": "N",
      "tony_played": "Y",
      "Stake (u)": 0.75,
-     "Profit (u)": "",
+     "Profit (u)": -0.75,
      "title": "NFL 7-leg same-game parlay (0.75u as placed; FD +1367 with 30% profit boost, unboosted +1051; win pays +9.95u, total return 10.68u; placed 5:",
      "legs": [
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "24 PM AZ"
       },
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "slip shows Burden 30+ rec"
       },
       {
-       "mark": "pending",
+       "mark": "miss",
        "text": "Darnold 225+ pass"
       },
       {
-       "mark": "pending",
+       "mark": "miss",
        "text": "Kupp 20+ rec"
       },
       {
-       "mark": "pending",
+       "mark": "hit",
        "text": "Swift 50+ rush"
       },
       {
-       "mark": "pending",
+       "mark": "miss",
        "text": "other 3 legs per Sam card not visible on slip): Sam Darnold 225+ pass yds"
       },
       {
-       "mark": "pending",
+       "mark": "miss",
        "text": "Cooper Kupp 20+ rec yds"
       },
       {
-       "mark": "pending",
+       "mark": "hit",
        "text": "Zach Charbonnet 15+ rush yds"
       },
       {
-       "mark": "pending",
+       "mark": "hit",
        "text": "D'Andre Swift 50+ rush yds"
       },
       {
-       "mark": "pending",
+       "mark": "hit",
        "text": "Rome Odunze 25+ rec yds"
       },
       {
-       "mark": "pending",
+       "mark": "hit",
        "text": "Luther Burden III 30+ rec yds"
       },
       {
-       "mark": "pending",
+       "mark": "hit",
        "text": "Colston Loveland 30+ rec yds"
       }
      ]
@@ -454,32 +454,32 @@
      "date": "2026-11-02",
      "sport": "NFL",
      "game": "CHI@SEA MNF 6:15 PM AZ",
-     "pick": "NFL 4-leg same-game parlay SAFE (1u as placed; price +92 as quoted per Sam's card, unconfirmed, no slip yet; win pays +0.92u; legs per Sam's card, unconfirmed):\n⏳ Sam Darnold 175+ pass yds\n⏳ Cooper Kupp 2+ rec\n⏳ D'Andre Swift 2+ rec\n⏳ Luther Burden III 3+ rec",
+     "pick": "NFL 4-leg same-game parlay SAFE (1u as placed; price +92 as quoted per Sam's card, unconfirmed, no slip yet; win pays +0.92u; legs per Sam's card, unconfirmed):\n✅ Sam Darnold 175+ pass yds\n❌ Cooper Kupp 2+ rec\n✅ D'Andre Swift 2+ rec\n✅ Luther Burden III 3+ rec",
      "book": "FanDuel (as quoted, unconfirmed)",
      "odds": "+92",
      "implied": "",
      "est": "",
-     "result": "",
+     "result": "L",
      "favorite": "N",
      "tony_played": "Y",
      "Stake (u)": 1,
-     "Profit (u)": "",
+     "Profit (u)": -1,
      "title": "NFL 4-leg same-game parlay SAFE (1u as placed; price +92 as quoted per Sam's card, unconfirmed, no slip yet; win pays +0.92u; legs per Sam's card, unconfirmed):",
      "legs": [
       {
-       "mark": "pending",
+       "mark": "hit",
        "text": "Sam Darnold 175+ pass yds"
       },
       {
-       "mark": "pending",
+       "mark": "miss",
        "text": "Cooper Kupp 2+ rec"
       },
       {
-       "mark": "pending",
+       "mark": "hit",
        "text": "D'Andre Swift 2+ rec"
       },
       {
-       "mark": "pending",
+       "mark": "hit",
        "text": "Luther Burden III 3+ rec"
       }
      ]
@@ -488,28 +488,28 @@
      "date": "2026-11-02",
      "sport": "NFL",
      "game": "CHI@SEA MNF 6:15 PM AZ",
-     "pick": "NFL 3-leg TD parlay (0.5u as placed; price +2380 as quoted per Sam's card, unconfirmed, no slip yet; win pays +11.90u; legs per Sam's card, unconfirmed):\n⏳ D'Andre Swift anytime TD\n⏳ E. Wilson anytime TD\n⏳ Colston Loveland anytime TD",
+     "pick": "NFL 3-leg TD parlay (0.5u as placed; price +2380 as quoted per Sam's card, unconfirmed, no slip yet; win pays +11.90u; legs per Sam's card, unconfirmed):\n✅ D'Andre Swift anytime TD\n- E. Wilson anytime TD\n❌ Colston Loveland anytime TD",
      "book": "FanDuel (as quoted, unconfirmed)",
      "odds": "+2380",
      "implied": "",
      "est": "",
-     "result": "",
+     "result": "L",
      "favorite": "N",
      "tony_played": "Y",
      "Stake (u)": 0.5,
-     "Profit (u)": "",
+     "Profit (u)": -0.5,
      "title": "NFL 3-leg TD parlay (0.5u as placed; price +2380 as quoted per Sam's card, unconfirmed, no slip yet; win pays +11.90u; legs per Sam's card, unconfirmed):",
      "legs": [
       {
-       "mark": "pending",
+       "mark": "hit",
        "text": "D'Andre Swift anytime TD"
       },
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "E. Wilson anytime TD"
       },
       {
-       "mark": "pending",
+       "mark": "miss",
        "text": "Colston Loveland anytime TD"
       }
      ]
@@ -523,11 +523,11 @@
      "odds": "-105",
      "implied": "",
      "est": "",
-     "result": "",
+     "result": "W",
      "favorite": "N",
      "tony_played": "Y",
      "Stake (u)": 1,
-     "Profit (u)": "",
+     "Profit (u)": 0.95,
      "title": "D'Andre Swift anytime TD straight (1u as placed; price -105 as quoted, unconfirmed, no slip yet; win pays +0.95u)",
      "legs": []
     },
@@ -540,19 +540,19 @@
      "odds": "-105",
      "implied": "",
      "est": "",
-     "result": "",
+     "result": "W",
      "favorite": "N",
      "tony_played": "Y",
      "Stake (u)": 1,
-     "Profit (u)": "",
+     "Profit (u)": 0.95,
      "title": "D'Andre Swift anytime TD straight, add-on 2nd unit (1u as placed; price -105 assumed same as first unit, unconfirmed, no slip yet; win pays +0.95u)",
      "legs": []
     }
    ],
-   "day": "2-2 (16 pending)",
-   "tony_played": "1-1",
-   "net": "+0.50u (8 pending)",
-   "running": "-0.53u",
+   "day": "4-5 (11 pending)",
+   "tony_played": "3-4",
+   "net": "+0.15u (3 pending)",
+   "running": "-0.88u",
    "date": "2026-11-02"
   },
   {
@@ -10448,8 +10448,8 @@
    "rows": [
     [
      "All picks",
-     "19-36",
-     "7-25",
+     "21-39",
+     "9-28",
      "4-3",
      "0-0",
      "0-0",
@@ -10468,8 +10468,8 @@
     ],
     [
      "Tony played",
-     "9-27",
-     "5-21",
+     "11-30",
+     "7-24",
      "1-2",
      "0-0",
      "0-0",
@@ -10478,8 +10478,8 @@
     ]
    ],
    "units": {
-    "net": "-14.85u",
-    "pending": "9 pending"
+    "net": "-15.20u",
+    "pending": "4 pending"
    }
   },
   {
@@ -10533,15 +10533,15 @@
  ],
  "legend": "Green = win, Red = loss, Yellow = push, Gray = pending. Newest day first.",
  "ticket_count": 480,
- "version": "c48aa9c441",
+ "version": "4104db8c1b",
  "archive_sports": {},
  "live_ticket_count": 480,
  "totals": {
   "grand": [
-   -0.53,
-   202,
-   255,
-   19,
+   -0.88,
+   204,
+   258,
+   14,
    480
   ],
   "m2026-10": [
@@ -10552,10 +10552,10 @@
    408
   ],
   "m2026-11": [
-   -14.85,
-   19,
-   36,
-   17,
+   -15.2,
+   21,
+   39,
+   12,
    72
   ],
   "sLadder": [
@@ -10594,9 +10594,9 @@
    20
   ],
   "sNFL": [
-   -14.89,
-   32,
-   54,
+   -15.24,
+   34,
+   57,
    0,
    94
   ],
@@ -10622,10 +10622,10 @@
    2
   ],
   "y2026": [
-   -0.53,
-   202,
-   255,
-   19,
+   -0.88,
+   204,
+   258,
+   14,
    480
   ]
  },
@@ -10645,7 +10645,7 @@
    {
     "period": "November 2026",
     "units": {
-     "NFL": -12.46,
+     "NFL": -12.81,
      "NHL": -2.0,
      "NBA": -1.0,
      "WNBA": 0,
@@ -10654,7 +10654,7 @@
      "MLB": 0,
      "Multi": 0.11
     },
-    "total": -14.85
+    "total": -15.2
    },
    {
     "period": "October 2026",
@@ -10673,7 +10673,7 @@
    {
     "period": "Grand total",
     "units": {
-     "NFL": -14.89,
+     "NFL": -15.24,
      "NHL": -1.81,
      "NBA": -1.98,
      "WNBA": -1.0,
@@ -10682,7 +10682,7 @@
      "MLB": 0,
      "Multi": 11.51
     },
-    "total": -0.53
+    "total": -0.88
    }
   ]
  }
