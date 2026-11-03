@@ -46,9 +46,9 @@
  "units": [
   {
    "period": "November 2026",
-   "net": "-15.35u",
-   "settled": 28,
-   "pending": 10
+   "net": "-13.85u",
+   "settled": 29,
+   "pending": 9
   },
   {
    "period": "October 2026",
@@ -58,20 +58,20 @@
   },
   {
    "period": "Year 2026",
-   "net": "-1.03u",
-   "settled": 71,
-   "pending": 12
+   "net": "+0.47u",
+   "settled": 72,
+   "pending": 11
   },
   {
    "period": "Grand total",
-   "net": "-1.03u",
-   "settled": 71,
-   "pending": 12
+   "net": "+0.47u",
+   "settled": 72,
+   "pending": 11
   }
  ],
  "days": [
   {
-   "banner": "Monday, Nov 02   |   Day: 2-1 (16 pending)   |   Tony played: 1-0   |   Net +0.00u (9 pending)   |   Running -1.03u",
+   "banner": "Monday, Nov 02   |   Day: 2-1 (16 pending)   |   Tony played: 1-0   |   Net +1.50u (8 pending)   |   Running +0.47u",
    "label": "Monday, Nov 02",
    "tickets": [
     {
@@ -278,17 +278,17 @@
      "date": "2026-11-02",
      "sport": "Soccer",
      "game": "Everton @ Newcastle (EPL, 1:00 PM AZ)",
-     "pick": "Barry score or assist (1u as placed; price not given)",
+     "pick": "Barry score or assist (1u as placed; FD +150 per slip; win pays +1.50u, total return 2.50u)",
      "book": "FanDuel (Tony placed)",
-     "odds": "",
-     "implied": "",
+     "odds": "+150",
+     "implied": "40.0%",
      "est": "",
      "result": "W",
      "favorite": "N",
      "tony_played": "Y",
      "Stake (u)": 1,
-     "Profit (u)": "",
-     "title": "Barry score or assist (1u as placed; price not given)",
+     "Profit (u)": 1.5,
+     "title": "Barry score or assist (1u as placed; FD +150 per slip; win pays +1.50u, total return 2.50u)",
      "legs": []
     },
     {
@@ -534,8 +534,8 @@
    ],
    "day": "2-1 (16 pending)",
    "tony_played": "1-0",
-   "net": "+0.00u (9 pending)",
-   "running": "-1.03u",
+   "net": "+1.50u (8 pending)",
+   "running": "+0.47u",
    "date": "2026-11-02"
   },
   {
@@ -10461,8 +10461,8 @@
     ]
    ],
    "units": {
-    "net": "-15.35u",
-    "pending": "10 pending"
+    "net": "-13.85u",
+    "pending": "9 pending"
    }
   },
   {
@@ -10516,12 +10516,12 @@
  ],
  "legend": "Green = win, Red = loss, Yellow = push, Gray = pending. Newest day first.",
  "ticket_count": 479,
- "version": "2ad7dd0d5c",
+ "version": "178ada6908",
  "archive_sports": {},
  "live_ticket_count": 479,
  "totals": {
   "grand": [
-   -1.03,
+   0.47,
    202,
    254,
    19,
@@ -10535,7 +10535,7 @@
    408
   ],
   "m2026-11": [
-   -15.35,
+   -13.85,
    19,
    35,
    17,
@@ -10591,7 +10591,7 @@
    87
   ],
   "sSoccer": [
-   10.89,
+   12.39,
    53,
    54,
    0,
@@ -10605,7 +10605,7 @@
    2
   ],
   "y2026": [
-   -1.03,
+   0.47,
    202,
    254,
    19,
@@ -10632,12 +10632,12 @@
      "NHL": -1.0,
      "NBA": -1.0,
      "WNBA": 0,
-     "Soccer": -1.0,
+     "Soccer": 0.5,
      "NCAAF": 0,
      "MLB": 0,
      "Multi": 0.11
     },
-    "total": -15.35
+    "total": -13.85
    },
    {
     "period": "October 2026",
@@ -10660,12 +10660,12 @@
      "NHL": -0.81,
      "NBA": -1.98,
      "WNBA": -1.0,
-     "Soccer": 10.89,
+     "Soccer": 12.39,
      "NCAAF": -4.75,
      "MLB": 0,
      "Multi": 11.51
     },
-    "total": -1.03
+    "total": 0.47
    }
   ]
  }
