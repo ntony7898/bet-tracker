@@ -48,7 +48,7 @@
    "period": "November 2026",
    "net": "-15.35u",
    "settled": 28,
-   "pending": 6
+   "pending": 7
   },
   {
    "period": "October 2026",
@@ -60,18 +60,18 @@
    "period": "Year 2026",
    "net": "-1.03u",
    "settled": 71,
-   "pending": 8
+   "pending": 9
   },
   {
    "period": "Grand total",
    "net": "-1.03u",
    "settled": 71,
-   "pending": 8
+   "pending": 9
   }
  ],
  "days": [
   {
-   "banner": "Monday, Nov 02   |   Day: 2-1 (12 pending)   |   Tony played: 1-0   |   Net +0.00u (5 pending)   |   Running -1.03u",
+   "banner": "Monday, Nov 02   |   Day: 2-1 (13 pending)   |   Tony played: 1-0   |   Net +0.00u (6 pending)   |   Running -1.03u",
    "label": "Monday, Nov 02",
    "tickets": [
     {
@@ -383,11 +383,77 @@
        "text": "Draymond Green 6+ ast -158 (8:10 PM AZ)"
       }
      ]
+    },
+    {
+     "date": "2026-11-02",
+     "sport": "NFL",
+     "game": "CHI@SEA MNF 6:15 PM AZ",
+     "pick": "NFL 7-leg same-game parlay (0.75u as placed; FD +1367 with 30% profit boost, unboosted +1051; win pays +9.95u, total return 10.68u; placed 5:\n⏳ 24 PM AZ\n⏳ slip shows Burden 30+ rec\n⏳ Darnold 225+ pass\n⏳ Kupp 20+ rec\n⏳ Swift 50+ rush\n⏳ other 3 legs per Sam card not visible on slip): Sam Darnold 225+ pass yds\n⏳ Cooper Kupp 20+ rec yds\n⏳ Zach Charbonnet 15+ rush yds\n⏳ D'Andre Swift 50+ rush yds\n⏳ Rome Odunze 25+ rec yds\n⏳ Luther Burden III 30+ rec yds\n⏳ Colston Loveland 30+ rec yds",
+     "book": "FanDuel (Tony placed)",
+     "odds": "+1367",
+     "implied": "",
+     "est": "",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 0.75,
+     "Profit (u)": "",
+     "title": "NFL 7-leg same-game parlay (0.75u as placed; FD +1367 with 30% profit boost, unboosted +1051; win pays +9.95u, total return 10.68u; placed 5:",
+     "legs": [
+      {
+       "mark": "pending",
+       "text": "24 PM AZ"
+      },
+      {
+       "mark": "pending",
+       "text": "slip shows Burden 30+ rec"
+      },
+      {
+       "mark": "pending",
+       "text": "Darnold 225+ pass"
+      },
+      {
+       "mark": "pending",
+       "text": "Kupp 20+ rec"
+      },
+      {
+       "mark": "pending",
+       "text": "Swift 50+ rush"
+      },
+      {
+       "mark": "pending",
+       "text": "other 3 legs per Sam card not visible on slip): Sam Darnold 225+ pass yds"
+      },
+      {
+       "mark": "pending",
+       "text": "Cooper Kupp 20+ rec yds"
+      },
+      {
+       "mark": "pending",
+       "text": "Zach Charbonnet 15+ rush yds"
+      },
+      {
+       "mark": "pending",
+       "text": "D'Andre Swift 50+ rush yds"
+      },
+      {
+       "mark": "pending",
+       "text": "Rome Odunze 25+ rec yds"
+      },
+      {
+       "mark": "pending",
+       "text": "Luther Burden III 30+ rec yds"
+      },
+      {
+       "mark": "pending",
+       "text": "Colston Loveland 30+ rec yds"
+      }
+     ]
     }
    ],
-   "day": "2-1 (12 pending)",
+   "day": "2-1 (13 pending)",
    "tony_played": "1-0",
-   "net": "+0.00u (5 pending)",
+   "net": "+0.00u (6 pending)",
    "running": "-1.03u",
    "date": "2026-11-02"
   },
@@ -10315,7 +10381,7 @@
    ],
    "units": {
     "net": "-15.35u",
-    "pending": "6 pending"
+    "pending": "7 pending"
    }
   },
   {
@@ -10368,17 +10434,17 @@
   }
  ],
  "legend": "Green = win, Red = loss, Yellow = push, Gray = pending. Newest day first.",
- "ticket_count": 475,
- "version": "8bfb539414",
+ "ticket_count": 476,
+ "version": "e9255692d9",
  "archive_sports": {},
- "live_ticket_count": 475,
+ "live_ticket_count": 476,
  "totals": {
   "grand": [
    -1.03,
    202,
    254,
-   15,
-   475
+   16,
+   476
   ],
   "m2026-10": [
    14.32,
@@ -10391,8 +10457,8 @@
    -15.35,
    19,
    35,
-   13,
-   67
+   14,
+   68
   ],
   "sLadder": [
    11.51,
@@ -10434,7 +10500,7 @@
    32,
    54,
    0,
-   89
+   90
   ],
   "sNHL": [
    -0.81,
@@ -10461,8 +10527,8 @@
    -1.03,
    202,
    254,
-   15,
-   475
+   16,
+   476
   ]
  },
  "prune_cutoff": "2026-09-02",
