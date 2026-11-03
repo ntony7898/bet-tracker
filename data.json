@@ -48,7 +48,7 @@
    "period": "November 2026",
    "net": "-15.35u",
    "settled": 28,
-   "pending": 7
+   "pending": 9
   },
   {
    "period": "October 2026",
@@ -60,18 +60,18 @@
    "period": "Year 2026",
    "net": "-1.03u",
    "settled": 71,
-   "pending": 9
+   "pending": 11
   },
   {
    "period": "Grand total",
    "net": "-1.03u",
    "settled": 71,
-   "pending": 9
+   "pending": 11
   }
  ],
  "days": [
   {
-   "banner": "Monday, Nov 02   |   Day: 2-1 (13 pending)   |   Tony played: 1-0   |   Net +0.00u (6 pending)   |   Running -1.03u",
+   "banner": "Monday, Nov 02   |   Day: 2-1 (15 pending)   |   Tony played: 1-0   |   Net +0.00u (8 pending)   |   Running -1.03u",
    "label": "Monday, Nov 02",
    "tickets": [
     {
@@ -449,11 +449,75 @@
        "text": "Colston Loveland 30+ rec yds"
       }
      ]
+    },
+    {
+     "date": "2026-11-02",
+     "sport": "NFL",
+     "game": "CHI@SEA MNF 6:15 PM AZ",
+     "pick": "NFL 4-leg same-game parlay SAFE (1u as placed; price +92 as quoted per Sam's card, unconfirmed, no slip yet; win pays +0.92u; legs per Sam's card, unconfirmed):\n⏳ Sam Darnold 175+ pass yds\n⏳ Cooper Kupp 2+ rec\n⏳ D'Andre Swift 2+ rec\n⏳ Luther Burden III 3+ rec",
+     "book": "FanDuel (as quoted, unconfirmed)",
+     "odds": "+92",
+     "implied": "",
+     "est": "",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": "",
+     "title": "NFL 4-leg same-game parlay SAFE (1u as placed; price +92 as quoted per Sam's card, unconfirmed, no slip yet; win pays +0.92u; legs per Sam's card, unconfirmed):",
+     "legs": [
+      {
+       "mark": "pending",
+       "text": "Sam Darnold 175+ pass yds"
+      },
+      {
+       "mark": "pending",
+       "text": "Cooper Kupp 2+ rec"
+      },
+      {
+       "mark": "pending",
+       "text": "D'Andre Swift 2+ rec"
+      },
+      {
+       "mark": "pending",
+       "text": "Luther Burden III 3+ rec"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-02",
+     "sport": "NFL",
+     "game": "CHI@SEA MNF 6:15 PM AZ",
+     "pick": "NFL 3-leg TD parlay (0.5u as placed; price +2380 as quoted per Sam's card, unconfirmed, no slip yet; win pays +11.90u; legs per Sam's card, unconfirmed):\n⏳ D'Andre Swift anytime TD\n⏳ E. Wilson anytime TD\n⏳ Colston Loveland anytime TD",
+     "book": "FanDuel (as quoted, unconfirmed)",
+     "odds": "+2380",
+     "implied": "",
+     "est": "",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 0.5,
+     "Profit (u)": "",
+     "title": "NFL 3-leg TD parlay (0.5u as placed; price +2380 as quoted per Sam's card, unconfirmed, no slip yet; win pays +11.90u; legs per Sam's card, unconfirmed):",
+     "legs": [
+      {
+       "mark": "pending",
+       "text": "D'Andre Swift anytime TD"
+      },
+      {
+       "mark": "pending",
+       "text": "E. Wilson anytime TD"
+      },
+      {
+       "mark": "pending",
+       "text": "Colston Loveland anytime TD"
+      }
+     ]
     }
    ],
-   "day": "2-1 (13 pending)",
+   "day": "2-1 (15 pending)",
    "tony_played": "1-0",
-   "net": "+0.00u (6 pending)",
+   "net": "+0.00u (8 pending)",
    "running": "-1.03u",
    "date": "2026-11-02"
   },
@@ -10381,7 +10445,7 @@
    ],
    "units": {
     "net": "-15.35u",
-    "pending": "7 pending"
+    "pending": "9 pending"
    }
   },
   {
@@ -10434,17 +10498,17 @@
   }
  ],
  "legend": "Green = win, Red = loss, Yellow = push, Gray = pending. Newest day first.",
- "ticket_count": 476,
- "version": "e9255692d9",
+ "ticket_count": 478,
+ "version": "50e3151460",
  "archive_sports": {},
- "live_ticket_count": 476,
+ "live_ticket_count": 478,
  "totals": {
   "grand": [
    -1.03,
    202,
    254,
-   16,
-   476
+   18,
+   478
   ],
   "m2026-10": [
    14.32,
@@ -10457,8 +10521,8 @@
    -15.35,
    19,
    35,
-   14,
-   68
+   16,
+   70
   ],
   "sLadder": [
    11.51,
@@ -10500,7 +10564,7 @@
    32,
    54,
    0,
-   90
+   92
   ],
   "sNHL": [
    -0.81,
@@ -10527,8 +10591,8 @@
    -1.03,
    202,
    254,
-   16,
-   476
+   18,
+   478
   ]
  },
  "prune_cutoff": "2026-09-02",
