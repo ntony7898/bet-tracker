@@ -48,7 +48,7 @@
    "period": "November 2026",
    "net": "-15.35u",
    "settled": 28,
-   "pending": 9
+   "pending": 10
   },
   {
    "period": "October 2026",
@@ -60,18 +60,18 @@
    "period": "Year 2026",
    "net": "-1.03u",
    "settled": 71,
-   "pending": 11
+   "pending": 12
   },
   {
    "period": "Grand total",
    "net": "-1.03u",
    "settled": 71,
-   "pending": 11
+   "pending": 12
   }
  ],
  "days": [
   {
-   "banner": "Monday, Nov 02   |   Day: 2-1 (15 pending)   |   Tony played: 1-0   |   Net +0.00u (8 pending)   |   Running -1.03u",
+   "banner": "Monday, Nov 02   |   Day: 2-1 (16 pending)   |   Tony played: 1-0   |   Net +0.00u (9 pending)   |   Running -1.03u",
    "label": "Monday, Nov 02",
    "tickets": [
     {
@@ -513,11 +513,28 @@
        "text": "Colston Loveland anytime TD"
       }
      ]
+    },
+    {
+     "date": "2026-11-02",
+     "sport": "NFL",
+     "game": "CHI@SEA MNF 6:15 PM AZ",
+     "pick": "D'Andre Swift anytime TD straight (1u as placed; price -105 as quoted, unconfirmed, no slip yet; win pays +0.95u)",
+     "book": "FanDuel (as quoted, unconfirmed)",
+     "odds": "-105",
+     "implied": "",
+     "est": "",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": "",
+     "title": "D'Andre Swift anytime TD straight (1u as placed; price -105 as quoted, unconfirmed, no slip yet; win pays +0.95u)",
+     "legs": []
     }
    ],
-   "day": "2-1 (15 pending)",
+   "day": "2-1 (16 pending)",
    "tony_played": "1-0",
-   "net": "+0.00u (8 pending)",
+   "net": "+0.00u (9 pending)",
    "running": "-1.03u",
    "date": "2026-11-02"
   },
@@ -10445,7 +10462,7 @@
    ],
    "units": {
     "net": "-15.35u",
-    "pending": "9 pending"
+    "pending": "10 pending"
    }
   },
   {
@@ -10498,17 +10515,17 @@
   }
  ],
  "legend": "Green = win, Red = loss, Yellow = push, Gray = pending. Newest day first.",
- "ticket_count": 478,
- "version": "50e3151460",
+ "ticket_count": 479,
+ "version": "2ad7dd0d5c",
  "archive_sports": {},
- "live_ticket_count": 478,
+ "live_ticket_count": 479,
  "totals": {
   "grand": [
    -1.03,
    202,
    254,
-   18,
-   478
+   19,
+   479
   ],
   "m2026-10": [
    14.32,
@@ -10521,8 +10538,8 @@
    -15.35,
    19,
    35,
-   16,
-   70
+   17,
+   71
   ],
   "sLadder": [
    11.51,
@@ -10564,7 +10581,7 @@
    32,
    54,
    0,
-   92
+   93
   ],
   "sNHL": [
    -0.81,
@@ -10591,8 +10608,8 @@
    -1.03,
    202,
    254,
-   18,
-   478
+   19,
+   479
   ]
  },
  "prune_cutoff": "2026-09-02",
