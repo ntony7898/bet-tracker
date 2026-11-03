@@ -14,13 +14,13 @@
  "records": [
   [
    "All picks",
-   "204-258",
+   "205-258",
    "34-57",
    "40-43",
    "11-10",
    "6-14",
    "54-73",
-   "59-61"
+   "60-61"
   ],
   [
    "Favorites",
@@ -34,21 +34,21 @@
   ],
   [
    "Tony played",
-   "61-104",
+   "62-104",
    "9-33",
    "9-13",
    "0-0",
    "4-11",
    "6-22",
-   "33-25"
+   "34-25"
   ]
  ],
  "units": [
   {
    "period": "November 2026",
-   "net": "-15.20u",
-   "settled": 35,
-   "pending": 4
+   "net": "-14.09u",
+   "settled": 36,
+   "pending": 3
   },
   {
    "period": "October 2026",
@@ -58,20 +58,20 @@
   },
   {
    "period": "Year 2026",
-   "net": "-0.88u",
-   "settled": 78,
-   "pending": 6
+   "net": "+0.23u",
+   "settled": 79,
+   "pending": 5
   },
   {
    "period": "Grand total",
-   "net": "-0.88u",
-   "settled": 78,
-   "pending": 6
+   "net": "+0.23u",
+   "settled": 79,
+   "pending": 5
   }
  ],
  "days": [
   {
-   "banner": "Monday, Nov 02   |   Day: 4-5 (11 pending)   |   Tony played: 3-4   |   Net +0.15u (3 pending)   |   Running -0.88u",
+   "banner": "Monday, Nov 02   |   Day: 5-5 (10 pending)   |   Tony played: 4-4   |   Net +1.26u (2 pending)   |   Running +0.23u",
    "label": "Monday, Nov 02",
    "tickets": [
     {
@@ -312,28 +312,28 @@
      "date": "2026-11-02",
      "sport": "Multi",
      "game": "BOS@HOU / MIA@LAL / PHX@GS",
-     "pick": "NBA 3-leg parlay (1u as placed; FD +111 as quoted, not confirmed from slip; win pays +1.11u):\n⏳ Alperen Sengun 7+ reb (BOS@HOU 6:30 PM AZ)\n⏳ Bam Adebayo 7+ reb (MIA@LAL 8:00 PM AZ)\n⏳ Devin Booker 4+ ast (PHX@GS 8:00 PM AZ)",
+     "pick": "NBA 3-leg parlay (1u as placed; FD +111 as quoted, not confirmed from slip; win pays +1.11u):\n✅ Alperen Sengun 7+ reb (BOS@HOU 6:30 PM AZ)\n✅ Bam Adebayo 7+ reb (MIA@LAL 8:00 PM AZ)\n✅ Devin Booker 4+ ast (PHX@GS 8:00 PM AZ)",
      "book": "FanDuel (Tony placed)",
      "odds": "+111",
      "implied": "47.4%",
      "est": "",
-     "result": "",
+     "result": "W",
      "favorite": "N",
      "tony_played": "Y",
      "Stake (u)": 1,
-     "Profit (u)": "",
+     "Profit (u)": 1.11,
      "title": "NBA 3-leg parlay (1u as placed; FD +111 as quoted, not confirmed from slip; win pays +1.11u):",
      "legs": [
       {
-       "mark": "pending",
+       "mark": "hit",
        "text": "Alperen Sengun 7+ reb (BOS@HOU 6:30 PM AZ)"
       },
       {
-       "mark": "pending",
+       "mark": "hit",
        "text": "Bam Adebayo 7+ reb (MIA@LAL 8:00 PM AZ)"
       },
       {
-       "mark": "pending",
+       "mark": "hit",
        "text": "Devin Booker 4+ ast (PHX@GS 8:00 PM AZ)"
       }
      ]
@@ -549,10 +549,10 @@
      "legs": []
     }
    ],
-   "day": "4-5 (11 pending)",
-   "tony_played": "3-4",
-   "net": "+0.15u (3 pending)",
-   "running": "-0.88u",
+   "day": "5-5 (10 pending)",
+   "tony_played": "4-4",
+   "net": "+1.26u (2 pending)",
+   "running": "+0.23u",
    "date": "2026-11-02"
   },
   {
@@ -10448,13 +10448,13 @@
    "rows": [
     [
      "All picks",
-     "21-39",
+     "22-39",
      "9-28",
      "4-3",
      "0-0",
      "0-0",
      "4-4",
-     "4-4"
+     "5-4"
     ],
     [
      "Favorites",
@@ -10468,18 +10468,18 @@
     ],
     [
      "Tony played",
-     "11-30",
+     "12-30",
      "7-24",
      "1-2",
      "0-0",
      "0-0",
      "1-1",
-     "2-3"
+     "3-3"
     ]
    ],
    "units": {
-    "net": "-15.20u",
-    "pending": "4 pending"
+    "net": "-14.09u",
+    "pending": "3 pending"
    }
   },
   {
@@ -10533,15 +10533,15 @@
  ],
  "legend": "Green = win, Red = loss, Yellow = push, Gray = pending. Newest day first.",
  "ticket_count": 480,
- "version": "4104db8c1b",
+ "version": "8ef53de59f",
  "archive_sports": {},
  "live_ticket_count": 480,
  "totals": {
   "grand": [
-   -0.88,
-   204,
+   0.23,
+   205,
    258,
-   14,
+   13,
    480
   ],
   "m2026-10": [
@@ -10552,10 +10552,10 @@
    408
   ],
   "m2026-11": [
-   -15.2,
-   21,
+   -14.09,
+   22,
    39,
-   12,
+   11,
    72
   ],
   "sLadder": [
@@ -10573,8 +10573,8 @@
    22
   ],
   "sMulti": [
-   0.0,
-   0,
+   1.11,
+   1,
    0,
    0,
    2
@@ -10622,10 +10622,10 @@
    2
   ],
   "y2026": [
-   -0.88,
-   204,
+   0.23,
+   205,
    258,
-   14,
+   13,
    480
   ]
  },
@@ -10652,9 +10652,9 @@
      "Soccer": 0.5,
      "NCAAF": 0,
      "MLB": 0,
-     "Multi": 0.11
+     "Multi": 1.22
     },
-    "total": -15.2
+    "total": -14.09
    },
    {
     "period": "October 2026",
@@ -10680,9 +10680,9 @@
      "Soccer": 12.39,
      "NCAAF": -4.75,
      "MLB": 0,
-     "Multi": 11.51
+     "Multi": 12.62
     },
-    "total": -0.88
+    "total": 0.23
    }
   ]
  }
