@@ -14,13 +14,13 @@
  "records": [
   [
    "All picks",
-   "205-258",
+   "205-259",
    "34-57",
    "40-43",
    "11-10",
    "6-14",
    "54-73",
-   "60-61"
+   "60-62"
   ],
   [
    "Favorites",
@@ -34,21 +34,21 @@
   ],
   [
    "Tony played",
-   "62-104",
+   "62-105",
    "9-33",
    "9-13",
    "0-0",
    "4-11",
    "6-22",
-   "34-25"
+   "34-26"
   ]
  ],
  "units": [
   {
    "period": "November 2026",
-   "net": "-14.09u",
-   "settled": 36,
-   "pending": 3
+   "net": "-14.84u",
+   "settled": 37,
+   "pending": 2
   },
   {
    "period": "October 2026",
@@ -58,20 +58,20 @@
   },
   {
    "period": "Year 2026",
-   "net": "+0.23u",
-   "settled": 79,
-   "pending": 5
+   "net": "-0.52u",
+   "settled": 80,
+   "pending": 4
   },
   {
    "period": "Grand total",
-   "net": "+0.23u",
-   "settled": 79,
-   "pending": 5
+   "net": "-0.52u",
+   "settled": 80,
+   "pending": 4
   }
  ],
  "days": [
   {
-   "banner": "Monday, Nov 02   |   Day: 5-5 (10 pending)   |   Tony played: 4-4   |   Net +1.26u (2 pending)   |   Running +0.23u",
+   "banner": "Monday, Nov 02   |   Day: 5-6 (9 pending)   |   Tony played: 4-5   |   Net +0.51u (1 pending)   |   Running -0.52u",
    "label": "Monday, Nov 02",
    "tickets": [
     {
@@ -342,44 +342,44 @@
      "date": "2026-11-02",
      "sport": "Multi",
      "game": "NBA 6-leg (CLE/PHI/ORL/BOS@HOU/PHX@GS and others)",
-     "pick": "NBA 6-leg prop parlay (0.75u as placed; slip price +827; win pays +6.20u):\n⏳ Jarrett Allen 7+ reb -270 (alt\n⏳ 5:10 PM AZ)\n⏳ Diabate 8+ reb -260\n⏳ VJ Edgecombe 6+ reb -192\n⏳ Queen 5+ reb -340\n⏳ Jayson Tatum 6+ ast -192\n⏳ Draymond Green 6+ ast -158 (8:10 PM AZ)",
+     "pick": "NBA 6-leg prop parlay (0.75u as placed; slip price +827; win pays +6.20u):\n❌ Jarrett Allen 7+ reb -270 (alt\n- 5:10 PM AZ)\n✅ Diabate 8+ reb -260\n❌ VJ Edgecombe 6+ reb -192\n✅ Queen 5+ reb -340\n✅ Jayson Tatum 6+ ast -192\n❌ Draymond Green 6+ ast -158 (8:10 PM AZ)",
      "book": "FanDuel (book not named on slip; Tony placed)",
      "odds": "+827",
      "implied": "10.8%",
      "est": "",
-     "result": "",
+     "result": "L",
      "favorite": "N",
      "tony_played": "Y",
      "Stake (u)": 0.75,
-     "Profit (u)": "",
+     "Profit (u)": -0.75,
      "title": "NBA 6-leg prop parlay (0.75u as placed; slip price +827; win pays +6.20u):",
      "legs": [
       {
-       "mark": "pending",
+       "mark": "miss",
        "text": "Jarrett Allen 7+ reb -270 (alt"
       },
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "5:10 PM AZ)"
       },
       {
-       "mark": "pending",
+       "mark": "hit",
        "text": "Diabate 8+ reb -260"
       },
       {
-       "mark": "pending",
+       "mark": "miss",
        "text": "VJ Edgecombe 6+ reb -192"
       },
       {
-       "mark": "pending",
+       "mark": "hit",
        "text": "Queen 5+ reb -340"
       },
       {
-       "mark": "pending",
+       "mark": "hit",
        "text": "Jayson Tatum 6+ ast -192"
       },
       {
-       "mark": "pending",
+       "mark": "miss",
        "text": "Draymond Green 6+ ast -158 (8:10 PM AZ)"
       }
      ]
@@ -549,10 +549,10 @@
      "legs": []
     }
    ],
-   "day": "5-5 (10 pending)",
-   "tony_played": "4-4",
-   "net": "+1.26u (2 pending)",
-   "running": "+0.23u",
+   "day": "5-6 (9 pending)",
+   "tony_played": "4-5",
+   "net": "+0.51u (1 pending)",
+   "running": "-0.52u",
    "date": "2026-11-02"
   },
   {
@@ -10448,13 +10448,13 @@
    "rows": [
     [
      "All picks",
-     "22-39",
+     "22-40",
      "9-28",
      "4-3",
      "0-0",
      "0-0",
      "4-4",
-     "5-4"
+     "5-5"
     ],
     [
      "Favorites",
@@ -10468,18 +10468,18 @@
     ],
     [
      "Tony played",
-     "12-30",
+     "12-31",
      "7-24",
      "1-2",
      "0-0",
      "0-0",
      "1-1",
-     "3-3"
+     "3-4"
     ]
    ],
    "units": {
-    "net": "-14.09u",
-    "pending": "3 pending"
+    "net": "-14.84u",
+    "pending": "2 pending"
    }
   },
   {
@@ -10533,15 +10533,15 @@
  ],
  "legend": "Green = win, Red = loss, Yellow = push, Gray = pending. Newest day first.",
  "ticket_count": 480,
- "version": "8ef53de59f",
+ "version": "f144f0288e",
  "archive_sports": {},
  "live_ticket_count": 480,
  "totals": {
   "grand": [
-   0.23,
+   -0.52,
    205,
-   258,
-   13,
+   259,
+   12,
    480
   ],
   "m2026-10": [
@@ -10552,10 +10552,10 @@
    408
   ],
   "m2026-11": [
-   -14.09,
+   -14.84,
    22,
-   39,
-   11,
+   40,
+   10,
    72
   ],
   "sLadder": [
@@ -10573,9 +10573,9 @@
    22
   ],
   "sMulti": [
-   1.11,
+   0.36,
    1,
-   0,
+   1,
    0,
    2
   ],
@@ -10622,10 +10622,10 @@
    2
   ],
   "y2026": [
-   0.23,
+   -0.52,
    205,
-   258,
-   13,
+   259,
+   12,
    480
   ]
  },
@@ -10652,9 +10652,9 @@
      "Soccer": 0.5,
      "NCAAF": 0,
      "MLB": 0,
-     "Multi": 1.22
+     "Multi": 0.47
     },
-    "total": -14.09
+    "total": -14.84
    },
    {
     "period": "October 2026",
@@ -10680,9 +10680,9 @@
      "Soccer": 12.39,
      "NCAAF": -4.75,
      "MLB": 0,
-     "Multi": 12.62
+     "Multi": 11.87
     },
-    "total": 0.23
+    "total": -0.52
    }
   ]
  }
