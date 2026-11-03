@@ -14,9 +14,9 @@
  "records": [
   [
    "All picks",
-   "202-254",
+   "202-255",
    "32-54",
-   "40-42",
+   "40-43",
    "11-10",
    "6-14",
    "54-73",
@@ -24,9 +24,9 @@
   ],
   [
    "Favorites",
-   "25-18",
+   "25-19",
    "2-4",
-   "5-3",
+   "5-4",
    "0-0",
    "1-2",
    "9-3",
@@ -34,9 +34,9 @@
   ],
   [
    "Tony played",
-   "59-100",
+   "59-101",
    "7-30",
-   "9-12",
+   "9-13",
    "0-0",
    "4-11",
    "6-22",
@@ -46,9 +46,9 @@
  "units": [
   {
    "period": "November 2026",
-   "net": "-13.85u",
-   "settled": 29,
-   "pending": 10
+   "net": "-14.85u",
+   "settled": 30,
+   "pending": 9
   },
   {
    "period": "October 2026",
@@ -58,20 +58,20 @@
   },
   {
    "period": "Year 2026",
-   "net": "+0.47u",
-   "settled": 72,
-   "pending": 12
+   "net": "-0.53u",
+   "settled": 73,
+   "pending": 11
   },
   {
    "period": "Grand total",
-   "net": "+0.47u",
-   "settled": 72,
-   "pending": 12
+   "net": "-0.53u",
+   "settled": 73,
+   "pending": 11
   }
  ],
  "days": [
   {
-   "banner": "Monday, Nov 02   |   Day: 2-1 (17 pending)   |   Tony played: 1-0   |   Net +1.50u (9 pending)   |   Running +0.47u",
+   "banner": "Monday, Nov 02   |   Day: 2-2 (16 pending)   |   Tony played: 1-1   |   Net +0.50u (8 pending)   |   Running -0.53u",
    "label": "Monday, Nov 02",
    "tickets": [
     {
@@ -300,11 +300,11 @@
      "odds": "-125",
      "implied": "55.6%",
      "est": "",
-     "result": "",
+     "result": "L",
      "favorite": "Y",
      "tony_played": "Y",
      "Stake (u)": 1,
-     "Profit (u)": "",
+     "Profit (u)": -1,
      "title": "San Jose ML (1u as placed; price -125 as quoted, not confirmed from slip)",
      "legs": []
     },
@@ -549,10 +549,10 @@
      "legs": []
     }
    ],
-   "day": "2-1 (17 pending)",
-   "tony_played": "1-0",
-   "net": "+1.50u (9 pending)",
-   "running": "+0.47u",
+   "day": "2-2 (16 pending)",
+   "tony_played": "1-1",
+   "net": "+0.50u (8 pending)",
+   "running": "-0.53u",
    "date": "2026-11-02"
   },
   {
@@ -10448,9 +10448,9 @@
    "rows": [
     [
      "All picks",
-     "19-35",
+     "19-36",
      "7-25",
-     "4-2",
+     "4-3",
      "0-0",
      "0-0",
      "4-4",
@@ -10458,9 +10458,9 @@
     ],
     [
      "Favorites",
-     "3-2",
+     "3-3",
      "0-1",
-     "1-0",
+     "1-1",
      "0-0",
      "0-0",
      "1-0",
@@ -10468,9 +10468,9 @@
     ],
     [
      "Tony played",
-     "9-26",
+     "9-27",
      "5-21",
-     "1-1",
+     "1-2",
      "0-0",
      "0-0",
      "1-1",
@@ -10478,8 +10478,8 @@
     ]
    ],
    "units": {
-    "net": "-13.85u",
-    "pending": "10 pending"
+    "net": "-14.85u",
+    "pending": "9 pending"
    }
   },
   {
@@ -10533,15 +10533,15 @@
  ],
  "legend": "Green = win, Red = loss, Yellow = push, Gray = pending. Newest day first.",
  "ticket_count": 480,
- "version": "d4d58abda9",
+ "version": "c48aa9c441",
  "archive_sports": {},
  "live_ticket_count": 480,
  "totals": {
   "grand": [
-   0.47,
+   -0.53,
    202,
-   254,
-   20,
+   255,
+   19,
    480
   ],
   "m2026-10": [
@@ -10552,10 +10552,10 @@
    408
   ],
   "m2026-11": [
-   -13.85,
+   -14.85,
    19,
-   35,
-   18,
+   36,
+   17,
    72
   ],
   "sLadder": [
@@ -10601,9 +10601,9 @@
    94
   ],
   "sNHL": [
-   -0.81,
+   -1.81,
    40,
-   42,
+   43,
    0,
    87
   ],
@@ -10622,10 +10622,10 @@
    2
   ],
   "y2026": [
-   0.47,
+   -0.53,
    202,
-   254,
-   20,
+   255,
+   19,
    480
   ]
  },
@@ -10646,7 +10646,7 @@
     "period": "November 2026",
     "units": {
      "NFL": -12.46,
-     "NHL": -1.0,
+     "NHL": -2.0,
      "NBA": -1.0,
      "WNBA": 0,
      "Soccer": 0.5,
@@ -10654,7 +10654,7 @@
      "MLB": 0,
      "Multi": 0.11
     },
-    "total": -13.85
+    "total": -14.85
    },
    {
     "period": "October 2026",
@@ -10674,7 +10674,7 @@
     "period": "Grand total",
     "units": {
      "NFL": -14.89,
-     "NHL": -0.81,
+     "NHL": -1.81,
      "NBA": -1.98,
      "WNBA": -1.0,
      "Soccer": 12.39,
@@ -10682,7 +10682,7 @@
      "MLB": 0,
      "Multi": 11.51
     },
-    "total": 0.47
+    "total": -0.53
    }
   ]
  }
