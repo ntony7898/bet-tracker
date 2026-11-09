@@ -14,11 +14,11 @@
  "records": [
   [
    "All picks",
-   "211-262",
+   "212-262",
    "36-57",
    "41-44",
    "11-10",
-   "6-14",
+   "7-14",
    "56-75",
    "61-62"
   ],
@@ -34,11 +34,11 @@
   ],
   [
    "Tony played",
-   "63-105",
+   "64-105",
    "9-33",
    "9-13",
    "0-0",
-   "4-11",
+   "5-11",
    "6-22",
    "35-26"
   ]
@@ -46,9 +46,9 @@
  "units": [
   {
    "period": "November 2026",
-   "net": "-13.75u",
-   "settled": 38,
-   "pending": 1
+   "net": "-13.11u",
+   "settled": 39,
+   "pending": 5
   },
   {
    "period": "October 2026",
@@ -58,18 +58,323 @@
   },
   {
    "period": "Year 2026",
-   "net": "+0.57u",
-   "settled": 81,
-   "pending": 3
+   "net": "+1.21u",
+   "settled": 82,
+   "pending": 7
   },
   {
    "period": "Grand total",
-   "net": "+0.57u",
-   "settled": 81,
-   "pending": 3
+   "net": "+1.21u",
+   "settled": 82,
+   "pending": 7
   }
  ],
  "days": [
+  {
+   "banner": "Sunday, Nov 08   |   Day: 0-0 (1 pending)   |   Tony played: 0-0   |   Net +0.00u   |   Running +1.21u",
+   "label": "Sunday, Nov 08",
+   "tickets": [
+    {
+     "date": "2026-11-08",
+     "sport": "Multi",
+     "game": "NYJ@KC 11:01 AM AZ / LAR@WAS 11:01 AM AZ / PHI@CHI 1:40 PM AZ",
+     "pick": "LADDER (3-leg, Day 1 restart after Nov 7 Jokic 8 ast HIT / Avdija 20+ MISS with 15 pts per ESPN box; proposed, stake unset, not yet confirmed placed):\n⏳ Patrick Mahomes 200+ pass yds -360 (NYJ@KC 11:01 AM AZ)\n⏳ Puka Nacua 70+ rec yds -300 (LAR@WAS 11:01 AM AZ)\n⏳ Tyrese Maxey 20+ pts -400 (PHI@CHI 1:40 PM AZ)",
+     "book": "FanDuel",
+     "odds": "+113",
+     "implied": "46.9%",
+     "est": "61%",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "LADDER (3-leg, Day 1 restart after Nov 7 Jokic 8 ast HIT / Avdija 20+ MISS with 15 pts per ESPN box; proposed, stake unset, not yet confirmed placed):",
+     "legs": [
+      {
+       "mark": "pending",
+       "text": "Patrick Mahomes 200+ pass yds -360 (NYJ@KC 11:01 AM AZ)"
+      },
+      {
+       "mark": "pending",
+       "text": "Puka Nacua 70+ rec yds -300 (LAR@WAS 11:01 AM AZ)"
+      },
+      {
+       "mark": "pending",
+       "text": "Tyrese Maxey 20+ pts -400 (PHI@CHI 1:40 PM AZ)"
+      }
+     ]
+    }
+   ],
+   "day": "0-0 (1 pending)",
+   "tony_played": "0-0",
+   "net": "+0.00u",
+   "running": "+1.21u",
+   "date": "2026-11-08"
+  },
+  {
+   "banner": "Saturday, Nov 07   |   Day: 1-0 (6 pending)   |   Tony played: 1-0   |   Net +0.64u (4 pending)   |   Running +1.21u",
+   "label": "Saturday, Nov 07",
+   "tickets": [
+    {
+     "date": "2026-11-07",
+     "sport": "NBA",
+     "game": "DEN@IND (Mexico City) 3 PM AZ / SA@POR 8 PM AZ (game times per Sal's report)",
+     "pick": "Day 1 fresh restart 2-leg:\n⏳ Nikola Jokic 8+ assists\n⏳ Deni Avdija 20+ points (stake unknown\n⏳ book and final slip odds pending\n⏳ Day 1 fresh restart)",
+     "book": "",
+     "odds": "",
+     "implied": "",
+     "est": "",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": "stake?",
+     "Profit (u)": "",
+     "title": "Day 1 fresh restart 2-leg:",
+     "legs": [
+      {
+       "mark": "pending",
+       "text": "Nikola Jokic 8+ assists"
+      },
+      {
+       "mark": "pending",
+       "text": "Deni Avdija 20+ points (stake unknown"
+      },
+      {
+       "mark": "pending",
+       "text": "book and final slip odds pending"
+      },
+      {
+       "mark": "pending",
+       "text": "Day 1 fresh restart)"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-07",
+     "sport": "Soccer",
+     "game": "NFO v MCI 10:30 AM AZ",
+     "pick": "Same Game Parlay 2-leg (1u as placed; slip +111; win pays +1.11u, total return 2.11u; book unconfirmed):\n⏳ Erling Haaland anytime goalscorer\n⏳ Man City moneyline (3-way)",
+     "book": "",
+     "odds": "+111",
+     "implied": "47.4%",
+     "est": "",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": "",
+     "title": "Same Game Parlay 2-leg (1u as placed; slip +111; win pays +1.11u, total return 2.11u; book unconfirmed):",
+     "legs": [
+      {
+       "mark": "pending",
+       "text": "Erling Haaland anytime goalscorer"
+      },
+      {
+       "mark": "pending",
+       "text": "Man City moneyline (3-way)"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-07",
+     "sport": "CFB",
+     "game": "TEX@MIZ 10 AM AZ / BYU@UTAH 10 AM AZ (legs per Sal's report)",
+     "pick": "CASHOUT PENDING 2-leg parlay:\n⏳ Texas +7.5 at Missouri\n⏳ Utah moneyline vs BYU (Cashout reported by Tony 1:30 PM AZ\n⏳ actual stake\n⏳ accepted odds\n⏳ book\n⏳ cashout return and net unconfirmed\n⏳ financial reconciliation pending\n⏳ do not auto-grade)",
+     "book": "",
+     "odds": "",
+     "implied": "",
+     "est": "",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": "stake?",
+     "Profit (u)": "",
+     "title": "CASHOUT PENDING 2-leg parlay:",
+     "legs": [
+      {
+       "mark": "pending",
+       "text": "Texas +7.5 at Missouri"
+      },
+      {
+       "mark": "pending",
+       "text": "Utah moneyline vs BYU (Cashout reported by Tony 1:30 PM AZ"
+      },
+      {
+       "mark": "pending",
+       "text": "actual stake"
+      },
+      {
+       "mark": "pending",
+       "text": "accepted odds"
+      },
+      {
+       "mark": "pending",
+       "text": "book"
+      },
+      {
+       "mark": "pending",
+       "text": "cashout return and net unconfirmed"
+      },
+      {
+       "mark": "pending",
+       "text": "financial reconciliation pending"
+      },
+      {
+       "mark": "pending",
+       "text": "do not auto-grade)"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-07",
+     "sport": "CFB",
+     "game": "BYU@UTAH 10 AM AZ",
+     "pick": "Utah ML single (0.75u as placed; 50% profit boost, original -176, displayed boosted -117; settled per slip: actual stake 0.75u, actual profit +0.645u, actual total return 1.395u; final Utah 28 BYU 20; actual slip settlement authoritative, odds column is displayed price only)",
+     "book": "FanDuel",
+     "odds": "-117",
+     "implied": "53.9%",
+     "est": "",
+     "result": "W",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 0.75,
+     "Profit (u)": 0.64,
+     "title": "Utah ML single (0.75u as placed; 50% profit boost, original -176, displayed boosted -117; settled per slip: actual stake 0.75u, actual profit +0.645u, actual total return 1.395u; final Utah 28 BYU 20; actual slip settlement authoritative, odds column is displayed price only)",
+     "legs": []
+    },
+    {
+     "date": "2026-11-07",
+     "sport": "CFB",
+     "game": "RICE@UNT / LT@TROY 2 PM AZ / NIU@SJSU (slip shows DEC 2 2:03 PM MST)",
+     "pick": "3-leg parlay (1.033u as placed; slip -108; displayed potential winnings +0.961u, potential payout 1.994u, not settled; placed 1:\n⏳ 59 PM AZ): North Texas ML -780 vs Rice\n⏳ Louisiana Tech ML -250 at Troy\n⏳ San Jose State ML -450 vs Northern Illinois (SJSU leg date shown on slip as DEC 2 2:03 PM MST\n⏳ event-date verification pending)",
+     "book": "FanDuel",
+     "odds": "-108",
+     "implied": "51.9%",
+     "est": "",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 1.033,
+     "Profit (u)": "",
+     "title": "3-leg parlay (1.033u as placed; slip -108; displayed potential winnings +0.961u, potential payout 1.994u, not settled; placed 1:",
+     "legs": [
+      {
+       "mark": "pending",
+       "text": "59 PM AZ): North Texas ML -780 vs Rice"
+      },
+      {
+       "mark": "pending",
+       "text": "Louisiana Tech ML -250 at Troy"
+      },
+      {
+       "mark": "pending",
+       "text": "San Jose State ML -450 vs Northern Illinois (SJSU leg date shown on slip as DEC 2 2:03 PM MST"
+      },
+      {
+       "mark": "pending",
+       "text": "event-date verification pending)"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-07",
+     "sport": "MLS",
+     "game": "CLT@MIA / NSH@CIN 2 PM AZ / SKC@SD 5 PM AZ / SJ@MIN 5 PM AZ",
+     "pick": "4-leg score-or-assist parlay (0.50u as placed; displayed +250; displayed potential total return 1.754u, potential net +1.254u if won, not settled; ref EL5995519891W; book not identified; confirmed by Tony 2:\n⏳ 17 PM AZ\n⏳ exact placement time unknown\n⏳ SUB ON PLAY ON banner reported\n⏳ terms unverified\n⏳ slip values per Sal's read): Messi -1200\n⏳ Surridge -138\n⏳ Dreyer -400\n⏳ Yeboah -200",
+     "book": "",
+     "odds": "+250",
+     "implied": "28.6%",
+     "est": "",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 0.5,
+     "Profit (u)": "",
+     "title": "4-leg score-or-assist parlay (0.50u as placed; displayed +250; displayed potential total return 1.754u, potential net +1.254u if won, not settled; ref EL5995519891W; book not identified; confirmed by Tony 2:",
+     "legs": [
+      {
+       "mark": "pending",
+       "text": "17 PM AZ"
+      },
+      {
+       "mark": "pending",
+       "text": "exact placement time unknown"
+      },
+      {
+       "mark": "pending",
+       "text": "SUB ON PLAY ON banner reported"
+      },
+      {
+       "mark": "pending",
+       "text": "terms unverified"
+      },
+      {
+       "mark": "pending",
+       "text": "slip values per Sal's read): Messi -1200"
+      },
+      {
+       "mark": "pending",
+       "text": "Surridge -138"
+      },
+      {
+       "mark": "pending",
+       "text": "Dreyer -400"
+      },
+      {
+       "mark": "pending",
+       "text": "Yeboah -200"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-07",
+     "sport": "CFB",
+     "game": "IOWA@NW 5:30 PM AZ / MSU@MICH 5:30 PM AZ",
+     "pick": "2-leg parlay (1.00u as placed; accepted combined odds -109 confirmed by Tony 7:\n⏳ 24 PM AZ\n⏳ book\n⏳ ref and placement time unknown\n⏳ play confirmed by Tony 5:19 PM AZ\n⏳ not placement time): Iowa Hawkeyes ML at Northwestern\n⏳ Michigan Wolverines ML vs Michigan State",
+     "book": "",
+     "odds": "-109",
+     "implied": "52.2%",
+     "est": "",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": "",
+     "title": "2-leg parlay (1.00u as placed; accepted combined odds -109 confirmed by Tony 7:",
+     "legs": [
+      {
+       "mark": "pending",
+       "text": "24 PM AZ"
+      },
+      {
+       "mark": "pending",
+       "text": "book"
+      },
+      {
+       "mark": "pending",
+       "text": "ref and placement time unknown"
+      },
+      {
+       "mark": "pending",
+       "text": "play confirmed by Tony 5:19 PM AZ"
+      },
+      {
+       "mark": "pending",
+       "text": "not placement time): Iowa Hawkeyes ML at Northwestern"
+      },
+      {
+       "mark": "pending",
+       "text": "Michigan Wolverines ML vs Michigan State"
+      }
+     ]
+    }
+   ],
+   "day": "1-0 (6 pending)",
+   "tony_played": "1-0",
+   "net": "+0.64u (4 pending)",
+   "running": "+1.21u",
+   "date": "2026-11-07"
+  },
   {
    "banner": "Monday, Nov 02   |   Day: 11-9   |   Tony played: 5-5   |   Net +1.60u   |   Running +0.57u",
    "label": "Monday, Nov 02",
@@ -10448,11 +10753,11 @@
    "rows": [
     [
      "All picks",
-     "28-43",
+     "29-43",
      "11-28",
      "5-4",
      "0-0",
-     "0-0",
+     "1-0",
      "6-6",
      "6-5"
     ],
@@ -10468,18 +10773,18 @@
     ],
     [
      "Tony played",
-     "13-31",
+     "14-31",
      "7-24",
      "1-2",
      "0-0",
-     "0-0",
+     "1-0",
      "1-1",
      "4-4"
     ]
    ],
    "units": {
-    "net": "-13.75u",
-    "pending": "1 pending"
+    "net": "-13.11u",
+    "pending": "5 pending"
    }
   },
   {
@@ -10532,17 +10837,17 @@
   }
  ],
  "legend": "Green = win, Red = loss, Yellow = push, Gray = pending. Newest day first.",
- "ticket_count": 480,
- "version": "5e11e093dd",
+ "ticket_count": 488,
+ "version": "00a6a37d99",
  "archive_sports": {},
- "live_ticket_count": 480,
+ "live_ticket_count": 488,
  "totals": {
   "grand": [
-   0.57,
-   211,
+   1.21,
+   212,
    262,
-   3,
-   480
+   10,
+   488
   ],
   "m2026-10": [
    14.32,
@@ -10552,18 +10857,18 @@
    408
   ],
   "m2026-11": [
-   -13.75,
-   28,
+   -13.11,
+   29,
    43,
-   1,
-   72
+   8,
+   80
   ],
   "sLadder": [
    12.6,
    7,
    6,
    0,
-   13
+   14
   ],
   "sMLB": [
    0.0,
@@ -10584,14 +10889,14 @@
    56,
    74,
    0,
-   130
+   131
   ],
   "sNCAAF": [
-   -4.75,
-   6,
+   -4.11,
+   7,
    14,
    0,
-   20
+   24
   ],
   "sNFL": [
    -15.24,
@@ -10612,7 +10917,7 @@
    53,
    54,
    0,
-   110
+   112
   ],
   "sWNBA": [
    -1.0,
@@ -10622,14 +10927,14 @@
    2
   ],
   "y2026": [
-   0.57,
-   211,
+   1.21,
+   212,
    262,
-   3,
-   480
+   10,
+   488
   ]
  },
- "prune_cutoff": "2026-09-02",
+ "prune_cutoff": "2026-09-09",
  "units_by_sport": {
   "sports": [
    "NFL",
@@ -10650,11 +10955,11 @@
      "NBA": -1.0,
      "WNBA": 0,
      "Soccer": 0.5,
-     "NCAAF": 0,
+     "NCAAF": 0.64,
      "MLB": 0,
      "Multi": 1.56
     },
-    "total": -13.75
+    "total": -13.11
    },
    {
     "period": "October 2026",
@@ -10678,11 +10983,11 @@
      "NBA": -1.98,
      "WNBA": -1.0,
      "Soccer": 12.39,
-     "NCAAF": -4.75,
+     "NCAAF": -4.11,
      "MLB": 0,
      "Multi": 12.96
     },
-    "total": 0.57
+    "total": 1.21
    }
   ]
  }
