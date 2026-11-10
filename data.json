@@ -14,13 +14,13 @@
  "records": [
   [
    "All picks",
-   "212-262",
-   "36-57",
-   "41-44",
+   "214-265",
+   "37-58",
+   "41-45",
    "11-10",
    "7-14",
-   "56-75",
-   "61-62"
+   "56-76",
+   "62-62"
   ],
   [
    "Favorites",
@@ -34,21 +34,21 @@
   ],
   [
    "Tony played",
-   "64-105",
-   "9-33",
-   "9-13",
+   "66-108",
+   "10-34",
+   "9-14",
    "0-0",
    "5-11",
-   "6-22",
-   "35-26"
+   "6-23",
+   "36-26"
   ]
  ],
  "units": [
   {
    "period": "November 2026",
-   "net": "-13.11u",
-   "settled": 39,
-   "pending": 5
+   "net": "-14.81u",
+   "settled": 43,
+   "pending": 8
   },
   {
    "period": "October 2026",
@@ -58,18 +58,349 @@
   },
   {
    "period": "Year 2026",
-   "net": "+1.21u",
-   "settled": 82,
-   "pending": 7
+   "net": "-0.49u",
+   "settled": 86,
+   "pending": 10
   },
   {
    "period": "Grand total",
-   "net": "+1.21u",
-   "settled": 82,
-   "pending": 7
+   "net": "-0.49u",
+   "settled": 86,
+   "pending": 10
   }
  ],
  "days": [
+  {
+   "banner": "Tuesday, Nov 10   |   Day: 0-0 (2 pending)   |   Tony played: 0-0   |   Net +0.00u (2 pending)   |   Running -0.49u",
+   "label": "Tuesday, Nov 10",
+   "tickets": [
+    {
+     "date": "2026-11-10",
+     "sport": "Ladder",
+     "game": "MIN@MTL 5:00 PM AZ / NJ@WPG 5:00 PM AZ / BOS@PHI 6:00 PM AZ",
+     "pick": "Day 3 LADDER 3-leg parlay (2.00u as placed; stake 2.00u per Tony's Day 3 doubling rule, Day 1 0.5u and Day 2 1u; Tony 8:\n⏳ 35 AM AZ in Sal chat: 'I only took the ladder' and 'New version' = Hughes swap\n⏳ accepted slip odds unconfirmed\n⏳ ~+118 arithmetic only): Kaprizov 1+ pt -390 (Wild at Canadiens 5PM)\n⏳ Jack Hughes 3+ SOG -360 (Devils at Jets 5PM)\n⏳ Maxey 20+ pts -280 (Celtics at 76ers 6PM)",
+     "book": "FanDuel",
+     "odds": "",
+     "implied": "",
+     "est": "",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 2,
+     "Profit (u)": "",
+     "title": "Day 3 LADDER 3-leg parlay (2.00u as placed; stake 2.00u per Tony's Day 3 doubling rule, Day 1 0.5u and Day 2 1u; Tony 8:",
+     "legs": [
+      {
+       "mark": "pending",
+       "text": "35 AM AZ in Sal chat: 'I only took the ladder' and 'New version' = Hughes swap"
+      },
+      {
+       "mark": "pending",
+       "text": "accepted slip odds unconfirmed"
+      },
+      {
+       "mark": "pending",
+       "text": "~+118 arithmetic only): Kaprizov 1+ pt -390 (Wild at Canadiens 5PM)"
+      },
+      {
+       "mark": "pending",
+       "text": "Jack Hughes 3+ SOG -360 (Devils at Jets 5PM)"
+      },
+      {
+       "mark": "pending",
+       "text": "Maxey 20+ pts -280 (Celtics at 76ers 6PM)"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-10",
+     "sport": "NCAAM",
+     "game": "FLA@FSU 4:00 PM AZ / VT vs IOWA 5:00 PM AZ / DUKE vs MSU 5:00 PM AZ / MEM@VAN 5:15 PM AZ / CREI@KSU 7:00 PM AZ",
+     "pick": "NCAAM alt-spread 5-leg parlay (0.25u as placed, accepted slip odds unconfirmed, ~+497 arithmetic only from FanDuel AZ prices pulled 11:\n⏳ 18 AM): Florida -6.5 -188 (at Florida State 4PM)\n⏳ Virginia Tech +7.5 -192 (vs Iowa 5PM)\n⏳ Duke -1.5 -335 (vs Michigan State 5PM)\n⏳ Memphis +20.5 -280 (at Vanderbilt 5:15PM)\n⏳ Creighton +2.5 -220 (at Kansas State 7PM)",
+     "book": "FanDuel",
+     "odds": "",
+     "implied": "",
+     "est": "",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 0.25,
+     "Profit (u)": "",
+     "title": "NCAAM alt-spread 5-leg parlay (0.25u as placed, accepted slip odds unconfirmed, ~+497 arithmetic only from FanDuel AZ prices pulled 11:",
+     "legs": [
+      {
+       "mark": "pending",
+       "text": "18 AM): Florida -6.5 -188 (at Florida State 4PM)"
+      },
+      {
+       "mark": "pending",
+       "text": "Virginia Tech +7.5 -192 (vs Iowa 5PM)"
+      },
+      {
+       "mark": "pending",
+       "text": "Duke -1.5 -335 (vs Michigan State 5PM)"
+      },
+      {
+       "mark": "pending",
+       "text": "Memphis +20.5 -280 (at Vanderbilt 5:15PM)"
+      },
+      {
+       "mark": "pending",
+       "text": "Creighton +2.5 -220 (at Kansas State 7PM)"
+      }
+     ]
+    }
+   ],
+   "day": "0-0 (2 pending)",
+   "tony_played": "0-0",
+   "net": "+0.00u (2 pending)",
+   "running": "-0.49u",
+   "date": "2026-11-10"
+  },
+  {
+   "banner": "Monday, Nov 09   |   Day: 2-3   |   Tony played: 2-3   |   Net -1.70u (1 pending)   |   Running -0.49u",
+   "label": "Monday, Nov 09",
+   "tickets": [
+    {
+     "date": "2026-11-09",
+     "sport": "Ladder",
+     "game": "BUF@MIN 6:15 PM AZ / NYR@EDM 6:00 PM AZ / IND@DAL 6:00 PM AZ",
+     "pick": "Day 2 LADDER 3-leg parlay (1.00u as placed; stake 1.00u whole ticket per Tony 3:\n- 48 PM correction\n- Day 2 of ladder doubling rule\n- accepted slip odds unconfirmed\n- ~+111 arithmetic only): Allen 200+ pass yds (BUF@MIN 6:15PM)\n- Draisaitl 1+ pt (NYR@EDM 6PM)\n- Siakam 15+ pts (IND@DAL 6PM)",
+     "book": "FanDuel",
+     "odds": "",
+     "implied": "",
+     "est": "",
+     "result": "W",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": "",
+     "title": "Day 2 LADDER 3-leg parlay (1.00u as placed; stake 1.00u whole ticket per Tony 3:",
+     "legs": [
+      {
+       "mark": "none",
+       "text": "48 PM correction"
+      },
+      {
+       "mark": "none",
+       "text": "Day 2 of ladder doubling rule"
+      },
+      {
+       "mark": "none",
+       "text": "accepted slip odds unconfirmed"
+      },
+      {
+       "mark": "none",
+       "text": "~+111 arithmetic only): Allen 200+ pass yds (BUF@MIN 6:15PM)"
+      },
+      {
+       "mark": "none",
+       "text": "Draisaitl 1+ pt (NYR@EDM 6PM)"
+      },
+      {
+       "mark": "none",
+       "text": "Siakam 15+ pts (IND@DAL 6PM)"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-09",
+     "sport": "NFL",
+     "game": "BUF@MIN 6:16 PM AZ",
+     "pick": "NFL 6-leg Same Game Parlay (1.00u as placed; accepted slip +450 from Tony FanDuel screenshot 4:\n- 03 PM AZ\n- implied 18.2%\n- stake 1.00u per Tony 'One unit for all 3'\n- ~+429 arithmetic from 3:52 PM FD leg prices): Cook 60+ alt rush yds -360\n- Allen 20+ alt rush yds -310\n- Shakir 25+ alt rec yds -310\n- D.J. Moore 30+ alt rec yds -275\n- Aaron Jones 20+ alt rush yds -310\n- Hockenson 25+ alt rec yds -320",
+     "book": "FanDuel",
+     "odds": "+450",
+     "implied": "18.2%",
+     "est": "",
+     "result": "L",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": -1,
+     "title": "NFL 6-leg Same Game Parlay (1.00u as placed; accepted slip +450 from Tony FanDuel screenshot 4:",
+     "legs": [
+      {
+       "mark": "none",
+       "text": "03 PM AZ"
+      },
+      {
+       "mark": "none",
+       "text": "implied 18.2%"
+      },
+      {
+       "mark": "none",
+       "text": "stake 1.00u per Tony 'One unit for all 3'"
+      },
+      {
+       "mark": "none",
+       "text": "~+429 arithmetic from 3:52 PM FD leg prices): Cook 60+ alt rush yds -360"
+      },
+      {
+       "mark": "none",
+       "text": "Allen 20+ alt rush yds -310"
+      },
+      {
+       "mark": "none",
+       "text": "Shakir 25+ alt rec yds -310"
+      },
+      {
+       "mark": "none",
+       "text": "D.J. Moore 30+ alt rec yds -275"
+      },
+      {
+       "mark": "none",
+       "text": "Aaron Jones 20+ alt rush yds -310"
+      },
+      {
+       "mark": "none",
+       "text": "Hockenson 25+ alt rec yds -320"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-09",
+     "sport": "NBA",
+     "game": "CLE@CHA 5:10 PM AZ / DEN@HOU 6:40 PM AZ / SA@PHX 7:10 PM AZ / NO@GS 8:10 PM AZ",
+     "pick": "NBA 6-leg Same Game Parlay+ (1.00u as placed; accepted slip +403 from Tony FanDuel screenshot 4:\n- 03-4:04 PM AZ\n- implied 19.9%\n- stake 1.00u per Tony 'One unit for all 3'\n- ~+401 arithmetic from 3:52 PM FD leg prices\n- 2 SGPs\n- 2 selections): Mitchell over 27.5 alt PRA -350 (CLE@CHA)\n- Mobley over 21.5 alt P+R -310 (CLE@CHA)\n- Sengun 25+ P+R -330 (DEN@HOU)\n- Durant over 21.5 alt P+R -320 (DEN@HOU)\n- Booker 20+ pts -310 (SA@PHX)\n- Curry over 23.5 alt pts -330 (NO@GS)",
+     "book": "FanDuel",
+     "odds": "+403",
+     "implied": "19.9%",
+     "est": "",
+     "result": "L",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": -1,
+     "title": "NBA 6-leg Same Game Parlay+ (1.00u as placed; accepted slip +403 from Tony FanDuel screenshot 4:",
+     "legs": [
+      {
+       "mark": "none",
+       "text": "03-4:04 PM AZ"
+      },
+      {
+       "mark": "none",
+       "text": "implied 19.9%"
+      },
+      {
+       "mark": "none",
+       "text": "stake 1.00u per Tony 'One unit for all 3'"
+      },
+      {
+       "mark": "none",
+       "text": "~+401 arithmetic from 3:52 PM FD leg prices"
+      },
+      {
+       "mark": "none",
+       "text": "2 SGPs"
+      },
+      {
+       "mark": "none",
+       "text": "2 selections): Mitchell over 27.5 alt PRA -350 (CLE@CHA)"
+      },
+      {
+       "mark": "none",
+       "text": "Mobley over 21.5 alt P+R -310 (CLE@CHA)"
+      },
+      {
+       "mark": "none",
+       "text": "Sengun 25+ P+R -330 (DEN@HOU)"
+      },
+      {
+       "mark": "none",
+       "text": "Durant over 21.5 alt P+R -320 (DEN@HOU)"
+      },
+      {
+       "mark": "none",
+       "text": "Booker 20+ pts -310 (SA@PHX)"
+      },
+      {
+       "mark": "none",
+       "text": "Curry over 23.5 alt pts -330 (NO@GS)"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-09",
+     "sport": "NHL",
+     "game": "NYR@EDM 6:00 PM AZ / NYI@SJ 8:10 PM AZ",
+     "pick": "NHL 6-leg Same Game Parlay+ (1.00u as placed; accepted slip +379 from Tony FanDuel screenshot 4:\n- 04 PM AZ\n- implied 20.9%\n- stake 1.00u per Tony 'One unit for all 3'\n- ~+476 arithmetic from 3:52 PM FD leg prices\n- 2 SGPs): McDavid 1+ pts -720\n- Bouchard 1+ pts -245\n- McDavid 3+ SOG -184\n- Draisaitl 3+ SOG -225 (NYR@EDM)\n- Schaefer 1+ pts -210\n- Celebrini 2+ SOG -1100 (NYI@SJ)",
+     "book": "FanDuel",
+     "odds": "+379",
+     "implied": "20.9%",
+     "est": "",
+     "result": "L",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": -1,
+     "title": "NHL 6-leg Same Game Parlay+ (1.00u as placed; accepted slip +379 from Tony FanDuel screenshot 4:",
+     "legs": [
+      {
+       "mark": "none",
+       "text": "04 PM AZ"
+      },
+      {
+       "mark": "none",
+       "text": "implied 20.9%"
+      },
+      {
+       "mark": "none",
+       "text": "stake 1.00u per Tony 'One unit for all 3'"
+      },
+      {
+       "mark": "none",
+       "text": "~+476 arithmetic from 3:52 PM FD leg prices"
+      },
+      {
+       "mark": "none",
+       "text": "2 SGPs): McDavid 1+ pts -720"
+      },
+      {
+       "mark": "none",
+       "text": "Bouchard 1+ pts -245"
+      },
+      {
+       "mark": "none",
+       "text": "McDavid 3+ SOG -184"
+      },
+      {
+       "mark": "none",
+       "text": "Draisaitl 3+ SOG -225 (NYR@EDM)"
+      },
+      {
+       "mark": "none",
+       "text": "Schaefer 1+ pts -210"
+      },
+      {
+       "mark": "none",
+       "text": "Celebrini 2+ SOG -1100 (NYI@SJ)"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-09",
+     "sport": "NFL",
+     "game": "BUF@MIN 6:15 PM AZ",
+     "pick": "James Cook anytime TD straight (1.5u as placed; stake 1.5u per Tony 9:33 PM AZ 'Log cook td for 1.5 units, WE CASH THAT'; result W per Tony; accepted odds -115 per Tony 10:16 PM AZ, profit +1.30u)",
+     "book": "FanDuel?",
+     "odds": "-115",
+     "implied": "53.5%",
+     "est": "",
+     "result": "W",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 1.5,
+     "Profit (u)": 1.3,
+     "title": "James Cook anytime TD straight (1.5u as placed; stake 1.5u per Tony 9:33 PM AZ 'Log cook td for 1.5 units, WE CASH THAT'; result W per Tony; accepted odds -115 per Tony 10:16 PM AZ, profit +1.30u)",
+     "legs": []
+    }
+   ],
+   "day": "2-3",
+   "tony_played": "2-3",
+   "net": "-1.70u (1 pending)",
+   "running": "-0.49u",
+   "date": "2026-11-09"
+  },
   {
    "banner": "Sunday, Nov 08   |   Day: 0-0 (1 pending)   |   Tony played: 0-0   |   Net +0.00u   |   Running +1.21u",
    "label": "Sunday, Nov 08",
@@ -10753,13 +11084,13 @@
    "rows": [
     [
      "All picks",
-     "29-43",
-     "11-28",
-     "5-4",
+     "31-46",
+     "12-29",
+     "5-5",
      "0-0",
      "1-0",
-     "6-6",
-     "6-5"
+     "6-7",
+     "7-5"
     ],
     [
      "Favorites",
@@ -10773,18 +11104,18 @@
     ],
     [
      "Tony played",
-     "14-31",
-     "7-24",
-     "1-2",
+     "16-34",
+     "8-25",
+     "1-3",
      "0-0",
      "1-0",
-     "1-1",
-     "4-4"
+     "1-2",
+     "5-4"
     ]
    ],
    "units": {
-    "net": "-13.11u",
-    "pending": "5 pending"
+    "net": "-14.81u",
+    "pending": "8 pending"
    }
   },
   {
@@ -10837,17 +11168,17 @@
   }
  ],
  "legend": "Green = win, Red = loss, Yellow = push, Gray = pending. Newest day first.",
- "ticket_count": 488,
- "version": "00a6a37d99",
+ "ticket_count": 495,
+ "version": "32b08c2057",
  "archive_sports": {},
- "live_ticket_count": 488,
+ "live_ticket_count": 495,
  "totals": {
   "grand": [
-   1.21,
-   212,
-   262,
-   10,
-   488
+   -0.49,
+   214,
+   265,
+   12,
+   495
   ],
   "m2026-10": [
    14.32,
@@ -10857,18 +11188,18 @@
    408
   ],
   "m2026-11": [
-   -13.11,
-   29,
-   43,
-   8,
-   80
+   -14.81,
+   31,
+   46,
+   10,
+   87
   ],
   "sLadder": [
    12.6,
-   7,
+   8,
    6,
    0,
-   14
+   16
   ],
   "sMLB": [
    0.0,
@@ -10885,11 +11216,11 @@
    2
   ],
   "sNBA": [
-   -1.98,
+   -2.98,
    56,
-   74,
+   75,
    0,
-   131
+   132
   ],
   "sNCAAF": [
    -4.11,
@@ -10898,19 +11229,26 @@
    0,
    24
   ],
-  "sNFL": [
-   -15.24,
-   36,
-   57,
+  "sNCAAM": [
+   0.0,
    0,
-   94
+   0,
+   0,
+   1
+  ],
+  "sNFL": [
+   -14.94,
+   37,
+   58,
+   0,
+   96
   ],
   "sNHL": [
-   -1.81,
+   -2.81,
    41,
-   44,
+   45,
    0,
-   87
+   88
   ],
   "sSoccer": [
    12.39,
@@ -10927,14 +11265,14 @@
    2
   ],
   "y2026": [
-   1.21,
-   212,
-   262,
-   10,
-   488
+   -0.49,
+   214,
+   265,
+   12,
+   495
   ]
  },
- "prune_cutoff": "2026-09-09",
+ "prune_cutoff": "2026-09-10",
  "units_by_sport": {
   "sports": [
    "NFL",
@@ -10950,16 +11288,16 @@
    {
     "period": "November 2026",
     "units": {
-     "NFL": -12.81,
-     "NHL": -2.0,
-     "NBA": -1.0,
+     "NFL": -12.51,
+     "NHL": -3.0,
+     "NBA": -2.0,
      "WNBA": 0,
      "Soccer": 0.5,
      "NCAAF": 0.64,
      "MLB": 0,
      "Multi": 1.56
     },
-    "total": -13.11
+    "total": -14.81
    },
    {
     "period": "October 2026",
@@ -10978,16 +11316,16 @@
    {
     "period": "Grand total",
     "units": {
-     "NFL": -15.24,
-     "NHL": -1.81,
-     "NBA": -1.98,
+     "NFL": -14.94,
+     "NHL": -2.81,
+     "NBA": -2.98,
      "WNBA": -1.0,
      "Soccer": 12.39,
      "NCAAF": -4.11,
      "MLB": 0,
      "Multi": 12.96
     },
-    "total": 1.21
+    "total": -0.49
    }
   ]
  }
