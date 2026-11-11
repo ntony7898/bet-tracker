@@ -88,23 +88,11 @@
      "tony_played": "Y",
      "Stake (u)": 2,
      "Profit (u)": 2.32,
-     "title": "Day 3 LADDER 3-leg parlay (2.00u as placed; stake 2.00u per Tony's Day 3 doubling rule, Day 1 0.5u and Day 2 1u; Tony 8:",
+     "title": "Day 3 LADDER 3-leg parlay",
      "legs": [
       {
        "mark": "none",
-       "text": "35 AM AZ in Sal chat: 'I only took the ladder' and 'New version' = Hughes swap"
-      },
-      {
-       "mark": "none",
-       "text": "accepted slip odds +116 per Tony's FanDuel screenshot"
-      },
-      {
-       "mark": "none",
-       "text": "bet placed 11/10 8:33 AM"
-      },
-      {
-       "mark": "none",
-       "text": "paid 4.33u total on 2.00u): Kaprizov 1+ pt -390 (Wild at Canadiens 5PM)"
+       "text": "Kaprizov 1+ pt -390 (Wild at Canadiens 5PM)"
       },
       {
        "mark": "none",
@@ -130,11 +118,11 @@
      "tony_played": "Y",
      "Stake (u)": 0.25,
      "Profit (u)": -0.25,
-     "title": "NCAAM alt-spread 5-leg parlay (0.25u as placed, accepted slip odds unconfirmed, ~+497 arithmetic only from FanDuel AZ prices pulled 11:",
+     "title": "NCAAM alt-spread 5-leg parlay",
      "legs": [
       {
        "mark": "none",
-       "text": "18 AM): Florida -6.5 -188 (at Florida State 4PM)"
+       "text": "Florida -6.5 -188 (at Florida State 4PM)"
       },
       {
        "mark": "none",
@@ -168,35 +156,11 @@
      "tony_played": "Y",
      "Stake (u)": 0.75,
      "Profit (u)": "",
-     "title": "NBA Builder SGP+ 7-leg parlay (0.75u as placed; FanDuel bet ID US-AZ:",
+     "title": "NBA Builder SGP+ 7-leg parlay",
      "legs": [
       {
        "mark": "pending",
-       "text": "01M73TGWFXF4T8SJZVX5PGQY4K"
-      },
-      {
-       "mark": "pending",
-       "text": "Tony played it per Sal Nov 10 3:51 PM AZ"
-      },
-      {
-       "mark": "pending",
-       "text": "slip stake and odds as read by Sal from Tony's slip screenshot"
-      },
-      {
-       "mark": "pending",
-       "text": "not independently seen"
-      },
-      {
-       "mark": "pending",
-       "text": "accepted odds +431 with 30% profit boost"
-      },
-      {
-       "mark": "pending",
-       "text": "unboosted +331"
-      },
-      {
-       "mark": "pending",
-       "text": "potential profit 3.24u): Brown o15.5 pts -450"
+       "text": "Brown o15.5 pts -450"
       },
       {
        "mark": "pending",
@@ -318,15 +282,11 @@
      "tony_played": "Y",
      "Stake (u)": 0.25,
      "Profit (u)": 5.96,
-     "title": "Multi 5-leg moneyline parlay (0.25u as placed, slip +2383, all legs won, Tony screenshot 10:",
+     "title": "Multi 5-leg moneyline parlay",
      "legs": [
       {
        "mark": "none",
-       "text": "54 PM AZ"
-      },
-      {
-       "mark": "none",
-       "text": "game times not on slip): Holger Rune ML -164 (vs Bergs)"
+       "text": "Holger Rune ML -164 (vs Bergs)"
       },
       {
        "mark": "none",
@@ -371,23 +331,11 @@
      "tony_played": "Y",
      "Stake (u)": 1,
      "Profit (u)": "",
-     "title": "Day 2 LADDER 3-leg parlay (1.00u as placed; stake 1.00u whole ticket per Tony 3:",
+     "title": "Day 2 LADDER 3-leg parlay",
      "legs": [
       {
        "mark": "none",
-       "text": "48 PM correction"
-      },
-      {
-       "mark": "none",
-       "text": "Day 2 of ladder doubling rule"
-      },
-      {
-       "mark": "none",
-       "text": "accepted slip odds unconfirmed"
-      },
-      {
-       "mark": "none",
-       "text": "~+111 arithmetic only): Allen 200+ pass yds (BUF@MIN 6:15PM)"
+       "text": "Allen 200+ pass yds (BUF@MIN 6:15PM)"
       },
       {
        "mark": "none",
@@ -413,23 +361,11 @@
      "tony_played": "Y",
      "Stake (u)": 1,
      "Profit (u)": -1,
-     "title": "NFL 6-leg Same Game Parlay (1.00u as placed; accepted slip +450 from Tony FanDuel screenshot 4:",
+     "title": "NFL 6-leg Same Game Parlay",
      "legs": [
       {
        "mark": "none",
-       "text": "03 PM AZ"
-      },
-      {
-       "mark": "none",
-       "text": "implied 18.2%"
-      },
-      {
-       "mark": "none",
-       "text": "stake 1.00u per Tony 'One unit for all 3'"
-      },
-      {
-       "mark": "none",
-       "text": "~+429 arithmetic from 3:52 PM FD leg prices): Cook 60+ alt rush yds -360"
+       "text": "Cook 60+ alt rush yds -360"
       },
       {
        "mark": "none",
@@ -467,31 +403,11 @@
      "tony_played": "Y",
      "Stake (u)": 1,
      "Profit (u)": -1,
-     "title": "NBA 6-leg Same Game Parlay+ (1.00u as placed; accepted slip +403 from Tony FanDuel screenshot 4:",
+     "title": "NBA 6-leg Same Game Parlay+",
      "legs": [
       {
        "mark": "none",
-       "text": "03-4:04 PM AZ"
-      },
-      {
-       "mark": "none",
-       "text": "implied 19.9%"
-      },
-      {
-       "mark": "none",
-       "text": "stake 1.00u per Tony 'One unit for all 3'"
-      },
-      {
-       "mark": "none",
-       "text": "~+401 arithmetic from 3:52 PM FD leg prices"
-      },
-      {
-       "mark": "none",
-       "text": "2 SGPs"
-      },
-      {
-       "mark": "none",
-       "text": "2 selections): Mitchell over 27.5 alt PRA -350 (CLE@CHA)"
+       "text": "Mitchell over 27.5 alt PRA -350 (CLE@CHA)"
       },
       {
        "mark": "none",
@@ -529,27 +445,11 @@
      "tony_played": "Y",
      "Stake (u)": 1,
      "Profit (u)": -1,
-     "title": "NHL 6-leg Same Game Parlay+ (1.00u as placed; accepted slip +379 from Tony FanDuel screenshot 4:",
+     "title": "NHL 6-leg Same Game Parlay+",
      "legs": [
       {
        "mark": "none",
-       "text": "04 PM AZ"
-      },
-      {
-       "mark": "none",
-       "text": "implied 20.9%"
-      },
-      {
-       "mark": "none",
-       "text": "stake 1.00u per Tony 'One unit for all 3'"
-      },
-      {
-       "mark": "none",
-       "text": "~+476 arithmetic from 3:52 PM FD leg prices"
-      },
-      {
-       "mark": "none",
-       "text": "2 SGPs): McDavid 1+ pts -720"
+       "text": "McDavid 1+ pts -720"
       },
       {
        "mark": "none",
@@ -783,11 +683,11 @@
      "tony_played": "Y",
      "Stake (u)": 1.033,
      "Profit (u)": "",
-     "title": "3-leg parlay (1.033u as placed; slip -108; displayed potential winnings +0.961u, potential payout 1.994u, not settled; placed 1:",
+     "title": "3-leg parlay",
      "legs": [
       {
        "mark": "pending",
-       "text": "59 PM AZ): North Texas ML -780 vs Rice"
+       "text": "North Texas ML -780 vs Rice"
       },
       {
        "mark": "pending",
@@ -817,27 +717,11 @@
      "tony_played": "Y",
      "Stake (u)": 0.5,
      "Profit (u)": "",
-     "title": "4-leg score-or-assist parlay (0.50u as placed; displayed +250; displayed potential total return 1.754u, potential net +1.254u if won, not settled; ref EL5995519891W; book not identified; confirmed by Tony 2:",
+     "title": "4-leg score-or-assist parlay",
      "legs": [
       {
        "mark": "pending",
-       "text": "17 PM AZ"
-      },
-      {
-       "mark": "pending",
-       "text": "exact placement time unknown"
-      },
-      {
-       "mark": "pending",
-       "text": "SUB ON PLAY ON banner reported"
-      },
-      {
-       "mark": "pending",
-       "text": "terms unverified"
-      },
-      {
-       "mark": "pending",
-       "text": "slip values per Sal's read): Messi -1200"
+       "text": "Messi -1200"
       },
       {
        "mark": "pending",
@@ -867,27 +751,11 @@
      "tony_played": "Y",
      "Stake (u)": 1,
      "Profit (u)": "",
-     "title": "2-leg parlay (1.00u as placed; accepted combined odds -109 confirmed by Tony 7:",
+     "title": "2-leg parlay",
      "legs": [
       {
        "mark": "pending",
-       "text": "24 PM AZ"
-      },
-      {
-       "mark": "pending",
-       "text": "book"
-      },
-      {
-       "mark": "pending",
-       "text": "ref and placement time unknown"
-      },
-      {
-       "mark": "pending",
-       "text": "play confirmed by Tony 5:19 PM AZ"
-      },
-      {
-       "mark": "pending",
-       "text": "not placement time): Iowa Hawkeyes ML at Northwestern"
+       "text": "Iowa Hawkeyes ML at Northwestern"
       },
       {
        "mark": "pending",
@@ -1230,31 +1098,11 @@
      "tony_played": "Y",
      "Stake (u)": 0.75,
      "Profit (u)": -0.75,
-     "title": "NFL 7-leg same-game parlay (0.75u as placed; FD +1367 with 30% profit boost, unboosted +1051; win pays +9.95u, total return 10.68u; placed 5:",
+     "title": "NFL 7-leg same-game parlay",
      "legs": [
       {
-       "mark": "none",
-       "text": "24 PM AZ"
-      },
-      {
-       "mark": "none",
-       "text": "slip shows Burden 30+ rec"
-      },
-      {
        "mark": "miss",
-       "text": "Darnold 225+ pass"
-      },
-      {
-       "mark": "miss",
-       "text": "Kupp 20+ rec"
-      },
-      {
-       "mark": "hit",
-       "text": "Swift 50+ rush"
-      },
-      {
-       "mark": "miss",
-       "text": "other 3 legs per Sam card not visible on slip): Sam Darnold 225+ pass yds"
+       "text": "Sam Darnold 225+ pass yds"
       },
       {
        "mark": "miss",
@@ -2279,11 +2127,11 @@
      "tony_played": "Y",
      "Stake (u)": 0.75,
      "Profit (u)": 1.48,
-     "title": "PARLAY 4-leg live SGP+ as placed (~+197, placed ~12:",
+     "title": "PARLAY 4-leg live SGP+ as placed",
      "legs": [
       {
        "mark": "hit",
-       "text": "05 PM AZ at 2nd qtr): Tony Pollard 90+ rush yds"
+       "text": "Tony Pollard 90+ rush yds"
       },
       {
        "mark": "hit",
@@ -2313,11 +2161,11 @@
      "tony_played": "Y",
      "Stake (u)": 1,
      "Profit (u)": -1,
-     "title": "PARLAY 3-leg NHL game props (est. +406, Bet pick given 1:",
+     "title": "PARLAY 3-leg NHL game props",
      "legs": [
       {
        "mark": "miss",
-       "text": "23 PM AZ): Washington +1.5 (-260)"
+       "text": "Washington +1.5 (-260)"
       },
       {
        "mark": "hit",

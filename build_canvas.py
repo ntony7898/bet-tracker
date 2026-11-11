@@ -10,7 +10,18 @@ XLSX='/workspace/results/Bet_tracker.xlsx'; UBS_JSON='/workspace/results/units_b
 if '--published' in sys.argv:
   shutil.copy(P('canvas.tsx'),P('canvas.published.tsx'));print('recorded canvas.published.tsx');sys.exit()
 subprocess.run([sys.executable,P('refresh.py')],check=True)
-d=json.load(open(P('data.json')));sys.path.insert(0,H);import prune;GT=prune.apply(d)['grand']
+d=json.load(open(P('data.json')))
+def tidy(t):
+  # pick cells sometimes carry notes inside "(...; notes): leg1 / leg2". Keep only the props: drop the notes, keep a clean title.
+  ti=t.get('title','')
+  if ti.count('(')>ti.count(')'):
+    for i,l in enumerate(t['legs']):
+      if '): ' in l['text']:
+        t['legs']=[dict(l,text=l['text'].split('): ',1)[1])]+t['legs'][i+1:]
+        t['title']=ti[:ti.index('(')].strip();break
+for _x in d['days']:
+  for _t in _x['tickets']: tidy(_t)
+sys.path.insert(0,H);import prune;GT=prune.apply(d)['grand']
 xg=next(u['net'] for u in d['units'] if u['period']=='Grand total')
 if f"{'+' if GT[0]>=0 else ''}{GT[0]:.2f}u"!=xg: sys.exit(f'ABORT: archive+tickets grand total {GT[0]:+.2f}u != xlsx Grand total {xg}. Not publishing.')
 d['units_by_sport']=json.load(open(UBS_JSON));json.dump(d,open(P('data.json'),'w'),ensure_ascii=False,indent=1)

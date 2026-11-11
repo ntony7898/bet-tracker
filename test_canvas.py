@@ -1,4 +1,4 @@
-import re,subprocess,time,sys
+import re,subprocess,time,sys,json,os
 from openpyxl import load_workbook
 from playwright.sync_api import sync_playwright
 wb=load_workbook('/workspace/results/Bet_tracker.xlsx',read_only=True)
@@ -49,7 +49,7 @@ with sync_playwright() as p:
   chk('daily net units',web,nets)
   legs=[l for r in tix for l in str(r[3]).split('\n')[1:]]
   tab('sports')
-  chk('NO MARK chips (sports tab = all tickets)',pg.locator('.chip.none').count(),sum(1 for l in legs if l[:1] not in '✅❌⏳'))
+  chk('NO MARK chips (sports tab = all tickets)',pg.locator('.chip.none').count(),sum(1 for x in json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)),'data.json')))['days'] for t in x['tickets'] for l in t['legs'] if l['mark']=='none'))
   chk('VOID tickets',pg.locator('.tk .chip.big', has_text='VOID').count(),sum(1 for r in tix if r[8]=='void'))
   chk('stake? tiles',pg.locator('.meta div:first-child b',has_text='stake?').count(),sum(1 for r in tix if r[11]=='stake?'))
   tab('past');pg.screenshot(path=SS+'canvas-past.png')
