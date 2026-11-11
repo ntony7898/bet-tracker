@@ -48,10 +48,11 @@ with sync_playwright() as p:
   nn=[tn]+pg.locator('.day .bn-net').all_inner_texts();labs=[banners[0].split('|')[0].strip()]+labs;web={l:(n if n!='no units' else None) for l,n in zip(labs,nn)}
   chk('daily net units',web,nets)
   legs=[l for r in tix for l in str(r[3]).split('\n')[1:]]
-  tab('sports')
-  chk('NO MARK chips (sports tab = all tickets)',pg.locator('.chip.none').count(),sum(1 for x in json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)),'data.json')))['days'] for t in x['tickets'] for l in t['legs'] if l['mark']=='none'))
-  chk('VOID tickets',pg.locator('.tk .chip.big', has_text='VOID').count(),sum(1 for r in tix if r[8]=='void'))
-  chk('stake? tiles',pg.locator('.meta div:first-child b',has_text='stake?').count(),sum(1 for r in tix if r[11]=='stake?'))
+  def both(make):
+    tab('today');n=make().count();tab('past');return n+make().count()
+  chk('NO MARK chips (today+past = all tickets)',both(lambda:pg.locator('.chip.none')),sum(1 for x in json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)),'data.json')))['days'] for t in x['tickets'] for l in t['legs'] if l['mark']=='none'))
+  chk('VOID tickets',both(lambda:pg.locator('.tk .chip.big', has_text='VOID')),sum(1 for r in tix if r[8]=='void'))
+  chk('stake? tiles',both(lambda:pg.locator('.meta div:first-child b',has_text='stake?')),sum(1 for r in tix if r[11]=='stake?'))
   tab('past');pg.screenshot(path=SS+'canvas-past.png')
   chk('past sport headers = groups',pg.locator('.sph').count(),sum(len({nz(r) for r in tix if r[0]==dd}) for dd in {r[0] for r in tix} if str(dd)!=td))
   pg.select_option('#jump','2026-10-29');pg.wait_for_timeout(300);chk('open a date',pg.locator('details.pday[open]').count(),1);pg.screenshot(path=SS+'canvas-jump-oct29.png')
@@ -77,17 +78,34 @@ with sync_playwright() as p:
     for day in pg.locator('.day').all():
       hs=[h.strip() for h in day.locator('.sph .sp').all_inner_texts()]
       if 'Ladder' in hs: chk('Ladder group first '+v,hs.index('Ladder'),0)
-      lad=day.evaluate("d=>{let g='',o=[];for(const e of d.querySelectorAll('.sph,.tk')){if(e.matches('.sph'))g=e.querySelector('.sp').innerText.trim();else if(/\\bLADDER\\b/.test(e.innerText))o.push(g)}return o}")
+      lad=day.evaluate("d=>{let g='',o=[];for(const e of d.querySelectorAll('.sph,.tk')){if(e.matches('.sph'))g=e.querySelector('.sp').innerText.trim();else if(/\\bLADDER\\b/i.test(e.innerText))o.push(g)}return o}")
       LAD.extend(lad)
   chk('ladder tickets all under Ladder (none under Multi)',[len(LAD),set(LAD)],[sum(1 for r in tix if nz(r)=='Ladder'),{'Ladder'}])
-  tab('sports');cards=pg.locator('details.spc');chk('sport cards (Ladder first, Multi separate)',[cards.count(),cards.first.locator('summary .sp').inner_text().strip(),cards.locator('summary .sp').all_inner_texts().count('Multi')],[len({nz(r) for r in tixA}|{'Multi'}),'Ladder',1])
+  tab('sports');cards=pg.locator('button.spc');chk('sport cards (Ladder first, Multi separate)',[cards.count(),cards.first.locator('.sp').inner_text().strip(),cards.locator('.sp').all_inner_texts().count('Multi')],[len({nz(r) for r in tixA}|{'Multi'}),'Ladder',1])
+  card_nets=[]
   for i in range(cards.count()):
-    nm=cards.nth(i).locator('summary .sp').inner_text().strip();u=sum(r[12] for r in tixA if nz(r)==nm and isinstance(r[12],(int,float)))
-    js=U['rows'][-1]['units'].get(nm);chk('sport card net '+nm,cards.nth(i).locator('summary b').inner_text(),(('+' if u>=0 else '')+f"{u:.2f}u") if any(nz(r)==nm and isinstance(r[12],(int,float)) for r in tixA) else 'no units')
+    nm=cards.nth(i).locator('.sp').inner_text().strip();net=cards.nth(i).locator('.snet').inner_text().strip();card_nets.append((nm,net))
+    u=sum(r[12] for r in tixA if nz(r)==nm and isinstance(r[12],(int,float)))
+    js=U['rows'][-1]['units'].get(nm);chk('sport card net '+nm,net,(('+' if u>=0 else '')+f"{u:.2f}u") if any(nz(r)==nm and isinstance(r[12],(int,float)) for r in tixA) else 'no units')
     if nm=='Multi': u=sum(r[12] for r in tixA if nz(r) in('Ladder','Multi') and isinstance(r[12],(int,float)));nm='Ladder+Multi'
     if nm=='Ladder+Multi': u+=sum(r[12] for r in tixA if nz(r) not in set(U['sports'])|{'Ladder','Multi'} and isinstance(r[12],(int,float)) and nz(r) in ('NCAAM',)) # Units sheet has no column for new sports (NCAAM): it folds them into Multi
     if js is not None and nm!='Ladder': chk('  matches json '+nm,round(u,2),round(js,2))
-  cards.first.locator('summary').click();pg.wait_for_timeout(200);pg.screenshot(path=SS+'canvas-sports.png')
+  def parse_u(x):
+    return float(str(x).replace('u','').replace('+',''))
+  for i,(nm,net) in enumerate(card_nets):
+    tab('sports');pg.wait_for_timeout(150);pg.locator('button.spc').nth(i).click();pg.wait_for_timeout(200)
+    chk('sport detail open '+nm,pg.locator('.spd .spd-h .sp').inner_text().strip(),nm)
+    chk('sport detail net '+nm,pg.locator('.spd .bn-net').inner_text().strip(),net)
+    mos=pg.locator('.spd .spm b').all_inner_texts()
+    if net!='no units' and mos:
+      chk('sport detail months sum '+nm,round(sum(parse_u(x) for x in mos),2),round(parse_u(net),2))
+    if i==0: pg.screenshot(path=SS+'canvas-sports-detail.png')
+    pg.locator('.sback').click();pg.wait_for_timeout(150)
+    chk('sport detail back '+nm,pg.locator('button.spc').count()>0,True)
+  tab('sports');pg.screenshot(path=SS+'canvas-sports.png')
+  if pg.locator('button.spc[data-sp=NBA]').count():
+    pg.click('button.spc[data-sp=NBA]');pg.wait_for_timeout(200);pg.screenshot(path=SS+'canvas-sports-nba.png')
+    pg.locator('.sback').click();pg.wait_for_timeout(150)
   for v in ['today','past','summary','sports','totals','records']:
     tab(v);bt=pg.locator('body').inner_text();chk('$ only in note '+v,bt.count('$'),bt.count('1 unit = $20'))
   chk('console errors',errs,[]);b.close()

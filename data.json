@@ -48,7 +48,7 @@
    "period": "November 2026",
    "net": "-8.03u",
    "settled": 49,
-   "pending": 6
+   "pending": 13
   },
   {
    "period": "October 2026",
@@ -60,16 +60,244 @@
    "period": "Year 2026",
    "net": "+6.29u",
    "settled": 92,
-   "pending": 8
+   "pending": 15
   },
   {
    "period": "Grand total",
    "net": "+6.29u",
    "settled": 92,
-   "pending": 8
+   "pending": 15
   }
  ],
  "days": [
+  {
+   "banner": "Wednesday, Nov 11   |   Day: 0-0 (7 pending)   |   Tony played: 0-0   |   Net +0.00u (7 pending)   |   Running +6.29u",
+   "label": "Wednesday, Nov 11",
+   "tickets": [
+    {
+     "date": "2026-11-11",
+     "sport": "Ladder",
+     "game": "GSW@HOU 7:30 PM AZ / PHI@EDM 7:00 PM AZ",
+     "pick": "Ladder Day 4 2-leg parlay (4.00u as placed; Tony 9:\n⏳ 11 AM AZ Nov 11 in Sal chat: 'Played ladder for 4 units'\n⏳ exception to 2u max approved by Tony\n⏳ slip odds NOT given\n⏳ computed about +105 from leg prices as of 8:22 AM AZ\n⏳ unconfirmed): Stephen Curry 30+ PRA -290 (Warriors at Rockets 7:30PM)\n⏳ Connor McDavid 3+ SOG -190 (Flyers at Oilers 7:00PM)",
+     "book": "FanDuel",
+     "odds": "",
+     "implied": "",
+     "est": "",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 4,
+     "Profit (u)": "",
+     "title": "Ladder Day 4 2-leg parlay",
+     "legs": [
+      {
+       "mark": "pending",
+       "text": "Stephen Curry 30+ PRA -290 (Warriors at Rockets 7:30PM)"
+      },
+      {
+       "mark": "pending",
+       "text": "Connor McDavid 3+ SOG -190 (Flyers at Oilers 7:00PM)"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-11",
+     "sport": "NHL",
+     "game": "NSH@ANA 8:00 PM AZ",
+     "pick": "Cutter Gauthier over 3.5 shots on goal (0.50u as placed, slip odds NOT given, card price -154 at 8:22 AM AZ feed, unconfirmed) (Predators at Ducks 8PM)",
+     "book": "FanDuel",
+     "odds": "",
+     "implied": "",
+     "est": "",
+     "result": "",
+     "favorite": "Y",
+     "tony_played": "Y",
+     "Stake (u)": 0.5,
+     "Profit (u)": "",
+     "title": "Cutter Gauthier over 3.5 shots on goal (0.50u as placed, slip odds NOT given, card price -154 at 8:22 AM AZ feed, unconfirmed) (Predators at Ducks 8PM)",
+     "legs": []
+    },
+    {
+     "date": "2026-11-11",
+     "sport": "NBA",
+     "game": "CLE@NYK 5:10 PM AZ / GSW@HOU 7:40 PM AZ / BOS@TOR 5:10 PM AZ / OKC@POR 8:10 PM AZ",
+     "pick": "NBA Same Game Parlay+ 6-leg (0.50u as placed, slip odds +420):\n⏳ Karl-Anthony Towns 30+ PRA\n⏳ Meleek Thomas 10+ pts+reb (Cavaliers at Knicks 5:10PM)\n⏳ Yaxel Lendeborg 25+ PRA\n⏳ Tari Eason 10+ pts+reb (Warriors at Rockets 7:40PM)\n⏳ RJ Barrett 20+ pts+ast (Celtics at Raptors 5:10PM)\n⏳ Deni Avdija 25+ pts+reb (Thunder at Trail Blazers 8:10PM)",
+     "book": "FanDuel",
+     "odds": "+420",
+     "implied": "19.2%",
+     "est": "",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 0.5,
+     "Profit (u)": "",
+     "title": "NBA Same Game Parlay+ 6-leg",
+     "legs": [
+      {
+       "mark": "pending",
+       "text": "Karl-Anthony Towns 30+ PRA"
+      },
+      {
+       "mark": "pending",
+       "text": "Meleek Thomas 10+ pts+reb (Cavaliers at Knicks 5:10PM)"
+      },
+      {
+       "mark": "pending",
+       "text": "Yaxel Lendeborg 25+ PRA"
+      },
+      {
+       "mark": "pending",
+       "text": "Tari Eason 10+ pts+reb (Warriors at Rockets 7:40PM)"
+      },
+      {
+       "mark": "pending",
+       "text": "RJ Barrett 20+ pts+ast (Celtics at Raptors 5:10PM)"
+      },
+      {
+       "mark": "pending",
+       "text": "Deni Avdija 25+ pts+reb (Thunder at Trail Blazers 8:10PM)"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-11",
+     "sport": "NHL",
+     "game": "TB@BUF 5:10 PM AZ / PHI@EDM 7:10 PM AZ / NSH@ANA 8:10 PM AZ / PIT@SJ 8:10 PM AZ",
+     "pick": "NHL 4-leg parlay (0.50u as placed, slip odds +353):\n⏳ Tampa Bay Lightning team total over 2.5 alt -225 (Lightning at Sabres 5:10PM)\n⏳ Edmonton Oilers ML -188 (Flyers at Oilers 7:10PM)\n⏳ Jackson LaCombe 1+ pt -178 (Predators at Ducks 8:10PM)\n⏳ Rickard Rakell 2+ SOG -320 (Penguins at Sharks 8:10PM)",
+     "book": "FanDuel",
+     "odds": "+353",
+     "implied": "22.1%",
+     "est": "",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 0.5,
+     "Profit (u)": "",
+     "title": "NHL 4-leg parlay",
+     "legs": [
+      {
+       "mark": "pending",
+       "text": "Tampa Bay Lightning team total over 2.5 alt -225 (Lightning at Sabres 5:10PM)"
+      },
+      {
+       "mark": "pending",
+       "text": "Edmonton Oilers ML -188 (Flyers at Oilers 7:10PM)"
+      },
+      {
+       "mark": "pending",
+       "text": "Jackson LaCombe 1+ pt -178 (Predators at Ducks 8:10PM)"
+      },
+      {
+       "mark": "pending",
+       "text": "Rickard Rakell 2+ SOG -320 (Penguins at Sharks 8:10PM)"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-11",
+     "sport": "NHL",
+     "game": "NSH@ANA 8:10 PM AZ / TB@BUF 5:10 PM AZ / NYR@CGY 5:40 PM AZ / PHI@EDM 7:10 PM AZ",
+     "pick": "NHL 4-leg parlay (0.25u as placed, slip odds +1551):\n⏳ Anaheim Ducks team total over 3.5 alt -108 (Predators at Ducks 8:10PM)\n⏳ Tampa Bay Lightning team total over 3.5 +108 (Lightning at Sabres 5:10PM)\n⏳ Calgary Flames ML +116 (Rangers at Flames 5:40PM)\n⏳ Edmonton Oilers team total over 3.5 -110 (Flyers at Oilers 7:10PM)",
+     "book": "FanDuel",
+     "odds": "+1551",
+     "implied": "6.1%",
+     "est": "",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 0.25,
+     "Profit (u)": "",
+     "title": "NHL 4-leg parlay",
+     "legs": [
+      {
+       "mark": "pending",
+       "text": "Anaheim Ducks team total over 3.5 alt -108 (Predators at Ducks 8:10PM)"
+      },
+      {
+       "mark": "pending",
+       "text": "Tampa Bay Lightning team total over 3.5 +108 (Lightning at Sabres 5:10PM)"
+      },
+      {
+       "mark": "pending",
+       "text": "Calgary Flames ML +116 (Rangers at Flames 5:40PM)"
+      },
+      {
+       "mark": "pending",
+       "text": "Edmonton Oilers team total over 3.5 -110 (Flyers at Oilers 7:10PM)"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-11",
+     "sport": "Multi",
+     "game": "MARQ@MICH 5:00 PM AZ / SCU@UNT 6:00 PM AZ / JKST@USM 6:00 PM AZ / ETSU@WOF Sat Nov 14 11:31 AM AZ",
+     "pick": "4-leg college parlay (0.25u as placed, slip odds +559, ETSU leg is Saturday Nov 14 so ticket stays pending until then):\n⏳ Marquette +3.5 -115 (Marquette at Michigan 5:00PM)\n⏳ North Texas +1.5 -105 (Santa Clara at North Texas 6:00PM)\n⏳ Southern Miss ML -430 (Jackson State at Southern Miss 6:00PM)\n⏳ East Tennessee State ML -215 (ETSU at Wofford Sat 11:31AM)",
+     "book": "FanDuel",
+     "odds": "+559",
+     "implied": "15.2%",
+     "est": "",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 0.25,
+     "Profit (u)": "",
+     "title": "4-leg college parlay",
+     "legs": [
+      {
+       "mark": "pending",
+       "text": "Marquette +3.5 -115 (Marquette at Michigan 5:00PM)"
+      },
+      {
+       "mark": "pending",
+       "text": "North Texas +1.5 -105 (Santa Clara at North Texas 6:00PM)"
+      },
+      {
+       "mark": "pending",
+       "text": "Southern Miss ML -430 (Jackson State at Southern Miss 6:00PM)"
+      },
+      {
+       "mark": "pending",
+       "text": "East Tennessee State ML -215 (ETSU at Wofford Sat 11:31AM)"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-11",
+     "sport": "NCAAF",
+     "game": "BUF@BALL / SAC@CMU / UMASS@TOL all 5:30 PM AZ",
+     "pick": "NCAAF 3-leg parlay (0.25u as placed, slip odds NOT given, computed about +214 from leg prices, unconfirmed):\n⏳ Buffalo ML -115 (Buffalo at Ball State 5:30PM)\n⏳ Central Michigan -10.5 alt spread -230 (Sacramento State at Central Michigan 5:30PM)\n⏳ Toledo ML -580 (UMass at Toledo 5:30PM)",
+     "book": "FanDuel",
+     "odds": "",
+     "implied": "",
+     "est": "",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 0.25,
+     "Profit (u)": "",
+     "title": "NCAAF 3-leg parlay",
+     "legs": [
+      {
+       "mark": "pending",
+       "text": "Buffalo ML -115 (Buffalo at Ball State 5:30PM)"
+      },
+      {
+       "mark": "pending",
+       "text": "Central Michigan -10.5 alt spread -230 (Sacramento State at Central Michigan 5:30PM)"
+      },
+      {
+       "mark": "pending",
+       "text": "Toledo ML -580 (UMass at Toledo 5:30PM)"
+      }
+     ]
+    }
+   ],
+   "day": "0-0 (7 pending)",
+   "tony_played": "0-0",
+   "net": "+0.00u (7 pending)",
+   "running": "+6.29u",
+   "date": "2026-11-11"
+  },
   {
    "banner": "Tuesday, Nov 10   |   Day: 2-4   |   Tony played: 2-4   |   Net +6.78u   |   Running +6.29u",
    "label": "Tuesday, Nov 10",
@@ -11159,7 +11387,7 @@
    ],
    "units": {
     "net": "-8.03u",
-    "pending": "6 pending"
+    "pending": "13 pending"
    }
   },
   {
@@ -11212,17 +11440,17 @@
   }
  ],
  "legend": "Green = win, Red = loss, Yellow = push, Gray = pending. Newest day first.",
- "ticket_count": 499,
- "version": "9a6db9b968",
+ "ticket_count": 506,
+ "version": "5b8a258662",
  "archive_sports": {},
- "live_ticket_count": 499,
+ "live_ticket_count": 506,
  "totals": {
   "grand": [
    6.29,
    216,
    269,
-   10,
-   499
+   17,
+   506
   ],
   "m2026-10": [
    14.32,
@@ -11235,15 +11463,15 @@
    -8.03,
    33,
    50,
-   8,
-   91
+   15,
+   98
   ],
   "sLadder": [
    14.92,
    9,
    6,
    0,
-   16
+   17
   ],
   "sMLB": [
    0.0,
@@ -11257,21 +11485,21 @@
    2,
    1,
    0,
-   3
+   4
   ],
   "sNBA": [
    -3.98,
    56,
    77,
    0,
-   134
+   135
   ],
   "sNCAAF": [
    -4.11,
    7,
    14,
    0,
-   24
+   25
   ],
   "sNCAAM": [
    -0.25,
@@ -11292,7 +11520,7 @@
    41,
    46,
    0,
-   89
+   92
   ],
   "sSoccer": [
    12.39,
@@ -11312,11 +11540,11 @@
    6.29,
    216,
    269,
-   10,
-   499
+   17,
+   506
   ]
  },
- "prune_cutoff": "2026-09-10",
+ "prune_cutoff": "2026-09-11",
  "units_by_sport": {
   "sports": [
    "NFL",
