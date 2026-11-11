@@ -14,13 +14,13 @@
  "records": [
   [
    "All picks",
-   "215-268",
+   "216-268",
    "37-58",
    "41-46",
    "11-10",
    "7-14",
    "56-77",
-   "63-63"
+   "64-63"
   ],
   [
    "Favorites",
@@ -34,21 +34,21 @@
   ],
   [
    "Tony played",
-   "67-111",
+   "68-111",
    "10-34",
    "9-15",
    "0-0",
    "5-11",
    "6-24",
-   "37-27"
+   "38-27"
   ]
  ],
  "units": [
   {
    "period": "November 2026",
-   "net": "-15.56u",
-   "settled": 46,
-   "pending": 8
+   "net": "-7.28u",
+   "settled": 48,
+   "pending": 7
   },
   {
    "period": "October 2026",
@@ -58,36 +58,36 @@
   },
   {
    "period": "Year 2026",
-   "net": "-1.24u",
-   "settled": 89,
-   "pending": 10
+   "net": "+7.04u",
+   "settled": 91,
+   "pending": 9
   },
   {
    "period": "Grand total",
-   "net": "-1.24u",
-   "settled": 89,
-   "pending": 10
+   "net": "+7.04u",
+   "settled": 91,
+   "pending": 9
   }
  ],
  "days": [
   {
-   "banner": "Tuesday, Nov 10   |   Day: 1-3 (1 pending)   |   Tony played: 1-3   |   Net -0.75u (2 pending)   |   Running -1.24u",
+   "banner": "Tuesday, Nov 10   |   Day: 2-3 (1 pending)   |   Tony played: 2-3   |   Net +7.53u (1 pending)   |   Running +7.04u",
    "label": "Tuesday, Nov 10",
    "tickets": [
     {
      "date": "2026-11-10",
      "sport": "Ladder",
      "game": "MIN@MTL 5:00 PM AZ / NJ@WPG 5:00 PM AZ / BOS@PHI 6:00 PM AZ",
-     "pick": "Day 3 LADDER 3-leg parlay (2.00u as placed; stake 2.00u per Tony's Day 3 doubling rule, Day 1 0.5u and Day 2 1u; Tony 8:\n- 35 AM AZ in Sal chat: 'I only took the ladder' and 'New version' = Hughes swap\n- accepted slip odds unconfirmed\n- ~+118 arithmetic only): Kaprizov 1+ pt -390 (Wild at Canadiens 5PM)\n- Jack Hughes 3+ SOG -360 (Devils at Jets 5PM)\n- Maxey 20+ pts -280 (Celtics at 76ers 6PM)",
+     "pick": "Day 3 LADDER 3-leg parlay (2.00u as placed; stake 2.00u per Tony's Day 3 doubling rule, Day 1 0.5u and Day 2 1u; Tony 8:\n- 35 AM AZ in Sal chat: 'I only took the ladder' and 'New version' = Hughes swap\n- accepted slip odds +116 per Tony's FanDuel screenshot\n- bet placed 11/10 8:33 AM\n- paid 4.33u total on 2.00u): Kaprizov 1+ pt -390 (Wild at Canadiens 5PM)\n- Jack Hughes 3+ SOG -360 (Devils at Jets 5PM)\n- Maxey 20+ pts -280 (Celtics at 76ers 6PM)",
      "book": "FanDuel",
-     "odds": "",
-     "implied": "",
+     "odds": "+116",
+     "implied": "46.3%",
      "est": "",
      "result": "W",
      "favorite": "N",
      "tony_played": "Y",
      "Stake (u)": 2,
-     "Profit (u)": "",
+     "Profit (u)": 2.32,
      "title": "Day 3 LADDER 3-leg parlay (2.00u as placed; stake 2.00u per Tony's Day 3 doubling rule, Day 1 0.5u and Day 2 1u; Tony 8:",
      "legs": [
       {
@@ -96,11 +96,15 @@
       },
       {
        "mark": "none",
-       "text": "accepted slip odds unconfirmed"
+       "text": "accepted slip odds +116 per Tony's FanDuel screenshot"
       },
       {
        "mark": "none",
-       "text": "~+118 arithmetic only): Kaprizov 1+ pt -390 (Wild at Canadiens 5PM)"
+       "text": "bet placed 11/10 8:33 AM"
+      },
+      {
+       "mark": "none",
+       "text": "paid 4.33u total on 2.00u): Kaprizov 1+ pt -390 (Wild at Canadiens 5PM)"
       },
       {
        "mark": "none",
@@ -299,12 +303,54 @@
        "text": "Tyrese Maxey 6+ ast (Celtics at 76ers 6PM)"
       }
      ]
+    },
+    {
+     "date": "2026-11-10",
+     "sport": "Multi",
+     "game": "Tennis x3 + MSU/Duke + TTU/Illinois",
+     "pick": "Multi 5-leg moneyline parlay (0.25u as placed, slip +2383, all legs won, Tony screenshot 10:\n- 54 PM AZ\n- game times not on slip): Holger Rune ML -164 (vs Bergs)\n- Lorenzo Musetti ML -390 (vs Samuel)\n- Jessica Pegula ML -184 (vs Kostyuk)\n- Michigan State ML +265 (vs Duke)\n- Texas Tech ML +118 (vs Illinois)",
+     "book": "FanDuel",
+     "odds": "+2383",
+     "implied": "4.0%",
+     "est": "",
+     "result": "W",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 0.25,
+     "Profit (u)": 5.96,
+     "title": "Multi 5-leg moneyline parlay (0.25u as placed, slip +2383, all legs won, Tony screenshot 10:",
+     "legs": [
+      {
+       "mark": "none",
+       "text": "54 PM AZ"
+      },
+      {
+       "mark": "none",
+       "text": "game times not on slip): Holger Rune ML -164 (vs Bergs)"
+      },
+      {
+       "mark": "none",
+       "text": "Lorenzo Musetti ML -390 (vs Samuel)"
+      },
+      {
+       "mark": "none",
+       "text": "Jessica Pegula ML -184 (vs Kostyuk)"
+      },
+      {
+       "mark": "none",
+       "text": "Michigan State ML +265 (vs Duke)"
+      },
+      {
+       "mark": "none",
+       "text": "Texas Tech ML +118 (vs Illinois)"
+      }
+     ]
     }
    ],
-   "day": "1-3 (1 pending)",
-   "tony_played": "1-3",
-   "net": "-0.75u (2 pending)",
-   "running": "-1.24u",
+   "day": "2-3 (1 pending)",
+   "tony_played": "2-3",
+   "net": "+7.53u (1 pending)",
+   "running": "+7.04u",
    "date": "2026-11-10"
   },
   {
@@ -11234,13 +11280,13 @@
    "rows": [
     [
      "All picks",
-     "32-49",
+     "33-49",
      "12-29",
      "5-6",
      "0-0",
      "1-0",
      "6-8",
-     "8-6"
+     "9-6"
     ],
     [
      "Favorites",
@@ -11254,18 +11300,18 @@
     ],
     [
      "Tony played",
-     "17-37",
+     "18-37",
      "8-25",
      "1-4",
      "0-0",
      "1-0",
      "1-3",
-     "6-5"
+     "7-5"
     ]
    ],
    "units": {
-    "net": "-15.56u",
-    "pending": "8 pending"
+    "net": "-7.28u",
+    "pending": "7 pending"
    }
   },
   {
@@ -11318,17 +11364,17 @@
   }
  ],
  "legend": "Green = win, Red = loss, Yellow = push, Gray = pending. Newest day first.",
- "ticket_count": 498,
- "version": "2be627cca6",
+ "ticket_count": 499,
+ "version": "b8a3ec091f",
  "archive_sports": {},
- "live_ticket_count": 498,
+ "live_ticket_count": 499,
  "totals": {
   "grand": [
-   -1.24,
-   215,
+   7.04,
+   216,
    268,
    11,
-   498
+   499
   ],
   "m2026-10": [
    14.32,
@@ -11338,14 +11384,14 @@
    408
   ],
   "m2026-11": [
-   -15.56,
-   32,
+   -7.28,
+   33,
    49,
    9,
-   90
+   91
   ],
   "sLadder": [
-   12.6,
+   14.92,
    9,
    6,
    0,
@@ -11359,11 +11405,11 @@
    22
   ],
   "sMulti": [
-   0.36,
-   1,
+   6.32,
+   2,
    1,
    0,
-   2
+   3
   ],
   "sNBA": [
    -3.23,
@@ -11415,11 +11461,11 @@
    2
   ],
   "y2026": [
-   -1.24,
-   215,
+   7.04,
+   216,
    268,
    11,
-   498
+   499
   ]
  },
  "prune_cutoff": "2026-09-10",
@@ -11445,9 +11491,9 @@
      "Soccer": 0.5,
      "NCAAF": 0.64,
      "MLB": 0,
-     "Multi": 1.31
+     "Multi": 9.59
     },
-    "total": -15.56
+    "total": -7.28
    },
    {
     "period": "October 2026",
@@ -11473,9 +11519,9 @@
      "Soccer": 12.39,
      "NCAAF": -4.11,
      "MLB": 0,
-     "Multi": 12.71
+     "Multi": 20.99
     },
-    "total": -1.24
+    "total": 7.04
    }
   ]
  }
