@@ -202,7 +202,7 @@
      "tony_played": "Y",
      "Stake (u)": 0.25,
      "Profit (u)": -0.25,
-     "title": "NHL Same Game Parlay+ 5-leg (0.25u as placed, accepted slip odds +516 as read by Sal from the slip):",
+     "title": "NHL Same Game Parlay+ 5-leg",
      "legs": [
       {
        "mark": "none",
@@ -240,7 +240,7 @@
      "tony_played": "Y",
      "Stake (u)": 0.25,
      "Profit (u)": -0.25,
-     "title": "NBA same-game lotto SGP 6-leg (0.25u as placed, accepted slip odds +4604 as read by Sal from the slip, Maxey leg added by Tony):",
+     "title": "NBA same-game lotto SGP 6-leg",
      "legs": [
       {
        "mark": "none",
@@ -515,7 +515,7 @@
      "tony_played": "N",
      "Stake (u)": "",
      "Profit (u)": "",
-     "title": "LADDER (3-leg, Day 1 restart after Nov 7 Jokic 8 ast HIT / Avdija 20+ MISS with 15 pts per ESPN box; proposed, stake unset, not yet confirmed placed):",
+     "title": "LADDER",
      "legs": [
       {
        "mark": "pending",
@@ -590,7 +590,7 @@
      "tony_played": "Y",
      "Stake (u)": 1,
      "Profit (u)": "",
-     "title": "Same Game Parlay 2-leg (1u as placed; slip +111; win pays +1.11u, total return 2.11u; book unconfirmed):",
+     "title": "Same Game Parlay 2-leg",
      "legs": [
       {
        "mark": "pending",
@@ -788,7 +788,7 @@
      "tony_played": "Y",
      "Stake (u)": 1,
      "Profit (u)": 1.09,
-     "title": "LADDER day 2 (3-leg; 1u as placed; FD +109; win pays +1.09u):",
+     "title": "LADDER day 2",
      "legs": [
       {
        "mark": "hit",
@@ -1022,7 +1022,7 @@
      "tony_played": "Y",
      "Stake (u)": 1,
      "Profit (u)": 1.11,
-     "title": "NBA 3-leg parlay (1u as placed; FD +111 as quoted, not confirmed from slip; win pays +1.11u):",
+     "title": "NBA 3-leg parlay",
      "legs": [
       {
        "mark": "hit",
@@ -1052,7 +1052,7 @@
      "tony_played": "Y",
      "Stake (u)": 0.75,
      "Profit (u)": -0.75,
-     "title": "NBA 6-leg prop parlay (0.75u as placed; slip price +827; win pays +6.20u):",
+     "title": "NBA 6-leg prop parlay",
      "legs": [
       {
        "mark": "miss",
@@ -1144,7 +1144,7 @@
      "tony_played": "Y",
      "Stake (u)": 1,
      "Profit (u)": -1,
-     "title": "NFL 4-leg same-game parlay SAFE (1u as placed; price +92 as quoted per Sam's card, unconfirmed, no slip yet; win pays +0.92u; legs per Sam's card, unconfirmed):",
+     "title": "NFL 4-leg same-game parlay SAFE",
      "legs": [
       {
        "mark": "hit",
@@ -1178,7 +1178,7 @@
      "tony_played": "Y",
      "Stake (u)": 0.5,
      "Profit (u)": -0.5,
-     "title": "NFL 3-leg TD parlay (0.5u as placed; price +2380 as quoted per Sam's card, unconfirmed, no slip yet; win pays +11.90u; legs per Sam's card, unconfirmed):",
+     "title": "NFL 3-leg TD parlay",
      "legs": [
       {
        "mark": "hit",
@@ -1253,7 +1253,7 @@
      "tony_played": "Y",
      "Stake (u)": 0.5,
      "Profit (u)": -0.5,
-     "title": "PARLAY 4-leg anytime TD (est. +716, slip may differ):",
+     "title": "PARLAY 4-leg anytime TD",
      "legs": [
       {
        "mark": "none",
@@ -1287,7 +1287,7 @@
      "tony_played": "Y",
      "Stake (u)": 1,
      "Profit (u)": 3.51,
-     "title": "PARLAY 3-leg anytime TD A (est. +351, slip may differ):",
+     "title": "PARLAY 3-leg anytime TD A",
      "legs": [
       {
        "mark": "hit",
@@ -1317,7 +1317,7 @@
      "tony_played": "Y",
      "Stake (u)": 1,
      "Profit (u)": -1,
-     "title": "PARLAY 3-leg anytime TD B (was est. +843):",
+     "title": "PARLAY 3-leg anytime TD B",
      "legs": [
       {
        "mark": "hit",
@@ -1347,7 +1347,7 @@
      "tony_played": "Y",
      "Stake (u)": 1,
      "Profit (u)": -1,
-     "title": "PARLAY 6-leg props morning (est. +707, slip may differ):",
+     "title": "PARLAY 6-leg props morning",
      "legs": [
       {
        "mark": "hit",
@@ -1389,7 +1389,7 @@
      "tony_played": "Y",
      "Stake (u)": 1,
      "Profit (u)": -1,
-     "title": "PARLAY 6-leg props afternoon (est. +812, slip may differ):",
+     "title": "PARLAY 6-leg props afternoon",
      "legs": [
       {
        "mark": "hit",
@@ -1431,7 +1431,7 @@
      "tony_played": "Y",
      "Stake (u)": 1,
      "Profit (u)": -1,
-     "title": "PARLAY 5-leg morning props as placed (was +473):",
+     "title": "PARLAY 5-leg morning props as placed",
      "legs": [
       {
        "mark": "miss",
@@ -1465,7 +1465,7 @@
      "tony_played": "Y",
      "Stake (u)": 0.5,
      "Profit (u)": -0.5,
-     "title": "CVS LOTTO 24-leg props, all 8 builder parlays in one (est. +33245 product of leg prices, slip may differ and will likely price lower):",
+     "title": "CVS LOTTO 24-leg props, all 8 builder parlays in one",
      "legs": [
       {
        "mark": "none",
@@ -1579,7 +1579,7 @@
      "tony_played": "Y",
      "Stake (u)": 0.5,
      "Profit (u)": -0.5,
-     "title": "LADDER (2-leg, fresh day 1 restart, slip +105):",
+     "title": "LADDER",
      "legs": [
       {
        "mark": "miss",
@@ -1979,7 +1979,7 @@
      "tony_played": "Y",
      "Stake (u)": 0.5,
      "Profit (u)": -0.5,
-     "title": "PARLAY 4-leg SGP+ as placed (slip +942):",
+     "title": "PARLAY 4-leg SGP+ as placed",
      "legs": [
       {
        "mark": "hit",
@@ -2013,7 +2013,7 @@
      "tony_played": "Y",
      "Stake (u)": 0.5,
      "Profit (u)": -0.5,
-     "title": "LADDER Sunday day 1 MORNING (3-leg, slip +104, rolls into day 2):",
+     "title": "LADDER Sunday day 1 MORNING",
      "legs": [
       {
        "mark": "hit",
@@ -2043,7 +2043,7 @@
      "tony_played": "Y",
      "Stake (u)": 1,
      "Profit (u)": -1,
-     "title": "PARLAY 7-leg anytime TD SGP+ as placed (slip +3501):",
+     "title": "PARLAY 7-leg anytime TD SGP+ as placed",
      "legs": [
       {
        "mark": "none",
@@ -2093,7 +2093,7 @@
      "tony_played": "Y",
      "Stake (u)": 0.5,
      "Profit (u)": -0.5,
-     "title": "PARLAY 4-leg sleeper anytime TD (est. +7014, slip not seen, assumed full 4-leg):",
+     "title": "PARLAY 4-leg sleeper anytime TD",
      "legs": [
       {
        "mark": "none",
@@ -2191,7 +2191,7 @@
      "tony_played": "Y",
      "Stake (u)": 1,
      "Profit (u)": -1,
-     "title": "PARLAY 6-leg NBA props with 30% profit boost (est. +655 base -> ~+852 boosted, slip not seen):",
+     "title": "PARLAY 6-leg NBA props with 30% profit boost",
      "legs": [
       {
        "mark": "hit",
@@ -2233,7 +2233,7 @@
      "tony_played": "Y",
      "Stake (u)": 1,
      "Profit (u)": -1,
-     "title": "BUILDER PARLAY 3-leg (est. ~+130, slip may differ):",
+     "title": "BUILDER PARLAY 3-leg",
      "legs": [
       {
        "mark": "hit",
@@ -2263,7 +2263,7 @@
      "tony_played": "Y",
      "Stake (u)": 1,
      "Profit (u)": 1.3,
-     "title": "BUILDER PARLAY 3-leg (est. ~+128, slip may differ):",
+     "title": "BUILDER PARLAY 3-leg",
      "legs": [
       {
        "mark": "hit",
@@ -2293,7 +2293,7 @@
      "tony_played": "Y",
      "Stake (u)": 1,
      "Profit (u)": -1,
-     "title": "BUILDER PARLAY 3-leg (est. ~+128, slip may differ):",
+     "title": "BUILDER PARLAY 3-leg",
      "legs": [
       {
        "mark": "miss",
@@ -2323,7 +2323,7 @@
      "tony_played": "Y",
      "Stake (u)": 1,
      "Profit (u)": -1,
-     "title": "BUILDER PARLAY 3-leg (est. ~+130, slip may differ):",
+     "title": "BUILDER PARLAY 3-leg",
      "legs": [
       {
        "mark": "hit",
@@ -2353,7 +2353,7 @@
      "tony_played": "Y",
      "Stake (u)": 1,
      "Profit (u)": 1.11,
-     "title": "LADDER restart day 1 (afternoon) 4-leg (est. +111, slip may differ):",
+     "title": "LADDER restart day 1",
      "legs": [
       {
        "mark": "hit",
@@ -2387,7 +2387,7 @@
      "tony_played": "Y",
      "Stake (u)": 1,
      "Profit (u)": -1,
-     "title": "PARLAY 5-leg MLS SOA (est. +588, slip may differ):",
+     "title": "PARLAY 5-leg MLS SOA",
      "legs": [
       {
        "mark": "miss",
@@ -2425,7 +2425,7 @@
      "tony_played": "Y",
      "Stake (u)": 1,
      "Profit (u)": -1,
-     "title": "SGP+ 10-leg NFL 3 same-game parlays (slip +2250, stake not shown):",
+     "title": "SGP+ 10-leg NFL 3 same-game parlays",
      "legs": [
       {
        "mark": "miss",
@@ -2475,7 +2475,7 @@
      "tony_played": "Y",
      "Stake (u)": 0.7,
      "Profit (u)": "",
-     "title": "SGP+ 4-leg NFL anytime TD (slip +2220):",
+     "title": "SGP+ 4-leg NFL anytime TD",
      "legs": [
       {
        "mark": "hit",
@@ -2543,7 +2543,7 @@
      "tony_played": "Y",
      "Stake (u)": 0.75,
      "Profit (u)": -0.75,
-     "title": "PARLAY 3-leg SNF anytime TD (est. +2275, slip may differ):",
+     "title": "PARLAY 3-leg SNF anytime TD",
      "legs": [
       {
        "mark": "hit",
@@ -2573,7 +2573,7 @@
      "tony_played": "Y",
      "Stake (u)": 1.25,
      "Profit (u)": -1.25,
-     "title": "SGP 6-leg SNF props as placed (slip +462 with +30% boost):",
+     "title": "SGP 6-leg SNF props as placed",
      "legs": [
       {
        "mark": "hit",
@@ -2615,7 +2615,7 @@
      "tony_played": "Y",
      "Stake (u)": 0.75,
      "Profit (u)": -0.75,
-     "title": "SGP 6-leg SNF props (est. +944, slip may differ):",
+     "title": "SGP 6-leg SNF props",
      "legs": [
       {
        "mark": "hit",
@@ -2707,7 +2707,7 @@
      "tony_played": "Y",
      "Stake (u)": 1.5,
      "Profit (u)": -1.5,
-     "title": "PARLAY 8-leg SNF halftime props, full-game lines with 1H banked (est. +1399, slip may differ):",
+     "title": "PARLAY 8-leg SNF halftime props, full-game lines with 1H banked",
      "legs": [
       {
        "mark": "hit",
@@ -2785,7 +2785,7 @@
      "tony_played": "Y",
      "Stake (u)": 2.5,
      "Profit (u)": -2.5,
-     "title": "LADDER (2-leg, RESTART day 1, est. +94, slip may differ):",
+     "title": "LADDER",
      "legs": [
       {
        "mark": "hit",
@@ -2947,7 +2947,7 @@
      "tony_played": "Y",
      "Stake (u)": 0.5,
      "Profit (u)": -0.5,
-     "title": "SOA PARLAY 5-leg LIVE, FREE BONUS BET (est. +4458, slip may differ, free bet stake not returned, a loss costs 0u):",
+     "title": "SOA PARLAY 5-leg LIVE, FREE BONUS BET",
      "legs": [
       {
        "mark": "miss",
@@ -3202,7 +3202,7 @@
      "tony_played": "Y",
      "Stake (u)": 1,
      "Profit (u)": -1,
-     "title": "PARLAY 5-leg (SGP+):",
+     "title": "PARLAY 5-leg",
      "legs": [
       {
        "mark": "hit",
@@ -3244,7 +3244,7 @@
      "tony_played": "Y",
      "Stake (u)": 1,
      "Profit (u)": -1,
-     "title": "SOA PARLAY 3-leg, FREE BONUS BET (est. +1463, slip may differ, free bet stake not returned, a loss costs 0u):",
+     "title": "SOA PARLAY 3-leg, FREE BONUS BET",
      "legs": [
       {
        "mark": "miss",
@@ -3274,7 +3274,7 @@
      "tony_played": "Y",
      "Stake (u)": 1,
      "Profit (u)": 0.93,
-     "title": "SGP 3-leg (slip -107):",
+     "title": "SGP 3-leg",
      "legs": [
       {
        "mark": "hit",
@@ -3321,7 +3321,7 @@
      "tony_played": "Y",
      "Stake (u)": 1,
      "Profit (u)": -1,
-     "title": "SGP 4-leg LIVE (est. +108, slip may differ):",
+     "title": "SGP 4-leg LIVE",
      "legs": [
       {
        "mark": "hit",
@@ -3372,7 +3372,7 @@
      "tony_played": "Y",
      "Stake (u)": 1,
      "Profit (u)": -1,
-     "title": "PARLAY 4-leg (est. +361, slip may differ):",
+     "title": "PARLAY 4-leg",
      "legs": [
       {
        "mark": "hit",
@@ -3406,7 +3406,7 @@
      "tony_played": "Y",
      "Stake (u)": 1,
      "Profit (u)": -1,
-     "title": "PARLAY 6-leg SGP as placed (slip +1068):",
+     "title": "PARLAY 6-leg SGP as placed",
      "legs": [
       {
        "mark": "miss",
@@ -3448,7 +3448,7 @@
      "tony_played": "Y",
      "Stake (u)": 1,
      "Profit (u)": 3.56,
-     "title": "PARLAY 4-leg as placed (slip +356):",
+     "title": "PARLAY 4-leg as placed",
      "legs": [
       {
        "mark": "hit",
@@ -3482,7 +3482,7 @@
      "tony_played": "Y",
      "Stake (u)": 1.45,
      "Profit (u)": -1.45,
-     "title": "PARLAY SGP+ as placed (slip +476):",
+     "title": "PARLAY SGP+ as placed",
      "legs": [
       {
        "mark": "hit",
@@ -3520,7 +3520,7 @@
      "tony_played": "Y",
      "Stake (u)": 1,
      "Profit (u)": -1,
-     "title": "PARLAY 6-leg SGP as placed (was +1127):",
+     "title": "PARLAY 6-leg SGP as placed",
      "legs": [
       {
        "mark": "hit",
@@ -3590,7 +3590,7 @@
      "tony_played": "Y",
      "Stake (u)": 0.5,
      "Profit (u)": -0.5,
-     "title": "LADDER (3-leg):",
+     "title": "LADDER",
      "legs": [
       {
        "mark": "hit",
@@ -3773,7 +3773,7 @@
      "tony_played": "Y",
      "Stake (u)": 1,
      "Profit (u)": -1,
-     "title": "PARLAY 6-leg (est. +544, slip price not confirmed):",
+     "title": "PARLAY 6-leg",
      "legs": [
       {
        "mark": "hit",
@@ -3815,7 +3815,7 @@
      "tony_played": "Y",
      "Stake (u)": 0.5,
      "Profit (u)": -0.5,
-     "title": "PARLAY 5-leg 1+ pts (est. +456, slip price not confirmed):",
+     "title": "PARLAY 5-leg 1+ pts",
      "legs": [
       {
        "mark": "hit",
@@ -3887,7 +3887,7 @@
      "tony_played": "Y",
      "Stake (u)": 1,
      "Profit (u)": -1,
-     "title": "PARLAY 3-leg game props (est. +360, slip price not confirmed):",
+     "title": "PARLAY 3-leg game props",
      "legs": [
       {
        "mark": "hit",
@@ -3917,7 +3917,7 @@
      "tony_played": "Y",
      "Stake (u)": 1.5,
      "Profit (u)": -1.5,
-     "title": "PARLAY 2-leg moneylines (est. +163, slip price not confirmed):",
+     "title": "PARLAY 2-leg moneylines",
      "legs": [
       {
        "mark": "hit",
@@ -3943,7 +3943,7 @@
      "tony_played": "Y",
      "Stake (u)": 0.5,
      "Profit (u)": -0.5,
-     "title": "LADDER (separate 5u play, est. +110, slip price not confirmed):",
+     "title": "LADDER",
      "legs": [
       {
        "mark": "hit",
@@ -3990,7 +3990,7 @@
      "tony_played": "N",
      "Stake (u)": "",
      "Profit (u)": "",
-     "title": "SGP 6-leg (est. +610 product of legs, slip will be lower; stake not given):",
+     "title": "SGP 6-leg",
      "legs": [
       {
        "mark": "hit",
@@ -4043,7 +4043,7 @@
      "tony_played": "Y",
      "Stake (u)": 9.95,
      "Profit (u)": 9.95,
-     "title": "LADDER (3-leg):",
+     "title": "LADDER",
      "legs": [
       {
        "mark": "hit",
@@ -4226,7 +4226,7 @@
      "tony_played": "Y",
      "Stake (u)": "stake?",
      "Profit (u)": "",
-     "title": "WNBA SGP 6-leg (slip +897):",
+     "title": "WNBA SGP 6-leg",
      "legs": [
       {
        "mark": "hit",
@@ -4268,7 +4268,7 @@
      "tony_played": "Y",
      "Stake (u)": 1,
      "Profit (u)": 1.17,
-     "title": "SOT PARLAY 2-leg (+117 slip)):",
+     "title": "SOT PARLAY 2-leg",
      "legs": [
       {
        "mark": "hit",
@@ -4294,7 +4294,7 @@
      "tony_played": "Y",
      "Stake (u)": 0.25,
      "Profit (u)": -0.25,
-     "title": "SOA PARLAY 2-leg (slip price not provided):",
+     "title": "SOA PARLAY 2-leg",
      "legs": [
       {
        "mark": "hit",
@@ -4320,7 +4320,7 @@
      "tony_played": "Y",
      "Stake (u)": 2.43,
      "Profit (u)": -2.43,
-     "title": "SGP 7-leg (Bet Protect+):",
+     "title": "SGP 7-leg",
      "legs": [
       {
        "mark": "hit",
@@ -4366,7 +4366,7 @@
      "tony_played": "Y",
      "Stake (u)": 0.75,
      "Profit (u)": -0.75,
-     "title": "SGP+ 6-leg (3 same-game parlays):",
+     "title": "SGP+ 6-leg",
      "legs": [
       {
        "mark": "hit",
@@ -4408,7 +4408,7 @@
      "tony_played": "Y",
      "Stake (u)": 1.03,
      "Profit (u)": -1.03,
-     "title": "PARLAY 4-leg (unboosted +259):",
+     "title": "PARLAY 4-leg",
      "legs": [
       {
        "mark": "miss",
@@ -4476,7 +4476,7 @@
      "tony_played": "Y",
      "Stake (u)": 0.5,
      "Profit (u)": -0.5,
-     "title": "SGP 6-leg (est. +635, slip price not confirmed):",
+     "title": "SGP 6-leg",
      "legs": [
       {
        "mark": "miss",
@@ -4529,7 +4529,7 @@
      "tony_played": "Y",
      "Stake (u)": 5,
      "Profit (u)": 4.95,
-     "title": "LADDER (3-leg):",
+     "title": "LADDER",
      "legs": [
       {
        "mark": "hit",
@@ -4912,7 +4912,7 @@
      "tony_played": "Y",
      "Stake (u)": "stake?",
      "Profit (u)": "",
-     "title": "SOCCER PARLAY 5-leg (slip +511):",
+     "title": "SOCCER PARLAY 5-leg",
      "legs": [
       {
        "mark": "hit",
@@ -4950,7 +4950,7 @@
      "tony_played": "Y",
      "Stake (u)": 1,
      "Profit (u)": 11.65,
-     "title": "MLS SOA PARLAY 4-leg (slip +1165):",
+     "title": "MLS SOA PARLAY 4-leg",
      "legs": [
       {
        "mark": "hit",
@@ -4984,7 +4984,7 @@
      "tony_played": "Y",
      "Stake (u)": 1,
      "Profit (u)": -1,
-     "title": "MLS PARLAY 2-leg (slip +185):",
+     "title": "MLS PARLAY 2-leg",
      "legs": [
       {
        "mark": "hit",
@@ -5010,7 +5010,7 @@
      "tony_played": "Y",
      "Stake (u)": "stake?",
      "Profit (u)": "",
-     "title": "MLS SOA PARLAY 3-leg (slip +615):",
+     "title": "MLS SOA PARLAY 3-leg",
      "legs": [
       {
        "mark": "miss",
@@ -5051,7 +5051,7 @@
      "tony_played": "Y",
      "Stake (u)": "",
      "Profit (u)": "",
-     "title": "LADDER (4-leg):",
+     "title": "LADDER",
      "legs": [
       {
        "mark": "none",
@@ -5247,7 +5247,7 @@
      "tony_played": "Y",
      "Stake (u)": "",
      "Profit (u)": "",
-     "title": "LADDER (3-leg):",
+     "title": "LADDER",
      "legs": [
       {
        "mark": "none",
@@ -5464,7 +5464,7 @@
      "tony_played": "Y",
      "Stake (u)": "",
      "Profit (u)": "",
-     "title": "Tony 8-leg SGP (DAL@PHI):",
+     "title": "Tony 8-leg SGP",
      "legs": [
       {
        "mark": "none",
@@ -5663,7 +5663,7 @@
      "tony_played": "Y",
      "Stake (u)": "",
      "Profit (u)": "",
-     "title": "LADDER day 1 restart (Tony's actual 3-leg SGP+, replaced Vikings with Wagner):",
+     "title": "LADDER day 1 restart",
      "legs": [
       {
        "mark": "none",
@@ -5829,7 +5829,7 @@
      "tony_played": "Y",
      "Stake (u)": "",
      "Profit (u)": "",
-     "title": "Tony SGP (4-leg):",
+     "title": "Tony SGP",
      "legs": [
       {
        "mark": "none",
@@ -6381,7 +6381,7 @@
      "tony_played": "Y",
      "Stake (u)": "",
      "Profit (u)": "",
-     "title": "LADDER day 1 (Tony 2-leg parlay):",
+     "title": "LADDER day 1",
      "legs": [
       {
        "mark": "none",
@@ -7965,7 +7965,7 @@
      "tony_played": "Y",
      "Stake (u)": "",
      "Profit (u)": "",
-     "title": "Tony 8-leg SGP (30% boost):",
+     "title": "Tony 8-leg SGP",
      "legs": [
       {
        "mark": "miss",

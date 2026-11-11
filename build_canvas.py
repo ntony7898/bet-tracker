@@ -19,8 +19,11 @@ def tidy(t):
       if '): ' in l['text']:
         t['legs']=[dict(l,text=l['text'].split('): ',1)[1])]+t['legs'][i+1:]
         t['title']=ti[:ti.index('(')].strip();break
+def tidy2(t):
+  ti=t.get('title','')
+  if ti.endswith('):') and '(' in ti: t['title']=ti[:ti.index('(')].strip()
 for _x in d['days']:
-  for _t in _x['tickets']: tidy(_t)
+  for _t in _x['tickets']: tidy(_t);tidy2(_t)
 sys.path.insert(0,H);import prune;GT=prune.apply(d)['grand']
 xg=next(u['net'] for u in d['units'] if u['period']=='Grand total')
 if f"{'+' if GT[0]>=0 else ''}{GT[0]:.2f}u"!=xg: sys.exit(f'ABORT: archive+tickets grand total {GT[0]:+.2f}u != xlsx Grand total {xg}. Not publishing.')
