@@ -85,6 +85,7 @@ with sync_playwright() as p:
     nm=cards.nth(i).locator('summary .sp').inner_text().strip();u=sum(r[12] for r in tixA if nz(r)==nm and isinstance(r[12],(int,float)))
     js=U['rows'][-1]['units'].get(nm);chk('sport card net '+nm,cards.nth(i).locator('summary b').inner_text(),(('+' if u>=0 else '')+f"{u:.2f}u") if any(nz(r)==nm and isinstance(r[12],(int,float)) for r in tixA) else 'no units')
     if nm=='Multi': u=sum(r[12] for r in tixA if nz(r) in('Ladder','Multi') and isinstance(r[12],(int,float)));nm='Ladder+Multi'
+    if nm=='Ladder+Multi': u+=sum(r[12] for r in tixA if nz(r) not in set(U['sports'])|{'Ladder','Multi'} and isinstance(r[12],(int,float)) and nz(r) in ('NCAAM',)) # Units sheet has no column for new sports (NCAAM): it folds them into Multi
     if js is not None and nm!='Ladder': chk('  matches json '+nm,round(u,2),round(js,2))
   cards.first.locator('summary').click();pg.wait_for_timeout(200);pg.screenshot(path=SS+'canvas-sports.png')
   for v in ['today','past','summary','sports','totals','records']:

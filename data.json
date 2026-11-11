@@ -14,13 +14,13 @@
  "records": [
   [
    "All picks",
-   "214-266",
+   "215-268",
    "37-58",
    "41-46",
    "11-10",
    "7-14",
-   "56-76",
-   "62-62"
+   "56-77",
+   "63-63"
   ],
   [
    "Favorites",
@@ -34,21 +34,21 @@
   ],
   [
    "Tony played",
-   "66-109",
+   "67-111",
    "10-34",
    "9-15",
    "0-0",
    "5-11",
-   "6-23",
-   "36-26"
+   "6-24",
+   "37-27"
   ]
  ],
  "units": [
   {
    "period": "November 2026",
-   "net": "-15.06u",
-   "settled": 44,
-   "pending": 10
+   "net": "-15.56u",
+   "settled": 46,
+   "pending": 8
   },
   {
    "period": "October 2026",
@@ -58,32 +58,32 @@
   },
   {
    "period": "Year 2026",
-   "net": "-0.74u",
-   "settled": 87,
-   "pending": 12
+   "net": "-1.24u",
+   "settled": 89,
+   "pending": 10
   },
   {
    "period": "Grand total",
-   "net": "-0.74u",
-   "settled": 87,
-   "pending": 12
+   "net": "-1.24u",
+   "settled": 89,
+   "pending": 10
   }
  ],
  "days": [
   {
-   "banner": "Tuesday, Nov 10   |   Day: 0-1 (4 pending)   |   Tony played: 0-1   |   Net -0.25u (4 pending)   |   Running -0.74u",
+   "banner": "Tuesday, Nov 10   |   Day: 1-3 (1 pending)   |   Tony played: 1-3   |   Net -0.75u (2 pending)   |   Running -1.24u",
    "label": "Tuesday, Nov 10",
    "tickets": [
     {
      "date": "2026-11-10",
      "sport": "Ladder",
      "game": "MIN@MTL 5:00 PM AZ / NJ@WPG 5:00 PM AZ / BOS@PHI 6:00 PM AZ",
-     "pick": "Day 3 LADDER 3-leg parlay (2.00u as placed; stake 2.00u per Tony's Day 3 doubling rule, Day 1 0.5u and Day 2 1u; Tony 8:\n⏳ 35 AM AZ in Sal chat: 'I only took the ladder' and 'New version' = Hughes swap\n⏳ accepted slip odds unconfirmed\n⏳ ~+118 arithmetic only): Kaprizov 1+ pt -390 (Wild at Canadiens 5PM)\n⏳ Jack Hughes 3+ SOG -360 (Devils at Jets 5PM)\n⏳ Maxey 20+ pts -280 (Celtics at 76ers 6PM)",
+     "pick": "Day 3 LADDER 3-leg parlay (2.00u as placed; stake 2.00u per Tony's Day 3 doubling rule, Day 1 0.5u and Day 2 1u; Tony 8:\n- 35 AM AZ in Sal chat: 'I only took the ladder' and 'New version' = Hughes swap\n- accepted slip odds unconfirmed\n- ~+118 arithmetic only): Kaprizov 1+ pt -390 (Wild at Canadiens 5PM)\n- Jack Hughes 3+ SOG -360 (Devils at Jets 5PM)\n- Maxey 20+ pts -280 (Celtics at 76ers 6PM)",
      "book": "FanDuel",
      "odds": "",
      "implied": "",
      "est": "",
-     "result": "",
+     "result": "W",
      "favorite": "N",
      "tony_played": "Y",
      "Stake (u)": 2,
@@ -91,23 +91,23 @@
      "title": "Day 3 LADDER 3-leg parlay (2.00u as placed; stake 2.00u per Tony's Day 3 doubling rule, Day 1 0.5u and Day 2 1u; Tony 8:",
      "legs": [
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "35 AM AZ in Sal chat: 'I only took the ladder' and 'New version' = Hughes swap"
       },
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "accepted slip odds unconfirmed"
       },
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "~+118 arithmetic only): Kaprizov 1+ pt -390 (Wild at Canadiens 5PM)"
       },
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "Jack Hughes 3+ SOG -360 (Devils at Jets 5PM)"
       },
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "Maxey 20+ pts -280 (Celtics at 76ers 6PM)"
       }
      ]
@@ -116,36 +116,36 @@
      "date": "2026-11-10",
      "sport": "NCAAM",
      "game": "FLA@FSU 4:00 PM AZ / VT vs IOWA 5:00 PM AZ / DUKE vs MSU 5:00 PM AZ / MEM@VAN 5:15 PM AZ / CREI@KSU 7:00 PM AZ",
-     "pick": "NCAAM alt-spread 5-leg parlay (0.25u as placed, accepted slip odds unconfirmed, ~+497 arithmetic only from FanDuel AZ prices pulled 11:\n⏳ 18 AM): Florida -6.5 -188 (at Florida State 4PM)\n⏳ Virginia Tech +7.5 -192 (vs Iowa 5PM)\n⏳ Duke -1.5 -335 (vs Michigan State 5PM)\n⏳ Memphis +20.5 -280 (at Vanderbilt 5:15PM)\n⏳ Creighton +2.5 -220 (at Kansas State 7PM)",
+     "pick": "NCAAM alt-spread 5-leg parlay (0.25u as placed, accepted slip odds unconfirmed, ~+497 arithmetic only from FanDuel AZ prices pulled 11:\n- 18 AM): Florida -6.5 -188 (at Florida State 4PM)\n- Virginia Tech +7.5 -192 (vs Iowa 5PM)\n- Duke -1.5 -335 (vs Michigan State 5PM)\n- Memphis +20.5 -280 (at Vanderbilt 5:15PM)\n- Creighton +2.5 -220 (at Kansas State 7PM)",
      "book": "FanDuel",
      "odds": "",
      "implied": "",
      "est": "",
-     "result": "",
+     "result": "L",
      "favorite": "N",
      "tony_played": "Y",
      "Stake (u)": 0.25,
-     "Profit (u)": "",
+     "Profit (u)": -0.25,
      "title": "NCAAM alt-spread 5-leg parlay (0.25u as placed, accepted slip odds unconfirmed, ~+497 arithmetic only from FanDuel AZ prices pulled 11:",
      "legs": [
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "18 AM): Florida -6.5 -188 (at Florida State 4PM)"
       },
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "Virginia Tech +7.5 -192 (vs Iowa 5PM)"
       },
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "Duke -1.5 -335 (vs Michigan State 5PM)"
       },
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "Memphis +20.5 -280 (at Vanderbilt 5:15PM)"
       },
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "Creighton +2.5 -220 (at Kansas State 7PM)"
       }
      ]
@@ -262,49 +262,49 @@
      "date": "2026-11-10",
      "sport": "NBA",
      "game": "BOS@PHI 6:00 PM AZ",
-     "pick": "NBA same-game lotto SGP 6-leg (0.25u as placed, accepted slip odds +4604 as read by Sal from the slip, Maxey leg added by Tony):\n⏳ Jaylen Brown 25+ pts\n⏳ Paul George 20+ pts\n⏳ Joel Embiid 10+ reb\n⏳ Jayson Tatum 6+ ast\n⏳ VJ Edgecombe 6+ reb\n⏳ Tyrese Maxey 6+ ast (Celtics at 76ers 6PM)",
+     "pick": "NBA same-game lotto SGP 6-leg (0.25u as placed, accepted slip odds +4604 as read by Sal from the slip, Maxey leg added by Tony):\n- Jaylen Brown 25+ pts\n- Paul George 20+ pts\n- Joel Embiid 10+ reb\n- Jayson Tatum 6+ ast\n- VJ Edgecombe 6+ reb\n- Tyrese Maxey 6+ ast (Celtics at 76ers 6PM)",
      "book": "FanDuel",
      "odds": "+4604",
      "implied": "2.1%",
      "est": "",
-     "result": "",
+     "result": "L",
      "favorite": "N",
      "tony_played": "Y",
      "Stake (u)": 0.25,
-     "Profit (u)": "",
+     "Profit (u)": -0.25,
      "title": "NBA same-game lotto SGP 6-leg (0.25u as placed, accepted slip odds +4604 as read by Sal from the slip, Maxey leg added by Tony):",
      "legs": [
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "Jaylen Brown 25+ pts"
       },
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "Paul George 20+ pts"
       },
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "Joel Embiid 10+ reb"
       },
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "Jayson Tatum 6+ ast"
       },
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "VJ Edgecombe 6+ reb"
       },
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "Tyrese Maxey 6+ ast (Celtics at 76ers 6PM)"
       }
      ]
     }
    ],
-   "day": "0-1 (4 pending)",
-   "tony_played": "0-1",
-   "net": "-0.25u (4 pending)",
-   "running": "-0.74u",
+   "day": "1-3 (1 pending)",
+   "tony_played": "1-3",
+   "net": "-0.75u (2 pending)",
+   "running": "-1.24u",
    "date": "2026-11-10"
   },
   {
@@ -11234,13 +11234,13 @@
    "rows": [
     [
      "All picks",
-     "31-47",
+     "32-49",
      "12-29",
      "5-6",
      "0-0",
      "1-0",
-     "6-7",
-     "7-5"
+     "6-8",
+     "8-6"
     ],
     [
      "Favorites",
@@ -11254,18 +11254,18 @@
     ],
     [
      "Tony played",
-     "16-35",
+     "17-37",
      "8-25",
      "1-4",
      "0-0",
      "1-0",
-     "1-2",
-     "5-4"
+     "1-3",
+     "6-5"
     ]
    ],
    "units": {
-    "net": "-15.06u",
-    "pending": "10 pending"
+    "net": "-15.56u",
+    "pending": "8 pending"
    }
   },
   {
@@ -11319,15 +11319,15 @@
  ],
  "legend": "Green = win, Red = loss, Yellow = push, Gray = pending. Newest day first.",
  "ticket_count": 498,
- "version": "2c67ca6194",
+ "version": "2be627cca6",
  "archive_sports": {},
  "live_ticket_count": 498,
  "totals": {
   "grand": [
-   -0.74,
-   214,
-   266,
-   14,
+   -1.24,
+   215,
+   268,
+   11,
    498
   ],
   "m2026-10": [
@@ -11338,15 +11338,15 @@
    408
   ],
   "m2026-11": [
-   -15.06,
-   31,
-   47,
-   12,
+   -15.56,
+   32,
+   49,
+   9,
    90
   ],
   "sLadder": [
    12.6,
-   8,
+   9,
    6,
    0,
    16
@@ -11366,9 +11366,9 @@
    2
   ],
   "sNBA": [
-   -2.98,
+   -3.23,
    56,
-   75,
+   76,
    0,
    134
   ],
@@ -11380,9 +11380,9 @@
    24
   ],
   "sNCAAM": [
-   0.0,
+   -0.25,
    0,
-   0,
+   1,
    0,
    1
   ],
@@ -11415,10 +11415,10 @@
    2
   ],
   "y2026": [
-   -0.74,
-   214,
-   266,
-   14,
+   -1.24,
+   215,
+   268,
+   11,
    498
   ]
  },
@@ -11440,14 +11440,14 @@
     "units": {
      "NFL": -12.51,
      "NHL": -3.25,
-     "NBA": -2.0,
+     "NBA": -2.25,
      "WNBA": 0,
      "Soccer": 0.5,
      "NCAAF": 0.64,
      "MLB": 0,
-     "Multi": 1.56
+     "Multi": 1.31
     },
-    "total": -15.06
+    "total": -15.56
    },
    {
     "period": "October 2026",
@@ -11468,14 +11468,14 @@
     "units": {
      "NFL": -14.94,
      "NHL": -3.06,
-     "NBA": -2.98,
+     "NBA": -3.23,
      "WNBA": -1.0,
      "Soccer": 12.39,
      "NCAAF": -4.11,
      "MLB": 0,
-     "Multi": 12.96
+     "Multi": 12.71
     },
-    "total": -0.74
+    "total": -1.24
    }
   ]
  }
