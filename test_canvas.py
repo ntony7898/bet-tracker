@@ -106,6 +106,18 @@ with sync_playwright() as p:
   if pg.locator('button.spc[data-sp=NBA]').count():
     pg.click('button.spc[data-sp=NBA]');pg.wait_for_timeout(200);pg.screenshot(path=SS+'canvas-sports-nba.png')
     pg.locator('.sback').click();pg.wait_for_timeout(150)
+  tab('today')
+  for nm,net in card_nets:
+    pg.click(f'.spchip[data-sp="{nm}"]');pg.wait_for_timeout(150)
+    run=pg.locator('.day .bn-st div',has_text='Running').locator('b').inner_text().strip()
+    chk('Today '+nm+' filtered running = sport card',run,net)
+    chk('Today '+nm+' only label',nm+' only' in pg.locator('.day .bn-sub').inner_text(),True)
+    if sum(1 for r in tix if nz(r)==nm and str(r[0])==td)==0:
+      chk('Today '+nm+' empty net',pg.locator('.day .bn-net').inner_text().strip(),'+0.00u')
+      chk('Today '+nm+' empty day',pg.locator('.day .bn-st div',has_text='Day').locator('b').inner_text().strip(),'0-0')
+  tab('past');pg.click('.spchip[data-sp=NFL]');pg.wait_for_timeout(150)
+  chk('Past NFL only label',pg.locator('details.pday .sponly').count()>0 and 'NFL only' in pg.locator('details.pday .bn-sub').first.inner_text(),True)
+  pg.click('.spchip[data-sp=all]');pg.wait_for_timeout(100)
   for v in ['today','past','summary','sports','totals','records']:
     tab(v);bt=pg.locator('body').inner_text();chk('$ only in note '+v,bt.count('$'),bt.count('1 unit = $20'))
   chk('console errors',errs,[]);b.close()
