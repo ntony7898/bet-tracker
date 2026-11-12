@@ -14,41 +14,41 @@
  "records": [
   [
    "All picks",
-   "219-274",
+   "225-277",
    "37-58",
-   "42-48",
+   "43-48",
    "11-10",
    "8-14",
    "57-79",
-   "64-65"
+   "69-68"
   ],
   [
    "Favorites",
-   "30-19",
+   "32-19",
    "3-4",
    "7-4",
    "0-0",
    "1-2",
    "11-3",
-   "8-6"
+   "10-6"
   ],
   [
    "Tony played",
-   "71-117",
+   "77-120",
    "10-34",
-   "10-17",
+   "11-17",
    "0-0",
    "6-11",
    "7-26",
-   "38-29"
+   "43-32"
   ]
  ],
  "units": [
   {
    "period": "November 2026",
-   "net": "-11.98u",
-   "settled": 57,
-   "pending": 6
+   "net": "-7.86u",
+   "settled": 66,
+   "pending": 7
   },
   {
    "period": "October 2026",
@@ -58,18 +58,534 @@
   },
   {
    "period": "Year 2026",
-   "net": "+2.34u",
-   "settled": 100,
-   "pending": 8
+   "net": "+6.46u",
+   "settled": 109,
+   "pending": 9
   },
   {
    "period": "Grand total",
-   "net": "+2.34u",
-   "settled": 100,
-   "pending": 8
+   "net": "+6.46u",
+   "settled": 109,
+   "pending": 9
   }
  ],
  "days": [
+  {
+   "banner": "Thursday, Nov 12   |   Day: 6-3 (8 pending)   |   Tony played: 6-3   |   Net +4.12u (1 pending)   |   Running +6.46u",
+   "label": "Thursday, Nov 12",
+   "tickets": [
+    {
+     "date": "2026-11-12",
+     "sport": "Ladder",
+     "game": "WSH@NJ 5:00 PM AZ / MIN@TOR 5:00 PM AZ / DAL@MIN 6:00 PM AZ",
+     "pick": "Day 1 LADDER restart (1.00u as played; Tony 8:\n⏳ 26 AM AZ Nov 12 in Sal chat: 'We starting 1 unit on the ladder'\n⏳ card rec was 0.5u\n⏳ Day 1 now starts at 1u): Jack Hughes 1+ pt -330 (Capitals at Devils 5:00PM)\n⏳ Kirill Kaprizov 1+ pt -370 (Wild at Maple Leafs 5:00PM)\n⏳ Jaden McDaniels 20+ PRA -500 (Mavericks at Timberwolves 6:00PM)\n⏳ about -101 computed from legs",
+     "book": "FanDuel",
+     "odds": "-101",
+     "implied": "50.3%",
+     "est": "60%",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 0.5,
+     "Profit (u)": "",
+     "title": "Day 1 LADDER restart",
+     "legs": [
+      {
+       "mark": "pending",
+       "text": "Jack Hughes 1+ pt -330 (Capitals at Devils 5:00PM)"
+      },
+      {
+       "mark": "pending",
+       "text": "Kirill Kaprizov 1+ pt -370 (Wild at Maple Leafs 5:00PM)"
+      },
+      {
+       "mark": "pending",
+       "text": "Jaden McDaniels 20+ PRA -500 (Mavericks at Timberwolves 6:00PM)"
+      },
+      {
+       "mark": "pending",
+       "text": "about -101 computed from legs"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-12",
+     "sport": "NHL",
+     "game": "WPG@DAL 6:00 PM AZ",
+     "pick": "Jason Robertson 3+ SOG -160 absolute favorite (REC only, not played; Nov 12 morning card, Sal BET verdict; tony_played N until Tony confirms); Sal updated price from -156 (Jets at Stars 6:00PM)",
+     "book": "FanDuel",
+     "odds": "-160",
+     "implied": "61.5%",
+     "est": "70%",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "Jason Robertson 3+ SOG -160 absolute favorite (REC only, not played; Nov 12 morning card, Sal BET verdict; tony_played N until Tony confirms); Sal updated price from -156 (Jets at Stars 6:00PM)",
+     "legs": []
+    },
+    {
+     "date": "2026-11-12",
+     "sport": "NBA",
+     "game": "DAL@MIN 6:00 PM AZ",
+     "pick": "Mavericks +5.5 -110 (REC only, not played; Nov 12 morning card, Sal BET verdict; tony_played N until Tony confirms); same game as the McDaniels 20+ PRA leg of the Day 1 ticket (mild correlation) (Mavericks at Timberwolves 6:\n⏳ 00PM)",
+     "book": "FanDuel",
+     "odds": "-110",
+     "implied": "52.4%",
+     "est": "55%",
+     "result": "",
+     "favorite": "Y",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "Mavericks +5.5 -110 (REC only, not played; Nov 12 morning card, Sal BET verdict; tony_played N until Tony confirms); same game as the McDaniels 20+ PRA leg of the Day 1 ticket (mild correlation) (Mavericks at Timberwolves 6:",
+     "legs": [
+      {
+       "mark": "pending",
+       "text": "00PM)"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-12",
+     "sport": "NFL",
+     "game": "WSH@NYG 6:15 PM AZ",
+     "pick": "Giants ML -132 (REC only, not played; Nov 12 morning card, Sal BET verdict; tony_played N until Tony confirms); conditional: pass if QB J.J. McCarthy sits (Commanders at Giants 6:15PM)",
+     "book": "FanDuel",
+     "odds": "-132",
+     "implied": "56.9%",
+     "est": "58%",
+     "result": "",
+     "favorite": "Y",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "Giants ML -132 (REC only, not played; Nov 12 morning card, Sal BET verdict; tony_played N until Tony confirms); conditional: pass if QB J.J. McCarthy sits (Commanders at Giants 6:15PM)",
+     "legs": []
+    },
+    {
+     "date": "2026-11-12",
+     "sport": "NCAAF",
+     "game": "MEM@USF 6:00 PM AZ",
+     "pick": "Memphis -3.5 -110 (REC only, not played; Nov 12 morning card, Sal BET verdict; tony_played N until Tony confirms); light research, low confidence (Memphis at South Florida 6:00PM)",
+     "book": "FanDuel",
+     "odds": "-110",
+     "implied": "52.4%",
+     "est": "54%",
+     "result": "",
+     "favorite": "Y",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "Memphis -3.5 -110 (REC only, not played; Nov 12 morning card, Sal BET verdict; tony_played N until Tony confirms); light research, low confidence (Memphis at South Florida 6:00PM)",
+     "legs": []
+    },
+    {
+     "date": "2026-11-12",
+     "sport": "Soccer",
+     "game": "BEL@TUR 10:00 AM AZ",
+     "pick": "Belgium ML -115 (REC only, not played; Nov 12 morning card, Sal BET verdict; tony_played N until Tony confirms); Nations League, DraftKings price via ESPN (Belgium at Turkiye 10:00AM)",
+     "book": "DraftKings",
+     "odds": "-115",
+     "implied": "53.5%",
+     "est": "55%",
+     "result": "",
+     "favorite": "Y",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "Belgium ML -115 (REC only, not played; Nov 12 morning card, Sal BET verdict; tony_played N until Tony confirms); Nations League, DraftKings price via ESPN (Belgium at Turkiye 10:00AM)",
+     "legs": []
+    },
+    {
+     "date": "2026-11-12",
+     "sport": "NBA",
+     "game": "TOR@PHI 5:00 PM AZ",
+     "pick": "Tyrese Maxey over 24.5 pts -102 (REC only, not played; Nov 12 morning card, Sal BET verdict; tony_played N until Tony confirms) (Raptors at 76ers 5:00PM)",
+     "book": "FanDuel",
+     "odds": "-102",
+     "implied": "50.5%",
+     "est": "56%",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "Tyrese Maxey over 24.5 pts -102 (REC only, not played; Nov 12 morning card, Sal BET verdict; tony_played N until Tony confirms) (Raptors at 76ers 5:00PM)",
+     "legs": []
+    },
+    {
+     "date": "2026-11-12",
+     "sport": "NHL",
+     "game": "CAR@SEA 10:00 AM AZ",
+     "pick": "Logan Stankoven 3+ SOG +128 sleeper (REC only, not played; Nov 12 morning card, Sal BET verdict; tony_played N until Tony confirms) (Hurricanes at Kraken 10:00AM)",
+     "book": "FanDuel",
+     "odds": "+128",
+     "implied": "43.9%",
+     "est": "55%",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "Logan Stankoven 3+ SOG +128 sleeper (REC only, not played; Nov 12 morning card, Sal BET verdict; tony_played N until Tony confirms) (Hurricanes at Kraken 10:00AM)",
+     "legs": []
+    },
+    {
+     "date": "2026-11-12",
+     "sport": "Soccer",
+     "game": "BEL@TUR 10:00 AM AZ",
+     "pick": "SGP live:\n- Charles De Ketelaere 1+ shot on target\n- Arda Guler 1+ shot on target (1.00u as placed\n- Tony's FanDuel slip screenshot in Sophie chat 10:44 AM AZ Nov 12\n- WON) (Turkiye vs Belgium\n- Nations League 10:00AM)",
+     "book": "FanDuel",
+     "odds": "-112",
+     "implied": "52.8%",
+     "est": "",
+     "result": "W",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": 0.89,
+     "title": "SGP live:",
+     "legs": [
+      {
+       "mark": "none",
+       "text": "Charles De Ketelaere 1+ shot on target"
+      },
+      {
+       "mark": "none",
+       "text": "Arda Guler 1+ shot on target (1.00u as placed"
+      },
+      {
+       "mark": "none",
+       "text": "Tony's FanDuel slip screenshot in Sophie chat 10:44 AM AZ Nov 12"
+      },
+      {
+       "mark": "none",
+       "text": "WON) (Turkiye vs Belgium"
+      },
+      {
+       "mark": "none",
+       "text": "Nations League 10:00AM)"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-12",
+     "sport": "NHL",
+     "game": "CAR@SEA 10:10 AM AZ",
+     "pick": "Live SGP:\n- Over 1.5 1st-period alt total goals\n- Philipp Grubauer 8+ 2nd-period alt saves (0.50u as placed\n- slip odds +121\n- Tony's own build\n- not Sal's pick\n- Tony 11:59 AM AZ Nov 12 in Sophie chat: 'We cash our live hockey'\n- WON) (Hurricanes at Kraken\n- Helsinki 10:10AM)",
+     "book": "FanDuel",
+     "odds": "+121",
+     "implied": "45.2%",
+     "est": "",
+     "result": "W",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 0.5,
+     "Profit (u)": 0.6,
+     "title": "Live SGP:",
+     "legs": [
+      {
+       "mark": "none",
+       "text": "Over 1.5 1st-period alt total goals"
+      },
+      {
+       "mark": "none",
+       "text": "Philipp Grubauer 8+ 2nd-period alt saves (0.50u as placed"
+      },
+      {
+       "mark": "none",
+       "text": "slip odds +121"
+      },
+      {
+       "mark": "none",
+       "text": "Tony's own build"
+      },
+      {
+       "mark": "none",
+       "text": "not Sal's pick"
+      },
+      {
+       "mark": "none",
+       "text": "Tony 11:59 AM AZ Nov 12 in Sophie chat: 'We cash our live hockey'"
+      },
+      {
+       "mark": "none",
+       "text": "WON) (Hurricanes at Kraken"
+      },
+      {
+       "mark": "none",
+       "text": "Helsinki 10:10AM)"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-12",
+     "sport": "Soccer",
+     "game": "ENG v CRO 12:45 PM AZ",
+     "pick": "England goalkeeper to make 2+ saves (1.00u as placed, bet ID us-az:01m78ev4m7fn5930wb0phg8vaa, placed 11:03 AM) (England v Croatia 12:45PM)",
+     "book": "FanDuel",
+     "odds": "-165",
+     "implied": "62.3%",
+     "est": "",
+     "result": "W",
+     "favorite": "Y",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": 0.61,
+     "title": "England goalkeeper to make 2+ saves (1.00u as placed, bet ID us-az:01m78ev4m7fn5930wb0phg8vaa, placed 11:03 AM) (England v Croatia 12:45PM)",
+     "legs": []
+    },
+    {
+     "date": "2026-11-12",
+     "sport": "Soccer",
+     "game": "ENG v CRO 12:45 PM AZ",
+     "pick": "England goalkeeper to make 2+ saves, second ticket (1.00u as placed, bet ID us-az:01m78jgn0xf01aj07vjd64b66z, placed 12:07 PM) (England v Croatia 12:45PM)",
+     "book": "FanDuel",
+     "odds": "-155",
+     "implied": "60.8%",
+     "est": "",
+     "result": "W",
+     "favorite": "Y",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": 0.65,
+     "title": "England goalkeeper to make 2+ saves, second ticket (1.00u as placed, bet ID us-az:01m78jgn0xf01aj07vjd64b66z, placed 12:07 PM) (England v Croatia 12:45PM)",
+     "legs": []
+    },
+    {
+     "date": "2026-11-12",
+     "sport": "Soccer",
+     "game": "ENG v CRO / FRA@ITA / MNE v LVA 12:45 PM AZ",
+     "pick": "4-leg Nations League lotto:\n- Harry Kane score or assist -280\n- Jude Bellingham score or assist -160 (England v Croatia)\n- Michael Olise score or assist -110 (France at Italy)\n- Nikola Krstovic anytime goal +105 (Montenegro v Latvia) (0.25u as placed\n- odds +763 computed from Sal's FanDuel AZ leg prices\n- no slip shown\n- Kane/Bellingham same-game correlated\n- Tony 2:20 PM AZ Nov 12 in Sal chat: 'Our lotto SOA on soccer is unstoppable... CASH IT'\n- WON\n- no slip price shown)",
+     "book": "FanDuel",
+     "odds": "+763",
+     "implied": "11.6%",
+     "est": "",
+     "result": "W",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 0.25,
+     "Profit (u)": 1.91,
+     "title": "4-leg Nations League lotto:",
+     "legs": [
+      {
+       "mark": "none",
+       "text": "Harry Kane score or assist -280"
+      },
+      {
+       "mark": "none",
+       "text": "Jude Bellingham score or assist -160 (England v Croatia)"
+      },
+      {
+       "mark": "none",
+       "text": "Michael Olise score or assist -110 (France at Italy)"
+      },
+      {
+       "mark": "none",
+       "text": "Nikola Krstovic anytime goal +105 (Montenegro v Latvia) (0.25u as placed"
+      },
+      {
+       "mark": "none",
+       "text": "odds +763 computed from Sal's FanDuel AZ leg prices"
+      },
+      {
+       "mark": "none",
+       "text": "no slip shown"
+      },
+      {
+       "mark": "none",
+       "text": "Kane/Bellingham same-game correlated"
+      },
+      {
+       "mark": "none",
+       "text": "Tony 2:20 PM AZ Nov 12 in Sal chat: 'Our lotto SOA on soccer is unstoppable... CASH IT'"
+      },
+      {
+       "mark": "none",
+       "text": "WON"
+      },
+      {
+       "mark": "none",
+       "text": "no slip price shown)"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-12",
+     "sport": "Soccer",
+     "game": "ENG v CRO / ITA v FRA / CZE v ESP 12:45 PM AZ",
+     "pick": "5-leg SGP+:\n- SGP England v Croatia (Harry Kane 1+ shot on target\n- Jude Bellingham 1+ shot on target\n- England -1.5 goals)\n- France tie no bet (Italy v France)\n- Spain over 1.5 team goals (Czechia v Spain) (1.00u as placed\n- Tony 12:05 PM AZ Nov 12 in Sophie chat: FanDuel slip screenshot\n- '1 unit'\n- slip odds +270\n- ESPN finals: England 2-1 Croatia (-1.5 MISS)\n- Italy 3-1 France (France DNB MISS)\n- Czechia 0-2 Spain\n- LOST -1.00u)",
+     "book": "FanDuel",
+     "odds": "+270",
+     "implied": "27.0%",
+     "est": "",
+     "result": "L",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": -1,
+     "title": "5-leg SGP+:",
+     "legs": [
+      {
+       "mark": "none",
+       "text": "SGP England v Croatia (Harry Kane 1+ shot on target"
+      },
+      {
+       "mark": "none",
+       "text": "Jude Bellingham 1+ shot on target"
+      },
+      {
+       "mark": "none",
+       "text": "England -1.5 goals)"
+      },
+      {
+       "mark": "none",
+       "text": "France tie no bet (Italy v France)"
+      },
+      {
+       "mark": "none",
+       "text": "Spain over 1.5 team goals (Czechia v Spain) (1.00u as placed"
+      },
+      {
+       "mark": "none",
+       "text": "Tony 12:05 PM AZ Nov 12 in Sophie chat: FanDuel slip screenshot"
+      },
+      {
+       "mark": "none",
+       "text": "'1 unit'"
+      },
+      {
+       "mark": "none",
+       "text": "slip odds +270"
+      },
+      {
+       "mark": "none",
+       "text": "ESPN finals: England 2-1 Croatia (-1.5 MISS)"
+      },
+      {
+       "mark": "none",
+       "text": "Italy 3-1 France (France DNB MISS)"
+      },
+      {
+       "mark": "none",
+       "text": "Czechia 0-2 Spain"
+      },
+      {
+       "mark": "none",
+       "text": "LOST -1.00u)"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-12",
+     "sport": "Soccer",
+     "game": "ITA v FRA / ALB v FIN / MNE v LVA / CZE v ESP / ENG v CRO 12:45 PM AZ",
+     "pick": "5-leg parlay:\n- Italy v France both teams to score Yes -168\n- Albania or draw double chance -425 (Albania v Finland)\n- Montenegro 3-way ML -400 (Montenegro v Latvia)\n- Spain (away) over 1.5 team goals -360 (Czechia v Spain)\n- England (home) over 1.5 team goals -405 (England v Croatia) (0.50u as placed\n- slip odds +292)",
+     "book": "FanDuel",
+     "odds": "+292",
+     "implied": "25.5%",
+     "est": "",
+     "result": "W",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 0.5,
+     "Profit (u)": 1.46,
+     "title": "5-leg parlay:",
+     "legs": [
+      {
+       "mark": "none",
+       "text": "Italy v France both teams to score Yes -168"
+      },
+      {
+       "mark": "none",
+       "text": "Albania or draw double chance -425 (Albania v Finland)"
+      },
+      {
+       "mark": "none",
+       "text": "Montenegro 3-way ML -400 (Montenegro v Latvia)"
+      },
+      {
+       "mark": "none",
+       "text": "Spain (away) over 1.5 team goals -360 (Czechia v Spain)"
+      },
+      {
+       "mark": "none",
+       "text": "England (home) over 1.5 team goals -405 (England v Croatia) (0.50u as placed"
+      },
+      {
+       "mark": "none",
+       "text": "slip odds +292)"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-12",
+     "sport": "Soccer",
+     "game": "ENG v CRO / ITA v FRA 12:45 PM AZ",
+     "pick": "2-leg parlay:\n- England -1.5 goals -146 (England v Croatia)\n- France or draw double chance -380 (Italy v France) (0.50u as placed\n- slip odds +112\n- ESPN finals: England 2-1 Croatia (-1.5 MISS)\n- Italy 3-1 France (France or draw MISS)\n- LOST -0.50u)",
+     "book": "FanDuel",
+     "odds": "+112",
+     "implied": "47.2%",
+     "est": "",
+     "result": "L",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 0.5,
+     "Profit (u)": -0.5,
+     "title": "2-leg parlay:",
+     "legs": [
+      {
+       "mark": "none",
+       "text": "England -1.5 goals -146 (England v Croatia)"
+      },
+      {
+       "mark": "none",
+       "text": "France or draw double chance -380 (Italy v France) (0.50u as placed"
+      },
+      {
+       "mark": "none",
+       "text": "slip odds +112"
+      },
+      {
+       "mark": "none",
+       "text": "ESPN finals: England 2-1 Croatia (-1.5 MISS)"
+      },
+      {
+       "mark": "none",
+       "text": "Italy 3-1 France (France or draw MISS)"
+      },
+      {
+       "mark": "none",
+       "text": "LOST -0.50u)"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-12",
+     "sport": "Soccer",
+     "game": "CZE v ESP 12:45 PM AZ",
+     "pick": "Live straight: Spain (away) over 1.5 team goals (1.00u as placed, Tony 2:26 PM AZ Nov 12 in Sophie chat: FanDuel slip screenshot + 'One unit. Other team got a red card', slip odds +112, Tony 2:33 PM AZ Nov 12 in Sophie chat: 'i cashout out. Lost .5', net -0.50u) (Czechia v Spain 12:45PM)",
+     "book": "FanDuel",
+     "odds": "+112",
+     "implied": "47.2%",
+     "est": "",
+     "result": "L",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 0.5,
+     "Profit (u)": -0.5,
+     "title": "Live straight: Spain (away) over 1.5 team goals (1.00u as placed, Tony 2:26 PM AZ Nov 12 in Sophie chat: FanDuel slip screenshot + 'One unit. Other team got a red card', slip odds +112, Tony 2:33 PM AZ Nov 12 in Sophie chat: 'i cashout out. Lost .5', net -0.50u) (Czechia v Spain 12:45PM)",
+     "legs": []
+    }
+   ],
+   "day": "6-3 (8 pending)",
+   "tony_played": "6-3",
+   "net": "+4.12u (1 pending)",
+   "running": "+6.46u",
+   "date": "2026-11-12"
+  },
   {
    "banner": "Wednesday, Nov 11   |   Day: 3-5   |   Tony played: 3-5   |   Net -3.95u   |   Running +2.34u",
    "label": "Wednesday, Nov 11",
@@ -11373,38 +11889,38 @@
    "rows": [
     [
      "All picks",
-     "36-55",
+     "42-58",
      "12-29",
-     "6-8",
+     "7-8",
      "0-0",
      "2-0",
      "7-10",
-     "9-8"
+     "14-11"
     ],
     [
      "Favorites",
-     "8-3",
+     "10-3",
      "1-1",
      "3-1",
      "0-0",
      "0-0",
      "3-0",
-     "1-1"
+     "3-1"
     ],
     [
      "Tony played",
-     "21-43",
+     "27-46",
      "8-25",
-     "2-6",
+     "3-6",
      "0-0",
      "2-0",
      "2-5",
-     "7-7"
+     "12-10"
     ]
    ],
    "units": {
-    "net": "-11.98u",
-    "pending": "6 pending"
+    "net": "-7.86u",
+    "pending": "7 pending"
    }
   },
   {
@@ -11457,17 +11973,17 @@
   }
  ],
  "legend": "Green = win, Red = loss, Yellow = push, Gray = pending. Newest day first.",
- "ticket_count": 507,
- "version": "1c7d9f02a6",
+ "ticket_count": 524,
+ "version": "33283da0c3",
  "archive_sports": {},
- "live_ticket_count": 507,
+ "live_ticket_count": 524,
  "totals": {
   "grand": [
-   2.34,
-   219,
-   274,
-   10,
-   507
+   6.46,
+   225,
+   277,
+   18,
+   524
   ],
   "m2026-10": [
    14.32,
@@ -11477,18 +11993,18 @@
    408
   ],
   "m2026-11": [
-   -11.98,
-   36,
-   55,
-   8,
-   99
+   -7.86,
+   42,
+   58,
+   16,
+   116
   ],
   "sLadder": [
    10.92,
    9,
    7,
    0,
-   17
+   18
   ],
   "sMLB": [
    0.0,
@@ -11509,14 +12025,14 @@
    57,
    78,
    0,
-   136
+   138
   ],
   "sNCAAF": [
    -3.57,
    8,
    14,
    0,
-   25
+   26
   ],
   "sNCAAM": [
    -0.25,
@@ -11530,21 +12046,21 @@
    37,
    58,
    0,
-   96
+   97
   ],
   "sNHL": [
-   -3.49,
-   42,
+   -2.89,
+   43,
    48,
    0,
-   92
+   95
   ],
   "sSoccer": [
-   12.39,
-   53,
-   54,
+   15.91,
+   58,
+   57,
    0,
-   112
+   121
   ],
   "sWNBA": [
    -1.0,
@@ -11554,11 +12070,11 @@
    2
   ],
   "y2026": [
-   2.34,
-   219,
-   274,
-   10,
-   507
+   6.46,
+   225,
+   277,
+   18,
+   524
   ]
  },
  "prune_cutoff": "2026-09-12",
@@ -11578,15 +12094,15 @@
     "period": "November 2026",
     "units": {
      "NFL": -12.51,
-     "NHL": -3.68,
+     "NHL": -3.08,
      "NBA": -2.81,
      "WNBA": 0,
-     "Soccer": 0.5,
+     "Soccer": 4.02,
      "NCAAF": 1.18,
      "MLB": 0,
      "Multi": 5.34
     },
-    "total": -11.98
+    "total": -7.86
    },
    {
     "period": "October 2026",
@@ -11606,15 +12122,15 @@
     "period": "Grand total",
     "units": {
      "NFL": -14.94,
-     "NHL": -3.49,
+     "NHL": -2.89,
      "NBA": -3.79,
      "WNBA": -1.0,
-     "Soccer": 12.39,
+     "Soccer": 15.91,
      "NCAAF": -3.57,
      "MLB": 0,
      "Multi": 16.74
     },
-    "total": 2.34
+    "total": 6.46
    }
   ]
  }
