@@ -46,9 +46,9 @@
  "units": [
   {
    "period": "November 2026",
-   "net": "-12.30u",
-   "settled": 56,
-   "pending": 7
+   "net": "-11.98u",
+   "settled": 57,
+   "pending": 6
   },
   {
    "period": "October 2026",
@@ -58,20 +58,20 @@
   },
   {
    "period": "Year 2026",
-   "net": "+2.02u",
-   "settled": 99,
-   "pending": 9
+   "net": "+2.34u",
+   "settled": 100,
+   "pending": 8
   },
   {
    "period": "Grand total",
-   "net": "+2.02u",
-   "settled": 99,
-   "pending": 9
+   "net": "+2.34u",
+   "settled": 100,
+   "pending": 8
   }
  ],
  "days": [
   {
-   "banner": "Wednesday, Nov 11   |   Day: 3-5   |   Tony played: 3-5   |   Net -4.27u (1 pending)   |   Running +2.02u",
+   "banner": "Wednesday, Nov 11   |   Day: 3-5   |   Tony played: 3-5   |   Net -3.95u   |   Running +2.34u",
    "label": "Wednesday, Nov 11",
    "tickets": [
     {
@@ -106,14 +106,14 @@
      "game": "NSH@ANA 8:00 PM AZ",
      "pick": "Cutter Gauthier over 3.5 shots on goal (0.50u as placed, slip odds NOT given, card price -154 at 8:22 AM AZ feed, unconfirmed) (Predators at Ducks 8PM)",
      "book": "FanDuel",
-     "odds": "",
-     "implied": "",
+     "odds": "-154",
+     "implied": "60.6%",
      "est": "",
      "result": "W",
      "favorite": "Y",
      "tony_played": "Y",
      "Stake (u)": 0.5,
-     "Profit (u)": "",
+     "Profit (u)": 0.32,
      "title": "Cutter Gauthier over 3.5 shots on goal (0.50u as placed, slip odds NOT given, card price -154 at 8:22 AM AZ feed, unconfirmed) (Predators at Ducks 8PM)",
      "legs": []
     },
@@ -311,8 +311,8 @@
    ],
    "day": "3-5",
    "tony_played": "3-5",
-   "net": "-4.27u (1 pending)",
-   "running": "+2.02u",
+   "net": "-3.95u",
+   "running": "+2.34u",
    "date": "2026-11-11"
   },
   {
@@ -11403,8 +11403,8 @@
     ]
    ],
    "units": {
-    "net": "-12.30u",
-    "pending": "7 pending"
+    "net": "-11.98u",
+    "pending": "6 pending"
    }
   },
   {
@@ -11458,12 +11458,12 @@
  ],
  "legend": "Green = win, Red = loss, Yellow = push, Gray = pending. Newest day first.",
  "ticket_count": 507,
- "version": "199979cdda",
+ "version": "1c7d9f02a6",
  "archive_sports": {},
  "live_ticket_count": 507,
  "totals": {
   "grand": [
-   2.02,
+   2.34,
    219,
    274,
    10,
@@ -11477,7 +11477,7 @@
    408
   ],
   "m2026-11": [
-   -12.3,
+   -11.98,
    36,
    55,
    8,
@@ -11533,7 +11533,7 @@
    96
   ],
   "sNHL": [
-   -3.81,
+   -3.49,
    42,
    48,
    0,
@@ -11554,7 +11554,7 @@
    2
   ],
   "y2026": [
-   2.02,
+   2.34,
    219,
    274,
    10,
@@ -11578,7 +11578,7 @@
     "period": "November 2026",
     "units": {
      "NFL": -12.51,
-     "NHL": -4.0,
+     "NHL": -3.68,
      "NBA": -2.81,
      "WNBA": 0,
      "Soccer": 0.5,
@@ -11586,7 +11586,7 @@
      "MLB": 0,
      "Multi": 5.34
     },
-    "total": -12.3
+    "total": -11.98
    },
    {
     "period": "October 2026",
@@ -11606,7 +11606,7 @@
     "period": "Grand total",
     "units": {
      "NFL": -14.94,
-     "NHL": -3.81,
+     "NHL": -3.49,
      "NBA": -3.79,
      "WNBA": -1.0,
      "Soccer": 12.39,
@@ -11614,7 +11614,7 @@
      "MLB": 0,
      "Multi": 16.74
     },
-    "total": 2.02
+    "total": 2.34
    }
   ]
  }
