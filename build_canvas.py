@@ -6,10 +6,11 @@ Usage: python3 build_canvas.py            # rebuild (runs refresh.py first)
 import json,os,re,sys,subprocess,datetime,shutil,difflib
 from zoneinfo import ZoneInfo
 H=os.path.dirname(os.path.abspath(__file__));P=lambda f:os.path.join(H,f)
-XLSX='/workspace/results/Bet_tracker.xlsx'; UBS_JSON='/workspace/results/units_by_sport.json'; DESIGN='/workspace/shared/bet-tracker/design/style.css'
+XLSX=os.environ.get('BET_TRACKER_XLSX','/workspace/results/Bet_tracker.xlsx'); UBS_JSON=os.environ.get('UNITS_BY_SPORT_JSON','/workspace/results/units_by_sport.json'); DESIGN='/workspace/shared/bet-tracker/design/style.css'
 if '--published' in sys.argv:
   shutil.copy(P('canvas.tsx'),P('canvas.published.tsx'));print('recorded canvas.published.tsx');sys.exit()
-subprocess.run([sys.executable,P('refresh.py')],check=True)
+if os.environ.get('BET_TRACKER_SKIP_REFRESH')!='1':
+  subprocess.run([sys.executable,P('refresh.py'),XLSX],check=True)
 d=json.load(open(P('data.json')))
 def tidy(t):
   # pick cells sometimes carry notes inside "(...; notes): leg1 / leg2". Keep only the props: drop the notes, keep a clean title.

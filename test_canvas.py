@@ -3,6 +3,41 @@ from openpyxl import load_workbook
 from playwright.sync_api import sync_playwright
 XLSX=os.environ.get('BET_TRACKER_XLSX','/workspace/results/Bet_tracker.xlsx')
 UBS_PATH=os.environ.get('UNITS_BY_SPORT_JSON','/workspace/results/units_by_sport.json')
+
+# Display-side legs-only filter (mirrors canvas_template.tsx isRealLeg / legsOnly)
+def _lead(text):
+  return re.split(r'\s*[\(\[]', text.strip(), maxsplit=1)[0].strip()
+_STATUS_ONLY=re.compile(r'^(WON|LOST|WIN|LOSS|PUSH|VOID|PENDING)\s*[\).]*$',re.I)
+_STATUS_START=re.compile(r'^(WON|LOST|WIN|LOSS|PUSH|VOID|PENDING)\b',re.I)
+_DROP_WORDS=re.compile(r'\b(profit|computed|ESPN|finals?|logged|result)\b',re.I)
+_HIT_MISS=re.compile(r'\b(HIT|MISS)\b')
+_SCORE_LEAD=re.compile(r"(?i)(?:^|:\s*)[A-Za-z][A-Za-z.' ]{0,24}\s+\d{1,3}\s*[-–]\s*\d{1,3}\s+[A-Za-z]")
+_META=re.compile(r"(?i)^(" r"slip odds\b|odds\s*[+-]\d+\s+computed\b|about\s*[+-]\d+\s+computed\b" r"|[+-]\d+\s+per Tony" r"|no slip\b" r"|Tony(?:'s)?\s+(?:\d{1,2}:\d{2}|FanDuel slip|own build|slip in)" r"|not Sal'?s pick" r"|Kane/Bellingham same-game correlated" r"|bet ID\b|placed\s+\d" r"|'1 unit'" r"|ask Tony\b|legs unseen|selections total|selections not visible|other legs unseen" r"|unconfirmed\b|safety net refunds|Bet Protect" r"|do not auto-grade|actual stake|accepted odds|book$|book\)" r"|cashout return|lines unknown|financial reconciliation" r"|event-date verification|Day 1 fresh restart" r"|all anytime\b" r"|book and final" r")")
+_CHATISH=re.compile(r"(?i)(Sophie chat|Sal chat|screenshot|per Tony's slip)")
+_FRAG=re.compile(r"(?i)^(" r"\d{1,2}:\d{2}\s*(?:AM|PM)?\s*(?:AZ)?\)?" r"|\d{2}PM\)" r"|[+-]?\d{2,}\)" r"|[A-Za-z][A-Za-z ]{0,24}\s+\d{1,2}:\d{2}\s*(?:AM|PM)\)" r"|'[^']{0,24}'\)?" r")$")
+_PICK=re.compile(r"(?i)(" r"\d+(?:\.\d+)?\+" r"|(?<!\w)[+-]\d+(?:\.\d+)?\b" r"|\b(?:ML|ATD|ATG|PRA|SOG|SOA|SOT|BTTS|DNB)\b" r"|\b(?:pts?|reb|ast|rec|rush|yds|goals?|saves?|receptions?|assists?|points?|shots?)\b" r"|\bscore or assist\b|\banytime\b|\bdouble chance\b|\btie no bet\b|\bor draw\b" r"|\b(?:over|under)\b|\bpuck line\b|\bmoneyline\b|\balt\b" r"|\bno TD\b|\bshot on target\b|\bto qualify\b|\bto make\b|\bto (?:win|score)\b" r"|\b\d+p/\d+r" r"|\bo\d+(?:\.\d+)?\b|\bu\d+(?:\.\d+)?\b" r"|\bP\+R\b|\bP\+A\b|\bR\+A\b" r")")
+_NAME=re.compile(r"^[A-Z](?:[A-Za-z]|[.'])*(?:\s+[A-Z0-9](?:[A-Za-z0-9]|[.'-])*){0,3}$")
+def _looks_pick(text):
+  ld=_lead(text)
+  if _PICK.search(ld): return True
+  if _PICK.search(text) and not _META.search(text) and not _CHATISH.search(text) and not _STATUS_START.search(text): return True
+  ld2=re.sub(r'\s+',' ',ld)
+  return len(ld2)>=3 and bool(_NAME.match(ld2))
+def is_real_leg(text):
+  t=re.sub(r'^(✅|❌|⏳|-)\s*','',str(text)).strip()
+  if not t: return False
+  if _STATUS_ONLY.match(t) or _STATUS_START.match(t): return False
+  if _HIT_MISS.search(t): return False
+  if _SCORE_LEAD.search(_lead(t)): return False
+  if _DROP_WORDS.search(t) and not (_looks_pick(t) and not re.search(r'(?i)\b(profit|computed|ESPN|logged)\b', t) and _PICK.search(_lead(t)) and not re.search(r'(?i)\bfinals?\b', t)): return False
+  if _FRAG.match(t): return False
+  if _META.search(t): return False
+  if _CHATISH.search(t) and not _PICK.search(_lead(t)): return False
+  return _looks_pick(t)
+def display_legs(legs):
+  kept=[l for l in legs if is_real_leg(l['text'])]
+  return kept if kept else list(legs)
+
 wb=load_workbook(XLSX,read_only=True)
 T=[r for r in wb['Tracker'].iter_rows(values_only=True)]
 hdr=next(i for i,r in enumerate(T) if r[0]=='date')
@@ -38,6 +73,11 @@ with sync_playwright() as p:
   pg.wait_for_timeout(300);chk('Last updated stamp','Last updated' in pg.locator('.upd').inner_text(),True)
   chk('Today tab = newest day only',[pg.locator('.day').count(),pg.locator('.bn-d').inner_text()],[1,banners[0].split('|')[0].strip().upper()])
   chk('Today tickets',pg.locator('.tk').count(),sum(1 for r in tix if str(r[0])==td))
+  lad=pg.locator('.tk', has_text='Day 1 LADDER restart')
+  chk('Day 1 LADDER restart card',lad.count(),1)
+  chk('Day 1 LADDER restart legs only',lad.locator('.lt').all_inner_texts(),['Jack Hughes 1+ pt -330 (Capitals at Devils 5:00PM)','Kirill Kaprizov 1+ pt -370 (Wild at Maple Leafs 5:00PM)','Jaden McDaniels 20+ PRA -500 (Mavericks at Timberwolves 6:00PM)'])
+  ltxt=lad.inner_text()
+  chk('Day 1 LADDER hides result notes',all(x not in ltxt for x in ('ESPN','computed','logged','WON','HIT','profit +0.99u at logged')),True)
   chk('Today no past content',pg.locator('#past').count(),0)
   chk('Today sport headers',pg.locator('.sph').count(),len({nz(r) for r in tix if str(r[0])==td}))
   bt=pg.locator('body').inner_text();chk('$ only in note (today)',bt.count('$'),bt.count('1 unit = $20'))
@@ -52,7 +92,8 @@ with sync_playwright() as p:
   legs=[l for r in tix for l in str(r[3]).split('\n')[1:]]
   def both(make):
     tab('today');n=make().count();tab('past');return n+make().count()
-  chk('NO MARK chips (today+past = all tickets)',both(lambda:pg.locator('.chip.none')),sum(1 for x in json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)),'data.json')))['days'] for t in x['tickets'] for l in t['legs'] if l['mark']=='none'))
+  Dlegs=json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)),'data.json')))
+  chk('NO MARK chips (today+past = displayed legs)',both(lambda:pg.locator('.chip.none')),sum(1 for x in Dlegs['days'] for t in x['tickets'] for l in display_legs(t['legs']) if l['mark']=='none'))
   chk('VOID tickets',both(lambda:pg.locator('.tk .chip.big', has_text='VOID')),sum(1 for r in tix if r[8]=='void'))
   chk('stake? tiles',both(lambda:pg.locator('.meta div:first-child b',has_text='stake?')),sum(1 for r in tix if r[11]=='stake?'))
   tab('past');pg.screenshot(path=SS+'canvas-past.png')
