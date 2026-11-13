@@ -38,6 +38,52 @@ def display_legs(legs):
   kept=[l for l in legs if is_real_leg(l['text'])]
   return kept if kept else list(legs)
 
+_STRAIGHT_PREFIX=re.compile(r'^(?:Live straight:\s*|STRAIGHT\s*:?\s*|SLEEPER\s*:?\s+)', re.I)
+_MATCHUP_RE=re.compile(r'\(([^()]*(?:\bat\b|\bvs\.?\b|\bv\b)[^()]*)\)', re.I)
+_KEEP_PAREN=re.compile(r"(?i)^((?:[A-Z]{2,4})|away|home|3-way|90\s*min|90'|ET|FT|1H|2H|HT|double chance|WS Game\s*\d+|sub-in\b.*)$")
+_NOTE_CUT=re.compile(r"(?i)(\s*\(REC only|\s*\([^)]*\bas placed\b|\s*\(bet ID\b|\s*\(Sporty research|\s*\(DK(?:\s+via|\))|\s*\(sleeper\)|\s*\(small\)|\s*\(lotto\)|\s*\(Tony straight\)|\s*\(low confidence|\s*\(price (?:not|pending)|\s*\(line not saved|\s*\(goalies?\b|\s*\(Wallstedt|\s*\(Jarry\b|\s*\(stale price|\s*\(tentative\)|\s*\[DK|\s*;\s*ESPN final|\s*;\s*(?:WON|LOST)\b|\s*,\s*correcting earlier|\s*,\s*placed at halftime|\s*\.\s*Bet'?s note:|\s+absolute favorite\b)")
+def _is_matchup(inner):
+  s=inner.strip()
+  if re.search(r'(?i)(confirmed|unconfirmed|goalie|price|slip|chat|placed|REC only|as placed|research|sleeper|small|lotto|straight|Wk\d)', s): return False
+  return bool(re.match(r"(?i)^[A-Za-z0-9][A-Za-z0-9.' ]{0,30}\s+(at|vs\.?|v)\s+[A-Za-z0-9][A-Za-z0-9.' ]{0,30}(?:\s+\d{1,2}(?::\d{2})?\s*(?:AM|PM)?)?$", s))
+def clean_straight(title, frags=None):
+  orig=str(title).strip(); t=orig
+  for raw in frags or []:
+    f=re.sub(r'^(✅|❌|⏳|-)\s*','',str(raw if not isinstance(raw,dict) else raw.get('text','') )).strip()
+    if not f: continue
+    if t.endswith(':') or t.endswith('(') or t.count('(')>t.count(')') or not re.search(r'[).\]]$', t): t+=f
+  t=_STRAIGHT_PREFIX.sub('', t).strip(); matchup=None
+  for m in _MATCHUP_RE.finditer(t):
+    if _is_matchup(m.group(1)): matchup=m.group(0)
+  m=_NOTE_CUT.search(t)
+  if m: t=t[:m.start()].rstrip(' ,;')
+  while True:
+    mm=re.search(r'\s*\(([^()]*)\)\s*$', t)
+    if not mm: break
+    if _is_matchup(mm.group(1)) or _KEEP_PAREN.match(mm.group(1).strip()): break
+    t=t[:mm.start()].rstrip(' ,;')
+  t=re.sub(r'\s*\[[^\[\]]*\]\s*$','',t).rstrip()
+  t=re.sub(r',?\s+add-on 2nd unit$','',t,flags=re.I)
+  t=re.sub(r',?\s+second live ticket$','',t,flags=re.I)
+  t=re.sub(r',?\s+second ticket$','',t,flags=re.I)
+  t=re.sub(r',?\s+straight$','',t,flags=re.I)
+  t=re.sub(r'\s+single$','',t,flags=re.I)
+  t=re.sub(r'\s+absolute favorite$','',t,flags=re.I)
+  t=re.sub(r'\s+sleeper$','',t,flags=re.I)
+  t=re.sub(r'\s+',' ',t).strip(' ,;')
+  if matchup and matchup not in t: t=t+' '+matchup
+  if t.count('(')>t.count(')'):
+    t=t[:t.rfind('(')].rstrip()
+    if matchup and matchup not in t: t=t+' '+matchup
+  if t and not _PICK.search(t) and not re.search(r'(?i)\b(ML|TD|draw|BTTS|prop|SOA|ATG|score or assist)\b', t):
+    pm=re.search(r'\(([^()]+)\)', orig)
+    if pm and (_PICK.search(pm.group(1)) or re.search(r'(?i)\b(goal|ML|TD)\b', pm.group(1))):
+      t=re.sub(r'(?i)\s*\bleg\b','',pm.group(1)).strip()
+    elif len(t)<8: t=_STRAIGHT_PREFIX.sub('', orig).strip() or orig
+  if not t: t=_STRAIGHT_PREFIX.sub('', orig).strip() or orig
+  return t
+
+
 wb=load_workbook(XLSX,read_only=True)
 T=[r for r in wb['Tracker'].iter_rows(values_only=True)]
 hdr=next(i for i,r in enumerate(T) if r[0]=='date')
@@ -78,6 +124,13 @@ with sync_playwright() as p:
   chk('Day 1 LADDER restart legs only',lad.locator('.lt').all_inner_texts(),['Jack Hughes 1+ pt -330 (Capitals at Devils 5:00PM)','Kirill Kaprizov 1+ pt -370 (Wild at Maple Leafs 5:00PM)','Jaden McDaniels 20+ PRA -500 (Mavericks at Timberwolves 6:00PM)'])
   ltxt=lad.inner_text()
   chk('Day 1 LADDER hides result notes',all(x not in ltxt for x in ('ESPN','computed','logged','WON','HIT','profit +0.99u at logged')),True)
+  mav=pg.locator('.tk', has_text='Mavericks +5.5')
+  chk('Mavericks straight title',mav.locator('.pk').inner_text().strip(),'Mavericks +5.5 -110 (Mavericks at Timberwolves 6:00PM)')
+  chk('Mavericks no notes or leftover leg',('REC only' not in mav.inner_text()) and mav.locator('.lt').count()==0,True)
+  gia=pg.locator('.tk', has_text='Giants ML -132')
+  chk('Giants straight title',gia.locator('.pk').inner_text().strip(),'Giants ML -132 (Commanders at Giants 6:15PM)')
+  mx=pg.locator('.tk', has_text='Tyrese Maxey over 24.5')
+  chk('Maxey straight title',mx.locator('.pk').inner_text().strip(),'Tyrese Maxey over 24.5 pts -102 (Raptors at 76ers 5:00PM)')
   chk('Today no past content',pg.locator('#past').count(),0)
   chk('Today sport headers',pg.locator('.sph').count(),len({nz(r) for r in tix if str(r[0])==td}))
   bt=pg.locator('body').inner_text();chk('$ only in note (today)',bt.count('$'),bt.count('1 unit = $20'))
