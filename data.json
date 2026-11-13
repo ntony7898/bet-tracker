@@ -14,13 +14,13 @@
  "records": [
   [
    "All picks",
-   "225-277",
-   "37-58",
+   "229-277",
+   "40-58",
    "43-48",
    "11-10",
    "8-14",
    "57-79",
-   "69-68"
+   "70-68"
   ],
   [
    "Favorites",
@@ -34,21 +34,21 @@
   ],
   [
    "Tony played",
-   "77-120",
-   "10-34",
+   "81-120",
+   "13-34",
    "11-17",
    "0-0",
    "6-11",
    "7-26",
-   "43-32"
+   "44-32"
   ]
  ],
  "units": [
   {
    "period": "November 2026",
-   "net": "-7.86u",
-   "settled": 66,
-   "pending": 7
+   "net": "+4.73u",
+   "settled": 70,
+   "pending": 16
   },
   {
    "period": "October 2026",
@@ -58,53 +58,73 @@
   },
   {
    "period": "Year 2026",
-   "net": "+6.46u",
-   "settled": 109,
-   "pending": 9
+   "net": "+19.05u",
+   "settled": 113,
+   "pending": 18
   },
   {
    "period": "Grand total",
-   "net": "+6.46u",
-   "settled": 109,
-   "pending": 9
+   "net": "+19.05u",
+   "settled": 113,
+   "pending": 18
   }
  ],
  "days": [
   {
-   "banner": "Thursday, Nov 12   |   Day: 6-3 (8 pending)   |   Tony played: 6-3   |   Net +4.12u (1 pending)   |   Running +6.46u",
+   "banner": "Thursday, Nov 12   |   Day: 10-3 (17 pending)   |   Tony played: 10-3   |   Net +16.71u (10 pending)   |   Running +19.05u",
    "label": "Thursday, Nov 12",
    "tickets": [
     {
      "date": "2026-11-12",
      "sport": "Ladder",
      "game": "WSH@NJ 5:00 PM AZ / MIN@TOR 5:00 PM AZ / DAL@MIN 6:00 PM AZ",
-     "pick": "Day 1 LADDER restart (1.00u as played; Tony 8:\n⏳ 26 AM AZ Nov 12 in Sal chat: 'We starting 1 unit on the ladder'\n⏳ card rec was 0.5u\n⏳ Day 1 now starts at 1u): Jack Hughes 1+ pt -330 (Capitals at Devils 5:00PM)\n⏳ Kirill Kaprizov 1+ pt -370 (Wild at Maple Leafs 5:00PM)\n⏳ Jaden McDaniels 20+ PRA -500 (Mavericks at Timberwolves 6:00PM)\n⏳ about -101 computed from legs",
+     "pick": "Day 1 LADDER restart (1.00u as placed; Tony 8:\n- 26 AM AZ Nov 12 in Sal chat: 'We starting 1 unit on the ladder'\n- card rec was 0.5u\n- Day 1 now starts at 1u): Jack Hughes 1+ pt -330 (Capitals at Devils 5:00PM)\n- Kirill Kaprizov 1+ pt -370 (Wild at Maple Leafs 5:00PM)\n- Jaden McDaniels 20+ PRA -500 (Mavericks at Timberwolves 6:00PM)\n- about -101 computed from legs\n- ESPN finals: NJ 5-2 WSH (Hughes 1G HIT 1+ pt)\n- MIN 5-2 TOR (Kaprizov 3A HIT 1+ pt)\n- MIN 133-94 DAL (McDaniels 16+9+3=28 PRA HIT 20+)\n- WON\n- profit +0.99u at logged -101",
      "book": "FanDuel",
      "odds": "-101",
      "implied": "50.3%",
      "est": "60%",
-     "result": "",
+     "result": "W",
      "favorite": "N",
      "tony_played": "Y",
-     "Stake (u)": 0.5,
-     "Profit (u)": "",
+     "Stake (u)": 1,
+     "Profit (u)": 0.99,
      "title": "Day 1 LADDER restart",
      "legs": [
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "Jack Hughes 1+ pt -330 (Capitals at Devils 5:00PM)"
       },
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "Kirill Kaprizov 1+ pt -370 (Wild at Maple Leafs 5:00PM)"
       },
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "Jaden McDaniels 20+ PRA -500 (Mavericks at Timberwolves 6:00PM)"
       },
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "about -101 computed from legs"
+      },
+      {
+       "mark": "none",
+       "text": "ESPN finals: NJ 5-2 WSH (Hughes 1G HIT 1+ pt)"
+      },
+      {
+       "mark": "none",
+       "text": "MIN 5-2 TOR (Kaprizov 3A HIT 1+ pt)"
+      },
+      {
+       "mark": "none",
+       "text": "MIN 133-94 DAL (McDaniels 16+9+3=28 PRA HIT 20+)"
+      },
+      {
+       "mark": "none",
+       "text": "WON"
+      },
+      {
+       "mark": "none",
+       "text": "profit +0.99u at logged -101"
       }
      ]
     },
@@ -578,12 +598,387 @@
      "Profit (u)": -0.5,
      "title": "Live straight: Spain (away) over 1.5 team goals (1.00u as placed, Tony 2:26 PM AZ Nov 12 in Sophie chat: FanDuel slip screenshot + 'One unit. Other team got a red card', slip odds +112, Tony 2:33 PM AZ Nov 12 in Sophie chat: 'i cashout out. Lost .5', net -0.50u) (Czechia v Spain 12:45PM)",
      "legs": []
+    },
+    {
+     "date": "2026-11-12",
+     "sport": "NCAAF",
+     "game": "MEM@USF 6:00 PM AZ / LA@ULM 7:00 PM AZ",
+     "pick": "3-leg SGP+:\n⏳ SGP Memphis @ South Florida (Memphis ML\n⏳ over 49.5 total points)\n⏳ Louisiana -10.5 (Louisiana @ UL Monroe) (0.50u as placed\n⏳ slip odds +449)",
+     "book": "FanDuel",
+     "odds": "+449",
+     "implied": "18.2%",
+     "est": "",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 0.5,
+     "Profit (u)": "",
+     "title": "3-leg SGP+:",
+     "legs": [
+      {
+       "mark": "pending",
+       "text": "SGP Memphis @ South Florida (Memphis ML"
+      },
+      {
+       "mark": "pending",
+       "text": "over 49.5 total points)"
+      },
+      {
+       "mark": "pending",
+       "text": "Louisiana -10.5 (Louisiana @ UL Monroe) (0.50u as placed"
+      },
+      {
+       "mark": "pending",
+       "text": "slip odds +449)"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-12",
+     "sport": "NFL",
+     "game": "WSH@NYG 6:15 PM AZ",
+     "pick": "3-leg parlay:\n⏳ Stefon Diggs 25+ rec yds -270\n⏳ Antonio Williams 3+ receptions -330\n⏳ Malik Nabers 5+ receptions -250 (1.00u as placed\n⏳ Tony 3:11 PM AZ Nov 12 in Sal chat: 'All 4 plays 1 unit each'\n⏳ odds +150 computed from Sal's FanDuel leg prices\n⏳ no slip shown) (Commanders at Giants 6:15PM)",
+     "book": "FanDuel",
+     "odds": "+150",
+     "implied": "40.0%",
+     "est": "",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": "",
+     "title": "3-leg parlay:",
+     "legs": [
+      {
+       "mark": "pending",
+       "text": "Stefon Diggs 25+ rec yds -270"
+      },
+      {
+       "mark": "pending",
+       "text": "Antonio Williams 3+ receptions -330"
+      },
+      {
+       "mark": "pending",
+       "text": "Malik Nabers 5+ receptions -250 (1.00u as placed"
+      },
+      {
+       "mark": "pending",
+       "text": "Tony 3:11 PM AZ Nov 12 in Sal chat: 'All 4 plays 1 unit each'"
+      },
+      {
+       "mark": "pending",
+       "text": "odds +150 computed from Sal's FanDuel leg prices"
+      },
+      {
+       "mark": "pending",
+       "text": "no slip shown) (Commanders at Giants 6:15PM)"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-12",
+     "sport": "NBA",
+     "game": "DAL@MIN 6 PM / CHA@PHX 7 PM / TOR@PHI 5 PM AZ",
+     "pick": "3-leg parlay:\n⏳ Rudy Gobert 10+ reb+ast -400 (Timberwolves vs Mavericks 6:00PM)\n⏳ Devin Booker 25+ pts+ast -340 (Suns vs Hornets 7:00PM)\n⏳ Tyrese Maxey 25+ pts+reb -310 (76ers vs Raptors 5:00PM) (1.00u as placed\n⏳ Tony 3:11 PM AZ Nov 12 in Sal chat: 'All 4 plays 1 unit each'\n⏳ odds +114 computed from Sal's FanDuel leg prices\n⏳ no slip shown)",
+     "book": "FanDuel",
+     "odds": "+114",
+     "implied": "46.7%",
+     "est": "",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": "",
+     "title": "3-leg parlay:",
+     "legs": [
+      {
+       "mark": "pending",
+       "text": "Rudy Gobert 10+ reb+ast -400 (Timberwolves vs Mavericks 6:00PM)"
+      },
+      {
+       "mark": "pending",
+       "text": "Devin Booker 25+ pts+ast -340 (Suns vs Hornets 7:00PM)"
+      },
+      {
+       "mark": "pending",
+       "text": "Tyrese Maxey 25+ pts+reb -310 (76ers vs Raptors 5:00PM) (1.00u as placed"
+      },
+      {
+       "mark": "pending",
+       "text": "Tony 3:11 PM AZ Nov 12 in Sal chat: 'All 4 plays 1 unit each'"
+      },
+      {
+       "mark": "pending",
+       "text": "odds +114 computed from Sal's FanDuel leg prices"
+      },
+      {
+       "mark": "pending",
+       "text": "no slip shown)"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-12",
+     "sport": "NFL",
+     "game": "WSH@NYG 6:15 PM AZ",
+     "pick": "Isaiah Likely over 4.5 receptions (1.00u as placed; Tony 3:11 PM AZ Nov 12 in Sal chat: 'All 4 plays 1 unit each'; Sal's FanDuel price +102, no slip shown) (Giants vs Commanders 6:15PM)",
+     "book": "FanDuel",
+     "odds": "+102",
+     "implied": "49.5%",
+     "est": "",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": "",
+     "title": "Isaiah Likely over 4.5 receptions (1.00u as placed; Tony 3:11 PM AZ Nov 12 in Sal chat: 'All 4 plays 1 unit each'; Sal's FanDuel price +102, no slip shown) (Giants vs Commanders 6:15PM)",
+     "legs": []
+    },
+    {
+     "date": "2026-11-12",
+     "sport": "NBA",
+     "game": "CHA@PHX 7:00 PM AZ",
+     "pick": "Khaman Maluach over 5.5 rebounds (1.00u as placed; Tony 3:11 PM AZ Nov 12 in Sal chat: 'All 4 plays 1 unit each'; Sal's FanDuel price -120, no slip shown) (Suns vs Hornets 7:00PM)",
+     "book": "FanDuel",
+     "odds": "-120",
+     "implied": "54.5%",
+     "est": "",
+     "result": "",
+     "favorite": "Y",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": "",
+     "title": "Khaman Maluach over 5.5 rebounds (1.00u as placed; Tony 3:11 PM AZ Nov 12 in Sal chat: 'All 4 plays 1 unit each'; Sal's FanDuel price -120, no slip shown) (Suns vs Hornets 7:00PM)",
+     "legs": []
+    },
+    {
+     "date": "2026-11-12",
+     "sport": "NFL",
+     "game": "WSH@NYG 6:15 PM AZ",
+     "pick": "TD lotto SGP:\n⏳ Stefon Diggs anytime TD\n⏳ Isaiah Likely anytime TD (was +767\n⏳ bet ID US-AZ:01M78XEFCDF16A74A3V99RYHD6\n⏳ placed 11/12 3:18 PM\n⏳ Tony's slip in Sophie chat) (Commanders at Giants 6:15PM)",
+     "book": "FanDuel",
+     "odds": "+1150",
+     "implied": "8.0%",
+     "est": "",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 0.7,
+     "Profit (u)": "",
+     "title": "TD lotto SGP:",
+     "legs": [
+      {
+       "mark": "pending",
+       "text": "Stefon Diggs anytime TD"
+      },
+      {
+       "mark": "pending",
+       "text": "Isaiah Likely anytime TD (was +767"
+      },
+      {
+       "mark": "pending",
+       "text": "bet ID US-AZ:01M78XEFCDF16A74A3V99RYHD6"
+      },
+      {
+       "mark": "pending",
+       "text": "placed 11/12 3:18 PM"
+      },
+      {
+       "mark": "pending",
+       "text": "Tony's slip in Sophie chat) (Commanders at Giants 6:15PM)"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-12",
+     "sport": "Multi (NFL/NBA)",
+     "game": "WSH@NYG 6:16 / DAL@MIN 6:10 / CHA@PHX 7:10 / TOR@PHI 5:10 PM AZ",
+     "pick": "5-leg SGP+ lotto:\n⏳ SGP Stefon Diggs 25+ rec yds\n⏳ Isaiah Likely anytime TD (Commanders at Giants 6:16PM)\n⏳ Rudy Gobert 10+ reb+ast (Mavericks at Timberwolves 6:10PM)\n⏳ Khaman Maluach 6+ reb (Hornets at Suns 7:10PM)\n⏳ Tyrese Maxey 20+ pts (Raptors at 76ers 5:10PM) (1.00u as placed\n⏳ +922 per Tony's slip in Sal chat\n⏳ Tony 4:48 PM AZ: 'Odds change pretty bad for maxey so I did this' / '1 unit')",
+     "book": "FanDuel",
+     "odds": "+922",
+     "implied": "9.8%",
+     "est": "",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": "",
+     "title": "5-leg SGP+ lotto:",
+     "legs": [
+      {
+       "mark": "pending",
+       "text": "SGP Stefon Diggs 25+ rec yds"
+      },
+      {
+       "mark": "pending",
+       "text": "Isaiah Likely anytime TD (Commanders at Giants 6:16PM)"
+      },
+      {
+       "mark": "pending",
+       "text": "Rudy Gobert 10+ reb+ast (Mavericks at Timberwolves 6:10PM)"
+      },
+      {
+       "mark": "pending",
+       "text": "Khaman Maluach 6+ reb (Hornets at Suns 7:10PM)"
+      },
+      {
+       "mark": "pending",
+       "text": "Tyrese Maxey 20+ pts (Raptors at 76ers 5:10PM) (1.00u as placed"
+      },
+      {
+       "mark": "pending",
+       "text": "+922 per Tony's slip in Sal chat"
+      },
+      {
+       "mark": "pending",
+       "text": "Tony 4:48 PM AZ: 'Odds change pretty bad for maxey so I did this' / '1 unit')"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-12",
+     "sport": "NFL",
+     "game": "WSH@NYG 6:15 PM AZ",
+     "pick": "Cam Skattebo anytime TD, live (bet ID us-az:01m798q88xfdma7sjbhj2fqbw5, placed 11/12 6:35 PM, Tony's settled slip in Sophie chat) (Giants vs Commanders 6:15PM)",
+     "book": "FanDuel",
+     "odds": "+115",
+     "implied": "46.5%",
+     "est": "",
+     "result": "W",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": 1.15,
+     "title": "Cam Skattebo anytime TD, live (bet ID us-az:01m798q88xfdma7sjbhj2fqbw5, placed 11/12 6:35 PM, Tony's settled slip in Sophie chat) (Giants vs Commanders 6:15PM)",
+     "legs": []
+    },
+    {
+     "date": "2026-11-12",
+     "sport": "NFL",
+     "game": "WSH@NYG 6:15 PM AZ",
+     "pick": "Isaiah Likely anytime TD, live (1.00u as placed, Tony 7:19/7:27 PM AZ in Sophie chat: 'did likely and diggs straight one unit' / 'took them live. Likely 190', settled slip shows +195) (Giants vs Commanders 6:15PM)",
+     "book": "FanDuel",
+     "odds": "+195",
+     "implied": "33.9%",
+     "est": "",
+     "result": "W",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": 1.95,
+     "title": "Isaiah Likely anytime TD, live (1.00u as placed, Tony 7:19/7:27 PM AZ in Sophie chat: 'did likely and diggs straight one unit' / 'took them live. Likely 190', settled slip shows +195) (Giants vs Commanders 6:15PM)",
+     "legs": []
+    },
+    {
+     "date": "2026-11-12",
+     "sport": "NFL",
+     "game": "WSH@NYG 6:15 PM AZ",
+     "pick": "Stefon Diggs anytime TD, live (1.00u as placed; Tony 7:19/7:27 PM AZ in Sophie chat: 'did likely and diggs straight one unit' / 'took them live... diggs 290'; no slip shown) (Commanders at Giants 6:15PM)",
+     "book": "FanDuel",
+     "odds": "+290",
+     "implied": "25.6%",
+     "est": "",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": "",
+     "title": "Stefon Diggs anytime TD, live (1.00u as placed; Tony 7:19/7:27 PM AZ in Sophie chat: 'did likely and diggs straight one unit' / 'took them live... diggs 290'; no slip shown) (Commanders at Giants 6:15PM)",
+     "legs": []
+    },
+    {
+     "date": "2026-11-12",
+     "sport": "NFL",
+     "game": "WSH@NYG 6:15 PM AZ",
+     "pick": "Rachaad White anytime TD, live straight (1.00u as placed, same as the Likely/Diggs straights; Tony 7:27 PM AZ in Sophie chat: 'Add white for 290 straight'; no slip shown) (Commanders at Giants 6:15PM)",
+     "book": "FanDuel",
+     "odds": "+290",
+     "implied": "25.6%",
+     "est": "",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": "",
+     "title": "Rachaad White anytime TD, live straight (1.00u as placed, same as the Likely/Diggs straights; Tony 7:27 PM AZ in Sophie chat: 'Add white for 290 straight'; no slip shown) (Commanders at Giants 6:15PM)",
+     "legs": []
+    },
+    {
+     "date": "2026-11-12",
+     "sport": "NFL",
+     "game": "WSH@NYG 6:15 PM AZ",
+     "pick": "8-leg halftime SGP:\n⏳ Stefon Diggs 50+ rec yds\n⏳ Isaiah Likely 50+ rec yds\n⏳ Malik Nabers 20+ rec yds\n⏳ Treylon Burks 30+ rec yds\n⏳ Austin Ekeler 20+ rec yds\n⏳ Rachaad White 30+ rush yds\n⏳ Cam Skattebo 90+ rush+rec yds\n⏳ Jayden Daniels 10+ rush yds (+1150 per Tony's slip in Sophie chat 7:43 PM AZ\n⏳ 'HT') (Commanders at Giants 6:16PM)",
+     "book": "FanDuel",
+     "odds": "+1150",
+     "implied": "8.0%",
+     "est": "",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 0.6,
+     "Profit (u)": "",
+     "title": "8-leg halftime SGP:",
+     "legs": [
+      {
+       "mark": "pending",
+       "text": "Stefon Diggs 50+ rec yds"
+      },
+      {
+       "mark": "pending",
+       "text": "Isaiah Likely 50+ rec yds"
+      },
+      {
+       "mark": "pending",
+       "text": "Malik Nabers 20+ rec yds"
+      },
+      {
+       "mark": "pending",
+       "text": "Treylon Burks 30+ rec yds"
+      },
+      {
+       "mark": "pending",
+       "text": "Austin Ekeler 20+ rec yds"
+      },
+      {
+       "mark": "pending",
+       "text": "Rachaad White 30+ rush yds"
+      },
+      {
+       "mark": "pending",
+       "text": "Cam Skattebo 90+ rush+rec yds"
+      },
+      {
+       "mark": "pending",
+       "text": "Jayden Daniels 10+ rush yds (+1150 per Tony's slip in Sophie chat 7:43 PM AZ"
+      },
+      {
+       "mark": "pending",
+       "text": "'HT') (Commanders at Giants 6:16PM)"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-12",
+     "sport": "NFL",
+     "game": "WSH@NYG 6:15 PM AZ",
+     "pick": "Isaiah Likely anytime TD, second live ticket (bet ID us-az:01m79fr0ckfkatk1p19kafy2dg, placed 11/12 8:38 PM, Tony's settled slip in Sophie chat) (Giants vs Commanders 6:15PM)",
+     "book": "FanDuel",
+     "odds": "+850",
+     "implied": "10.5%",
+     "est": "",
+     "result": "W",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": 8.5,
+     "title": "Isaiah Likely anytime TD, second live ticket (bet ID us-az:01m79fr0ckfkatk1p19kafy2dg, placed 11/12 8:38 PM, Tony's settled slip in Sophie chat) (Giants vs Commanders 6:15PM)",
+     "legs": []
     }
    ],
-   "day": "6-3 (8 pending)",
-   "tony_played": "6-3",
-   "net": "+4.12u (1 pending)",
-   "running": "+6.46u",
+   "day": "10-3 (17 pending)",
+   "tony_played": "10-3",
+   "net": "+16.71u (10 pending)",
+   "running": "+19.05u",
    "date": "2026-11-12"
   },
   {
@@ -11889,13 +12284,13 @@
    "rows": [
     [
      "All picks",
-     "42-58",
-     "12-29",
+     "46-58",
+     "15-29",
      "7-8",
      "0-0",
      "2-0",
      "7-10",
-     "14-11"
+     "15-11"
     ],
     [
      "Favorites",
@@ -11909,18 +12304,18 @@
     ],
     [
      "Tony played",
-     "27-46",
-     "8-25",
+     "31-46",
+     "11-25",
      "3-6",
      "0-0",
      "2-0",
      "2-5",
-     "12-10"
+     "13-10"
     ]
    ],
    "units": {
-    "net": "-7.86u",
-    "pending": "7 pending"
+    "net": "+4.73u",
+    "pending": "16 pending"
    }
   },
   {
@@ -11973,17 +12368,17 @@
   }
  ],
  "legend": "Green = win, Red = loss, Yellow = push, Gray = pending. Newest day first.",
- "ticket_count": 524,
- "version": "33283da0c3",
+ "ticket_count": 537,
+ "version": "9421e0f3b5",
  "archive_sports": {},
- "live_ticket_count": 524,
+ "live_ticket_count": 537,
  "totals": {
   "grand": [
-   6.46,
-   225,
+   19.05,
+   229,
    277,
-   18,
-   524
+   27,
+   537
   ],
   "m2026-10": [
    14.32,
@@ -11993,15 +12388,15 @@
    408
   ],
   "m2026-11": [
-   -7.86,
-   42,
+   4.73,
+   46,
    58,
-   16,
-   116
+   25,
+   129
   ],
   "sLadder": [
-   10.92,
-   9,
+   11.91,
+   10,
    7,
    0,
    18
@@ -12020,19 +12415,26 @@
    0,
    4
   ],
+  "sMulti (NFL/NBA)": [
+   0.0,
+   0,
+   0,
+   0,
+   1
+  ],
   "sNBA": [
    -3.79,
    57,
    78,
    0,
-   138
+   140
   ],
   "sNCAAF": [
    -3.57,
    8,
    14,
    0,
-   26
+   27
   ],
   "sNCAAM": [
    -0.25,
@@ -12042,11 +12444,11 @@
    1
   ],
   "sNFL": [
-   -14.94,
-   37,
+   -3.34,
+   40,
    58,
    0,
-   97
+   106
   ],
   "sNHL": [
    -2.89,
@@ -12070,11 +12472,11 @@
    2
   ],
   "y2026": [
-   6.46,
-   225,
+   19.05,
+   229,
    277,
-   18,
-   524
+   27,
+   537
   ]
  },
  "prune_cutoff": "2026-09-12",
@@ -12093,16 +12495,16 @@
    {
     "period": "November 2026",
     "units": {
-     "NFL": -12.51,
+     "NFL": -0.91,
      "NHL": -3.08,
      "NBA": -2.81,
      "WNBA": 0,
      "Soccer": 4.02,
      "NCAAF": 1.18,
      "MLB": 0,
-     "Multi": 5.34
+     "Multi": 6.33
     },
-    "total": -7.86
+    "total": 4.73
    },
    {
     "period": "October 2026",
@@ -12121,16 +12523,16 @@
    {
     "period": "Grand total",
     "units": {
-     "NFL": -14.94,
+     "NFL": -3.34,
      "NHL": -2.89,
      "NBA": -3.79,
      "WNBA": -1.0,
      "Soccer": 15.91,
      "NCAAF": -3.57,
      "MLB": 0,
-     "Multi": 16.74
+     "Multi": 17.73
     },
-    "total": 6.46
+    "total": 19.05
    }
   ]
  }
