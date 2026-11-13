@@ -1,7 +1,9 @@
 import re,subprocess,time,sys,json,os
 from openpyxl import load_workbook
 from playwright.sync_api import sync_playwright
-wb=load_workbook('/workspace/results/Bet_tracker.xlsx',read_only=True)
+XLSX=os.environ.get('BET_TRACKER_XLSX','/workspace/results/Bet_tracker.xlsx')
+UBS_PATH=os.environ.get('UNITS_BY_SPORT_JSON','/workspace/results/units_by_sport.json')
+wb=load_workbook(XLSX,read_only=True)
 T=[r for r in wb['Tracker'].iter_rows(values_only=True)]
 hdr=next(i for i,r in enumerate(T) if r[0]=='date')
 tix=[r for r in T[hdr+1:] if r[0] and re.match(r'\d{4}-\d\d-\d\d$',str(r[0]))]
@@ -55,7 +57,7 @@ with sync_playwright() as p:
   chk('stake? tiles',both(lambda:pg.locator('.meta div:first-child b',has_text='stake?')),sum(1 for r in tix if r[11]=='stake?'))
   tab('past');pg.screenshot(path=SS+'canvas-past.png')
   chk('past sport headers = groups',pg.locator('.sph').count(),sum(len({nz(r) for r in tix if r[0]==dd}) for dd in {r[0] for r in tix} if str(dd)!=td))
-  pg.select_option('#jump','2026-10-29');pg.wait_for_timeout(300);chk('open a date',pg.locator('details.pday[open]').count(),1);pg.screenshot(path=SS+'canvas-jump-oct29.png')
+  pg.select_option('#jump','2026-10-29');pg.wait_for_timeout(300);chk('open a date',pg.locator('details.pday[open]').count(),1);chk('opened day tickets are inside the day panel',pg.locator('details.pday[open] .day-body .tk').count()>0,True);pg.screenshot(path=SS+'canvas-jump-oct29.png')
   pg.select_option('#filter','played');chk('played filter (past)',pg.locator('.tk').count(),sum(1 for r in tix if r[10]=='Y' and str(r[0])!=td));pg.select_option('#filter','all')
   pg.click('.spchip[data-sp=NFL]');chk('NFL chip filter (past)',pg.locator('.tk').count(),sum(1 for r in tix if nz(r)=='NFL' and str(r[0])!=td));pg.click('.spchip[data-sp=all]')
   tab('summary');st=pg.locator('.bt').inner_text()
@@ -65,7 +67,7 @@ with sync_playwright() as p:
   chk('totals = Units sheet',all(k.upper() in ut.upper() and v in ut for k,v in units.items()),True);pg.screenshot(path=SS+'canvas-totals-1.png')
   tab('records');rt=pg.locator('.view').inner_text()
   chk('monthly unit profit',all(m[1] in rt for m in mon),True);pg.screenshot(path=SS+'canvas-records-1.png')
-  import json as _j;U=_j.load(open('/workspace/results/units_by_sport.json'))
+  import json as _j;U=_j.load(open(UBS_PATH))
   tab('totals');rows=pg.locator('.ubs tbody tr').all()
   want=[[r['period']]+[(('+' if r['units'][s]>=0 else '')+f"{r['units'][s]:.2f}u") for s in U['sports']]+[('+' if r['total']>=0 else '')+f"{r['total']:.2f}u"] for r in U['rows']]
   got=[[c.strip() for c in r.locator('th,td').all_inner_texts()] for r in rows];chk('units by sport = json',got,want)
