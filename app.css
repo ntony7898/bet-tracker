@@ -40,8 +40,8 @@ body:has(#daily:target) .tabs a[href="#daily"],body:has(#daily :target) .tabs a[
 .rcs{display:grid;grid-template-columns:repeat(4,1fr);gap:6px}.rc{background:var(--sf2);border-radius:10px;padding:6px 8px}.rc b{display:block;font-size:16px;color:var(--tx)!important}.rc.all{background:#1E3A5F}
 .rfoot{display:flex;flex-wrap:wrap;gap:8px;align-items:baseline;border-top:1px solid var(--ln);padding-top:10px;font-size:14px;color:var(--mu)}.rfoot b{font-size:22px}.rfoot.neg b{color:var(--loss)}.rfoot em{font-style:normal;color:var(--pend)}
 /* ---- v2 sports theme ---- */
-:root{--s-fb:#A16207;--s-ncaa:#EA580C;--s-nhl:#38BDF8;--s-mlb:#E11D48;--s-nba:#F97316;--s-wnba:#FB923C;--s-soc:#10B981;--s-multi:#A78BFA;--s-ladder:#FACC15}
-.s-NFL{--spc:var(--s-fb)}.s-NCAAF,.s-CFB{--spc:var(--s-ncaa)}.s-NHL{--spc:var(--s-nhl)}.s-MLB{--spc:var(--s-mlb)}.s-NBA{--spc:var(--s-nba)}.s-WNBA{--spc:var(--s-wnba)}.s-SOCCER,.s-EPL,.s-MLS{--spc:var(--s-soc)}.s-MULTI{--spc:var(--s-multi)}.s-LADDER{--spc:var(--s-ladder)}.s-ALL{--spc:#FCD34D}
+:root{--s-fb:#A16207;--s-ncaa:#EA580C;--s-nhl:#38BDF8;--s-mlb:#E11D48;--s-nba:#F97316;--s-wnba:#FB923C;--s-soc:#10B981;--s-multi:#A78BFA;--s-ladder:#FACC15;--s-ncaam:#818CF8}
+.s-NFL{--spc:var(--s-fb)}.s-NCAAF,.s-CFB{--spc:var(--s-ncaa)}.s-NHL{--spc:var(--s-nhl)}.s-MLB{--spc:var(--s-mlb)}.s-NBA{--spc:var(--s-nba)}.s-WNBA{--spc:var(--s-wnba)}.s-SOCCER,.s-EPL,.s-MLS{--spc:var(--s-soc)}.s-MULTI{--spc:var(--s-multi)}.s-LADDER{--spc:var(--s-ladder)}.s-NCAAM{--spc:var(--s-ncaam)}.s-ALL{--spc:#FCD34D}
 .ic{width:14px;height:14px;flex:none;vertical-align:-2px;margin-right:4px}
 .sp{display:inline-flex;align-items:center;color:var(--tx);border:1px solid var(--spc,var(--ln));background:color-mix(in srgb,var(--spc,#1C2430) 18%,var(--sf2))}.sp .ic{color:var(--spc)}
 .tk{box-shadow:inset 4px 0 0 var(--spc,transparent);padding-left:18px}
@@ -75,3 +75,33 @@ body:has(#daily:target) .tabs a[href="#daily"],body:has(#daily :target) .tabs a[
 .day .sph{margin:10px 4px 6px}
 .day .tk{margin:0 0 6px;border-radius:12px}
 .day .tk:last-child{margin-bottom:2px}
+
+/* Sport-color wash: whole ticket fades from the category color into the card */
+.tk{
+  background:
+    linear-gradient(115deg,
+      color-mix(in srgb,var(--spc,var(--ln)) 34%,transparent) 0%,
+      color-mix(in srgb,var(--spc,var(--ln)) 16%,transparent) 34%,
+      color-mix(in srgb,var(--spc,var(--ln)) 5%,transparent) 66%,
+      transparent 100%),
+    var(--sf);
+  border:1px solid color-mix(in srgb,var(--spc,var(--ln)) 42%,var(--ln));
+  box-shadow:inset 5px 0 0 var(--spc,transparent);
+}
+.tk.win,.tk.loss,.tk.pend,.tk.push{border-left-width:1px;border-left-color:color-mix(in srgb,var(--spc,var(--ln)) 42%,var(--ln))}
+/* Yellow/light sports: a bit less paint so white text and pills stay crisp */
+.tk.s-LADDER,.tk.s-WNBA,.tk.s-ALL{
+  background:
+    linear-gradient(115deg,
+      color-mix(in srgb,var(--spc) 24%,transparent) 0%,
+      color-mix(in srgb,var(--spc) 11%,transparent) 36%,
+      color-mix(in srgb,var(--spc) 4%,transparent) 66%,
+      transparent 100%),
+    var(--sf);
+}
+.tk .meta div{background:rgba(11,15,20,.62)}
+.sph{
+  background:linear-gradient(90deg,color-mix(in srgb,var(--spc,transparent) 22%,transparent),transparent 70%);
+  border-radius:8px;
+  padding:8px 8px 6px;
+}
