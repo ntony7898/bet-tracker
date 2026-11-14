@@ -14,13 +14,13 @@
  "records": [
   [
    "All picks",
-   "233-283",
+   "234-284",
    "43-61",
    "43-48",
    "11-10",
    "9-14",
    "57-81",
-   "70-69"
+   "71-70"
   ],
   [
    "Favorites",
@@ -34,20 +34,20 @@
   ],
   [
    "Tony played",
-   "85-126",
+   "86-127",
    "16-37",
    "11-17",
    "0-0",
    "7-11",
    "7-28",
-   "44-33"
+   "45-34"
   ]
  ],
  "units": [
   {
    "period": "November 2026",
-   "net": "+13.35u",
-   "settled": 80,
+   "net": "+14.88u",
+   "settled": 82,
    "pending": 6
   },
   {
@@ -58,18 +58,93 @@
   },
   {
    "period": "Year 2026",
-   "net": "+27.67u",
-   "settled": 123,
+   "net": "+29.20u",
+   "settled": 125,
    "pending": 8
   },
   {
    "period": "Grand total",
-   "net": "+27.67u",
-   "settled": 123,
+   "net": "+29.20u",
+   "settled": 125,
    "pending": 8
   }
  ],
  "days": [
+  {
+   "banner": "Friday, Nov 13   |   Day: 1-1   |   Tony played: 1-1   |   Net +1.53u   |   Running +29.20u",
+   "label": "Friday, Nov 13",
+   "tickets": [
+    {
+     "date": "2026-11-13",
+     "sport": "Ladder",
+     "game": "MEM@NO 6:00 PM AZ / POR@SAC 8:00 PM AZ / OKC@LAC 8:30 PM AZ",
+     "pick": "Day 2 LADDER (2.00u as placed; Tony 8:\n- 43 AM AZ Nov 13 in Sal chat: 'Day 2 is in'\n- Day 2 of 1u doubling rule\n- accepted slip odds unconfirmed\n- about +114 computed from legs): Zion Williamson 25+ PRA -350 (Grizzlies at Pelicans 6:00PM)\n- Deni Avdija 20+ pts -295 (Trail Blazers at Kings 8:00PM)\n- Shai Gilgeous-Alexander 35+ PRA -410 (Thunder at Clippers 8:30PM)",
+     "book": "FanDuel",
+     "odds": "+114",
+     "implied": "46.7%",
+     "est": "58%",
+     "result": "W",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 2,
+     "Profit (u)": 2.28,
+     "title": "Day 2 LADDER",
+     "legs": [
+      {
+       "mark": "none",
+       "text": "Zion Williamson 25+ PRA -350 (Grizzlies at Pelicans 6:00PM)"
+      },
+      {
+       "mark": "none",
+       "text": "Deni Avdija 20+ pts -295 (Trail Blazers at Kings 8:00PM)"
+      },
+      {
+       "mark": "none",
+       "text": "Shai Gilgeous-Alexander 35+ PRA -410 (Thunder at Clippers 8:30PM)"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "sport": "Multi",
+     "game": "SVN v SUI 12:45 PM AZ / CLE@MIA 6:10 PM AZ / NYR@VAN 7:10 PM AZ / GSW@SA 7:40 PM AZ",
+     "pick": "4-leg parlay (Tony 9:\n- 32 AM AZ in Sophie chat with FanDuel slip\n- +470): Switzerland ML 3-way -155 (Slovenia v Switzerland 12:45PM)\n- Miami Heat ML -142 (Cavaliers at Heat 6:10PM)\n- NY Rangers ML -220 (Rangers at Canucks 7:10PM)\n- Victor Wembanyama 25+ pts -250 (Warriors at Spurs 7:40PM)",
+     "book": "FanDuel",
+     "odds": "+470",
+     "implied": "17.5%",
+     "est": "",
+     "result": "L",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 0.75,
+     "Profit (u)": -0.75,
+     "title": "4-leg parlay",
+     "legs": [
+      {
+       "mark": "none",
+       "text": "Switzerland ML 3-way -155 (Slovenia v Switzerland 12:45PM)"
+      },
+      {
+       "mark": "none",
+       "text": "Miami Heat ML -142 (Cavaliers at Heat 6:10PM)"
+      },
+      {
+       "mark": "none",
+       "text": "NY Rangers ML -220 (Rangers at Canucks 7:10PM)"
+      },
+      {
+       "mark": "none",
+       "text": "Victor Wembanyama 25+ pts -250 (Warriors at Spurs 7:40PM)"
+      }
+     ]
+    }
+   ],
+   "day": "1-1",
+   "tony_played": "1-1",
+   "net": "+1.53u",
+   "running": "+29.20u",
+   "date": "2026-11-13"
+  },
   {
    "banner": "Thursday, Nov 12   |   Day: 14-9 (7 pending)   |   Tony played: 14-9   |   Net +25.33u   |   Running +27.67u",
    "label": "Thursday, Nov 12",
@@ -12360,13 +12435,13 @@
    "rows": [
     [
      "All picks",
-     "50-64",
+     "51-65",
      "18-32",
      "7-8",
      "0-0",
      "3-0",
      "7-12",
-     "15-12"
+     "16-13"
     ],
     [
      "Favorites",
@@ -12380,17 +12455,17 @@
     ],
     [
      "Tony played",
-     "35-52",
+     "36-53",
      "14-28",
      "3-6",
      "0-0",
      "3-0",
      "2-7",
-     "13-11"
+     "14-12"
     ]
    ],
    "units": {
-    "net": "+13.35u",
+    "net": "+14.88u",
     "pending": "6 pending"
    }
   },
@@ -12444,17 +12519,17 @@
   }
  ],
  "legend": "Green = win, Red = loss, Yellow = push, Gray = pending. Newest day first.",
- "ticket_count": 537,
- "version": "3acb7666e0",
+ "ticket_count": 539,
+ "version": "6c6826a578",
  "archive_sports": {},
- "live_ticket_count": 537,
+ "live_ticket_count": 539,
  "totals": {
   "grand": [
-   27.67,
-   233,
-   283,
+   29.2,
+   234,
+   284,
    17,
-   537
+   539
   ],
   "m2026-10": [
    14.32,
@@ -12464,18 +12539,18 @@
    408
   ],
   "m2026-11": [
-   13.35,
-   50,
-   64,
+   14.88,
+   51,
+   65,
    15,
-   129
+   131
   ],
   "sLadder": [
-   11.91,
-   10,
+   14.19,
+   11,
    7,
    0,
-   18
+   19
   ],
   "sMLB": [
    0.0,
@@ -12485,11 +12560,11 @@
    22
   ],
   "sMulti": [
-   5.07,
+   4.32,
    2,
-   3,
+   4,
    0,
-   5
+   6
   ],
   "sNBA": [
    -5.79,
@@ -12541,14 +12616,14 @@
    2
   ],
   "y2026": [
-   27.67,
-   233,
-   283,
+   29.2,
+   234,
+   284,
    17,
-   537
+   539
   ]
  },
- "prune_cutoff": "2026-09-12",
+ "prune_cutoff": "2026-09-13",
  "units_by_sport": {
   "sports": [
    "NFL",
@@ -12571,9 +12646,9 @@
      "Soccer": 4.02,
      "NCAAF": 3.43,
      "MLB": 0,
-     "Multi": 5.33
+     "Multi": 6.86
     },
-    "total": 13.35
+    "total": 14.88
    },
    {
     "period": "October 2026",
@@ -12599,9 +12674,9 @@
      "Soccer": 15.91,
      "NCAAF": -1.32,
      "MLB": 0,
-     "Multi": 16.73
+     "Multi": 18.26
     },
-    "total": 27.67
+    "total": 29.2
    }
   ]
  }
