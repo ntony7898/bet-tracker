@@ -23,8 +23,32 @@ def tidy(t):
 def tidy2(t):
   ti=t.get('title','')
   if ti.endswith('):') and '(' in ti: t['title']=ti[:ti.index('(')].strip()
+def tidy3(t):
+  # Repair titles split on a time or bet-id colon (1:55 AM, us-az:01m7..., 6:00PM).
+  # Drop leftover note/status fragments so the ticket can display as a clean pick.
+  legs=t.get('legs') or []
+  ti=t.get('title','')
+  if not legs or ti.count('(')<=ti.count(')'):
+    return
+  first=legs[0].get('text','')
+  if re.match(r'(?i)^(?:\d{2}(?:\s*(?:AM|PM))?\)|[A-Za-z0-9]{8,}|\d{2}\s*(?:AM|PM)\b)', first):
+    t['title']=ti+first if ti.endswith(':') else ti+':'+first
+    t['legs']=legs[1:]
+    ti=t['title']; legs=t['legs']
+  while legs and ti.count('(')>ti.count(')'):
+    t['title']=ti.rstrip(' ,;')+', '+legs[0].get('text','')
+    t['legs']=legs[1:]
+    ti=t['title']; legs=t['legs']
+  def _junk(text):
+    s=re.sub(r'^(✅|❌|⏳|-)\s*','',text).strip()
+    return (not s) or bool(re.match(r'(?i)^(WON|LOST|WIN|LOSS|PUSH|VOID|PENDING)\s*[\).]*$', s)) or bool(re.search(r'\b(HIT|MISS)\b', s))
+  if t['legs'] and all(_junk(l.get('text','')) for l in t['legs']):
+    t['legs']=[]
+  ti=t.get('title','')
+  if ti.count('(')>ti.count(')'):
+    t['title']=ti[:ti.rfind('(')].rstrip(' ,;')
 for _x in d['days']:
-  for _t in _x['tickets']: tidy(_t);tidy2(_t)
+  for _t in _x['tickets']: tidy(_t);tidy2(_t);tidy3(_t)
 sys.path.insert(0,H);import prune;GT=prune.apply(d)['grand']
 xg=next(u['net'] for u in d['units'] if u['period']=='Grand total')
 if f"{'+' if GT[0]>=0 else ''}{GT[0]:.2f}u"!=xg: sys.exit(f'ABORT: archive+tickets grand total {GT[0]:+.2f}u != xlsx Grand total {xg}. Not publishing.')

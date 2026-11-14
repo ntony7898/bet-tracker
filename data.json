@@ -14,13 +14,13 @@
  "records": [
   [
    "All picks",
-   "234-284",
+   "235-287",
    "43-61",
    "43-48",
    "11-10",
    "9-14",
-   "57-81",
-   "71-70"
+   "57-83",
+   "72-71"
   ],
   [
    "Favorites",
@@ -34,20 +34,20 @@
   ],
   [
    "Tony played",
-   "86-127",
+   "87-130",
    "16-37",
    "11-17",
    "0-0",
    "7-11",
-   "7-28",
-   "45-34"
+   "7-30",
+   "46-35"
   ]
  ],
  "units": [
   {
    "period": "November 2026",
-   "net": "+14.88u",
-   "settled": 82,
+   "net": "+15.90u",
+   "settled": 86,
    "pending": 6
   },
   {
@@ -58,20 +58,20 @@
   },
   {
    "period": "Year 2026",
-   "net": "+29.20u",
-   "settled": 125,
+   "net": "+30.22u",
+   "settled": 129,
    "pending": 8
   },
   {
    "period": "Grand total",
-   "net": "+29.20u",
-   "settled": 125,
+   "net": "+30.22u",
+   "settled": 129,
    "pending": 8
   }
  ],
  "days": [
   {
-   "banner": "Friday, Nov 13   |   Day: 1-1   |   Tony played: 1-1   |   Net +1.53u   |   Running +29.20u",
+   "banner": "Friday, Nov 13   |   Day: 2-4   |   Tony played: 2-4   |   Net +2.55u   |   Running +30.22u",
    "label": "Friday, Nov 13",
    "tickets": [
     {
@@ -137,12 +137,101 @@
        "text": "Victor Wembanyama 25+ pts -250 (Warriors at Spurs 7:40PM)"
       }
      ]
+    },
+    {
+     "date": "2026-11-13",
+     "sport": "Soccer",
+     "game": "NED v GRE / SCO v MKD / SRB v GER",
+     "pick": "3-leg parlay to score or assist (bet ID us-az:\n- 01m7b6f869e618rr4cx7gtxgx4\n- placed 11/13 12:34 PM\n- Tony's settled FanDuel slip in Sophie chat Nov 14 1:55 AM AZ): Joey Veerman score or assist +135 (Netherlands 7-0 Greece)\n- Ben Gannon-Doak score or assist -120 (Scotland 2-1 North Macedonia)\n- Brajan Gruda score or assist -145 (Serbia 1-3 Germany)\n- WON\n- profit +6.28u",
+     "book": "FanDuel",
+     "odds": "+627",
+     "implied": "13.7%",
+     "est": "",
+     "result": "W",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": 6.27,
+     "title": "3-leg parlay to score or assist",
+     "legs": [
+      {
+       "mark": "none",
+       "text": "Joey Veerman score or assist +135 (Netherlands 7-0 Greece)"
+      },
+      {
+       "mark": "none",
+       "text": "Ben Gannon-Doak score or assist -120 (Scotland 2-1 North Macedonia)"
+      },
+      {
+       "mark": "none",
+       "text": "Brajan Gruda score or assist -145 (Serbia 1-3 Germany)"
+      },
+      {
+       "mark": "none",
+       "text": "WON"
+      },
+      {
+       "mark": "none",
+       "text": "profit +6.28u"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "sport": "Soccer",
+     "game": "NED v GRE",
+     "pick": "SGP Both Teams To Score Yes + Over 2.5 goals (Tony's settled FanDuel slip in Sophie chat Nov 14 1:\n- 55 AM AZ) (Netherlands 7-0 Greece: BTTS MISS\n- Over 2.5 HIT)\n- LOST",
+     "book": "FanDuel",
+     "odds": "-132",
+     "implied": "56.9%",
+     "est": "",
+     "result": "L",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 1.75,
+     "Profit (u)": -1.75,
+     "title": "SGP Both Teams To Score Yes + Over 2.5 goals (Tony's settled FanDuel slip in Sophie chat Nov 14 1:55 AM AZ) (Netherlands 7-0 Greece: BTTS MISS, Over 2.5 HIT)",
+     "legs": []
+    },
+    {
+     "date": "2026-11-13",
+     "sport": "NBA",
+     "game": "POR@SAC 8:00 PM AZ",
+     "pick": "Darius Acuff Jr. 25+ points (Tony's settled FanDuel slip in Sophie chat Nov 14 4:24 AM AZ) (Trail Blazers 120-107 Kings); LOST",
+     "book": "FanDuel",
+     "odds": "-111",
+     "implied": "52.6%",
+     "est": "",
+     "result": "L",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": -1,
+     "title": "Darius Acuff Jr. 25+ points (Tony's settled FanDuel slip in Sophie chat Nov 14 4:24 AM AZ) (Trail Blazers 120-107 Kings); LOST",
+     "legs": []
+    },
+    {
+     "date": "2026-11-13",
+     "sport": "NBA",
+     "game": "CLE@MIA 6:10 PM AZ",
+     "pick": "SGP Giannis Antetokounmpo 10+ rebounds + Davion Mitchell 15+ points (bet ID us-az:\n- 01m7bnmvd8e50tc6ffmgyf82sa\n- placed 11/13 4:59 PM\n- Tony's settled FanDuel slip in Sophie chat Nov 14 4:24 AM AZ) (Heat 133-121 Cavaliers: Giannis 10+ reb MISS\n- Mitchell 15+ pts HIT)\n- LOST",
+     "book": "FanDuel",
+     "odds": "+124",
+     "implied": "44.6%",
+     "est": "",
+     "result": "L",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 2.5,
+     "Profit (u)": -2.5,
+     "title": "SGP Giannis Antetokounmpo 10+ rebounds + Davion Mitchell 15+ points (bet ID us-az:01m7bnmvd8e50tc6ffmgyf82sa, placed 11/13 4:59 PM, Tony's settled FanDuel slip in Sophie chat Nov 14 4:24 AM AZ) (Heat 133-121 Cavaliers: Giannis 10+ reb MISS, Mitchell 15+ pts HIT)",
+     "legs": []
     }
    ],
-   "day": "1-1",
-   "tony_played": "1-1",
-   "net": "+1.53u",
-   "running": "+29.20u",
+   "day": "2-4",
+   "tony_played": "2-4",
+   "net": "+2.55u",
+   "running": "+30.22u",
    "date": "2026-11-13"
   },
   {
@@ -234,13 +323,8 @@
      "tony_played": "N",
      "Stake (u)": "",
      "Profit (u)": "",
-     "title": "Mavericks +5.5 -110 (REC only, not played; Nov 12 morning card, Sal BET verdict; tony_played N until Tony confirms); same game as the McDaniels 20+ PRA leg of the Day 1 ticket (mild correlation) (Mavericks at Timberwolves 6:",
-     "legs": [
-      {
-       "mark": "pending",
-       "text": "00PM)"
-      }
-     ]
+     "title": "Mavericks +5.5 -110 (REC only, not played; Nov 12 morning card, Sal BET verdict; tony_played N until Tony confirms); same game as the McDaniels 20+ PRA leg of the Day 1 ticket (mild correlation) (Mavericks at Timberwolves 6:00PM)",
+     "legs": []
     },
     {
      "date": "2026-11-12",
@@ -12435,13 +12519,13 @@
    "rows": [
     [
      "All picks",
-     "51-65",
+     "52-68",
      "18-32",
      "7-8",
      "0-0",
      "3-0",
-     "7-12",
-     "16-13"
+     "7-14",
+     "17-14"
     ],
     [
      "Favorites",
@@ -12455,17 +12539,17 @@
     ],
     [
      "Tony played",
-     "36-53",
+     "37-56",
      "14-28",
      "3-6",
      "0-0",
      "3-0",
-     "2-7",
-     "14-12"
+     "2-9",
+     "15-13"
     ]
    ],
    "units": {
-    "net": "+14.88u",
+    "net": "+15.90u",
     "pending": "6 pending"
    }
   },
@@ -12519,17 +12603,17 @@
   }
  ],
  "legend": "Green = win, Red = loss, Yellow = push, Gray = pending. Newest day first.",
- "ticket_count": 539,
- "version": "6c6826a578",
+ "ticket_count": 543,
+ "version": "6194949322",
  "archive_sports": {},
- "live_ticket_count": 539,
+ "live_ticket_count": 543,
  "totals": {
   "grand": [
-   29.2,
-   234,
-   284,
+   30.22,
+   235,
+   287,
    17,
-   539
+   543
   ],
   "m2026-10": [
    14.32,
@@ -12539,11 +12623,11 @@
    408
   ],
   "m2026-11": [
-   14.88,
-   51,
-   65,
+   15.9,
+   52,
+   68,
    15,
-   131
+   135
   ],
   "sLadder": [
    14.19,
@@ -12567,11 +12651,11 @@
    6
   ],
   "sNBA": [
-   -5.79,
+   -9.29,
    57,
-   80,
+   82,
    0,
-   140
+   142
   ],
   "sNCAAF": [
    -1.32,
@@ -12602,11 +12686,11 @@
    95
   ],
   "sSoccer": [
-   15.91,
+   20.43,
+   59,
    58,
-   57,
    0,
-   121
+   123
   ],
   "sWNBA": [
    -1.0,
@@ -12616,14 +12700,14 @@
    2
   ],
   "y2026": [
-   29.2,
-   234,
-   284,
+   30.22,
+   235,
+   287,
    17,
-   539
+   543
   ]
  },
- "prune_cutoff": "2026-09-13",
+ "prune_cutoff": "2026-09-14",
  "units_by_sport": {
   "sports": [
    "NFL",
@@ -12641,14 +12725,14 @@
     "units": {
      "NFL": 8.46,
      "NHL": -3.08,
-     "NBA": -4.81,
+     "NBA": -8.31,
      "WNBA": 0,
-     "Soccer": 4.02,
+     "Soccer": 8.54,
      "NCAAF": 3.43,
      "MLB": 0,
      "Multi": 6.86
     },
-    "total": 14.88
+    "total": 15.9
    },
    {
     "period": "October 2026",
@@ -12669,14 +12753,14 @@
     "units": {
      "NFL": 6.03,
      "NHL": -2.89,
-     "NBA": -5.79,
+     "NBA": -9.29,
      "WNBA": -1.0,
-     "Soccer": 15.91,
+     "Soccer": 20.43,
      "NCAAF": -1.32,
      "MLB": 0,
      "Multi": 18.26
     },
-    "total": 29.2
+    "total": 30.22
    }
   ]
  }
