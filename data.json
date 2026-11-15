@@ -14,40 +14,40 @@
  "records": [
   [
    "All picks",
-   "235-287",
+   "237-289",
    "43-61",
-   "43-48",
+   "43-49",
    "11-10",
-   "9-14",
-   "57-83",
-   "72-71"
+   "10-14",
+   "57-84",
+   "73-71"
   ],
   [
    "Favorites",
-   "32-20",
+   "33-20",
    "3-4",
    "7-4",
    "0-0",
-   "1-2",
+   "2-2",
    "11-4",
    "10-6"
   ],
   [
    "Tony played",
-   "87-130",
+   "89-132",
    "16-37",
-   "11-17",
+   "11-18",
    "0-0",
-   "7-11",
-   "7-30",
-   "46-35"
+   "8-11",
+   "7-31",
+   "47-35"
   ]
  ],
  "units": [
   {
    "period": "November 2026",
-   "net": "+15.90u",
-   "settled": 86,
+   "net": "+20.18u",
+   "settled": 90,
    "pending": 6
   },
   {
@@ -58,18 +58,284 @@
   },
   {
    "period": "Year 2026",
-   "net": "+30.22u",
-   "settled": 129,
+   "net": "+34.50u",
+   "settled": 133,
    "pending": 8
   },
   {
    "period": "Grand total",
-   "net": "+30.22u",
-   "settled": 129,
+   "net": "+34.50u",
+   "settled": 133,
    "pending": 8
   }
  ],
  "days": [
+  {
+   "banner": "Saturday, Nov 14   |   Day: 2-2 (8 pending)   |   Tony played: 2-2   |   Net +4.28u   |   Running +34.50u",
+   "label": "Saturday, Nov 14",
+   "tickets": [
+    {
+     "date": "2026-11-14",
+     "sport": "Ladder",
+     "game": "MIN@BOS 5:00 PM AZ / FLA@STL 5:00 PM AZ / NYI@ANA 8:00 PM AZ",
+     "pick": "Day 3 LADDER (Tony approved 4u over the 2u max, accepted slip odds unconfirmed, about +104 computed from legs):\n- Kirill Kaprizov 1+ pt -310 (Wild at Bruins 5:00PM)\n- Sam Reinhart 2+ SOG -290 (Panthers at Blues 5:00PM)\n- Bo Horvat 2+ SOG -670 (Islanders at Ducks 8:00PM)\n- about +104 computed",
+     "book": "FanDuel",
+     "odds": "+104",
+     "implied": "48.9%",
+     "est": "59%",
+     "result": "W",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 4,
+     "Profit (u)": 4.16,
+     "title": "Day 3 LADDER",
+     "legs": [
+      {
+       "mark": "none",
+       "text": "Kirill Kaprizov 1+ pt -310 (Wild at Bruins 5:00PM)"
+      },
+      {
+       "mark": "none",
+       "text": "Sam Reinhart 2+ SOG -290 (Panthers at Blues 5:00PM)"
+      },
+      {
+       "mark": "none",
+       "text": "Bo Horvat 2+ SOG -670 (Islanders at Ducks 8:00PM)"
+      },
+      {
+       "mark": "none",
+       "text": "about +104 computed"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "sport": "NHL",
+     "game": "SEA@CAR 11:00 AM AZ",
+     "pick": "Jackson Blake 1+ point -162 absolute favorite (REC only, not played; Nov 14 morning card; tony_played N until Tony confirms) (Kraken at Hurricanes 11:00AM)",
+     "book": "FanDuel",
+     "odds": "-162",
+     "implied": "61.8%",
+     "est": "",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "Jackson Blake 1+ point -162 absolute favorite (REC only, not played; Nov 14 morning card; tony_played N until Tony confirms) (Kraken at Hurricanes 11:00AM)",
+     "legs": []
+    },
+    {
+     "date": "2026-11-14",
+     "sport": "NBA",
+     "game": "DET@MIA 6:00 PM AZ",
+     "pick": "Pistons -4.5 -118 (REC only, not played; Nov 14 morning card; tony_played N until Tony confirms); mildly against the Davion Mitchell o14.5 rec, same game (Pistons at Heat 6:00PM)",
+     "book": "FanDuel",
+     "odds": "-118",
+     "implied": "54.1%",
+     "est": "56%",
+     "result": "",
+     "favorite": "Y",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "Pistons -4.5 -118 (REC only, not played; Nov 14 morning card; tony_played N until Tony confirms); mildly against the Davion Mitchell o14.5 rec, same game (Pistons at Heat 6:00PM)",
+     "legs": []
+    },
+    {
+     "date": "2026-11-14",
+     "sport": "NHL",
+     "game": "OTT@PIT 5:00 PM AZ",
+     "pick": "Senators ML -128 (REC only, not played; Nov 14 morning card; tony_played N until Tony confirms); conditional on goalies, recheck before 5 (Senators at Penguins 5:00PM)",
+     "book": "FanDuel",
+     "odds": "-128",
+     "implied": "56.1%",
+     "est": "59%",
+     "result": "",
+     "favorite": "Y",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "Senators ML -128 (REC only, not played; Nov 14 morning card; tony_played N until Tony confirms); conditional on goalies, recheck before 5 (Senators at Penguins 5:00PM)",
+     "legs": []
+    },
+    {
+     "date": "2026-11-14",
+     "sport": "NCAAF",
+     "game": "TEX@LSU 5:30 PM AZ",
+     "pick": "Texas +4.5 (1.00u as placed; Tony 10:20 AM AZ Nov 14 in Sal chat: '1 unit with boost +147 odds', corrected '+137 I mean'; FanDuel profit boost, base -105) (Texas at LSU 5:30PM)",
+     "book": "FanDuel",
+     "odds": "+137",
+     "implied": "42.2%",
+     "est": "54%",
+     "result": "W",
+     "favorite": "Y",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": 1.37,
+     "title": "Texas +4.5 (1.00u as placed; Tony 10:20 AM AZ Nov 14 in Sal chat: '1 unit with boost +147 odds', corrected '+137 I mean'; FanDuel profit boost, base -105) (Texas at LSU 5:30PM)",
+     "legs": []
+    },
+    {
+     "date": "2026-11-14",
+     "sport": "Soccer",
+     "game": "POR v DEN 12:45 PM AZ",
+     "pick": "Portugal ML -190 DraftKings (REC only, not played; Nov 14 morning card; tony_played N until Tony confirms); draw is the risk (Portugal v Denmark 12:45PM)",
+     "book": "DraftKings",
+     "odds": "-190",
+     "implied": "65.5%",
+     "est": "66%",
+     "result": "",
+     "favorite": "Y",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "Portugal ML -190 DraftKings (REC only, not played; Nov 14 morning card; tony_played N until Tony confirms); draw is the risk (Portugal v Denmark 12:45PM)",
+     "legs": []
+    },
+    {
+     "date": "2026-11-14",
+     "sport": "NHL",
+     "game": "CGY@LA 8:00 PM AZ",
+     "pick": "Artemi Panarin 3+ SOG -210 (REC only, not played; Nov 14 morning card; tony_played N until Tony confirms) (Flames at Kings 8:00PM)",
+     "book": "FanDuel",
+     "odds": "-210",
+     "implied": "67.7%",
+     "est": "72%",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "Artemi Panarin 3+ SOG -210 (REC only, not played; Nov 14 morning card; tony_played N until Tony confirms) (Flames at Kings 8:00PM)",
+     "legs": []
+    },
+    {
+     "date": "2026-11-14",
+     "sport": "NHL",
+     "game": "NJ@WSH 5:00 PM AZ",
+     "pick": "Jesper Bratt 1+ point -180 (REC only, not played; Nov 14 morning card; tony_played N until Tony confirms) (Devils at Capitals 5:00PM)",
+     "book": "FanDuel",
+     "odds": "-180",
+     "implied": "64.3%",
+     "est": "69%",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "Jesper Bratt 1+ point -180 (REC only, not played; Nov 14 morning card; tony_played N until Tony confirms) (Devils at Capitals 5:00PM)",
+     "legs": []
+    },
+    {
+     "date": "2026-11-14",
+     "sport": "NBA",
+     "game": "DET@MIA 6:00 PM AZ",
+     "pick": "Davion Mitchell over 14.5 points +102 (REC only, not played; Nov 14 morning card; tony_played N until Tony confirms); same game as Pistons -4.5 rec (Pistons at Heat 6:00PM)",
+     "book": "FanDuel",
+     "odds": "+102",
+     "implied": "49.5%",
+     "est": "57%",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "Davion Mitchell over 14.5 points +102 (REC only, not played; Nov 14 morning card; tony_played N until Tony confirms); same game as Pistons -4.5 rec (Pistons at Heat 6:00PM)",
+     "legs": []
+    },
+    {
+     "date": "2026-11-14",
+     "sport": "NHL",
+     "game": "BUF@DAL 6:00 PM AZ",
+     "pick": "Zach Benson 3+ SOG +178 sleeper (REC only, not played; Nov 14 morning card; tony_played N until Tony confirms) (Sabres at Stars 6:00PM)",
+     "book": "FanDuel",
+     "odds": "+178",
+     "implied": "36.0%",
+     "est": "44%",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "Zach Benson 3+ SOG +178 sleeper (REC only, not played; Nov 14 morning card; tony_played N until Tony confirms) (Sabres at Stars 6:00PM)",
+     "legs": []
+    },
+    {
+     "date": "2026-11-14",
+     "sport": "NHL",
+     "game": "NJ@WSH 5:00 PM AZ / EDM@TOR 5:00 PM AZ / DET@TB 5:00 PM AZ / SJ@UTA 7:00 PM AZ",
+     "pick": "4-leg NHL parlay (1.00u as placed; Tony 4:\n- 44 PM AZ Nov 14 in Sal chat: '1 unit on the NHL parlay'\n- slip odds unconfirmed\n- about +218 computed from legs): Jack Hughes 1+ pt -290 (Devils at Capitals 5:00PM)\n- Auston Matthews 1+ pt -290 (Oilers at Maple Leafs 5:00PM)\n- Jake Guentzel 1+ pt -250 (Red Wings at Lightning 5:00PM)\n- Clayton Keller 1+ pt -390 (Sharks at Utah 7:00PM)",
+     "book": "FanDuel",
+     "odds": "+218",
+     "implied": "31.4%",
+     "est": "",
+     "result": "L",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": -1,
+     "title": "4-leg NHL parlay",
+     "legs": [
+      {
+       "mark": "none",
+       "text": "Jack Hughes 1+ pt -290 (Devils at Capitals 5:00PM)"
+      },
+      {
+       "mark": "none",
+       "text": "Auston Matthews 1+ pt -290 (Oilers at Maple Leafs 5:00PM)"
+      },
+      {
+       "mark": "none",
+       "text": "Jake Guentzel 1+ pt -250 (Red Wings at Lightning 5:00PM)"
+      },
+      {
+       "mark": "none",
+       "text": "Clayton Keller 1+ pt -390 (Sharks at Utah 7:00PM)"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "sport": "NBA",
+     "game": "DEN@NO / DAL@CLE / CHI@MIN / DET@MIA (live)",
+     "pick": "NBA LIVE LOTTO 4-leg (slip odds unconfirmed, about +1690 computed from live prices read 6:\n- 32-6:33 PM AZ): Christian Braun over 7.5 reb +178 (Nuggets at Pelicans)\n- Thomas Bryant over 2.5 threes -130 (Mavericks at Cavaliers)\n- Norman Powell over 2.5 threes -122 (Bulls at Timberwolves)\n- Klay Thompson over 4.5 threes +100 (Pistons at Heat)",
+     "book": "FanDuel",
+     "odds": "+1690",
+     "implied": "5.6%",
+     "est": "",
+     "result": "L",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 0.25,
+     "Profit (u)": -0.25,
+     "title": "NBA LIVE LOTTO 4-leg",
+     "legs": [
+      {
+       "mark": "none",
+       "text": "Christian Braun over 7.5 reb +178 (Nuggets at Pelicans)"
+      },
+      {
+       "mark": "none",
+       "text": "Thomas Bryant over 2.5 threes -130 (Mavericks at Cavaliers)"
+      },
+      {
+       "mark": "none",
+       "text": "Norman Powell over 2.5 threes -122 (Bulls at Timberwolves)"
+      },
+      {
+       "mark": "none",
+       "text": "Klay Thompson over 4.5 threes +100 (Pistons at Heat)"
+      }
+     ]
+    }
+   ],
+   "day": "2-2 (8 pending)",
+   "tony_played": "2-2",
+   "net": "+4.28u",
+   "running": "+34.50u",
+   "date": "2026-11-14"
+  },
   {
    "banner": "Friday, Nov 13   |   Day: 2-4   |   Tony played: 2-4   |   Net +2.55u   |   Running +30.22u",
    "label": "Friday, Nov 13",
@@ -12519,37 +12785,37 @@
    "rows": [
     [
      "All picks",
-     "52-68",
+     "54-70",
      "18-32",
-     "7-8",
+     "7-9",
      "0-0",
-     "3-0",
-     "7-14",
-     "17-14"
+     "4-0",
+     "7-15",
+     "18-14"
     ],
     [
      "Favorites",
-     "10-4",
+     "11-4",
      "1-1",
      "3-1",
      "0-0",
-     "0-0",
+     "1-0",
      "3-1",
      "3-1"
     ],
     [
      "Tony played",
-     "37-56",
+     "39-58",
      "14-28",
-     "3-6",
+     "3-7",
      "0-0",
-     "3-0",
-     "2-9",
-     "15-13"
+     "4-0",
+     "2-10",
+     "16-13"
     ]
    ],
    "units": {
-    "net": "+15.90u",
+    "net": "+20.18u",
     "pending": "6 pending"
    }
   },
@@ -12603,17 +12869,17 @@
   }
  ],
  "legend": "Green = win, Red = loss, Yellow = push, Gray = pending. Newest day first.",
- "ticket_count": 543,
- "version": "6194949322",
+ "ticket_count": 555,
+ "version": "9fb8ba205d",
  "archive_sports": {},
- "live_ticket_count": 543,
+ "live_ticket_count": 555,
  "totals": {
   "grand": [
-   30.22,
-   235,
-   287,
-   17,
-   543
+   34.5,
+   237,
+   289,
+   25,
+   555
   ],
   "m2026-10": [
    14.32,
@@ -12623,18 +12889,18 @@
    408
   ],
   "m2026-11": [
-   15.9,
-   52,
-   68,
-   15,
-   135
+   20.18,
+   54,
+   70,
+   23,
+   147
   ],
   "sLadder": [
-   14.19,
-   11,
+   18.35,
+   12,
    7,
    0,
-   19
+   20
   ],
   "sMLB": [
    0.0,
@@ -12651,18 +12917,18 @@
    6
   ],
   "sNBA": [
-   -9.29,
+   -9.54,
    57,
-   82,
+   83,
    0,
-   142
+   145
   ],
   "sNCAAF": [
-   -1.32,
-   9,
+   0.05,
+   10,
    14,
    0,
-   27
+   28
   ],
   "sNCAAM": [
    -0.25,
@@ -12679,18 +12945,18 @@
    106
   ],
   "sNHL": [
-   -2.89,
+   -3.89,
    43,
-   48,
+   49,
    0,
-   95
+   101
   ],
   "sSoccer": [
    20.43,
    59,
    58,
    0,
-   123
+   124
   ],
   "sWNBA": [
    -1.0,
@@ -12700,11 +12966,11 @@
    2
   ],
   "y2026": [
-   30.22,
-   235,
-   287,
-   17,
-   543
+   34.5,
+   237,
+   289,
+   25,
+   555
   ]
  },
  "prune_cutoff": "2026-09-14",
@@ -12724,15 +12990,15 @@
     "period": "November 2026",
     "units": {
      "NFL": 8.46,
-     "NHL": -3.08,
-     "NBA": -8.31,
+     "NHL": -4.08,
+     "NBA": -8.56,
      "WNBA": 0,
      "Soccer": 8.54,
-     "NCAAF": 3.43,
+     "NCAAF": 4.8,
      "MLB": 0,
-     "Multi": 6.86
+     "Multi": 11.02
     },
-    "total": 15.9
+    "total": 20.18
    },
    {
     "period": "October 2026",
@@ -12752,15 +13018,15 @@
     "period": "Grand total",
     "units": {
      "NFL": 6.03,
-     "NHL": -2.89,
-     "NBA": -9.29,
+     "NHL": -3.89,
+     "NBA": -9.54,
      "WNBA": -1.0,
      "Soccer": 20.43,
-     "NCAAF": -1.32,
+     "NCAAF": 0.05,
      "MLB": 0,
-     "Multi": 18.26
+     "Multi": 22.42
     },
-    "total": 30.22
+    "total": 34.5
    }
   ]
  }
