@@ -48,7 +48,7 @@
    "period": "November 2026",
    "net": "+20.18u",
    "settled": 90,
-   "pending": 6
+   "pending": 9
   },
   {
    "period": "October 2026",
@@ -60,16 +60,129 @@
    "period": "Year 2026",
    "net": "+34.50u",
    "settled": 133,
-   "pending": 8
+   "pending": 11
   },
   {
    "period": "Grand total",
    "net": "+34.50u",
    "settled": 133,
-   "pending": 8
+   "pending": 11
   }
  ],
  "days": [
+  {
+   "banner": "Sunday, Nov 15   |   Day: 0-0 (3 pending)   |   Tony played: 0-0   |   Net +0.00u (3 pending)   |   Running +34.50u",
+   "label": "Sunday, Nov 15",
+   "tickets": [
+    {
+     "date": "2026-11-15",
+     "sport": "NFL",
+     "game": "MIN@GB 11:00 AM AZ / JAX@TEN 11:00 AM AZ / SEA@LV 2:05 PM AZ / PIT@CIN 6:20 PM AZ",
+     "pick": "NFL TD LOTTO 4-leg (slip odds unconfirmed, about +1910 computed from legs):\n⏳ Watson ATD +150 (Vikings at Packers 11:00AM)\n⏳ Tuten ATD -115 (Jaguars at Titans 11:00AM)\n⏳ Jaxon Smith-Njigba ATD +100 (Seahawks at Raiders 2:05PM)\n⏳ Higgins ATD +115 (Steelers at Bengals 6:20PM)",
+     "book": "FanDuel",
+     "odds": "+1910",
+     "implied": "5.0%",
+     "est": "",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 0.75,
+     "Profit (u)": "",
+     "title": "NFL TD LOTTO 4-leg",
+     "legs": [
+      {
+       "mark": "pending",
+       "text": "Watson ATD +150 (Vikings at Packers 11:00AM)"
+      },
+      {
+       "mark": "pending",
+       "text": "Tuten ATD -115 (Jaguars at Titans 11:00AM)"
+      },
+      {
+       "mark": "pending",
+       "text": "Jaxon Smith-Njigba ATD +100 (Seahawks at Raiders 2:05PM)"
+      },
+      {
+       "mark": "pending",
+       "text": "Higgins ATD +115 (Steelers at Bengals 6:20PM)"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-15",
+     "sport": "NFL",
+     "game": "NE@DET (Munich) 7:30 AM AZ",
+     "pick": "DET-NE SGP LOTTO 4-leg (actual FanDuel SGP odds +3143):\n⏳ Jahmyr Gibbs 100+ rush yds\n⏳ Jameson Williams 70+ rec yds\n⏳ DeMario Douglas 50+ rec yds\n⏳ Sam LaPorta ATD (Patriots at Lions 7:30AM)",
+     "book": "FanDuel",
+     "odds": "+3143",
+     "implied": "3.1%",
+     "est": "",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 0.5,
+     "Profit (u)": "",
+     "title": "DET-NE SGP LOTTO 4-leg",
+     "legs": [
+      {
+       "mark": "pending",
+       "text": "Jahmyr Gibbs 100+ rush yds"
+      },
+      {
+       "mark": "pending",
+       "text": "Jameson Williams 70+ rec yds"
+      },
+      {
+       "mark": "pending",
+       "text": "DeMario Douglas 50+ rec yds"
+      },
+      {
+       "mark": "pending",
+       "text": "Sam LaPorta ATD (Patriots at Lions 7:30AM)"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-15",
+     "sport": "NFL",
+     "game": "NE@DET (Munich) 7:30 AM AZ",
+     "pick": "DET-NE TD LOTTO 4-leg (actual FanDuel odds +6748):\n⏳ Jahmyr Gibbs ATD\n⏳ Jameson Williams ATD\n⏳ DeMario Douglas ATD\n⏳ Drake Maye ATD (Patriots at Lions 7:30AM)",
+     "book": "FanDuel",
+     "odds": "+6748",
+     "implied": "1.5%",
+     "est": "",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 0.25,
+     "Profit (u)": "",
+     "title": "DET-NE TD LOTTO 4-leg",
+     "legs": [
+      {
+       "mark": "pending",
+       "text": "Jahmyr Gibbs ATD"
+      },
+      {
+       "mark": "pending",
+       "text": "Jameson Williams ATD"
+      },
+      {
+       "mark": "pending",
+       "text": "DeMario Douglas ATD"
+      },
+      {
+       "mark": "pending",
+       "text": "Drake Maye ATD (Patriots at Lions 7:30AM)"
+      }
+     ]
+    }
+   ],
+   "day": "0-0 (3 pending)",
+   "tony_played": "0-0",
+   "net": "+0.00u (3 pending)",
+   "running": "+34.50u",
+   "date": "2026-11-15"
+  },
   {
    "banner": "Saturday, Nov 14   |   Day: 2-2 (8 pending)   |   Tony played: 2-2   |   Net +4.28u   |   Running +34.50u",
    "label": "Saturday, Nov 14",
@@ -12816,7 +12929,7 @@
    ],
    "units": {
     "net": "+20.18u",
-    "pending": "6 pending"
+    "pending": "9 pending"
    }
   },
   {
@@ -12869,17 +12982,17 @@
   }
  ],
  "legend": "Green = win, Red = loss, Yellow = push, Gray = pending. Newest day first.",
- "ticket_count": 555,
- "version": "9fb8ba205d",
+ "ticket_count": 558,
+ "version": "d64f5e0102",
  "archive_sports": {},
- "live_ticket_count": 555,
+ "live_ticket_count": 558,
  "totals": {
   "grand": [
    34.5,
    237,
    289,
-   25,
-   555
+   28,
+   558
   ],
   "m2026-10": [
    14.32,
@@ -12892,8 +13005,8 @@
    20.18,
    54,
    70,
-   23,
-   147
+   26,
+   150
   ],
   "sLadder": [
    18.35,
@@ -12942,7 +13055,7 @@
    43,
    61,
    0,
-   106
+   109
   ],
   "sNHL": [
    -3.89,
@@ -12969,11 +13082,11 @@
    34.5,
    237,
    289,
-   25,
-   555
+   28,
+   558
   ]
  },
- "prune_cutoff": "2026-09-14",
+ "prune_cutoff": "2026-09-15",
  "units_by_sport": {
   "sports": [
    "NFL",
