@@ -14,13 +14,13 @@
  "records": [
   [
    "All picks",
-   "238-293",
+   "239-293",
    "43-64",
    "43-49",
    "11-10",
    "10-14",
    "58-84",
-   "73-72"
+   "74-72"
   ],
   [
    "Favorites",
@@ -34,20 +34,20 @@
   ],
   [
    "Tony played",
-   "90-136",
+   "91-136",
    "16-40",
    "11-18",
    "0-0",
    "8-11",
    "8-31",
-   "47-36"
+   "48-36"
   ]
  ],
  "units": [
   {
    "period": "November 2026",
-   "net": "+18.40u",
-   "settled": 95,
+   "net": "+22.44u",
+   "settled": 96,
    "pending": 6
   },
   {
@@ -58,20 +58,20 @@
   },
   {
    "period": "Year 2026",
-   "net": "+32.72u",
-   "settled": 138,
+   "net": "+36.76u",
+   "settled": 139,
    "pending": 8
   },
   {
    "period": "Grand total",
-   "net": "+32.72u",
-   "settled": 138,
+   "net": "+36.76u",
+   "settled": 139,
    "pending": 8
   }
  ],
  "days": [
   {
-   "banner": "Sunday, Nov 15   |   Day: 1-4   |   Tony played: 1-4   |   Net -1.78u   |   Running +32.72u",
+   "banner": "Sunday, Nov 15   |   Day: 2-4   |   Tony played: 2-4   |   Net +2.26u   |   Running +36.76u",
    "label": "Sunday, Nov 15",
    "tickets": [
     {
@@ -274,12 +274,54 @@
      "Profit (u)": 0.72,
      "title": "Tyrese Maxey over 26.5 pts (-104 FD per Sal's 8:14 AM read, slip price not stated) (Pacers at 76ers 11:00AM) (Maxey 27 pts HIT, PHI 131-124); WON",
      "legs": []
+    },
+    {
+     "date": "2026-11-15",
+     "sport": "Ladder",
+     "game": "NYK@TOR 4:10 PM AZ / EDM@PHI 5:40 PM AZ / CGY@ANA 6:10 PM AZ",
+     "pick": "Day 4 LADDER (4.00u as placed:\n- Tony told Sal to keep Day 4 at 4u not 8u\n- Tony 8:09 AM AZ Nov 16 in Sophie chat: 'Our ladder hit yesterday'\n- slip odds unconfirmed\n- about +101 computed from Sal's legs): Karl-Anthony Towns 10+ reb -520 (Knicks at Raptors 4:10PM)\n- Connor McDavid 1+ pt -460 (Oilers at Flyers 5:40PM)\n- Cutter Gauthier 1+ pt -260 (Flames at Ducks 6:10PM) (Towns 17 reb HIT\n- McDavid 3 pts HIT\n- Gauthier 1 pt HIT)\n- WON",
+     "book": "FanDuel",
+     "odds": "+101",
+     "implied": "49.8%",
+     "est": "60%",
+     "result": "W",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 4,
+     "Profit (u)": 4.04,
+     "title": "Day 4 LADDER",
+     "legs": [
+      {
+       "mark": "none",
+       "text": "Karl-Anthony Towns 10+ reb -520 (Knicks at Raptors 4:10PM)"
+      },
+      {
+       "mark": "none",
+       "text": "Connor McDavid 1+ pt -460 (Oilers at Flyers 5:40PM)"
+      },
+      {
+       "mark": "none",
+       "text": "Cutter Gauthier 1+ pt -260 (Flames at Ducks 6:10PM) (Towns 17 reb HIT"
+      },
+      {
+       "mark": "none",
+       "text": "McDavid 3 pts HIT"
+      },
+      {
+       "mark": "none",
+       "text": "Gauthier 1 pt HIT)"
+      },
+      {
+       "mark": "none",
+       "text": "WON"
+      }
+     ]
     }
    ],
-   "day": "1-4",
-   "tony_played": "1-4",
-   "net": "-1.78u",
-   "running": "+32.72u",
+   "day": "2-4",
+   "tony_played": "2-4",
+   "net": "+2.26u",
+   "running": "+36.76u",
    "date": "2026-11-15"
   },
   {
@@ -12997,13 +13039,13 @@
    "rows": [
     [
      "All picks",
-     "55-74",
+     "56-74",
      "18-35",
      "7-9",
      "0-0",
      "4-0",
      "8-15",
-     "18-15"
+     "19-15"
     ],
     [
      "Favorites",
@@ -13017,17 +13059,17 @@
     ],
     [
      "Tony played",
-     "40-62",
+     "41-62",
      "14-31",
      "3-7",
      "0-0",
      "4-0",
      "3-10",
-     "16-14"
+     "17-14"
     ]
    ],
    "units": {
-    "net": "+18.40u",
+    "net": "+22.44u",
     "pending": "6 pending"
    }
   },
@@ -13081,17 +13123,17 @@
   }
  ],
  "legend": "Green = win, Red = loss, Yellow = push, Gray = pending. Newest day first.",
- "ticket_count": 560,
- "version": "8fdcccb77c",
+ "ticket_count": 561,
+ "version": "525babea8f",
  "archive_sports": {},
- "live_ticket_count": 560,
+ "live_ticket_count": 561,
  "totals": {
   "grand": [
-   32.72,
-   238,
+   36.76,
+   239,
    293,
    25,
-   560
+   561
   ],
   "m2026-10": [
    14.32,
@@ -13101,18 +13143,18 @@
    408
   ],
   "m2026-11": [
-   18.4,
-   55,
+   22.44,
+   56,
    74,
    23,
-   152
+   153
   ],
   "sLadder": [
-   18.35,
-   12,
+   22.39,
+   13,
    7,
    0,
-   20
+   21
   ],
   "sMLB": [
    0.0,
@@ -13178,14 +13220,14 @@
    2
   ],
   "y2026": [
-   32.72,
-   238,
+   36.76,
+   239,
    293,
    25,
-   560
+   561
   ]
  },
- "prune_cutoff": "2026-09-15",
+ "prune_cutoff": "2026-09-16",
  "units_by_sport": {
   "sports": [
    "NFL",
@@ -13208,9 +13250,9 @@
      "Soccer": 7.54,
      "NCAAF": 4.8,
      "MLB": 0,
-     "Multi": 11.02
+     "Multi": 15.06
     },
-    "total": 18.4
+    "total": 22.44
    },
    {
     "period": "October 2026",
@@ -13236,9 +13278,9 @@
      "Soccer": 19.43,
      "NCAAF": 0.05,
      "MLB": 0,
-     "Multi": 22.42
+     "Multi": 26.46
     },
-    "total": 32.72
+    "total": 36.76
    }
   ]
  }
