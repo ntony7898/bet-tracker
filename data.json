@@ -14,13 +14,13 @@
  "records": [
   [
    "All picks",
-   "237-289",
-   "43-61",
+   "238-293",
+   "43-64",
    "43-49",
    "11-10",
    "10-14",
-   "57-84",
-   "73-71"
+   "58-84",
+   "73-72"
   ],
   [
    "Favorites",
@@ -34,21 +34,21 @@
   ],
   [
    "Tony played",
-   "89-132",
-   "16-37",
+   "90-136",
+   "16-40",
    "11-18",
    "0-0",
    "8-11",
-   "7-31",
-   "47-35"
+   "8-31",
+   "47-36"
   ]
  ],
  "units": [
   {
    "period": "November 2026",
-   "net": "+20.18u",
-   "settled": 90,
-   "pending": 9
+   "net": "+18.40u",
+   "settled": 95,
+   "pending": 6
   },
   {
    "period": "October 2026",
@@ -58,53 +58,69 @@
   },
   {
    "period": "Year 2026",
-   "net": "+34.50u",
-   "settled": 133,
-   "pending": 11
+   "net": "+32.72u",
+   "settled": 138,
+   "pending": 8
   },
   {
    "period": "Grand total",
-   "net": "+34.50u",
-   "settled": 133,
-   "pending": 11
+   "net": "+32.72u",
+   "settled": 138,
+   "pending": 8
   }
  ],
  "days": [
   {
-   "banner": "Sunday, Nov 15   |   Day: 0-0 (3 pending)   |   Tony played: 0-0   |   Net +0.00u (3 pending)   |   Running +34.50u",
+   "banner": "Sunday, Nov 15   |   Day: 1-4   |   Tony played: 1-4   |   Net -1.78u   |   Running +32.72u",
    "label": "Sunday, Nov 15",
    "tickets": [
     {
      "date": "2026-11-15",
      "sport": "NFL",
      "game": "MIN@GB 11:00 AM AZ / JAX@TEN 11:00 AM AZ / SEA@LV 2:05 PM AZ / PIT@CIN 6:20 PM AZ",
-     "pick": "NFL TD LOTTO 4-leg (slip odds unconfirmed, about +1910 computed from legs):\n⏳ Watson ATD +150 (Vikings at Packers 11:00AM)\n⏳ Tuten ATD -115 (Jaguars at Titans 11:00AM)\n⏳ Jaxon Smith-Njigba ATD +100 (Seahawks at Raiders 2:05PM)\n⏳ Higgins ATD +115 (Steelers at Bengals 6:20PM)",
+     "pick": "NFL TD LOTTO 4-leg (slip odds unconfirmed, about +1910 computed from legs):\n- Watson ATD +150 (Vikings at Packers 11:00AM)\n- Tuten ATD -115 (Jaguars at Titans 11:00AM)\n- Jaxon Smith-Njigba ATD +100 (Seahawks at Raiders 2:05PM)\n- Higgins ATD +115 (Steelers at Bengals 6:20PM) (Watson no TD\n- Tuten TD hit\n- JSN TD hit\n- Higgins no TD)\n- LOST",
      "book": "FanDuel",
      "odds": "+1910",
      "implied": "5.0%",
      "est": "",
-     "result": "",
+     "result": "L",
      "favorite": "N",
      "tony_played": "Y",
      "Stake (u)": 0.75,
-     "Profit (u)": "",
+     "Profit (u)": -0.75,
      "title": "NFL TD LOTTO 4-leg",
      "legs": [
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "Watson ATD +150 (Vikings at Packers 11:00AM)"
       },
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "Tuten ATD -115 (Jaguars at Titans 11:00AM)"
       },
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "Jaxon Smith-Njigba ATD +100 (Seahawks at Raiders 2:05PM)"
       },
       {
-       "mark": "pending",
-       "text": "Higgins ATD +115 (Steelers at Bengals 6:20PM)"
+       "mark": "none",
+       "text": "Higgins ATD +115 (Steelers at Bengals 6:20PM) (Watson no TD"
+      },
+      {
+       "mark": "none",
+       "text": "Tuten TD hit"
+      },
+      {
+       "mark": "none",
+       "text": "JSN TD hit"
+      },
+      {
+       "mark": "none",
+       "text": "Higgins no TD)"
+      },
+      {
+       "mark": "none",
+       "text": "LOST"
       }
      ]
     },
@@ -112,33 +128,41 @@
      "date": "2026-11-15",
      "sport": "NFL",
      "game": "NE@DET (Munich) 7:30 AM AZ",
-     "pick": "DET-NE SGP LOTTO 4-leg (actual FanDuel SGP odds +3143):\n⏳ Jahmyr Gibbs 100+ rush yds\n⏳ Jameson Williams 70+ rec yds\n⏳ DeMario Douglas 50+ rec yds\n⏳ Sam LaPorta ATD (Patriots at Lions 7:30AM)",
+     "pick": "DET-NE SGP LOTTO 4-leg (actual FanDuel SGP odds +3143):\n- Jahmyr Gibbs 100+ rush yds\n- Jameson Williams 70+ rec yds\n- DeMario Douglas 50+ rec yds\n- Sam LaPorta ATD (Patriots at Lions 7:30AM) (Gibbs 153 rush HIT\n- Williams 50 rec MISS)\n- LOST",
      "book": "FanDuel",
      "odds": "+3143",
      "implied": "3.1%",
      "est": "",
-     "result": "",
+     "result": "L",
      "favorite": "N",
      "tony_played": "Y",
      "Stake (u)": 0.5,
-     "Profit (u)": "",
+     "Profit (u)": -0.5,
      "title": "DET-NE SGP LOTTO 4-leg",
      "legs": [
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "Jahmyr Gibbs 100+ rush yds"
       },
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "Jameson Williams 70+ rec yds"
       },
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "DeMario Douglas 50+ rec yds"
       },
       {
-       "mark": "pending",
-       "text": "Sam LaPorta ATD (Patriots at Lions 7:30AM)"
+       "mark": "none",
+       "text": "Sam LaPorta ATD (Patriots at Lions 7:30AM) (Gibbs 153 rush HIT"
+      },
+      {
+       "mark": "none",
+       "text": "Williams 50 rec MISS)"
+      },
+      {
+       "mark": "none",
+       "text": "LOST"
       }
      ]
     },
@@ -146,41 +170,116 @@
      "date": "2026-11-15",
      "sport": "NFL",
      "game": "NE@DET (Munich) 7:30 AM AZ",
-     "pick": "DET-NE TD LOTTO 4-leg (actual FanDuel odds +6748):\n⏳ Jahmyr Gibbs ATD\n⏳ Jameson Williams ATD\n⏳ DeMario Douglas ATD\n⏳ Drake Maye ATD (Patriots at Lions 7:30AM)",
+     "pick": "DET-NE TD LOTTO 4-leg (actual FanDuel odds +6748):\n- Jahmyr Gibbs ATD\n- Jameson Williams ATD\n- DeMario Douglas ATD\n- Drake Maye ATD (Patriots at Lions 7:30AM) (Gibbs 2 TD HIT\n- Williams/Douglas/Maye no TD)\n- LOST",
      "book": "FanDuel",
      "odds": "+6748",
      "implied": "1.5%",
      "est": "",
-     "result": "",
+     "result": "L",
      "favorite": "N",
      "tony_played": "Y",
      "Stake (u)": 0.25,
-     "Profit (u)": "",
+     "Profit (u)": -0.25,
      "title": "DET-NE TD LOTTO 4-leg",
      "legs": [
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "Jahmyr Gibbs ATD"
       },
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "Jameson Williams ATD"
       },
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "DeMario Douglas ATD"
       },
       {
-       "mark": "pending",
-       "text": "Drake Maye ATD (Patriots at Lions 7:30AM)"
+       "mark": "none",
+       "text": "Drake Maye ATD (Patriots at Lions 7:30AM) (Gibbs 2 TD HIT"
+      },
+      {
+       "mark": "none",
+       "text": "Williams/Douglas/Maye no TD)"
+      },
+      {
+       "mark": "none",
+       "text": "LOST"
       }
      ]
+    },
+    {
+     "date": "2026-11-15",
+     "sport": "Soccer",
+     "game": "ESP-ENG / CRO-CZE / BEL-ITA / FRA-TUR 12:45 PM AZ",
+     "pick": "NATIONS LEAGUE SOA LOTTO 4-leg (Tony 9:\n- 49 AM AZ Nov 15 in Sal chat: '1unit'\n- FanDuel +2149 per Sal from Tony's slip): Bellingham to score or assist +160 (Spain v England 12:45PM)\n- Perisic to score or assist +105 (Croatia v Czechia 12:45PM)\n- Esposito to score or assist +135 (Belgium v Italy 12:45PM)\n- Olise to score or assist -250 (France v Turkiye 12:45PM) (Bellingham ast HIT\n- Perisic HIT\n- Esposito HIT\n- Olise MISS)\n- LOST",
+     "book": "FanDuel",
+     "odds": "+2149",
+     "implied": "4.4%",
+     "est": "",
+     "result": "L",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": -1,
+     "title": "NATIONS LEAGUE SOA LOTTO 4-leg",
+     "legs": [
+      {
+       "mark": "none",
+       "text": "Bellingham to score or assist +160 (Spain v England 12:45PM)"
+      },
+      {
+       "mark": "none",
+       "text": "Perisic to score or assist +105 (Croatia v Czechia 12:45PM)"
+      },
+      {
+       "mark": "none",
+       "text": "Esposito to score or assist +135 (Belgium v Italy 12:45PM)"
+      },
+      {
+       "mark": "none",
+       "text": "Olise to score or assist -250 (France v Turkiye 12:45PM) (Bellingham ast HIT"
+      },
+      {
+       "mark": "none",
+       "text": "Perisic HIT"
+      },
+      {
+       "mark": "none",
+       "text": "Esposito HIT"
+      },
+      {
+       "mark": "none",
+       "text": "Olise MISS)"
+      },
+      {
+       "mark": "none",
+       "text": "LOST"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-15",
+     "sport": "NBA",
+     "game": "IND@PHI 11:00 AM AZ",
+     "pick": "Tyrese Maxey over 26.5 pts (-104 FD per Sal's 8:14 AM read, slip price not stated) (Pacers at 76ers 11:00AM) (Maxey 27 pts HIT, PHI 131-124); WON",
+     "book": "FanDuel",
+     "odds": "-104",
+     "implied": "51.0%",
+     "est": "",
+     "result": "W",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 0.75,
+     "Profit (u)": 0.72,
+     "title": "Tyrese Maxey over 26.5 pts (-104 FD per Sal's 8:14 AM read, slip price not stated) (Pacers at 76ers 11:00AM) (Maxey 27 pts HIT, PHI 131-124); WON",
+     "legs": []
     }
    ],
-   "day": "0-0 (3 pending)",
-   "tony_played": "0-0",
-   "net": "+0.00u (3 pending)",
-   "running": "+34.50u",
+   "day": "1-4",
+   "tony_played": "1-4",
+   "net": "-1.78u",
+   "running": "+32.72u",
    "date": "2026-11-15"
   },
   {
@@ -12898,13 +12997,13 @@
    "rows": [
     [
      "All picks",
-     "54-70",
-     "18-32",
+     "55-74",
+     "18-35",
      "7-9",
      "0-0",
      "4-0",
-     "7-15",
-     "18-14"
+     "8-15",
+     "18-15"
     ],
     [
      "Favorites",
@@ -12918,18 +13017,18 @@
     ],
     [
      "Tony played",
-     "39-58",
-     "14-28",
+     "40-62",
+     "14-31",
      "3-7",
      "0-0",
      "4-0",
-     "2-10",
-     "16-13"
+     "3-10",
+     "16-14"
     ]
    ],
    "units": {
-    "net": "+20.18u",
-    "pending": "9 pending"
+    "net": "+18.40u",
+    "pending": "6 pending"
    }
   },
   {
@@ -12982,17 +13081,17 @@
   }
  ],
  "legend": "Green = win, Red = loss, Yellow = push, Gray = pending. Newest day first.",
- "ticket_count": 558,
- "version": "d64f5e0102",
+ "ticket_count": 560,
+ "version": "8fdcccb77c",
  "archive_sports": {},
- "live_ticket_count": 558,
+ "live_ticket_count": 560,
  "totals": {
   "grand": [
-   34.5,
-   237,
-   289,
-   28,
-   558
+   32.72,
+   238,
+   293,
+   25,
+   560
   ],
   "m2026-10": [
    14.32,
@@ -13002,11 +13101,11 @@
    408
   ],
   "m2026-11": [
-   20.18,
-   54,
-   70,
-   26,
-   150
+   18.4,
+   55,
+   74,
+   23,
+   152
   ],
   "sLadder": [
    18.35,
@@ -13030,11 +13129,11 @@
    6
   ],
   "sNBA": [
-   -9.54,
-   57,
+   -8.82,
+   58,
    83,
    0,
-   145
+   146
   ],
   "sNCAAF": [
    0.05,
@@ -13051,9 +13150,9 @@
    1
   ],
   "sNFL": [
-   6.03,
+   4.53,
    43,
-   61,
+   64,
    0,
    109
   ],
@@ -13065,11 +13164,11 @@
    101
   ],
   "sSoccer": [
-   20.43,
+   19.43,
    59,
-   58,
+   59,
    0,
-   124
+   125
   ],
   "sWNBA": [
    -1.0,
@@ -13079,11 +13178,11 @@
    2
   ],
   "y2026": [
-   34.5,
-   237,
-   289,
-   28,
-   558
+   32.72,
+   238,
+   293,
+   25,
+   560
   ]
  },
  "prune_cutoff": "2026-09-15",
@@ -13102,16 +13201,16 @@
    {
     "period": "November 2026",
     "units": {
-     "NFL": 8.46,
+     "NFL": 6.96,
      "NHL": -4.08,
-     "NBA": -8.56,
+     "NBA": -7.84,
      "WNBA": 0,
-     "Soccer": 8.54,
+     "Soccer": 7.54,
      "NCAAF": 4.8,
      "MLB": 0,
      "Multi": 11.02
     },
-    "total": 20.18
+    "total": 18.4
    },
    {
     "period": "October 2026",
@@ -13130,16 +13229,16 @@
    {
     "period": "Grand total",
     "units": {
-     "NFL": 6.03,
+     "NFL": 4.53,
      "NHL": -3.89,
-     "NBA": -9.54,
+     "NBA": -8.82,
      "WNBA": -1.0,
-     "Soccer": 20.43,
+     "Soccer": 19.43,
      "NCAAF": 0.05,
      "MLB": 0,
      "Multi": 22.42
     },
-    "total": 34.5
+    "total": 32.72
    }
   ]
  }
