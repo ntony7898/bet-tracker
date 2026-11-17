@@ -14,13 +14,13 @@
  "records": [
   [
    "All picks",
-   "239-293",
+   "239-300",
    "43-64",
    "43-49",
    "11-10",
    "10-14",
-   "58-84",
-   "74-72"
+   "58-85",
+   "74-78"
   ],
   [
    "Favorites",
@@ -34,20 +34,20 @@
   ],
   [
    "Tony played",
-   "91-136",
+   "91-143",
    "16-40",
    "11-18",
    "0-0",
    "8-11",
-   "8-31",
-   "48-36"
+   "8-32",
+   "48-42"
   ]
  ],
  "units": [
   {
    "period": "November 2026",
-   "net": "+22.44u",
-   "settled": 96,
+   "net": "+13.19u",
+   "settled": 103,
    "pending": 6
   },
   {
@@ -58,18 +58,225 @@
   },
   {
    "period": "Year 2026",
-   "net": "+36.76u",
-   "settled": 139,
+   "net": "+27.51u",
+   "settled": 146,
    "pending": 8
   },
   {
    "period": "Grand total",
-   "net": "+36.76u",
-   "settled": 139,
+   "net": "+27.51u",
+   "settled": 146,
    "pending": 8
   }
  ],
  "days": [
+  {
+   "banner": "Monday, Nov 16   |   Day: 0-7   |   Tony played: 0-7   |   Net -9.25u   |   Running +27.51u",
+   "label": "Monday, Nov 16",
+   "tickets": [
+    {
+     "date": "2026-11-16",
+     "sport": "Ladder",
+     "game": "HOU@MIA 5:40 PM AZ / POR@MIN 6:10 PM AZ / VAN@UTA 7:30 PM AZ",
+     "pick": "Day 5 LADDER (slip odds unconfirmed, about +107 computed from legs):\n- Giannis Antetokounmpo over 39.5 PRA -280 (Rockets at Heat 5:40PM)\n- Deni Avdija over 29.5 PRA -370 (Trail Blazers at Timberwolves 6:10PM)\n- Clayton Keller 1+ pt -500 (Canucks at Mammoth 7:30PM)",
+     "book": "FanDuel",
+     "odds": "+107",
+     "implied": "48.3%",
+     "est": "",
+     "result": "L",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 4,
+     "Profit (u)": -4,
+     "title": "Day 5 LADDER",
+     "legs": [
+      {
+       "mark": "none",
+       "text": "Giannis Antetokounmpo over 39.5 PRA -280 (Rockets at Heat 5:40PM)"
+      },
+      {
+       "mark": "none",
+       "text": "Deni Avdija over 29.5 PRA -370 (Trail Blazers at Timberwolves 6:10PM)"
+      },
+      {
+       "mark": "none",
+       "text": "Clayton Keller 1+ pt -500 (Canucks at Mammoth 7:30PM)"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "sport": "NBA",
+     "game": "ORL@BOS 5:10 PM AZ",
+     "pick": "Franz Wagner over 21.5 pts (-106 FD per Sam's 8:09 AM read, slip price not stated) (Magic at Celtics 5:10PM)",
+     "book": "FanDuel",
+     "odds": "-106",
+     "implied": "51.5%",
+     "est": "",
+     "result": "L",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 2.5,
+     "Profit (u)": -2.5,
+     "title": "Franz Wagner over 21.5 pts (-106 FD per Sam's 8:09 AM read, slip price not stated) (Magic at Celtics 5:10PM)",
+     "legs": []
+    },
+    {
+     "date": "2026-11-16",
+     "sport": "Soccer",
+     "game": "EST-BUL 10:00 AM AZ",
+     "pick": "Estonia vs Bulgaria Under 1.5 goals (+140 FD per Sam's 9:42 AM read, slip price not stated) (Estonia v Bulgaria 10:00AM)",
+     "book": "FanDuel",
+     "odds": "+140",
+     "implied": "41.7%",
+     "est": "",
+     "result": "L",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 0.5,
+     "Profit (u)": -0.5,
+     "title": "Estonia vs Bulgaria Under 1.5 goals (+140 FD per Sam's 9:42 AM read, slip price not stated) (Estonia v Bulgaria 10:00AM)",
+     "legs": []
+    },
+    {
+     "date": "2026-11-16",
+     "sport": "Soccer",
+     "game": "GER-NED / GRE-SRB 12:45 PM AZ",
+     "pick": "NATIONS LEAGUE SOA LOTTO 4-leg (0.50u as placed:\n- stake per Sal's slip\n- Tony Nov 16 ~12:07 PM AZ in Sal chat: 'Okay ill take or original SOA parlay'\n- no dollar amount stated\n- actual slip +900 per Tony 12:08 PM AZ in Sophie chat: 'it was only +900'\n- legs computed to about +1496): Tijjani Reijnders to score or assist +145\n- Florian Wirtz to score or assist -135\n- Donyell Malen to score or assist +115 (Germany v Netherlands 12:45PM)\n- Vangelis Pavlidis to score or assist -135 (Greece v Serbia 12:45PM)",
+     "book": "FanDuel",
+     "odds": "+900",
+     "implied": "10.0%",
+     "est": "",
+     "result": "L",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 0.5,
+     "Profit (u)": -0.5,
+     "title": "NATIONS LEAGUE SOA LOTTO 4-leg",
+     "legs": [
+      {
+       "mark": "none",
+       "text": "Tijjani Reijnders to score or assist +145"
+      },
+      {
+       "mark": "none",
+       "text": "Florian Wirtz to score or assist -135"
+      },
+      {
+       "mark": "none",
+       "text": "Donyell Malen to score or assist +115 (Germany v Netherlands 12:45PM)"
+      },
+      {
+       "mark": "none",
+       "text": "Vangelis Pavlidis to score or assist -135 (Greece v Serbia 12:45PM)"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "sport": "Soccer",
+     "game": "SUI-SCO / GER-NED / GRE-SRB 12:45 PM AZ",
+     "pick": "SOCCER GAME PROPS 4-leg (Tony Nov 16 ~12:\n- 10 PM AZ in Sal chat: 'I did double chance DC instead because i couldnt do tie no bet'\n- actual slip +369): Scotland or Draw double chance -150\n- Over 1.5 goals -500 (Switzerland v Scotland 12:45PM)\n- Over 2.5 goals -290 (Germany v Netherlands 12:45PM)\n- Over 2.5 goals -142 (Greece v Serbia 12:45PM)",
+     "book": "FanDuel",
+     "odds": "+369",
+     "implied": "21.3%",
+     "est": "",
+     "result": "L",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 0.5,
+     "Profit (u)": -0.5,
+     "title": "SOCCER GAME PROPS 4-leg",
+     "legs": [
+      {
+       "mark": "none",
+       "text": "Scotland or Draw double chance -150"
+      },
+      {
+       "mark": "none",
+       "text": "Over 1.5 goals -500 (Switzerland v Scotland 12:45PM)"
+      },
+      {
+       "mark": "none",
+       "text": "Over 2.5 goals -290 (Germany v Netherlands 12:45PM)"
+      },
+      {
+       "mark": "none",
+       "text": "Over 2.5 goals -142 (Greece v Serbia 12:45PM)"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "sport": "Soccer",
+     "game": "SUI-SCO / GER-NED / GRE-SRB 12:45 PM AZ",
+     "pick": "SOCCER OVERS 3-leg (1.00u as placed:\n- Tony Nov 16 ~12:13 PM AZ in Sal chat: 'Also did the same parlay without the DC. just the overs for 1 unit' then '+170'\n- actual slip +170): Over 1.5 goals (Switzerland v Scotland 12:45PM)\n- Over 2.5 goals (Germany v Netherlands 12:45PM)\n- Over 2.5 goals (Greece v Serbia 12:45PM)",
+     "book": "FanDuel",
+     "odds": "+170",
+     "implied": "37.0%",
+     "est": "",
+     "result": "L",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": -1,
+     "title": "SOCCER OVERS 3-leg",
+     "legs": [
+      {
+       "mark": "none",
+       "text": "Over 1.5 goals (Switzerland v Scotland 12:45PM)"
+      },
+      {
+       "mark": "none",
+       "text": "Over 2.5 goals (Germany v Netherlands 12:45PM)"
+      },
+      {
+       "mark": "none",
+       "text": "Over 2.5 goals (Greece v Serbia 12:45PM)"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "sport": "Soccer",
+     "game": "SUI-SCO / GRE-SRB 12:45 PM AZ",
+     "pick": "SOCCER PLAYER-PROP LOTTO 4-leg (0.25u as placed:\n- PROVISIONAL\n- Sal's suggested stake\n- Tony has not stated the stake\n- Tony Nov 16 ~12:30 PM AZ in Sal chat: 'im in'\n- slip odds TBD\n- about +1689 computed): John McGinn to score or assist +170\n- Scott McTominay 1+ shot on target -165 (Switzerland v Scotland 12:45PM)\n- Konstantinos Karetsas 1+ shot on target -200\n- Christos Tzolis anytime goalscorer +175 (Greece v Serbia 12:45PM)",
+     "book": "FanDuel",
+     "odds": "+1689",
+     "implied": "5.6%",
+     "est": "",
+     "result": "L",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 0.25,
+     "Profit (u)": -0.25,
+     "title": "SOCCER PLAYER-PROP LOTTO 4-leg",
+     "legs": [
+      {
+       "mark": "none",
+       "text": "John McGinn to score or assist +170"
+      },
+      {
+       "mark": "none",
+       "text": "Scott McTominay 1+ shot on target -165 (Switzerland v Scotland 12:45PM)"
+      },
+      {
+       "mark": "none",
+       "text": "Konstantinos Karetsas 1+ shot on target -200"
+      },
+      {
+       "mark": "none",
+       "text": "Christos Tzolis anytime goalscorer +175 (Greece v Serbia 12:45PM)"
+      }
+     ]
+    }
+   ],
+   "day": "0-7",
+   "tony_played": "0-7",
+   "net": "-9.25u",
+   "running": "+27.51u",
+   "date": "2026-11-16"
+  },
   {
    "banner": "Sunday, Nov 15   |   Day: 2-4   |   Tony played: 2-4   |   Net +2.26u   |   Running +36.76u",
    "label": "Sunday, Nov 15",
@@ -13039,13 +13246,13 @@
    "rows": [
     [
      "All picks",
-     "56-74",
+     "56-81",
      "18-35",
      "7-9",
      "0-0",
      "4-0",
-     "8-15",
-     "19-15"
+     "8-16",
+     "19-21"
     ],
     [
      "Favorites",
@@ -13059,17 +13266,17 @@
     ],
     [
      "Tony played",
-     "41-62",
+     "41-69",
      "14-31",
      "3-7",
      "0-0",
      "4-0",
-     "3-10",
-     "17-14"
+     "3-11",
+     "17-20"
     ]
    ],
    "units": {
-    "net": "+22.44u",
+    "net": "+13.19u",
     "pending": "6 pending"
    }
   },
@@ -13123,17 +13330,17 @@
   }
  ],
  "legend": "Green = win, Red = loss, Yellow = push, Gray = pending. Newest day first.",
- "ticket_count": 561,
- "version": "525babea8f",
+ "ticket_count": 568,
+ "version": "74bcbc1acb",
  "archive_sports": {},
- "live_ticket_count": 561,
+ "live_ticket_count": 568,
  "totals": {
   "grand": [
-   36.76,
+   27.51,
    239,
-   293,
+   300,
    25,
-   561
+   568
   ],
   "m2026-10": [
    14.32,
@@ -13143,18 +13350,18 @@
    408
   ],
   "m2026-11": [
-   22.44,
+   13.19,
    56,
-   74,
+   81,
    23,
-   153
+   160
   ],
   "sLadder": [
-   22.39,
+   18.39,
    13,
-   7,
+   8,
    0,
-   21
+   22
   ],
   "sMLB": [
    0.0,
@@ -13171,11 +13378,11 @@
    6
   ],
   "sNBA": [
-   -8.82,
+   -11.32,
    58,
-   83,
+   84,
    0,
-   146
+   147
   ],
   "sNCAAF": [
    0.05,
@@ -13206,11 +13413,11 @@
    101
   ],
   "sSoccer": [
-   19.43,
+   16.68,
    59,
-   59,
+   64,
    0,
-   125
+   130
   ],
   "sWNBA": [
    -1.0,
@@ -13220,11 +13427,11 @@
    2
   ],
   "y2026": [
-   36.76,
+   27.51,
    239,
-   293,
+   300,
    25,
-   561
+   568
   ]
  },
  "prune_cutoff": "2026-09-16",
@@ -13245,14 +13452,14 @@
     "units": {
      "NFL": 6.96,
      "NHL": -4.08,
-     "NBA": -7.84,
+     "NBA": -10.34,
      "WNBA": 0,
-     "Soccer": 7.54,
+     "Soccer": 4.79,
      "NCAAF": 4.8,
      "MLB": 0,
-     "Multi": 15.06
+     "Multi": 11.06
     },
-    "total": 22.44
+    "total": 13.19
    },
    {
     "period": "October 2026",
@@ -13273,14 +13480,14 @@
     "units": {
      "NFL": 4.53,
      "NHL": -3.89,
-     "NBA": -8.82,
+     "NBA": -11.32,
      "WNBA": -1.0,
-     "Soccer": 19.43,
+     "Soccer": 16.68,
      "NCAAF": 0.05,
      "MLB": 0,
-     "Multi": 26.46
+     "Multi": 22.46
     },
-    "total": 36.76
+    "total": 27.51
    }
   ]
  }
