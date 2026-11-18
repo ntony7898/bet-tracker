@@ -14,13 +14,13 @@
  "records": [
   [
    "All picks",
-   "239-300",
+   "244-308-1",
    "43-64",
-   "43-49",
+   "43-51",
    "11-10",
-   "10-14",
-   "58-85",
-   "74-78"
+   "10-15",
+   "58-85-1",
+   "79-83"
   ],
   [
    "Favorites",
@@ -34,21 +34,21 @@
   ],
   [
    "Tony played",
-   "91-143",
+   "96-151-1",
    "16-40",
-   "11-18",
+   "11-20",
    "0-0",
-   "8-11",
-   "8-32",
-   "48-42"
+   "8-12",
+   "8-32-1",
+   "53-47"
   ]
  ],
  "units": [
   {
    "period": "November 2026",
-   "net": "+13.19u",
-   "settled": 103,
-   "pending": 6
+   "net": "+33.19u",
+   "settled": 117,
+   "pending": 9
   },
   {
    "period": "October 2026",
@@ -58,18 +58,646 @@
   },
   {
    "period": "Year 2026",
-   "net": "+27.51u",
-   "settled": 146,
-   "pending": 8
+   "net": "+47.51u",
+   "settled": 160,
+   "pending": 11
   },
   {
    "period": "Grand total",
-   "net": "+27.51u",
-   "settled": 146,
-   "pending": 8
+   "net": "+47.51u",
+   "settled": 160,
+   "pending": 11
   }
  ],
  "days": [
+  {
+   "banner": "Tuesday, Nov 17   |   Day: 5-8 (3 pending)   |   Tony played: 5-8   |   Net +20.00u (3 pending)   |   Running +47.51u",
+   "label": "Tuesday, Nov 17",
+   "tickets": [
+    {
+     "date": "2026-11-17",
+     "sport": "Ladder",
+     "game": "EDM@FLA 5:08 PM AZ / NSH@MIN 6:10 PM AZ / CHA@LAL 9:10 PM AZ",
+     "pick": "Day 1 LADDER restart:\n⏳ McDavid 1+ pt -500\n⏳ Kaprizov 1+ pt -370\n⏳ Luka Doncic 30+ pts -400 (2.50u as placed\n⏳ ~-110 computed\n⏳ decimal 1.905\n⏳ slip price unconfirmed)",
+     "book": "FanDuel",
+     "odds": "-110",
+     "implied": "52.5%",
+     "est": "",
+     "result": "",
+     "favorite": "",
+     "tony_played": "Y",
+     "Stake (u)": 2.5,
+     "Profit (u)": "",
+     "title": "Day 1 LADDER restart:",
+     "legs": [
+      {
+       "mark": "pending",
+       "text": "McDavid 1+ pt -500"
+      },
+      {
+       "mark": "pending",
+       "text": "Kaprizov 1+ pt -370"
+      },
+      {
+       "mark": "pending",
+       "text": "Luka Doncic 30+ pts -400 (2.50u as placed"
+      },
+      {
+       "mark": "pending",
+       "text": "~-110 computed"
+      },
+      {
+       "mark": "pending",
+       "text": "decimal 1.905"
+      },
+      {
+       "mark": "pending",
+       "text": "slip price unconfirmed)"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "sport": "NCAAM",
+     "game": "ND@FLA 2:30 PM AZ / SPU@UML 4:00 PM AZ / KU 7:30 PM AZ",
+     "pick": "NCAAB 3-leg parlay (0.75u as placed, actual slip +183, ~+141 unboosted computed):\n- Florida -9.5 alt -320 vs Notre Dame 2:30PM\n- UMass Lowell ML -250 vs Saint Peter's 4:00PM\n- Kansas -10.5 alt -320 7:30PM | GRADED Nov 17: Florida won 86-78 (8 pts\n- missed -9.5)",
+     "book": "FanDuel",
+     "odds": "+183",
+     "implied": "35.3%",
+     "est": "",
+     "result": "L",
+     "favorite": "",
+     "tony_played": "Y",
+     "Stake (u)": 0.75,
+     "Profit (u)": -0.75,
+     "title": "NCAAB 3-leg parlay",
+     "legs": [
+      {
+       "mark": "none",
+       "text": "Florida -9.5 alt -320 vs Notre Dame 2:30PM"
+      },
+      {
+       "mark": "none",
+       "text": "UMass Lowell ML -250 vs Saint Peter's 4:00PM"
+      },
+      {
+       "mark": "none",
+       "text": "Kansas -10.5 alt -320 7:30PM | GRADED Nov 17: Florida won 86-78 (8 pts"
+      },
+      {
+       "mark": "none",
+       "text": "missed -9.5)"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "sport": "Soccer",
+     "game": "DEN-NOR / IRL-KOS / HUN-NIR 12:45 PM AZ",
+     "pick": "NATIONS LEAGUE SOA LOTTO 4-leg (0.50u as placed, Tony:\n- 'yea my odds are +2251'\n- actual slip +2251\n- ~+1893 computed): Hojlund to score or assist -105 (Denmark vs Norway)\n- Odegaard to score or assist +155 (Norway at Denmark)\n- Parrott to score or assist -105 (Ireland vs Kosovo)\n- Varga to score or assist +105 (Hungary vs Northern Ireland)\n- all 12:45PM",
+     "book": "FanDuel",
+     "odds": "+2251",
+     "implied": "4.3%",
+     "est": "",
+     "result": "W",
+     "favorite": "",
+     "tony_played": "Y",
+     "Stake (u)": 0.5,
+     "Profit (u)": 11.26,
+     "title": "NATIONS LEAGUE SOA LOTTO 4-leg",
+     "legs": [
+      {
+       "mark": "none",
+       "text": "Hojlund to score or assist -105 (Denmark vs Norway)"
+      },
+      {
+       "mark": "none",
+       "text": "Odegaard to score or assist +155 (Norway at Denmark)"
+      },
+      {
+       "mark": "none",
+       "text": "Parrott to score or assist -105 (Ireland vs Kosovo)"
+      },
+      {
+       "mark": "none",
+       "text": "Varga to score or assist +105 (Hungary vs Northern Ireland)"
+      },
+      {
+       "mark": "none",
+       "text": "all 12:45PM"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "sport": "Soccer",
+     "game": "DEN-NOR / IRL-KOS 12:45 PM AZ",
+     "pick": "NATIONS LEAGUE SOA 2-leg (1.00u as placed, Tony in Sal chat 12:\n- 11 PM AZ: 'im taking those 2 for 1 unit SOA'\n- slip price TBD\n- ~+281 computed\n- correlated with the 0.5u SOA lotto\n- same two legs): Hojlund to score or assist -105 (Denmark vs Norway)\n- Parrott to score or assist -105 (Ireland vs Kosovo)\n- both 12:45PM",
+     "book": "FanDuel",
+     "odds": "+281",
+     "implied": "26.2%",
+     "est": "",
+     "result": "W",
+     "favorite": "",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": 2.81,
+     "title": "NATIONS LEAGUE SOA 2-leg",
+     "legs": [
+      {
+       "mark": "none",
+       "text": "Hojlund to score or assist -105 (Denmark vs Norway)"
+      },
+      {
+       "mark": "none",
+       "text": "Parrott to score or assist -105 (Ireland vs Kosovo)"
+      },
+      {
+       "mark": "none",
+       "text": "both 12:45PM"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "sport": "Soccer",
+     "game": "POL-SWE / DEN-NOR / IRL-KOS / HUN-NIR 12:45 PM AZ",
+     "pick": "NATIONS LEAGUE SGP+ LOTTO 5-leg (0.25u as placed, Tony's slip screenshot 12:\n- 34 PM AZ\n- actual slip +6002): Gyokeres anytime goalscorer (Poland v Sweden)\n- SGP Denmark v Norway [Haaland anytime goalscorer\n- Damsgaard to score or assist]\n- Idah to score or assist (Ireland v Kosovo)\n- Szoboszlai to score or assist (Hungary v Northern Ireland)\n- all 12:45PM | GRADED Nov 17: Gyokeres no goal\n- POL 1-1 SWE",
+     "book": "FanDuel",
+     "odds": "+6002",
+     "implied": "1.6%",
+     "est": "",
+     "result": "L",
+     "favorite": "",
+     "tony_played": "Y",
+     "Stake (u)": 0.25,
+     "Profit (u)": -0.25,
+     "title": "NATIONS LEAGUE SGP+ LOTTO 5-leg",
+     "legs": [
+      {
+       "mark": "none",
+       "text": "Gyokeres anytime goalscorer (Poland v Sweden)"
+      },
+      {
+       "mark": "none",
+       "text": "SGP Denmark v Norway [Haaland anytime goalscorer"
+      },
+      {
+       "mark": "none",
+       "text": "Damsgaard to score or assist]"
+      },
+      {
+       "mark": "none",
+       "text": "Idah to score or assist (Ireland v Kosovo)"
+      },
+      {
+       "mark": "none",
+       "text": "Szoboszlai to score or assist (Hungary v Northern Ireland)"
+      },
+      {
+       "mark": "none",
+       "text": "all 12:45PM | GRADED Nov 17: Gyokeres no goal"
+      },
+      {
+       "mark": "none",
+       "text": "POL 1-1 SWE"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "sport": "Soccer",
+     "game": "DEN-NOR / IRL-KOS / ISR-AUT 12:45 PM AZ",
+     "pick": "SOCCER 3-leg parlay (1.00u as placed, Tony's slip screenshot, placed 11/17/2026 12:\n- 42 PM AZ\n- actual slip +263): Denmark v Norway Over 2.5 goals -194\n- Republic of Ireland ML 3-way +100 (v Kosovo)\n- Austria or Draw double chance -500 (Israel v Austria)\n- all 12:45PM | GRADED Nov 17: DEN-NOR 5 goals\n- IRL 3-0 KOS\n- AUT 1-1 ISR",
+     "book": "FanDuel",
+     "odds": "+263",
+     "implied": "27.5%",
+     "est": "",
+     "result": "W",
+     "favorite": "",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": 2.63,
+     "title": "SOCCER 3-leg parlay",
+     "legs": [
+      {
+       "mark": "none",
+       "text": "Denmark v Norway Over 2.5 goals -194"
+      },
+      {
+       "mark": "none",
+       "text": "Republic of Ireland ML 3-way +100 (v Kosovo)"
+      },
+      {
+       "mark": "none",
+       "text": "Austria or Draw double chance -500 (Israel v Austria)"
+      },
+      {
+       "mark": "none",
+       "text": "all 12:45PM | GRADED Nov 17: DEN-NOR 5 goals"
+      },
+      {
+       "mark": "none",
+       "text": "IRL 3-0 KOS"
+      },
+      {
+       "mark": "none",
+       "text": "AUT 1-1 ISR"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "sport": "Soccer",
+     "game": "DEN-NOR / HUN-NIR / IRL-KOS 12:45 PM AZ",
+     "pick": "NATIONS LEAGUE SOA LOTTO #2, second ticket (0.50u as placed, Tony's slip screenshot 1:\n- 32 PM AZ\n- Tony confirmed separate from the FanDuel +2251 lotto): SGP Denmark v Norway [Odegaard to score or assist\n- Hojlund to score or assist] +350\n- Varga to score or assist -120 (Hungary v Northern Ireland)\n- Parrott to score or assist -120 (Ireland v Kosovo)\n- all 12:45PM",
+     "book": "Other (slip)",
+     "odds": "+1413",
+     "implied": "6.6%",
+     "est": "",
+     "result": "W",
+     "favorite": "",
+     "tony_played": "Y",
+     "Stake (u)": 0.5,
+     "Profit (u)": 7.07,
+     "title": "NATIONS LEAGUE SOA LOTTO #2, second ticket",
+     "legs": [
+      {
+       "mark": "none",
+       "text": "SGP Denmark v Norway [Odegaard to score or assist"
+      },
+      {
+       "mark": "none",
+       "text": "Hojlund to score or assist] +350"
+      },
+      {
+       "mark": "none",
+       "text": "Varga to score or assist -120 (Hungary v Northern Ireland)"
+      },
+      {
+       "mark": "none",
+       "text": "Parrott to score or assist -120 (Ireland v Kosovo)"
+      },
+      {
+       "mark": "none",
+       "text": "all 12:45PM"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "sport": "Soccer",
+     "game": "NOR@DEN / AUT@ISR / POR@WAL / ROU@BIH 12:45 PM AZ (live 2nd half)",
+     "pick": "LIVE 2ND-HALF LOTTO 4-leg (0.50u as placed, actual slip +9665):\n- Sorloth anytime goalscorer (Norway at Denmark)\n- Kalajdzic anytime goalscorer (Austria at Israel)\n- Goncalo Ramos to score or assist (Portugal at Wales)\n- Bajraktarevic to score or assist (Bosnia vs Romania)",
+     "book": "FanDuel",
+     "odds": "+9665",
+     "implied": "1.0%",
+     "est": "",
+     "result": "L",
+     "favorite": "",
+     "tony_played": "Y",
+     "Stake (u)": 0.5,
+     "Profit (u)": -0.5,
+     "title": "LIVE 2ND-HALF LOTTO 4-leg",
+     "legs": [
+      {
+       "mark": "none",
+       "text": "Sorloth anytime goalscorer (Norway at Denmark)"
+      },
+      {
+       "mark": "none",
+       "text": "Kalajdzic anytime goalscorer (Austria at Israel)"
+      },
+      {
+       "mark": "none",
+       "text": "Goncalo Ramos to score or assist (Portugal at Wales)"
+      },
+      {
+       "mark": "none",
+       "text": "Bajraktarevic to score or assist (Bosnia vs Romania)"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "sport": "Soccer",
+     "game": "NOR@DEN / AUT@ISR / POR@WAL / ROU@BIH 12:45 PM AZ (live 2nd half)",
+     "pick": "LIVE 2ND-HALF LOTTO #2 4-leg (0.32u as placed, actual slip +8728, correlated with the +9665 live lotto):\n- Sorloth to score or assist (Norway at Denmark)\n- Kalajdzic anytime goalscorer (Austria at Israel)\n- Goncalo Ramos to score or assist (Portugal at Wales)\n- Bajraktarevic to score or assist (Bosnia vs Romania)",
+     "book": "FanDuel",
+     "odds": "+8728",
+     "implied": "1.1%",
+     "est": "",
+     "result": "L",
+     "favorite": "",
+     "tony_played": "Y",
+     "Stake (u)": 0.32,
+     "Profit (u)": -0.32,
+     "title": "LIVE 2ND-HALF LOTTO #2 4-leg",
+     "legs": [
+      {
+       "mark": "none",
+       "text": "Sorloth to score or assist (Norway at Denmark)"
+      },
+      {
+       "mark": "none",
+       "text": "Kalajdzic anytime goalscorer (Austria at Israel)"
+      },
+      {
+       "mark": "none",
+       "text": "Goncalo Ramos to score or assist (Portugal at Wales)"
+      },
+      {
+       "mark": "none",
+       "text": "Bajraktarevic to score or assist (Bosnia vs Romania)"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "sport": "Soccer",
+     "game": "POR@WAL / AUT@ISR 12:45 PM AZ (live 2nd half)",
+     "pick": "LIVE 2-leg double (0.75u as placed, Tony:\n- 'for +584'\n- actual slip +584\n- ~+608 computed\n- correlated with both live lottos): Goncalo Ramos to score or assist +140 (Portugal at Wales)\n- Kalajdzic anytime goalscorer +195 (Austria at Israel)",
+     "book": "FanDuel",
+     "odds": "+584",
+     "implied": "14.6%",
+     "est": "",
+     "result": "L",
+     "favorite": "",
+     "tony_played": "Y",
+     "Stake (u)": 0.75,
+     "Profit (u)": -0.75,
+     "title": "LIVE 2-leg double",
+     "legs": [
+      {
+       "mark": "none",
+       "text": "Goncalo Ramos to score or assist +140 (Portugal at Wales)"
+      },
+      {
+       "mark": "none",
+       "text": "Kalajdzic anytime goalscorer +195 (Austria at Israel)"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "sport": "Soccer",
+     "game": "KOS@IRL 12:45 PM AZ",
+     "pick": "Republic of Ireland goalkeeper 3+ saves (1.00u as placed, Tony's FanDuel settled-slip screenshot 2:20 PM AZ, actual slip -125)",
+     "book": "FanDuel",
+     "odds": "-125",
+     "implied": "55.6%",
+     "est": "",
+     "result": "W",
+     "favorite": "",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": 0.8,
+     "title": "Republic of Ireland goalkeeper 3+ saves (1.00u as placed, Tony's FanDuel settled-slip screenshot 2:20 PM AZ, actual slip -125)",
+     "legs": []
+    },
+    {
+     "date": "2026-11-17",
+     "sport": "CFB",
+     "game": "EMU@WMU 4:00 PM AZ / BALL@OHIO 5:00 PM AZ / M-OH@KENT 5:00 PM AZ",
+     "pick": "CFB 3-leg parlay (0.50u as placed, actual slip +322, ~+351 computed):\n- Western Michigan -10.5 alt -188 vs Eastern Michigan 4:00PM\n- Ohio -7.5 alt -148 vs Ball State 5:00PM\n- Miami (OH) -7.5 alt -132 at Kent State 5:00PM | GRADED Nov 17: WMU won by 7 (missed -10.5)\n- Ohio won by 7 (missed -7.5)",
+     "book": "FanDuel",
+     "odds": "+322",
+     "implied": "23.7%",
+     "est": "",
+     "result": "L",
+     "favorite": "",
+     "tony_played": "Y",
+     "Stake (u)": 0.5,
+     "Profit (u)": -0.5,
+     "title": "CFB 3-leg parlay",
+     "legs": [
+      {
+       "mark": "none",
+       "text": "Western Michigan -10.5 alt -188 vs Eastern Michigan 4:00PM"
+      },
+      {
+       "mark": "none",
+       "text": "Ohio -7.5 alt -148 vs Ball State 5:00PM"
+      },
+      {
+       "mark": "none",
+       "text": "Miami (OH) -7.5 alt -132 at Kent State 5:00PM | GRADED Nov 17: WMU won by 7 (missed -10.5)"
+      },
+      {
+       "mark": "none",
+       "text": "Ohio won by 7 (missed -7.5)"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "sport": "NHL",
+     "game": "LA@BOS 5:00 PM AZ / WSH@TB 5:30 PM AZ / ANA@STL 6:00 PM AZ",
+     "pick": "NHL GAME PROP 3-leg parlay (1.00u as placed; Tony in Sal chat ~3:\n- 30 PM AZ: 'Played all. I double the units that u recommended'\n- slip price TBD\n- ~+384 computed): Ducks at Blues Over 6.5 -115 6:00PM\n- Bruins ML -166 vs Kings 5:00PM\n- Lightning ML -162 vs Capitals 5:30PM | GRADED Nov 17: BOS lost 0-3 LA",
+     "book": "FanDuel",
+     "odds": "+384",
+     "implied": "20.7%",
+     "est": "",
+     "result": "L",
+     "favorite": "",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": -1,
+     "title": "NHL GAME PROP 3-leg parlay",
+     "legs": [
+      {
+       "mark": "none",
+       "text": "Ducks at Blues Over 6.5 -115 6:00PM"
+      },
+      {
+       "mark": "none",
+       "text": "Bruins ML -166 vs Kings 5:00PM"
+      },
+      {
+       "mark": "none",
+       "text": "Lightning ML -162 vs Capitals 5:30PM | GRADED Nov 17: BOS lost 0-3 LA"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "sport": "NHL",
+     "game": "OTT@WPG 5:00 PM AZ / TOR@CHI 5:30 PM AZ / BUF@PHI 5:00 PM AZ",
+     "pick": "NHL AGS LOTTO 3-leg (0.50u as placed; Tony in Sal chat ~3:\n- 30 PM AZ: 'Played all. I double the units that u recommended'\n- slip price TBD\n- ~+3276 computed): Shane Pinto anytime goal +230 (Senators at Jets 5:00PM)\n- Roman Kantserov anytime goal +210 (Maple Leafs at Blackhawks 5:30PM)\n- Jack Quinn anytime goal +230 (Sabres at Flyers 5:00PM) | GRADED Nov 17: Pinto\n- Kantserov\n- Quinn all 0 G",
+     "book": "FanDuel",
+     "odds": "+3276",
+     "implied": "3.0%",
+     "est": "",
+     "result": "L",
+     "favorite": "",
+     "tony_played": "Y",
+     "Stake (u)": 0.5,
+     "Profit (u)": -0.5,
+     "title": "NHL AGS LOTTO 3-leg",
+     "legs": [
+      {
+       "mark": "none",
+       "text": "Shane Pinto anytime goal +230 (Senators at Jets 5:00PM)"
+      },
+      {
+       "mark": "none",
+       "text": "Roman Kantserov anytime goal +210 (Maple Leafs at Blackhawks 5:30PM)"
+      },
+      {
+       "mark": "none",
+       "text": "Jack Quinn anytime goal +230 (Sabres at Flyers 5:00PM) | GRADED Nov 17: Pinto"
+      },
+      {
+       "mark": "none",
+       "text": "Kantserov"
+      },
+      {
+       "mark": "none",
+       "text": "Quinn all 0 G"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "sport": "NHL",
+     "game": "CBJ@NYI 5:00 PM AZ / ANA@STL 6:00 PM AZ / DAL@VGK 8:00 PM AZ",
+     "pick": "NHL POINTS 3-leg parlay (1.00u as placed; Tony in Sal chat ~3:\n⏳ 30 PM AZ: 'Played all. I double the units that u recommended'\n⏳ slip price TBD\n⏳ ~+368 computed\n⏳ Granlund correlated with ANA@STL over on game-prop ticket): Kent Johnson 1+ pt -122 (Blue Jackets at Islanders 5:00PM)\n⏳ Mikael Granlund 1+ pt -160 (Ducks at Blues 6:00PM)\n⏳ Wyatt Johnston 1+ pt -172 (Stars at Golden Knights 8:00PM)",
+     "book": "FanDuel",
+     "odds": "+368",
+     "implied": "21.4%",
+     "est": "",
+     "result": "",
+     "favorite": "",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": "",
+     "title": "NHL POINTS 3-leg parlay",
+     "legs": [
+      {
+       "mark": "pending",
+       "text": "Kent Johnson 1+ pt -122 (Blue Jackets at Islanders 5:00PM)"
+      },
+      {
+       "mark": "pending",
+       "text": "Mikael Granlund 1+ pt -160 (Ducks at Blues 6:00PM)"
+      },
+      {
+       "mark": "pending",
+       "text": "Wyatt Johnston 1+ pt -172 (Stars at Golden Knights 8:00PM)"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "sport": "NBA",
+     "game": "NYK@TOR 5:40 PM AZ / POR@MIN 6:10 PM AZ / DET@SAS 6:10 PM AZ / UTA@LAC 8:40 PM AZ / CHA@LAL 9:10 PM AZ",
+     "pick": "NBA BET-RESET 8-leg SGP+ (5.00u as placed, Tony's slip screenshot 4:\n- 14 PM AZ\n- actual slip +813\n- Tony-approved one-off over the 2u max): Derrick Jones Jr. over 6.5 pts alt (Jazz at Clippers 8:40PM)\n- SGP Knicks at Raptors 5:40PM [Karl-Anthony Towns 12+ reb\n- Jalen Brunson over 22.5 pts alt]\n- Luka Doncic over 4.5 ast alt (Hornets at Lakers 9:10PM)\n- SGP Trail Blazers at Timberwolves 6:10PM [Jaden McDaniels over 8.5 reb+ast\n- Donovan Clingan 8+ reb]\n- SGP Pistons at Spurs 6:10PM [Stephon Castle over 8.5 reb+ast alt\n- Keldon Johnson 4+ reb]. If it loses\n- check how FanDuel refunds the reset before grading. | SETTLED: lost on FanDuel\n- but Tony said (Sal chat\n- 9:24 PM AZ) to log it as no loss (0u) because the back as a FanDuel bonus bet (not cash).",
+     "book": "FanDuel",
+     "odds": "+813",
+     "implied": "11.0%",
+     "est": "",
+     "result": "P",
+     "favorite": "",
+     "tony_played": "Y",
+     "Stake (u)": 5,
+     "Profit (u)": 0,
+     "title": "NBA BET-RESET 8-leg SGP+",
+     "legs": [
+      {
+       "mark": "none",
+       "text": "Derrick Jones Jr. over 6.5 pts alt (Jazz at Clippers 8:40PM)"
+      },
+      {
+       "mark": "none",
+       "text": "SGP Knicks at Raptors 5:40PM [Karl-Anthony Towns 12+ reb"
+      },
+      {
+       "mark": "none",
+       "text": "Jalen Brunson over 22.5 pts alt]"
+      },
+      {
+       "mark": "none",
+       "text": "Luka Doncic over 4.5 ast alt (Hornets at Lakers 9:10PM)"
+      },
+      {
+       "mark": "none",
+       "text": "SGP Trail Blazers at Timberwolves 6:10PM [Jaden McDaniels over 8.5 reb+ast"
+      },
+      {
+       "mark": "none",
+       "text": "Donovan Clingan 8+ reb]"
+      },
+      {
+       "mark": "none",
+       "text": "SGP Pistons at Spurs 6:10PM [Stephon Castle over 8.5 reb+ast alt"
+      },
+      {
+       "mark": "none",
+       "text": "Keldon Johnson 4+ reb]. If it loses"
+      },
+      {
+       "mark": "none",
+       "text": "check how FanDuel refunds the reset before grading. | SETTLED: lost on FanDuel"
+      },
+      {
+       "mark": "none",
+       "text": "but Tony said (Sal chat"
+      },
+      {
+       "mark": "none",
+       "text": "9:24 PM AZ) to log it as no loss (0u) because the back as a FanDuel bonus bet (not cash)."
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "sport": "NBA",
+     "game": "CHA@LAL 9:10 PM AZ / UTA@LAC 8:40 PM AZ (live)",
+     "pick": "NBA LIVE 6-leg SGP+ (1.40u as placed, Tony's slip screenshot 9:\n⏳ 23 PM AZ via Sal\n⏳ actual slip +140\n⏳ ~+259 computed earlier): Coby White 4+ ast\n⏳ Naz Reid 2+ threes\n⏳ Moussa Diabate 8+ reb (Hornets at Lakers)\n⏳ Ace Bailey 2+ ast\n⏳ Darryn Peterson 4+ reb\n⏳ Keyonte George 3+ threes (Jazz at Clippers)",
+     "book": "FanDuel",
+     "odds": "+140",
+     "implied": "41.7%",
+     "est": "",
+     "result": "",
+     "favorite": "",
+     "tony_played": "Y",
+     "Stake (u)": 1.4,
+     "Profit (u)": "",
+     "title": "NBA LIVE 6-leg SGP+",
+     "legs": [
+      {
+       "mark": "pending",
+       "text": "Coby White 4+ ast"
+      },
+      {
+       "mark": "pending",
+       "text": "Naz Reid 2+ threes"
+      },
+      {
+       "mark": "pending",
+       "text": "Moussa Diabate 8+ reb (Hornets at Lakers)"
+      },
+      {
+       "mark": "pending",
+       "text": "Ace Bailey 2+ ast"
+      },
+      {
+       "mark": "pending",
+       "text": "Darryn Peterson 4+ reb"
+      },
+      {
+       "mark": "pending",
+       "text": "Keyonte George 3+ threes (Jazz at Clippers)"
+      }
+     ]
+    }
+   ],
+   "day": "5-8 (3 pending)",
+   "tony_played": "5-8",
+   "net": "+20.00u (3 pending)",
+   "running": "+47.51u",
+   "date": "2026-11-17"
+  },
   {
    "banner": "Monday, Nov 16   |   Day: 0-7   |   Tony played: 0-7   |   Net -9.25u   |   Running +27.51u",
    "label": "Monday, Nov 16",
@@ -13246,13 +13874,13 @@
    "rows": [
     [
      "All picks",
-     "56-81",
+     "61-89-1",
      "18-35",
-     "7-9",
+     "7-11",
      "0-0",
-     "4-0",
-     "8-16",
-     "19-21"
+     "4-1",
+     "8-16-1",
+     "24-26"
     ],
     [
      "Favorites",
@@ -13266,18 +13894,18 @@
     ],
     [
      "Tony played",
-     "41-69",
+     "46-77-1",
      "14-31",
-     "3-7",
+     "3-9",
      "0-0",
-     "4-0",
-     "3-11",
-     "17-20"
+     "4-1",
+     "3-11-1",
+     "22-25"
     ]
    ],
    "units": {
-    "net": "+13.19u",
-    "pending": "6 pending"
+    "net": "+33.19u",
+    "pending": "9 pending"
    }
   },
   {
@@ -13330,17 +13958,17 @@
   }
  ],
  "legend": "Green = win, Red = loss, Yellow = push, Gray = pending. Newest day first.",
- "ticket_count": 568,
- "version": "74bcbc1acb",
+ "ticket_count": 585,
+ "version": "924cad3679",
  "archive_sports": {},
- "live_ticket_count": 568,
+ "live_ticket_count": 585,
  "totals": {
   "grand": [
-   27.51,
-   239,
-   300,
-   25,
-   568
+   47.51,
+   244,
+   308,
+   29,
+   585
   ],
   "m2026-10": [
    14.32,
@@ -13350,18 +13978,18 @@
    408
   ],
   "m2026-11": [
-   13.19,
-   56,
-   81,
-   23,
-   160
+   33.19,
+   61,
+   89,
+   27,
+   177
   ],
   "sLadder": [
    18.39,
    13,
    8,
    0,
-   22
+   23
   ],
   "sMLB": [
    0.0,
@@ -13382,21 +14010,21 @@
    58,
    84,
    0,
-   147
+   149
   ],
   "sNCAAF": [
-   0.05,
+   -0.45,
    10,
-   14,
+   15,
    0,
-   28
+   29
   ],
   "sNCAAM": [
-   -0.25,
+   -1.0,
    0,
-   1,
+   2,
    0,
-   1
+   2
   ],
   "sNFL": [
    4.53,
@@ -13406,18 +14034,18 @@
    109
   ],
   "sNHL": [
-   -3.89,
+   -5.39,
    43,
-   49,
+   51,
    0,
-   101
+   104
   ],
   "sSoccer": [
-   16.68,
-   59,
+   39.43,
    64,
+   68,
    0,
-   130
+   139
   ],
   "sWNBA": [
    -1.0,
@@ -13427,14 +14055,14 @@
    2
   ],
   "y2026": [
-   27.51,
-   239,
-   300,
-   25,
-   568
+   47.51,
+   244,
+   308,
+   29,
+   585
   ]
  },
- "prune_cutoff": "2026-09-16",
+ "prune_cutoff": "2026-09-17",
  "units_by_sport": {
   "sports": [
    "NFL",
@@ -13451,15 +14079,15 @@
     "period": "November 2026",
     "units": {
      "NFL": 6.96,
-     "NHL": -4.08,
+     "NHL": -5.58,
      "NBA": -10.34,
      "WNBA": 0,
-     "Soccer": 4.79,
-     "NCAAF": 4.8,
+     "Soccer": 27.54,
+     "NCAAF": 4.3,
      "MLB": 0,
-     "Multi": 11.06
+     "Multi": 10.31
     },
-    "total": 13.19
+    "total": 33.19
    },
    {
     "period": "October 2026",
@@ -13479,15 +14107,15 @@
     "period": "Grand total",
     "units": {
      "NFL": 4.53,
-     "NHL": -3.89,
+     "NHL": -5.39,
      "NBA": -11.32,
      "WNBA": -1.0,
-     "Soccer": 16.68,
-     "NCAAF": 0.05,
+     "Soccer": 39.43,
+     "NCAAF": -0.45,
      "MLB": 0,
-     "Multi": 22.46
+     "Multi": 21.71
     },
-    "total": 27.51
+    "total": 47.51
    }
   ]
  }
