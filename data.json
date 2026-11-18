@@ -14,13 +14,13 @@
  "records": [
   [
    "All picks",
-   "244-308-1",
+   "247-308-1",
    "43-64",
-   "43-51",
+   "44-51",
    "11-10",
    "10-15",
-   "58-85-1",
-   "79-83"
+   "59-85-1",
+   "80-83"
   ],
   [
    "Favorites",
@@ -34,21 +34,21 @@
   ],
   [
    "Tony played",
-   "96-151-1",
+   "99-151-1",
    "16-40",
-   "11-20",
+   "12-20",
    "0-0",
    "8-12",
-   "8-32-1",
-   "53-47"
+   "9-32-1",
+   "54-47"
   ]
  ],
  "units": [
   {
    "period": "November 2026",
-   "net": "+33.19u",
-   "settled": 117,
-   "pending": 9
+   "net": "+41.10u",
+   "settled": 120,
+   "pending": 6
   },
   {
    "period": "October 2026",
@@ -58,61 +58,69 @@
   },
   {
    "period": "Year 2026",
-   "net": "+47.51u",
-   "settled": 160,
-   "pending": 11
+   "net": "+55.42u",
+   "settled": 163,
+   "pending": 8
   },
   {
    "period": "Grand total",
-   "net": "+47.51u",
-   "settled": 160,
-   "pending": 11
+   "net": "+55.42u",
+   "settled": 163,
+   "pending": 8
   }
  ],
  "days": [
   {
-   "banner": "Tuesday, Nov 17   |   Day: 5-8 (3 pending)   |   Tony played: 5-8   |   Net +20.00u (3 pending)   |   Running +47.51u",
+   "banner": "Tuesday, Nov 17   |   Day: 8-8   |   Tony played: 8-8   |   Net +27.91u   |   Running +55.42u",
    "label": "Tuesday, Nov 17",
    "tickets": [
     {
      "date": "2026-11-17",
      "sport": "Ladder",
      "game": "EDM@FLA 5:08 PM AZ / NSH@MIN 6:10 PM AZ / CHA@LAL 9:10 PM AZ",
-     "pick": "Day 1 LADDER restart:\n⏳ McDavid 1+ pt -500\n⏳ Kaprizov 1+ pt -370\n⏳ Luka Doncic 30+ pts -400 (2.50u as placed\n⏳ ~-110 computed\n⏳ decimal 1.905\n⏳ slip price unconfirmed)",
+     "pick": "Day 1 LADDER restart:\n- McDavid 1+ pt -500\n- Kaprizov 1+ pt -370\n- Luka Doncic 30+ pts -400 (2.50u as placed\n- ~-110 computed\n- decimal 1.905\n- slip price unconfirmed) | GRADED W (ESPN finals): McDavid 2 pts\n- Kaprizov 3 pts\n- Luka 36 pts.",
      "book": "FanDuel",
      "odds": "-110",
      "implied": "52.5%",
      "est": "",
-     "result": "",
+     "result": "W",
      "favorite": "",
      "tony_played": "Y",
      "Stake (u)": 2.5,
-     "Profit (u)": "",
+     "Profit (u)": 2.27,
      "title": "Day 1 LADDER restart:",
      "legs": [
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "McDavid 1+ pt -500"
       },
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "Kaprizov 1+ pt -370"
       },
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "Luka Doncic 30+ pts -400 (2.50u as placed"
       },
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "~-110 computed"
       },
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "decimal 1.905"
       },
       {
-       "mark": "pending",
-       "text": "slip price unconfirmed)"
+       "mark": "none",
+       "text": "slip price unconfirmed) | GRADED W (ESPN finals): McDavid 2 pts"
+      },
+      {
+       "mark": "none",
+       "text": "Kaprizov 3 pts"
+      },
+      {
+       "mark": "none",
+       "text": "Luka 36 pts."
       }
      ]
     },
@@ -561,29 +569,29 @@
      "date": "2026-11-17",
      "sport": "NHL",
      "game": "CBJ@NYI 5:00 PM AZ / ANA@STL 6:00 PM AZ / DAL@VGK 8:00 PM AZ",
-     "pick": "NHL POINTS 3-leg parlay (1.00u as placed; Tony in Sal chat ~3:\n⏳ 30 PM AZ: 'Played all. I double the units that u recommended'\n⏳ slip price TBD\n⏳ ~+368 computed\n⏳ Granlund correlated with ANA@STL over on game-prop ticket): Kent Johnson 1+ pt -122 (Blue Jackets at Islanders 5:00PM)\n⏳ Mikael Granlund 1+ pt -160 (Ducks at Blues 6:00PM)\n⏳ Wyatt Johnston 1+ pt -172 (Stars at Golden Knights 8:00PM)",
+     "pick": "NHL POINTS 3-leg parlay (1.00u as placed; Tony in Sal chat ~3:\n- 30 PM AZ: 'Played all. I double the units that u recommended'\n- slip price TBD\n- ~+368 computed\n- Granlund correlated with ANA@STL over on game-prop ticket): Kent Johnson 1+ pt -122 (Blue Jackets at Islanders 5:00PM)\n- Mikael Granlund 1+ pt -160 (Ducks at Blues 6:00PM)\n- Wyatt Johnston 1+ pt -172 (Stars at Golden Knights 8:00PM) | GRADED W (ESPN): W. Johnston 1G in DAL@VGK.",
      "book": "FanDuel",
      "odds": "+368",
      "implied": "21.4%",
      "est": "",
-     "result": "",
+     "result": "W",
      "favorite": "",
      "tony_played": "Y",
      "Stake (u)": 1,
-     "Profit (u)": "",
+     "Profit (u)": 3.68,
      "title": "NHL POINTS 3-leg parlay",
      "legs": [
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "Kent Johnson 1+ pt -122 (Blue Jackets at Islanders 5:00PM)"
       },
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "Mikael Granlund 1+ pt -160 (Ducks at Blues 6:00PM)"
       },
       {
-       "mark": "pending",
-       "text": "Wyatt Johnston 1+ pt -172 (Stars at Golden Knights 8:00PM)"
+       "mark": "none",
+       "text": "Wyatt Johnston 1+ pt -172 (Stars at Golden Knights 8:00PM) | GRADED W (ESPN): W. Johnston 1G in DAL@VGK."
       }
      ]
     },
@@ -653,49 +661,69 @@
      "date": "2026-11-17",
      "sport": "NBA",
      "game": "CHA@LAL 9:10 PM AZ / UTA@LAC 8:40 PM AZ (live)",
-     "pick": "NBA LIVE 6-leg SGP+ (1.40u as placed, Tony's slip screenshot 9:\n⏳ 23 PM AZ via Sal\n⏳ actual slip +140\n⏳ ~+259 computed earlier): Coby White 4+ ast\n⏳ Naz Reid 2+ threes\n⏳ Moussa Diabate 8+ reb (Hornets at Lakers)\n⏳ Ace Bailey 2+ ast\n⏳ Darryn Peterson 4+ reb\n⏳ Keyonte George 3+ threes (Jazz at Clippers)",
+     "pick": "NBA LIVE 6-leg SGP+ (1.40u as placed, Tony's slip screenshot 9:\n- 23 PM AZ via Sal\n- actual slip +140\n- ~+259 computed earlier): Coby White 4+ ast\n- Naz Reid 2+ threes\n- Moussa Diabate 8+ reb (Hornets at Lakers)\n- Ace Bailey 2+ ast\n- Darryn Peterson 4+ reb\n- Keyonte George 3+ threes (Jazz at Clippers) | GRADED W (ESPN finals): White 4 ast\n- Reid 4 threes\n- Diabate 16 reb\n- Bailey 4 ast\n- Peterson 5 reb\n- George 4 threes.",
      "book": "FanDuel",
      "odds": "+140",
      "implied": "41.7%",
      "est": "",
-     "result": "",
+     "result": "W",
      "favorite": "",
      "tony_played": "Y",
      "Stake (u)": 1.4,
-     "Profit (u)": "",
+     "Profit (u)": 1.96,
      "title": "NBA LIVE 6-leg SGP+",
      "legs": [
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "Coby White 4+ ast"
       },
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "Naz Reid 2+ threes"
       },
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "Moussa Diabate 8+ reb (Hornets at Lakers)"
       },
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "Ace Bailey 2+ ast"
       },
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "Darryn Peterson 4+ reb"
       },
       {
-       "mark": "pending",
-       "text": "Keyonte George 3+ threes (Jazz at Clippers)"
+       "mark": "none",
+       "text": "Keyonte George 3+ threes (Jazz at Clippers) | GRADED W (ESPN finals): White 4 ast"
+      },
+      {
+       "mark": "none",
+       "text": "Reid 4 threes"
+      },
+      {
+       "mark": "none",
+       "text": "Diabate 16 reb"
+      },
+      {
+       "mark": "none",
+       "text": "Bailey 4 ast"
+      },
+      {
+       "mark": "none",
+       "text": "Peterson 5 reb"
+      },
+      {
+       "mark": "none",
+       "text": "George 4 threes."
       }
      ]
     }
    ],
-   "day": "5-8 (3 pending)",
-   "tony_played": "5-8",
-   "net": "+20.00u (3 pending)",
-   "running": "+47.51u",
+   "day": "8-8",
+   "tony_played": "8-8",
+   "net": "+27.91u",
+   "running": "+55.42u",
    "date": "2026-11-17"
   },
   {
@@ -13874,13 +13902,13 @@
    "rows": [
     [
      "All picks",
-     "61-89-1",
+     "64-89-1",
      "18-35",
-     "7-11",
+     "8-11",
      "0-0",
      "4-1",
-     "8-16-1",
-     "24-26"
+     "9-16-1",
+     "25-26"
     ],
     [
      "Favorites",
@@ -13894,18 +13922,18 @@
     ],
     [
      "Tony played",
-     "46-77-1",
+     "49-77-1",
      "14-31",
-     "3-9",
+     "4-9",
      "0-0",
      "4-1",
-     "3-11-1",
-     "22-25"
+     "4-11-1",
+     "23-25"
     ]
    ],
    "units": {
-    "net": "+33.19u",
-    "pending": "9 pending"
+    "net": "+41.10u",
+    "pending": "6 pending"
    }
   },
   {
@@ -13959,15 +13987,15 @@
  ],
  "legend": "Green = win, Red = loss, Yellow = push, Gray = pending. Newest day first.",
  "ticket_count": 585,
- "version": "924cad3679",
+ "version": "51f2ad63e8",
  "archive_sports": {},
  "live_ticket_count": 585,
  "totals": {
   "grand": [
-   47.51,
-   244,
+   55.42,
+   247,
    308,
-   29,
+   26,
    585
   ],
   "m2026-10": [
@@ -13978,15 +14006,15 @@
    408
   ],
   "m2026-11": [
-   33.19,
-   61,
+   41.1,
+   64,
    89,
-   27,
+   24,
    177
   ],
   "sLadder": [
-   18.39,
-   13,
+   20.66,
+   14,
    8,
    0,
    23
@@ -14006,8 +14034,8 @@
    6
   ],
   "sNBA": [
-   -11.32,
-   58,
+   -9.36,
+   59,
    84,
    0,
    149
@@ -14034,8 +14062,8 @@
    109
   ],
   "sNHL": [
-   -5.39,
-   43,
+   -1.71,
+   44,
    51,
    0,
    104
@@ -14055,14 +14083,14 @@
    2
   ],
   "y2026": [
-   47.51,
-   244,
+   55.42,
+   247,
    308,
-   29,
+   26,
    585
   ]
  },
- "prune_cutoff": "2026-09-17",
+ "prune_cutoff": "2026-09-18",
  "units_by_sport": {
   "sports": [
    "NFL",
@@ -14079,15 +14107,15 @@
     "period": "November 2026",
     "units": {
      "NFL": 6.96,
-     "NHL": -5.58,
-     "NBA": -10.34,
+     "NHL": -1.9,
+     "NBA": -8.38,
      "WNBA": 0,
      "Soccer": 27.54,
      "NCAAF": 4.3,
      "MLB": 0,
-     "Multi": 10.31
+     "Multi": 12.58
     },
-    "total": 33.19
+    "total": 41.1
    },
    {
     "period": "October 2026",
@@ -14107,15 +14135,15 @@
     "period": "Grand total",
     "units": {
      "NFL": 4.53,
-     "NHL": -5.39,
-     "NBA": -11.32,
+     "NHL": -1.71,
+     "NBA": -9.36,
      "WNBA": -1.0,
      "Soccer": 39.43,
      "NCAAF": -0.45,
      "MLB": 0,
-     "Multi": 21.71
+     "Multi": 23.98
     },
-    "total": 47.51
+    "total": 55.42
    }
   ]
  }
