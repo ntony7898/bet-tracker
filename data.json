@@ -14,40 +14,40 @@
  "records": [
   [
    "All picks",
-   "247-308-1",
+   "252-316-1",
    "43-64",
-   "44-51",
+   "45-54",
    "11-10",
-   "10-15",
-   "59-85-1",
-   "80-83"
+   "11-15",
+   "61-88-1",
+   "81-85"
   ],
   [
    "Favorites",
-   "33-20",
+   "35-20",
    "3-4",
    "7-4",
    "0-0",
-   "2-2",
-   "11-4",
+   "3-2",
+   "12-4",
    "10-6"
   ],
   [
    "Tony played",
-   "99-151-1",
+   "100-154-1",
    "16-40",
-   "12-20",
+   "12-21",
    "0-0",
    "8-12",
-   "9-32-1",
-   "54-47"
+   "9-33-1",
+   "55-48"
   ]
  ],
  "units": [
   {
    "period": "November 2026",
-   "net": "+41.10u",
-   "settled": 120,
+   "net": "+39.83u",
+   "settled": 124,
    "pending": 6
   },
   {
@@ -58,18 +58,340 @@
   },
   {
    "period": "Year 2026",
-   "net": "+55.42u",
-   "settled": 163,
+   "net": "+54.15u",
+   "settled": 167,
    "pending": 8
   },
   {
    "period": "Grand total",
-   "net": "+55.42u",
-   "settled": 163,
+   "net": "+54.15u",
+   "settled": 167,
    "pending": 8
   }
  ],
  "days": [
+  {
+   "banner": "Wednesday, Nov 18   |   Day: 5-8 (1 pending)   |   Tony played: 1-3   |   Net -1.27u   |   Running +54.15u",
+   "label": "Wednesday, Nov 18",
+   "tickets": [
+    {
+     "date": "2026-11-18",
+     "sport": "Ladder",
+     "game": "ATL@OKC 6:10 PM / COL@UTA 8:10 PM / UTA@LAL 8:10 PM AZ",
+     "pick": "Day 2 LADDER (5u by the doubling rule, stake pending Tony; NOT played yet):\n- SGA 25+ pts -440\n- Clayton Keller 1+ pt -295\n- Luka Doncic 30+ pts -390",
+     "book": "FanDuel",
+     "odds": "+106",
+     "implied": "48.4%",
+     "est": "61%",
+     "result": "L",
+     "favorite": "N",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "Day 2 LADDER",
+     "legs": [
+      {
+       "mark": "none",
+       "text": "SGA 25+ pts -440"
+      },
+      {
+       "mark": "none",
+       "text": "Clayton Keller 1+ pt -295"
+      },
+      {
+       "mark": "none",
+       "text": "Luka Doncic 30+ pts -390"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "sport": "NHL",
+     "game": "MTL@NJ 5:40 PM AZ",
+     "pick": "ABSOLUTE FAVORITE: Cole Caufield 3+ SOG",
+     "book": "FanDuel",
+     "odds": "-140",
+     "implied": "58.3%",
+     "est": "66%",
+     "result": "L",
+     "favorite": "N",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "ABSOLUTE FAVORITE: Cole Caufield 3+ SOG",
+     "legs": []
+    },
+    {
+     "date": "2026-11-18",
+     "sport": "NBA",
+     "game": "PHI@ORL 5:10 PM AZ",
+     "pick": "76ers -1.5",
+     "book": "FanDuel",
+     "odds": "-114",
+     "implied": "53.3%",
+     "est": "58%",
+     "result": "W",
+     "favorite": "Y",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "76ers -1.5",
+     "legs": []
+    },
+    {
+     "date": "2026-11-18",
+     "sport": "NHL",
+     "game": "COL@UTA 8:10 PM AZ",
+     "pick": "Utah Mammoth ML",
+     "book": "FanDuel",
+     "odds": "-115",
+     "implied": "53.5%",
+     "est": "57%",
+     "result": "",
+     "favorite": "Y",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "Utah Mammoth ML",
+     "legs": []
+    },
+    {
+     "date": "2026-11-18",
+     "sport": "NCAAF",
+     "game": "CMU@BUF 5:30 PM AZ",
+     "pick": "Buffalo -2.5",
+     "book": "FanDuel",
+     "odds": "-116",
+     "implied": "53.7%",
+     "est": "58%",
+     "result": "W",
+     "favorite": "Y",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "Buffalo -2.5",
+     "legs": []
+    },
+    {
+     "date": "2026-11-18",
+     "sport": "NBA",
+     "game": "MEM@CLE 5:10 PM AZ",
+     "pick": "Grizzlies +4.5",
+     "book": "FanDuel",
+     "odds": "-105",
+     "implied": "51.2%",
+     "est": "55%",
+     "result": "W",
+     "favorite": "N",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "Grizzlies +4.5",
+     "legs": []
+    },
+    {
+     "date": "2026-11-18",
+     "sport": "NBA",
+     "game": "MIL@MIA 5:10 PM AZ",
+     "pick": "Davion Mitchell 8+ ast",
+     "book": "FanDuel",
+     "odds": "-230",
+     "implied": "69.7%",
+     "est": "80%",
+     "result": "L",
+     "favorite": "N",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "Davion Mitchell 8+ ast",
+     "legs": []
+    },
+    {
+     "date": "2026-11-18",
+     "sport": "NBA",
+     "game": "BOS@DEN 7:10 PM AZ",
+     "pick": "Jayson Tatum o39.5 PRA",
+     "book": "FanDuel",
+     "odds": "-125",
+     "implied": "55.6%",
+     "est": "60%",
+     "result": "L",
+     "favorite": "N",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "Jayson Tatum o39.5 PRA",
+     "legs": []
+    },
+    {
+     "date": "2026-11-18",
+     "sport": "NHL",
+     "game": "BOS@DET 5:40 PM AZ",
+     "pick": "David Pastrnak o3.5 SOG",
+     "book": "FanDuel",
+     "odds": "+104",
+     "implied": "49.0%",
+     "est": "56%",
+     "result": "W",
+     "favorite": "N",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "David Pastrnak o3.5 SOG",
+     "legs": []
+    },
+    {
+     "date": "2026-11-18",
+     "sport": "NHL",
+     "game": "MTL@NJ 5:40 PM AZ",
+     "pick": "SLEEPER: Jack Hughes 5+ SOG",
+     "book": "FanDuel",
+     "odds": "+185",
+     "implied": "35.1%",
+     "est": "41%",
+     "result": "L",
+     "favorite": "N",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "SLEEPER: Jack Hughes 5+ SOG",
+     "legs": []
+    },
+    {
+     "date": "2026-11-18",
+     "sport": "NCAAM",
+     "game": "UNO@TTU 5:30 PM / SDAK@NEB 6:30 PM / WEB@USU 7:00 PM / OAK@ASU 7:00 PM AZ",
+     "pick": "NCAAM 4-leg alt-spread parlay (0.50u as placed, about +314 computed, slip price unconfirmed):\n- Texas Tech -29.5 (-250) vs New Orleans 5:30 PM\n- Nebraska -27.5 (-245) vs South Dakota 6:30 PM\n- Utah State -27.5 (-178) vs Weber State 7:00 PM\n- Arizona State -17.5 (-290) vs Oakland 7:00 PM",
+     "book": "FanDuel",
+     "odds": "+314",
+     "implied": "24.2%",
+     "est": "",
+     "result": "L",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 0.5,
+     "Profit (u)": -0.5,
+     "title": "NCAAM 4-leg alt-spread parlay",
+     "legs": [
+      {
+       "mark": "none",
+       "text": "Texas Tech -29.5 (-250) vs New Orleans 5:30 PM"
+      },
+      {
+       "mark": "none",
+       "text": "Nebraska -27.5 (-245) vs South Dakota 6:30 PM"
+      },
+      {
+       "mark": "none",
+       "text": "Utah State -27.5 (-178) vs Weber State 7:00 PM"
+      },
+      {
+       "mark": "none",
+       "text": "Arizona State -17.5 (-290) vs Oakland 7:00 PM"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "sport": "NCAAM",
+     "game": "JKST@BAY 10:00 AM / ND vs RUT (Las Vegas) 12:00 PM AZ",
+     "pick": "NCAAM 2-leg parlay (1.00u as placed, actual slip +123):\n- Baylor -28.5 (-260) vs Jackson State 10:00 AM\n- Notre Dame ML (-162) vs Rutgers 12:00 PM (Las Vegas). Penn State leg NOT played.",
+     "book": "FanDuel",
+     "odds": "+123",
+     "implied": "44.8%",
+     "est": "",
+     "result": "W",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": 1.23,
+     "title": "NCAAM 2-leg parlay",
+     "legs": [
+      {
+       "mark": "none",
+       "text": "Baylor -28.5 (-260) vs Jackson State 10:00 AM"
+      },
+      {
+       "mark": "none",
+       "text": "Notre Dame ML (-162) vs Rutgers 12:00 PM (Las Vegas). Penn State leg NOT played."
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "sport": "NBA",
+     "game": "MIL@MIA 5:00 PM / PHI@ORL 5:00 PM / HOU@IND 5:00 PM / BOS@DEN 7:30 PM / PHX@SAC 8:00 PM AZ",
+     "pick": "NBA 5-leg prop parlay (1.00u as placed, about +224 computed, slip price unconfirmed):\n- Giannis 10+ reb (-400) MIL@MIA 5:00 PM\n- Franz Wagner 35+ PRA (-240) PHI@ORL 5:00 PM\n- Sengun 15+ pts (-590) HOU@IND 5:00 PM\n- Murray 18+ pts (-350) BOS@DEN 7:30 PM\n- Sabonis 10+ reb (-460) PHX@SAC 8:00 PM",
+     "book": "FanDuel",
+     "odds": "+224",
+     "implied": "30.8%",
+     "est": "",
+     "result": "L",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": -1,
+     "title": "NBA 5-leg prop parlay",
+     "legs": [
+      {
+       "mark": "none",
+       "text": "Giannis 10+ reb (-400) MIL@MIA 5:00 PM"
+      },
+      {
+       "mark": "none",
+       "text": "Franz Wagner 35+ PRA (-240) PHI@ORL 5:00 PM"
+      },
+      {
+       "mark": "none",
+       "text": "Sengun 15+ pts (-590) HOU@IND 5:00 PM"
+      },
+      {
+       "mark": "none",
+       "text": "Murray 18+ pts (-350) BOS@DEN 7:30 PM"
+      },
+      {
+       "mark": "none",
+       "text": "Sabonis 10+ reb (-460) PHX@SAC 8:00 PM"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "sport": "NHL",
+     "game": "MTL@NJ 5:30 PM / BOS@DET 5:30 PM / COL@UTA 8:00 PM AZ",
+     "pick": "NHL 3-leg parlay (1.00u as placed, Tony in Sal chat:\n- '1 unit'\n- about +472 computed\n- slip price unconfirmed): Caufield o2.5 SOG (-144) MTL@NJ 5:30 PM\n- Bruins ML (-110) BOS@DET 5:30 PM\n- Kadri o2.5 SOG (-130) COL@UTA 8:00 PM",
+     "book": "FanDuel",
+     "odds": "+472",
+     "implied": "17.5%",
+     "est": "",
+     "result": "L",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": -1,
+     "title": "NHL 3-leg parlay",
+     "legs": [
+      {
+       "mark": "none",
+       "text": "Caufield o2.5 SOG (-144) MTL@NJ 5:30 PM"
+      },
+      {
+       "mark": "none",
+       "text": "Bruins ML (-110) BOS@DET 5:30 PM"
+      },
+      {
+       "mark": "none",
+       "text": "Kadri o2.5 SOG (-130) COL@UTA 8:00 PM"
+      }
+     ]
+    }
+   ],
+   "day": "5-8 (1 pending)",
+   "tony_played": "1-3",
+   "net": "-1.27u",
+   "running": "+54.15u",
+   "date": "2026-11-18"
+  },
   {
    "banner": "Tuesday, Nov 17   |   Day: 8-8   |   Tony played: 8-8   |   Net +27.91u   |   Running +55.42u",
    "label": "Tuesday, Nov 17",
@@ -13902,37 +14224,37 @@
    "rows": [
     [
      "All picks",
-     "64-89-1",
+     "69-97-1",
      "18-35",
-     "8-11",
+     "9-14",
      "0-0",
-     "4-1",
-     "9-16-1",
-     "25-26"
+     "5-1",
+     "11-19-1",
+     "26-28"
     ],
     [
      "Favorites",
-     "11-4",
+     "13-4",
      "1-1",
      "3-1",
      "0-0",
-     "1-0",
-     "3-1",
+     "2-0",
+     "4-1",
      "3-1"
     ],
     [
      "Tony played",
-     "49-77-1",
+     "50-80-1",
      "14-31",
-     "4-9",
+     "4-10",
      "0-0",
      "4-1",
-     "4-11-1",
-     "23-25"
+     "4-12-1",
+     "24-26"
     ]
    ],
    "units": {
-    "net": "+41.10u",
+    "net": "+39.83u",
     "pending": "6 pending"
    }
   },
@@ -13986,17 +14308,17 @@
   }
  ],
  "legend": "Green = win, Red = loss, Yellow = push, Gray = pending. Newest day first.",
- "ticket_count": 585,
- "version": "51f2ad63e8",
+ "ticket_count": 599,
+ "version": "d171a22f74",
  "archive_sports": {},
- "live_ticket_count": 585,
+ "live_ticket_count": 599,
  "totals": {
   "grand": [
-   55.42,
-   247,
-   308,
-   26,
-   585
+   54.15,
+   252,
+   316,
+   27,
+   599
   ],
   "m2026-10": [
    14.32,
@@ -14006,18 +14328,18 @@
    408
   ],
   "m2026-11": [
-   41.1,
-   64,
-   89,
-   24,
-   177
+   39.83,
+   69,
+   97,
+   25,
+   191
   ],
   "sLadder": [
    20.66,
    14,
-   8,
+   9,
    0,
-   23
+   24
   ],
   "sMLB": [
    0.0,
@@ -14034,25 +14356,25 @@
    6
   ],
   "sNBA": [
-   -9.36,
-   59,
-   84,
+   -10.36,
+   61,
+   87,
    0,
-   149
+   154
   ],
   "sNCAAF": [
    -0.45,
-   10,
+   11,
    15,
    0,
-   29
+   30
   ],
   "sNCAAM": [
-   -1.0,
+   -0.27,
+   1,
+   3,
    0,
-   2,
-   0,
-   2
+   4
   ],
   "sNFL": [
    4.53,
@@ -14062,11 +14384,11 @@
    109
   ],
   "sNHL": [
-   -1.71,
-   44,
-   51,
+   -2.71,
+   45,
+   54,
    0,
-   104
+   109
   ],
   "sSoccer": [
    39.43,
@@ -14083,11 +14405,11 @@
    2
   ],
   "y2026": [
-   55.42,
-   247,
-   308,
-   26,
-   585
+   54.15,
+   252,
+   316,
+   27,
+   599
   ]
  },
  "prune_cutoff": "2026-09-18",
@@ -14107,15 +14429,15 @@
     "period": "November 2026",
     "units": {
      "NFL": 6.96,
-     "NHL": -1.9,
-     "NBA": -8.38,
+     "NHL": -2.9,
+     "NBA": -9.38,
      "WNBA": 0,
      "Soccer": 27.54,
      "NCAAF": 4.3,
      "MLB": 0,
-     "Multi": 12.58
+     "Multi": 13.31
     },
-    "total": 41.1
+    "total": 39.83
    },
    {
     "period": "October 2026",
@@ -14135,15 +14457,15 @@
     "period": "Grand total",
     "units": {
      "NFL": 4.53,
-     "NHL": -1.71,
-     "NBA": -9.36,
+     "NHL": -2.71,
+     "NBA": -10.36,
      "WNBA": -1.0,
      "Soccer": 39.43,
      "NCAAF": -0.45,
      "MLB": 0,
-     "Multi": 23.98
+     "Multi": 24.71
     },
-    "total": 55.42
+    "total": 54.15
    }
   ]
  }
