@@ -14,13 +14,13 @@
  "records": [
   [
    "All picks",
-   "252-316-1",
-   "43-64",
+   "254-323-1",
+   "44-68",
    "45-54",
    "11-10",
    "11-15",
    "61-88-1",
-   "81-85"
+   "82-88"
   ],
   [
    "Favorites",
@@ -34,20 +34,20 @@
   ],
   [
    "Tony played",
-   "100-154-1",
-   "16-40",
+   "102-161-1",
+   "17-44",
    "12-21",
    "0-0",
    "8-12",
    "9-33-1",
-   "55-48"
+   "56-51"
   ]
  ],
  "units": [
   {
    "period": "November 2026",
-   "net": "+39.83u",
-   "settled": 124,
+   "net": "+37.73u",
+   "settled": 133,
    "pending": 6
   },
   {
@@ -58,18 +58,387 @@
   },
   {
    "period": "Year 2026",
-   "net": "+54.15u",
-   "settled": 167,
+   "net": "+52.05u",
+   "settled": 176,
    "pending": 8
   },
   {
    "period": "Grand total",
-   "net": "+54.15u",
-   "settled": 167,
+   "net": "+52.05u",
+   "settled": 176,
    "pending": 8
   }
  ],
  "days": [
+  {
+   "banner": "Thursday, Nov 19   |   Day: 2-7 (9 pending)   |   Tony played: 2-7   |   Net -2.10u   |   Running +52.05u",
+   "label": "Thursday, Nov 19",
+   "tickets": [
+    {
+     "date": "2026-11-19",
+     "sport": "Ladder",
+     "game": "EDM@TB 5:30 PM / MIN@CGY 6:00 PM / ANA@COL 7:00 PM AZ",
+     "pick": "Day 1 LADDER (2.50u as placed, reset by Tony Nov 19:\n- 'Back to day 1 on the ladder'\n- about +108 computed\n- slip price unconfirmed): McDavid 1+ pt -480 EDM@TB 5:30 PM\n- Quinn Hughes 1+ pt -350 MIN@CGY 6:00 PM\n- Cutter Gauthier 1+ pt -295 ANA@COL 7:00 PM",
+     "book": "FanDuel",
+     "odds": "+108",
+     "implied": "48.1%",
+     "est": "59%",
+     "result": "L",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 2.5,
+     "Profit (u)": -2.5,
+     "title": "Day 1 LADDER",
+     "legs": [
+      {
+       "mark": "none",
+       "text": "McDavid 1+ pt -480 EDM@TB 5:30 PM"
+      },
+      {
+       "mark": "none",
+       "text": "Quinn Hughes 1+ pt -350 MIN@CGY 6:00 PM"
+      },
+      {
+       "mark": "none",
+       "text": "Cutter Gauthier 1+ pt -295 ANA@COL 7:00 PM"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-19",
+     "sport": "NHL",
+     "game": "NYI@WPG 5:00 PM AZ",
+     "pick": "ABSOLUTE FAVORITE: Kyle Connor 4+ SOG",
+     "book": "FanDuel",
+     "odds": "-114",
+     "implied": "53.3%",
+     "est": "61%",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "ABSOLUTE FAVORITE: Kyle Connor 4+ SOG",
+     "legs": []
+    },
+    {
+     "date": "2026-11-19",
+     "sport": "NHL",
+     "game": "MTL@CAR 5:00 PM AZ",
+     "pick": "Hurricanes -1.5",
+     "book": "FanDuel",
+     "odds": "-110",
+     "implied": "52.4%",
+     "est": "57%",
+     "result": "",
+     "favorite": "Y",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "Hurricanes -1.5",
+     "legs": []
+    },
+    {
+     "date": "2026-11-19",
+     "sport": "NBA",
+     "game": "NYK@MIN 6:00 PM AZ",
+     "pick": "Knicks -1.5",
+     "book": "FanDuel",
+     "odds": "-108",
+     "implied": "51.9%",
+     "est": "55%",
+     "result": "",
+     "favorite": "Y",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "Knicks -1.5",
+     "legs": []
+    },
+    {
+     "date": "2026-11-19",
+     "sport": "NFL",
+     "game": "IND@HOU 6:15 PM AZ",
+     "pick": "Colts +12.5",
+     "book": "FanDuel",
+     "odds": "-110",
+     "implied": "52.4%",
+     "est": "56%",
+     "result": "",
+     "favorite": "Y",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "Colts +12.5",
+     "legs": []
+    },
+    {
+     "date": "2026-11-19",
+     "sport": "NCAAF",
+     "game": "RICE@TEM 5:30 PM AZ",
+     "pick": "Temple -2.5",
+     "book": "FanDuel",
+     "odds": "-115",
+     "implied": "53.5%",
+     "est": "56%",
+     "result": "",
+     "favorite": "Y",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "Temple -2.5",
+     "legs": []
+    },
+    {
+     "date": "2026-11-19",
+     "sport": "NFL",
+     "game": "IND@HOU 6:15 PM AZ",
+     "pick": "Jonathan Taylor o51.5 rush yds",
+     "book": "FanDuel",
+     "odds": "-113",
+     "implied": "53.1%",
+     "est": "60%",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "Jonathan Taylor o51.5 rush yds",
+     "legs": []
+    },
+    {
+     "date": "2026-11-19",
+     "sport": "NBA",
+     "game": "NYK@MIN 6:00 PM AZ",
+     "pick": "Karl-Anthony Towns 35+ PRA",
+     "book": "FanDuel",
+     "odds": "-186",
+     "implied": "65.0%",
+     "est": "70%",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "Karl-Anthony Towns 35+ PRA",
+     "legs": []
+    },
+    {
+     "date": "2026-11-19",
+     "sport": "NHL",
+     "game": "DAL@VGK 8:00 PM AZ",
+     "pick": "Jason Robertson 3+ SOG",
+     "book": "FanDuel",
+     "odds": "-138",
+     "implied": "58.0%",
+     "est": "67%",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "Jason Robertson 3+ SOG",
+     "legs": []
+    },
+    {
+     "date": "2026-11-19",
+     "sport": "NHL",
+     "game": "MIN@CGY 6:00 PM AZ",
+     "pick": "SLEEPER: Kirill Kaprizov 2+ pts",
+     "book": "FanDuel",
+     "odds": "+122",
+     "implied": "45.0%",
+     "est": "52%",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "SLEEPER: Kirill Kaprizov 2+ pts",
+     "legs": []
+    },
+    {
+     "date": "2026-11-19",
+     "sport": "NCAAM",
+     "game": "UMBC@OSU 5:00 PM / NE@BUT 5:00 PM / MTST@HPU 5:00 PM AZ",
+     "pick": "NCAAM 3-leg parlay (1.00u as placed, about +395 computed, slip price unconfirmed):\n- Ohio State -23.5 alt (-265) vs UMBC 5:00 PM\n- Butler -16.5 (-104) vs Northeastern 5:00 PM\n- High Point -12.5 (-120) vs Montana State 5:00 PM",
+     "book": "FanDuel",
+     "odds": "+395",
+     "implied": "20.2%",
+     "est": "",
+     "result": "L",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": -1,
+     "title": "NCAAM 3-leg parlay",
+     "legs": [
+      {
+       "mark": "none",
+       "text": "Ohio State -23.5 alt (-265) vs UMBC 5:00 PM"
+      },
+      {
+       "mark": "none",
+       "text": "Butler -16.5 (-104) vs Northeastern 5:00 PM"
+      },
+      {
+       "mark": "none",
+       "text": "High Point -12.5 (-120) vs Montana State 5:00 PM"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-19",
+     "sport": "NFL",
+     "game": "IND@HOU 6:15 PM AZ",
+     "pick": "Anytime TD straight: Nico Collins (HOU) (1.00u as placed, Tony in Sal chat: 'I took first 2 1 unit. Second 2, half unit. And the 5th one .25 unit', price +105 as of 1:37 PM AZ, slip price unconfirmed)",
+     "book": "FanDuel",
+     "odds": "+105",
+     "implied": "48.8%",
+     "est": "",
+     "result": "W",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": 1.05,
+     "title": "Anytime TD straight: Nico Collins (HOU) (1.00u as placed, Tony in Sal chat: 'I took first 2 1 unit. Second 2, half unit. And the 5th one .25 unit', price +105 as of 1:37 PM AZ, slip price unconfirmed)",
+     "legs": []
+    },
+    {
+     "date": "2026-11-19",
+     "sport": "NFL",
+     "game": "IND@HOU 6:15 PM AZ",
+     "pick": "Anytime TD straight: Xavier Hutchinson (HOU) (1.00u as placed, Tony in Sal chat: 'I took first 2 1 unit. Second 2, half unit. And the 5th one .25 unit', price +250 as of 1:37 PM AZ, slip price unconfirmed)",
+     "book": "FanDuel",
+     "odds": "+250",
+     "implied": "28.6%",
+     "est": "",
+     "result": "L",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": -1,
+     "title": "Anytime TD straight: Xavier Hutchinson (HOU) (1.00u as placed, Tony in Sal chat: 'I took first 2 1 unit. Second 2, half unit. And the 5th one .25 unit', price +250 as of 1:37 PM AZ, slip price unconfirmed)",
+     "legs": []
+    },
+    {
+     "date": "2026-11-19",
+     "sport": "NFL",
+     "game": "IND@HOU 6:15 PM AZ",
+     "pick": "Anytime TD straight: Seth McGowan (IND) (0.50u as placed, Tony in Sal chat: 'I took first 2 1 unit. Second 2, half unit. And the 5th one .25 unit', price +390 as of 1:37 PM AZ, slip price unconfirmed)",
+     "book": "FanDuel",
+     "odds": "+390",
+     "implied": "20.4%",
+     "est": "",
+     "result": "L",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 0.5,
+     "Profit (u)": -0.5,
+     "title": "Anytime TD straight: Seth McGowan (IND) (0.50u as placed, Tony in Sal chat: 'I took first 2 1 unit. Second 2, half unit. And the 5th one .25 unit', price +390 as of 1:37 PM AZ, slip price unconfirmed)",
+     "legs": []
+    },
+    {
+     "date": "2026-11-19",
+     "sport": "NFL",
+     "game": "IND@HOU 6:15 PM AZ",
+     "pick": "Anytime TD straight: Jonathan Taylor (IND) (0.50u as placed, Tony in Sal chat: 'I took first 2 1 unit. Second 2, half unit. And the 5th one .25 unit', price +120 as of 1:37 PM AZ, slip price unconfirmed)",
+     "book": "FanDuel",
+     "odds": "+120",
+     "implied": "45.5%",
+     "est": "",
+     "result": "L",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 0.5,
+     "Profit (u)": -0.5,
+     "title": "Anytime TD straight: Jonathan Taylor (IND) (0.50u as placed, Tony in Sal chat: 'I took first 2 1 unit. Second 2, half unit. And the 5th one .25 unit', price +120 as of 1:37 PM AZ, slip price unconfirmed)",
+     "legs": []
+    },
+    {
+     "date": "2026-11-19",
+     "sport": "NFL",
+     "game": "IND@HOU 6:15 PM AZ",
+     "pick": "Anytime TD straight: Tank Dell (HOU) (0.25u as placed, Tony in Sal chat: 'I took first 2 1 unit. Second 2, half unit. And the 5th one .25 unit', price +260 as of 1:37 PM AZ, slip price unconfirmed)",
+     "book": "FanDuel",
+     "odds": "+260",
+     "implied": "27.8%",
+     "est": "",
+     "result": "L",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 0.25,
+     "Profit (u)": -0.25,
+     "title": "Anytime TD straight: Tank Dell (HOU) (0.25u as placed, Tony in Sal chat: 'I took first 2 1 unit. Second 2, half unit. And the 5th one .25 unit', price +260 as of 1:37 PM AZ, slip price unconfirmed)",
+     "legs": []
+    },
+    {
+     "date": "2026-11-19",
+     "sport": "MLS",
+     "game": "CIN@ORL 5:30 PM / RSL@SEA 8:00 PM AZ",
+     "pick": "MLS 2-leg SOA parlay (1.00u as placed, Tony in Sal chat:\n- '1 units on the 2 and half unit on the 4'\n- about +310 computed\n- slip price unconfirmed): Ivan Angulo SOA (+100) ORL vs CIN 5:30 PM\n- Sergi Solans SOA (+105) RSL@SEA 8:00 PM",
+     "book": "FanDuel",
+     "odds": "+310",
+     "implied": "24.4%",
+     "est": "",
+     "result": "W",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": 3.1,
+     "title": "MLS 2-leg SOA parlay",
+     "legs": [
+      {
+       "mark": "none",
+       "text": "Ivan Angulo SOA (+100) ORL vs CIN 5:30 PM"
+      },
+      {
+       "mark": "none",
+       "text": "Sergi Solans SOA (+105) RSL@SEA 8:00 PM"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-19",
+     "sport": "MLS",
+     "game": "CIN@ORL 5:30 PM / RSL@SEA 8:00 PM AZ",
+     "pick": "LOTTO MLS 4-leg SOA parlay (0.50u as placed, Tony in Sal chat:\n- '1 units on the 2 and half unit on the 4'\n- about +3951 computed\n- same-game slip likely shorter\n- unconfirmed): Ivan Angulo SOA (+100)\n- Pavel Bucha SOA (+160) CIN@ORL 5:30 PM\n- Cristian Roldan SOA (+280)\n- Sergi Solans SOA (+105) RSL@SEA 8:00 PM",
+     "book": "FanDuel",
+     "odds": "+3951",
+     "implied": "2.5%",
+     "est": "",
+     "result": "L",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 0.5,
+     "Profit (u)": -0.5,
+     "title": "LOTTO MLS 4-leg SOA parlay",
+     "legs": [
+      {
+       "mark": "none",
+       "text": "Ivan Angulo SOA (+100)"
+      },
+      {
+       "mark": "none",
+       "text": "Pavel Bucha SOA (+160) CIN@ORL 5:30 PM"
+      },
+      {
+       "mark": "none",
+       "text": "Cristian Roldan SOA (+280)"
+      },
+      {
+       "mark": "none",
+       "text": "Sergi Solans SOA (+105) RSL@SEA 8:00 PM"
+      }
+     ]
+    }
+   ],
+   "day": "2-7 (9 pending)",
+   "tony_played": "2-7",
+   "net": "-2.10u",
+   "running": "+52.05u",
+   "date": "2026-11-19"
+  },
   {
    "banner": "Wednesday, Nov 18   |   Day: 5-8 (1 pending)   |   Tony played: 1-3   |   Net -1.27u   |   Running +54.15u",
    "label": "Wednesday, Nov 18",
@@ -14224,13 +14593,13 @@
    "rows": [
     [
      "All picks",
-     "69-97-1",
-     "18-35",
+     "71-104-1",
+     "19-39",
      "9-14",
      "0-0",
      "5-1",
      "11-19-1",
-     "26-28"
+     "27-31"
     ],
     [
      "Favorites",
@@ -14244,17 +14613,17 @@
     ],
     [
      "Tony played",
-     "50-80-1",
-     "14-31",
+     "52-87-1",
+     "15-35",
      "4-10",
      "0-0",
      "4-1",
      "4-12-1",
-     "24-26"
+     "25-29"
     ]
    ],
    "units": {
-    "net": "+39.83u",
+    "net": "+37.73u",
     "pending": "6 pending"
    }
   },
@@ -14308,17 +14677,17 @@
   }
  ],
  "legend": "Green = win, Red = loss, Yellow = push, Gray = pending. Newest day first.",
- "ticket_count": 599,
- "version": "d171a22f74",
+ "ticket_count": 617,
+ "version": "aee03593b2",
  "archive_sports": {},
- "live_ticket_count": 599,
+ "live_ticket_count": 617,
  "totals": {
   "grand": [
-   54.15,
-   252,
-   316,
-   27,
-   599
+   52.05,
+   254,
+   323,
+   36,
+   617
   ],
   "m2026-10": [
    14.32,
@@ -14328,18 +14697,18 @@
    408
   ],
   "m2026-11": [
-   39.83,
-   69,
-   97,
-   25,
-   191
+   37.73,
+   71,
+   104,
+   34,
+   209
   ],
   "sLadder": [
-   20.66,
+   18.16,
    14,
-   9,
+   10,
    0,
-   24
+   25
   ],
   "sMLB": [
    0.0,
@@ -14360,42 +14729,42 @@
    61,
    87,
    0,
-   154
+   156
   ],
   "sNCAAF": [
    -0.45,
    11,
    15,
    0,
-   30
+   31
   ],
   "sNCAAM": [
-   -0.27,
+   -1.27,
    1,
-   3,
+   4,
    0,
-   4
+   5
   ],
   "sNFL": [
-   4.53,
-   43,
-   64,
+   3.33,
+   44,
+   68,
    0,
-   109
+   116
   ],
   "sNHL": [
    -2.71,
    45,
    54,
    0,
-   109
+   113
   ],
   "sSoccer": [
-   39.43,
-   64,
-   68,
+   42.03,
+   65,
+   69,
    0,
-   139
+   141
   ],
   "sWNBA": [
    -1.0,
@@ -14405,14 +14774,14 @@
    2
   ],
   "y2026": [
-   54.15,
-   252,
-   316,
-   27,
-   599
+   52.05,
+   254,
+   323,
+   36,
+   617
   ]
  },
- "prune_cutoff": "2026-09-18",
+ "prune_cutoff": "2026-09-19",
  "units_by_sport": {
   "sports": [
    "NFL",
@@ -14428,16 +14797,16 @@
    {
     "period": "November 2026",
     "units": {
-     "NFL": 6.96,
+     "NFL": 5.76,
      "NHL": -2.9,
      "NBA": -9.38,
      "WNBA": 0,
-     "Soccer": 27.54,
+     "Soccer": 30.14,
      "NCAAF": 4.3,
      "MLB": 0,
-     "Multi": 13.31
+     "Multi": 9.81
     },
-    "total": 39.83
+    "total": 37.73
    },
    {
     "period": "October 2026",
@@ -14456,16 +14825,16 @@
    {
     "period": "Grand total",
     "units": {
-     "NFL": 4.53,
+     "NFL": 3.33,
      "NHL": -2.71,
      "NBA": -10.36,
      "WNBA": -1.0,
-     "Soccer": 39.43,
+     "Soccer": 42.03,
      "NCAAF": -0.45,
      "MLB": 0,
-     "Multi": 24.71
+     "Multi": 21.21
     },
-    "total": 54.15
+    "total": 52.05
    }
   ]
  }
