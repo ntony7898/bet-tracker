@@ -14,13 +14,13 @@
  "records": [
   [
    "All picks",
-   "254-323-1",
+   "257-323-1",
    "44-68",
    "45-54",
    "11-10",
    "11-15",
-   "61-88-1",
-   "82-88"
+   "62-88-1",
+   "84-88"
   ],
   [
    "Favorites",
@@ -34,20 +34,20 @@
   ],
   [
    "Tony played",
-   "102-161-1",
+   "105-161-1",
    "17-44",
    "12-21",
    "0-0",
    "8-12",
-   "9-33-1",
-   "56-51"
+   "10-33-1",
+   "58-51"
   ]
  ],
  "units": [
   {
    "period": "November 2026",
-   "net": "+37.73u",
-   "settled": 133,
+   "net": "+78.84u",
+   "settled": 136,
    "pending": 6
   },
   {
@@ -58,18 +58,259 @@
   },
   {
    "period": "Year 2026",
-   "net": "+52.05u",
-   "settled": 176,
+   "net": "+93.16u",
+   "settled": 179,
    "pending": 8
   },
   {
    "period": "Grand total",
-   "net": "+52.05u",
-   "settled": 176,
+   "net": "+93.16u",
+   "settled": 179,
    "pending": 8
   }
  ],
  "days": [
+  {
+   "banner": "Friday, Nov 20   |   Day: 3-0 (9 pending)   |   Tony played: 3-0   |   Net +41.11u   |   Running +93.16u",
+   "label": "Friday, Nov 20",
+   "tickets": [
+    {
+     "date": "2026-11-20",
+     "sport": "Ladder",
+     "game": "CHA@ATL 5:00 PM / ORL@BKN 5:30 PM / HOU@DEN 8:00 PM AZ",
+     "pick": "Day 1 LADDER restart (0.50u as placed, about +103 computed, slip price unconfirmed, replaces unplayed Shead/Harden/Carter card ladder):\n- Jalen Johnson 6+ reb -770 CHA@ATL 5:00 PM\n- Wendell Carter Jr. 6+ reb -460 ORL@BKN 5:30 PM\n- Nikola Jokic 8+ ast -210 HOU@DEN 8:00 PM",
+     "book": "FanDuel",
+     "odds": "+103",
+     "implied": "49.2%",
+     "est": "",
+     "result": "W",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 0.5,
+     "Profit (u)": 0.52,
+     "title": "Day 1 LADDER restart",
+     "legs": [
+      {
+       "mark": "none",
+       "text": "Jalen Johnson 6+ reb -770 CHA@ATL 5:00 PM"
+      },
+      {
+       "mark": "none",
+       "text": "Wendell Carter Jr. 6+ reb -460 ORL@BKN 5:30 PM"
+      },
+      {
+       "mark": "none",
+       "text": "Nikola Jokic 8+ ast -210 HOU@DEN 8:00 PM"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-20",
+     "sport": "NBA",
+     "game": "CHA@ATL 5:00 PM / ORL@BKN 5:30 PM / HOU@DEN 8:00 PM AZ",
+     "pick": "NBA 3-leg parlay, separate copy of the Day 1 ticket, a standalone parlay (2.50u as placed, about +103 computed, slip price unconfirmed, same legs as the Day 1 ticket, fully correlated):\n- Jalen Johnson 6+ reb -770 CHA@ATL 5:00 PM\n- Wendell Carter Jr. 6+ reb -460 ORL@BKN 5:30 PM\n- Nikola Jokic 8+ ast -210 HOU@DEN 8:00 PM",
+     "book": "FanDuel",
+     "odds": "+103",
+     "implied": "49.2%",
+     "est": "",
+     "result": "W",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 2.5,
+     "Profit (u)": 2.58,
+     "title": "NBA 3-leg parlay, separate copy of the Day 1 ticket, a standalone parlay",
+     "legs": [
+      {
+       "mark": "none",
+       "text": "Jalen Johnson 6+ reb -770 CHA@ATL 5:00 PM"
+      },
+      {
+       "mark": "none",
+       "text": "Wendell Carter Jr. 6+ reb -460 ORL@BKN 5:30 PM"
+      },
+      {
+       "mark": "none",
+       "text": "Nikola Jokic 8+ ast -210 HOU@DEN 8:00 PM"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-20",
+     "sport": "NBA",
+     "game": "HOU@DEN 8:00 PM AZ",
+     "pick": "ABSOLUTE FAVORITE: Fred VanVleet 3+ threes",
+     "book": "FanDuel",
+     "odds": "-120",
+     "implied": "54.5%",
+     "est": "62%",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "ABSOLUTE FAVORITE: Fred VanVleet 3+ threes",
+     "legs": []
+    },
+    {
+     "date": "2026-11-20",
+     "sport": "NBA",
+     "game": "PHX@UTA 7:30 PM AZ",
+     "pick": "Suns -4.5",
+     "book": "FanDuel",
+     "odds": "-110",
+     "implied": "52.4%",
+     "est": "56%",
+     "result": "",
+     "favorite": "Y",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "Suns -4.5",
+     "legs": []
+    },
+    {
+     "date": "2026-11-20",
+     "sport": "NCAAF",
+     "game": "ISU@UCF 4:00 PM AZ",
+     "pick": "UCF ML",
+     "book": "FanDuel",
+     "odds": "-108",
+     "implied": "51.9%",
+     "est": "54%",
+     "result": "",
+     "favorite": "Y",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "UCF ML",
+     "legs": []
+    },
+    {
+     "date": "2026-11-20",
+     "sport": "NBA",
+     "game": "HOU@DEN 8:00 PM AZ",
+     "pick": "Rockets ML",
+     "book": "FanDuel",
+     "odds": "+100",
+     "implied": "50.0%",
+     "est": "52%",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "Rockets ML",
+     "legs": []
+    },
+    {
+     "date": "2026-11-20",
+     "sport": "NCAAF",
+     "game": "UNM@WYO 7:00 PM AZ",
+     "pick": "Wyoming +8.5",
+     "book": "FanDuel",
+     "odds": "-105",
+     "implied": "51.2%",
+     "est": "55%",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "Wyoming +8.5",
+     "legs": []
+    },
+    {
+     "date": "2026-11-20",
+     "sport": "NBA",
+     "game": "HOU@DEN 8:00 PM AZ",
+     "pick": "Nikola Jokic 8+ ast",
+     "book": "FanDuel",
+     "odds": "-210",
+     "implied": "67.7%",
+     "est": "76%",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "Nikola Jokic 8+ ast",
+     "legs": []
+    },
+    {
+     "date": "2026-11-20",
+     "sport": "NBA",
+     "game": "NO@OKC 6:00 PM AZ",
+     "pick": "Zion Williamson 20+ pts",
+     "book": "FanDuel",
+     "odds": "-122",
+     "implied": "55.0%",
+     "est": "62%",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "Zion Williamson 20+ pts",
+     "legs": []
+    },
+    {
+     "date": "2026-11-20",
+     "sport": "NBA",
+     "game": "PHX@UTA 7:30 PM AZ",
+     "pick": "Miles Bridges 6+ reb",
+     "book": "FanDuel",
+     "odds": "-162",
+     "implied": "61.8%",
+     "est": "66%",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "Miles Bridges 6+ reb",
+     "legs": []
+    },
+    {
+     "date": "2026-11-20",
+     "sport": "NBA",
+     "game": "CHA@ATL 5:00 PM AZ",
+     "pick": "SLEEPER: Dyson Daniels 8+ reb",
+     "book": "FanDuel",
+     "odds": "+124",
+     "implied": "44.6%",
+     "est": "52%",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "SLEEPER: Dyson Daniels 8+ reb",
+     "legs": []
+    },
+    {
+     "date": "2026-11-20",
+     "sport": "Multi",
+     "game": "Multiple games, Nov 20",
+     "pick": "LOTTO FanDuel 25-leg Same Game Parlay+ (Tony slip screenshot:\n- 7 Same Game Parlays\n- 1 selection\n- WON\n- individual legs not shown)",
+     "book": "FanDuel",
+     "odds": "+15676",
+     "implied": "0.6%",
+     "est": "",
+     "result": "W",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 0.2425,
+     "Profit (u)": 38.01,
+     "title": "LOTTO FanDuel 25-leg Same Game Parlay+ (Tony slip screenshot:, 7 Same Game Parlays, 1 selection, WON, individual legs not shown)",
+     "legs": []
+    }
+   ],
+   "day": "3-0 (9 pending)",
+   "tony_played": "3-0",
+   "net": "+41.11u",
+   "running": "+93.16u",
+   "date": "2026-11-20"
+  },
   {
    "banner": "Thursday, Nov 19   |   Day: 2-7 (9 pending)   |   Tony played: 2-7   |   Net -2.10u   |   Running +52.05u",
    "label": "Thursday, Nov 19",
@@ -14593,13 +14834,13 @@
    "rows": [
     [
      "All picks",
-     "71-104-1",
+     "74-104-1",
      "19-39",
      "9-14",
      "0-0",
      "5-1",
-     "11-19-1",
-     "27-31"
+     "12-19-1",
+     "29-31"
     ],
     [
      "Favorites",
@@ -14613,17 +14854,17 @@
     ],
     [
      "Tony played",
-     "52-87-1",
+     "55-87-1",
      "15-35",
      "4-10",
      "0-0",
      "4-1",
-     "4-12-1",
-     "25-29"
+     "5-12-1",
+     "27-29"
     ]
    ],
    "units": {
-    "net": "+37.73u",
+    "net": "+78.84u",
     "pending": "6 pending"
    }
   },
@@ -14677,17 +14918,17 @@
   }
  ],
  "legend": "Green = win, Red = loss, Yellow = push, Gray = pending. Newest day first.",
- "ticket_count": 617,
- "version": "aee03593b2",
+ "ticket_count": 629,
+ "version": "c5f2b0f759",
  "archive_sports": {},
- "live_ticket_count": 617,
+ "live_ticket_count": 629,
  "totals": {
   "grand": [
-   52.05,
-   254,
+   93.16,
+   257,
    323,
-   36,
-   617
+   45,
+   629
   ],
   "m2026-10": [
    14.32,
@@ -14697,18 +14938,18 @@
    408
   ],
   "m2026-11": [
-   37.73,
-   71,
+   78.84,
+   74,
    104,
-   34,
-   209
+   43,
+   221
   ],
   "sLadder": [
-   18.16,
-   14,
+   18.68,
+   15,
    10,
    0,
-   25
+   26
   ],
   "sMLB": [
    0.0,
@@ -14718,25 +14959,25 @@
    22
   ],
   "sMulti": [
-   4.32,
-   2,
+   42.33,
+   3,
    4,
    0,
-   6
+   7
   ],
   "sNBA": [
-   -10.36,
-   61,
+   -7.78,
+   62,
    87,
    0,
-   156
+   164
   ],
   "sNCAAF": [
    -0.45,
    11,
    15,
    0,
-   31
+   33
   ],
   "sNCAAM": [
    -1.27,
@@ -14774,14 +15015,14 @@
    2
   ],
   "y2026": [
-   52.05,
-   254,
+   93.16,
+   257,
    323,
-   36,
-   617
+   45,
+   629
   ]
  },
- "prune_cutoff": "2026-09-19",
+ "prune_cutoff": "2026-09-20",
  "units_by_sport": {
   "sports": [
    "NFL",
@@ -14799,14 +15040,14 @@
     "units": {
      "NFL": 5.76,
      "NHL": -2.9,
-     "NBA": -9.38,
+     "NBA": -6.8,
      "WNBA": 0,
      "Soccer": 30.14,
      "NCAAF": 4.3,
      "MLB": 0,
-     "Multi": 9.81
+     "Multi": 48.34
     },
-    "total": 37.73
+    "total": 78.84
    },
    {
     "period": "October 2026",
@@ -14827,14 +15068,14 @@
     "units": {
      "NFL": 3.33,
      "NHL": -2.71,
-     "NBA": -10.36,
+     "NBA": -7.78,
      "WNBA": -1.0,
      "Soccer": 42.03,
      "NCAAF": -0.45,
      "MLB": 0,
-     "Multi": 21.21
+     "Multi": 59.74
     },
-    "total": 52.05
+    "total": 93.16
    }
   ]
  }
