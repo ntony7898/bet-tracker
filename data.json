@@ -48,7 +48,7 @@
    "period": "November 2026",
    "net": "+78.84u",
    "settled": 136,
-   "pending": 9
+   "pending": 10
   },
   {
    "period": "October 2026",
@@ -60,18 +60,18 @@
    "period": "Year 2026",
    "net": "+93.16u",
    "settled": 179,
-   "pending": 11
+   "pending": 12
   },
   {
    "period": "Grand total",
    "net": "+93.16u",
    "settled": 179,
-   "pending": 11
+   "pending": 12
   }
  ],
  "days": [
   {
-   "banner": "Saturday, Nov 21   |   Day: 0-0 (3 pending)   |   Tony played: 0-0   |   Net +0.00u (3 pending)   |   Running +93.16u",
+   "banner": "Saturday, Nov 21   |   Day: 0-0 (4 pending)   |   Tony played: 0-0   |   Net +0.00u (4 pending)   |   Running +93.16u",
    "label": "Saturday, Nov 21",
    "tickets": [
     {
@@ -187,11 +187,45 @@
        "text": "Rondon SOA -170 Pachuca v Toluca 3:50 PM"
       }
      ]
+    },
+    {
+     "date": "2026-11-21",
+     "sport": "Soccer",
+     "game": "FUL@MCI 5:30 AM AZ",
+     "pick": "Man City v Fulham 4-leg SGP (Tony in Sal chat:\n⏳ 'One unit'\n⏳ about +386 computed\n⏳ same-game slip likely lower\n⏳ unconfirmed): Man City ML 3-way -280\n⏳ Over 2.5 goals -220\n⏳ Erling Haaland anytime goalscorer -180\n⏳ Over 9.5 total corners -172",
+     "book": "FanDuel",
+     "odds": "+386",
+     "implied": "20.6%",
+     "est": "",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": "",
+     "title": "Man City v Fulham 4-leg SGP",
+     "legs": [
+      {
+       "mark": "pending",
+       "text": "Man City ML 3-way -280"
+      },
+      {
+       "mark": "pending",
+       "text": "Over 2.5 goals -220"
+      },
+      {
+       "mark": "pending",
+       "text": "Erling Haaland anytime goalscorer -180"
+      },
+      {
+       "mark": "pending",
+       "text": "Over 9.5 total corners -172"
+      }
+     ]
     }
    ],
-   "day": "0-0 (3 pending)",
+   "day": "0-0 (4 pending)",
    "tony_played": "0-0",
-   "net": "+0.00u (3 pending)",
+   "net": "+0.00u (4 pending)",
    "running": "+93.16u",
    "date": "2026-11-21"
   },
@@ -14990,7 +15024,7 @@
    ],
    "units": {
     "net": "+78.84u",
-    "pending": "9 pending"
+    "pending": "10 pending"
    }
   },
   {
@@ -15043,17 +15077,17 @@
   }
  ],
  "legend": "Green = win, Red = loss, Yellow = push, Gray = pending. Newest day first.",
- "ticket_count": 632,
- "version": "c6ae086bfc",
+ "ticket_count": 633,
+ "version": "a48d25f9a9",
  "archive_sports": {},
- "live_ticket_count": 632,
+ "live_ticket_count": 633,
  "totals": {
   "grand": [
    93.16,
    257,
    323,
-   48,
-   632
+   49,
+   633
   ],
   "m2026-10": [
    14.32,
@@ -15066,8 +15100,8 @@
    78.84,
    74,
    104,
-   46,
-   224
+   47,
+   225
   ],
   "sLadder": [
    18.68,
@@ -15130,7 +15164,7 @@
    65,
    69,
    0,
-   144
+   145
   ],
   "sWNBA": [
    -1.0,
@@ -15143,8 +15177,8 @@
    93.16,
    257,
    323,
-   48,
-   632
+   49,
+   633
   ]
  },
  "prune_cutoff": "2026-09-21",
