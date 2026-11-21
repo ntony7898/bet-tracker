@@ -48,7 +48,7 @@
    "period": "November 2026",
    "net": "+78.84u",
    "settled": 136,
-   "pending": 6
+   "pending": 9
   },
   {
    "period": "October 2026",
@@ -60,16 +60,141 @@
    "period": "Year 2026",
    "net": "+93.16u",
    "settled": 179,
-   "pending": 8
+   "pending": 11
   },
   {
    "period": "Grand total",
    "net": "+93.16u",
    "settled": 179,
-   "pending": 8
+   "pending": 11
   }
  ],
  "days": [
+  {
+   "banner": "Saturday, Nov 21   |   Day: 0-0 (3 pending)   |   Tony played: 0-0   |   Net +0.00u (3 pending)   |   Running +93.16u",
+   "label": "Saturday, Nov 21",
+   "tickets": [
+    {
+     "date": "2026-11-21",
+     "sport": "Soccer",
+     "game": "EPL Sat Nov 21, 5:30 AM-10:30 AM AZ",
+     "pick": "LOTTO EPL 5-leg SOA parlay (about +1752 computed, slip price unconfirmed):\n⏳ Erling Haaland SOA -320 Man City v Fulham 5:30 AM\n⏳ Evanilson SOA -145 Bournemouth v Forest 8:00 AM\n⏳ Nicolas Jackson SOA -180 Villa v Sunderland 8:00 AM\n⏳ Morgan Rogers SOA -105 Chelsea v Leeds 8:00 AM\n⏳ Declan Rice SOA +175 Arsenal at Newcastle 10:30 AM",
+     "book": "FanDuel",
+     "odds": "+1752",
+     "implied": "5.4%",
+     "est": "",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 0.75,
+     "Profit (u)": "",
+     "title": "LOTTO EPL 5-leg SOA parlay",
+     "legs": [
+      {
+       "mark": "pending",
+       "text": "Erling Haaland SOA -320 Man City v Fulham 5:30 AM"
+      },
+      {
+       "mark": "pending",
+       "text": "Evanilson SOA -145 Bournemouth v Forest 8:00 AM"
+      },
+      {
+       "mark": "pending",
+       "text": "Nicolas Jackson SOA -180 Villa v Sunderland 8:00 AM"
+      },
+      {
+       "mark": "pending",
+       "text": "Morgan Rogers SOA -105 Chelsea v Leeds 8:00 AM"
+      },
+      {
+       "mark": "pending",
+       "text": "Declan Rice SOA +175 Arsenal at Newcastle 10:30 AM"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "sport": "MLS",
+     "game": "NE v PHI 12:00 PM / DAL v POR 2:00 PM / MIA v CLB 4:00 PM AZ",
+     "pick": "LOTTO MLS 5-leg SOA parlay (about +1088 computed, slip price unconfirmed):\n⏳ Carles Gil SOA -120 NE v PHI 12:00 PM\n⏳ Damiani SOA +115 NE v PHI 12:00 PM\n⏳ Petar Musa SOA -240 Dallas v POR 2:00 PM\n⏳ Velde SOA -125 Dallas v POR 2:00 PM\n⏳ Lionel Messi SOA -550 Miami v Columbus 4:00 PM",
+     "book": "FanDuel",
+     "odds": "+1088",
+     "implied": "8.4%",
+     "est": "",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 0.75,
+     "Profit (u)": "",
+     "title": "LOTTO MLS 5-leg SOA parlay",
+     "legs": [
+      {
+       "mark": "pending",
+       "text": "Carles Gil SOA -120 NE v PHI 12:00 PM"
+      },
+      {
+       "mark": "pending",
+       "text": "Damiani SOA +115 NE v PHI 12:00 PM"
+      },
+      {
+       "mark": "pending",
+       "text": "Petar Musa SOA -240 Dallas v POR 2:00 PM"
+      },
+      {
+       "mark": "pending",
+       "text": "Velde SOA -125 Dallas v POR 2:00 PM"
+      },
+      {
+       "mark": "pending",
+       "text": "Lionel Messi SOA -550 Miami v Columbus 4:00 PM"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "sport": "Soccer",
+     "game": "Multi-league Sat Nov 21, 7:00 AM-3:50 PM AZ",
+     "pick": "LOTTO All-soccer 5-leg SOA parlay (about +957 computed, slip price unconfirmed):\n⏳ Noslin SOA -175 Lazio v Lecce 7:00 AM\n⏳ Evanilson SOA -145 Bournemouth v Forest 8:00 AM\n⏳ Camello SOA -110 Rayo v Valencia 8:15 AM\n⏳ Donyell Malen SOA -320 Roma at Parma 10:00 AM\n⏳ Rondon SOA -170 Pachuca v Toluca 3:50 PM",
+     "book": "FanDuel",
+     "odds": "+957",
+     "implied": "9.5%",
+     "est": "",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 0.75,
+     "Profit (u)": "",
+     "title": "LOTTO All-soccer 5-leg SOA parlay",
+     "legs": [
+      {
+       "mark": "pending",
+       "text": "Noslin SOA -175 Lazio v Lecce 7:00 AM"
+      },
+      {
+       "mark": "pending",
+       "text": "Evanilson SOA -145 Bournemouth v Forest 8:00 AM"
+      },
+      {
+       "mark": "pending",
+       "text": "Camello SOA -110 Rayo v Valencia 8:15 AM"
+      },
+      {
+       "mark": "pending",
+       "text": "Donyell Malen SOA -320 Roma at Parma 10:00 AM"
+      },
+      {
+       "mark": "pending",
+       "text": "Rondon SOA -170 Pachuca v Toluca 3:50 PM"
+      }
+     ]
+    }
+   ],
+   "day": "0-0 (3 pending)",
+   "tony_played": "0-0",
+   "net": "+0.00u (3 pending)",
+   "running": "+93.16u",
+   "date": "2026-11-21"
+  },
   {
    "banner": "Friday, Nov 20   |   Day: 3-0 (9 pending)   |   Tony played: 3-0   |   Net +41.11u   |   Running +93.16u",
    "label": "Friday, Nov 20",
@@ -14865,7 +14990,7 @@
    ],
    "units": {
     "net": "+78.84u",
-    "pending": "6 pending"
+    "pending": "9 pending"
    }
   },
   {
@@ -14918,17 +15043,17 @@
   }
  ],
  "legend": "Green = win, Red = loss, Yellow = push, Gray = pending. Newest day first.",
- "ticket_count": 629,
- "version": "c5f2b0f759",
+ "ticket_count": 632,
+ "version": "c6ae086bfc",
  "archive_sports": {},
- "live_ticket_count": 629,
+ "live_ticket_count": 632,
  "totals": {
   "grand": [
    93.16,
    257,
    323,
-   45,
-   629
+   48,
+   632
   ],
   "m2026-10": [
    14.32,
@@ -14941,8 +15066,8 @@
    78.84,
    74,
    104,
-   43,
-   221
+   46,
+   224
   ],
   "sLadder": [
    18.68,
@@ -15005,7 +15130,7 @@
    65,
    69,
    0,
-   141
+   144
   ],
   "sWNBA": [
    -1.0,
@@ -15018,11 +15143,11 @@
    93.16,
    257,
    323,
-   45,
-   629
+   48,
+   632
   ]
  },
- "prune_cutoff": "2026-09-20",
+ "prune_cutoff": "2026-09-21",
  "units_by_sport": {
   "sports": [
    "NFL",
