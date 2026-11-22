@@ -14,13 +14,13 @@
  "records": [
   [
    "All picks",
-   "257-323-1",
+   "257-332-1",
    "44-68",
-   "45-54",
+   "45-55",
    "11-10",
-   "11-15",
-   "62-88-1",
-   "84-88"
+   "11-16",
+   "62-89-1",
+   "84-94"
   ],
   [
    "Favorites",
@@ -34,21 +34,21 @@
   ],
   [
    "Tony played",
-   "105-161-1",
+   "105-170-1",
    "17-44",
-   "12-21",
+   "12-22",
    "0-0",
-   "8-12",
-   "10-33-1",
-   "58-51"
+   "8-13",
+   "10-34-1",
+   "58-57"
   ]
  ],
  "units": [
   {
    "period": "November 2026",
-   "net": "+78.84u",
-   "settled": 136,
-   "pending": 10
+   "net": "+69.34u",
+   "settled": 145,
+   "pending": 6
   },
   {
    "period": "October 2026",
@@ -58,56 +58,56 @@
   },
   {
    "period": "Year 2026",
-   "net": "+93.16u",
-   "settled": 179,
-   "pending": 12
+   "net": "+83.66u",
+   "settled": 188,
+   "pending": 8
   },
   {
    "period": "Grand total",
-   "net": "+93.16u",
-   "settled": 179,
-   "pending": 12
+   "net": "+83.66u",
+   "settled": 188,
+   "pending": 8
   }
  ],
  "days": [
   {
-   "banner": "Saturday, Nov 21   |   Day: 0-0 (4 pending)   |   Tony played: 0-0   |   Net +0.00u (4 pending)   |   Running +93.16u",
+   "banner": "Saturday, Nov 21   |   Day: 0-9 (9 pending)   |   Tony played: 0-9   |   Net -9.50u   |   Running +83.66u",
    "label": "Saturday, Nov 21",
    "tickets": [
     {
      "date": "2026-11-21",
      "sport": "Soccer",
      "game": "EPL Sat Nov 21, 5:30 AM-10:30 AM AZ",
-     "pick": "LOTTO EPL 5-leg SOA parlay (about +1752 computed, slip price unconfirmed):\n⏳ Erling Haaland SOA -320 Man City v Fulham 5:30 AM\n⏳ Evanilson SOA -145 Bournemouth v Forest 8:00 AM\n⏳ Nicolas Jackson SOA -180 Villa v Sunderland 8:00 AM\n⏳ Morgan Rogers SOA -105 Chelsea v Leeds 8:00 AM\n⏳ Declan Rice SOA +175 Arsenal at Newcastle 10:30 AM",
+     "pick": "LOTTO EPL 5-leg SOA parlay (about +1752 computed, slip price unconfirmed):\n- Erling Haaland SOA -320 Man City v Fulham 5:30 AM\n- Evanilson SOA -145 Bournemouth v Forest 8:00 AM\n- Nicolas Jackson SOA -180 Villa v Sunderland 8:00 AM\n- Morgan Rogers SOA -105 Chelsea v Leeds 8:00 AM\n- Declan Rice SOA +175 Arsenal at Newcastle 10:30 AM",
      "book": "FanDuel",
      "odds": "+1752",
      "implied": "5.4%",
      "est": "",
-     "result": "",
+     "result": "L",
      "favorite": "N",
      "tony_played": "Y",
      "Stake (u)": 0.75,
-     "Profit (u)": "",
+     "Profit (u)": -0.75,
      "title": "LOTTO EPL 5-leg SOA parlay",
      "legs": [
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "Erling Haaland SOA -320 Man City v Fulham 5:30 AM"
       },
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "Evanilson SOA -145 Bournemouth v Forest 8:00 AM"
       },
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "Nicolas Jackson SOA -180 Villa v Sunderland 8:00 AM"
       },
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "Morgan Rogers SOA -105 Chelsea v Leeds 8:00 AM"
       },
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "Declan Rice SOA +175 Arsenal at Newcastle 10:30 AM"
       }
      ]
@@ -116,36 +116,36 @@
      "date": "2026-11-21",
      "sport": "MLS",
      "game": "NE v PHI 12:00 PM / DAL v POR 2:00 PM / MIA v CLB 4:00 PM AZ",
-     "pick": "LOTTO MLS 5-leg SOA parlay (about +1088 computed, slip price unconfirmed):\n⏳ Carles Gil SOA -120 NE v PHI 12:00 PM\n⏳ Damiani SOA +115 NE v PHI 12:00 PM\n⏳ Petar Musa SOA -240 Dallas v POR 2:00 PM\n⏳ Velde SOA -125 Dallas v POR 2:00 PM\n⏳ Lionel Messi SOA -550 Miami v Columbus 4:00 PM",
+     "pick": "LOTTO MLS 5-leg SOA parlay (about +1088 computed, slip price unconfirmed):\n- Carles Gil SOA -120 NE v PHI 12:00 PM\n- Damiani SOA +115 NE v PHI 12:00 PM\n- Petar Musa SOA -240 Dallas v POR 2:00 PM\n- Velde SOA -125 Dallas v POR 2:00 PM\n- Lionel Messi SOA -550 Miami v Columbus 4:00 PM",
      "book": "FanDuel",
      "odds": "+1088",
      "implied": "8.4%",
      "est": "",
-     "result": "",
+     "result": "L",
      "favorite": "N",
      "tony_played": "Y",
      "Stake (u)": 0.75,
-     "Profit (u)": "",
+     "Profit (u)": -0.75,
      "title": "LOTTO MLS 5-leg SOA parlay",
      "legs": [
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "Carles Gil SOA -120 NE v PHI 12:00 PM"
       },
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "Damiani SOA +115 NE v PHI 12:00 PM"
       },
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "Petar Musa SOA -240 Dallas v POR 2:00 PM"
       },
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "Velde SOA -125 Dallas v POR 2:00 PM"
       },
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "Lionel Messi SOA -550 Miami v Columbus 4:00 PM"
       }
      ]
@@ -154,36 +154,36 @@
      "date": "2026-11-21",
      "sport": "Soccer",
      "game": "Multi-league Sat Nov 21, 7:00 AM-3:50 PM AZ",
-     "pick": "LOTTO All-soccer 5-leg SOA parlay (about +957 computed, slip price unconfirmed):\n⏳ Noslin SOA -175 Lazio v Lecce 7:00 AM\n⏳ Evanilson SOA -145 Bournemouth v Forest 8:00 AM\n⏳ Camello SOA -110 Rayo v Valencia 8:15 AM\n⏳ Donyell Malen SOA -320 Roma at Parma 10:00 AM\n⏳ Rondon SOA -170 Pachuca v Toluca 3:50 PM",
+     "pick": "LOTTO All-soccer 5-leg SOA parlay (about +957 computed, slip price unconfirmed):\n- Noslin SOA -175 Lazio v Lecce 7:00 AM\n- Evanilson SOA -145 Bournemouth v Forest 8:00 AM\n- Camello SOA -110 Rayo v Valencia 8:15 AM\n- Donyell Malen SOA -320 Roma at Parma 10:00 AM\n- Rondon SOA -170 Pachuca v Toluca 3:50 PM",
      "book": "FanDuel",
      "odds": "+957",
      "implied": "9.5%",
      "est": "",
-     "result": "",
+     "result": "L",
      "favorite": "N",
      "tony_played": "Y",
      "Stake (u)": 0.75,
-     "Profit (u)": "",
+     "Profit (u)": -0.75,
      "title": "LOTTO All-soccer 5-leg SOA parlay",
      "legs": [
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "Noslin SOA -175 Lazio v Lecce 7:00 AM"
       },
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "Evanilson SOA -145 Bournemouth v Forest 8:00 AM"
       },
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "Camello SOA -110 Rayo v Valencia 8:15 AM"
       },
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "Donyell Malen SOA -320 Roma at Parma 10:00 AM"
       },
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "Rondon SOA -170 Pachuca v Toluca 3:50 PM"
       }
      ]
@@ -192,41 +192,344 @@
      "date": "2026-11-21",
      "sport": "Soccer",
      "game": "FUL@MCI 5:30 AM AZ",
-     "pick": "Man City v Fulham 4-leg SGP (Tony in Sal chat:\n⏳ 'One unit'\n⏳ about +386 computed\n⏳ same-game slip likely lower\n⏳ unconfirmed): Man City ML 3-way -280\n⏳ Over 2.5 goals -220\n⏳ Erling Haaland anytime goalscorer -180\n⏳ Over 9.5 total corners -172",
+     "pick": "Man City v Fulham 4-leg SGP (Tony in Sal chat:\n- 'One unit'\n- about +386 computed\n- same-game slip likely lower\n- unconfirmed): Man City ML 3-way -280\n- Over 2.5 goals -220\n- Erling Haaland anytime goalscorer -180\n- Over 9.5 total corners -172",
      "book": "FanDuel",
      "odds": "+386",
      "implied": "20.6%",
      "est": "",
-     "result": "",
+     "result": "L",
      "favorite": "N",
      "tony_played": "Y",
      "Stake (u)": 1,
-     "Profit (u)": "",
+     "Profit (u)": -1,
      "title": "Man City v Fulham 4-leg SGP",
      "legs": [
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "Man City ML 3-way -280"
       },
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "Over 2.5 goals -220"
       },
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "Erling Haaland anytime goalscorer -180"
       },
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "Over 9.5 total corners -172"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "sport": "Ladder",
+     "game": "BUF@FLA 4:00 PM / MIN@VAN 8:00 PM AZ",
+     "pick": "Day 2 LADDER (about -140 computed, slip price unconfirmed, McDavid 1+ pt dropped, Tony missed EDM@CAR 11:\n- 00 AM): Kirill Kaprizov 1+ pt -480 MIN@VAN 8:00 PM\n- Matthew Tkachuk 1+ pt -240 BUF@FLA 4:00 PM",
+     "book": "FanDuel",
+     "odds": "-140",
+     "implied": "58.4%",
+     "est": "",
+     "result": "L",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": -1,
+     "title": "Day 2 LADDER",
+     "legs": [
+      {
+       "mark": "none",
+       "text": "Kirill Kaprizov 1+ pt -480 MIN@VAN 8:00 PM"
+      },
+      {
+       "mark": "none",
+       "text": "Matthew Tkachuk 1+ pt -240 BUF@FLA 4:00 PM"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "sport": "NHL",
+     "game": "BUF@FLA 4:00 PM / MIN@VAN 8:00 PM AZ",
+     "pick": "NHL 2-leg parlay, separate copy of today's Kaprizov/Tkachuk ticket, not a challenge ticket (about -140 computed, slip price unconfirmed, same legs, fully correlated):\n- Kirill Kaprizov 1+ pt -480 MIN@VAN 8:00 PM\n- Matthew Tkachuk 1+ pt -240 BUF@FLA 4:00 PM",
+     "book": "FanDuel",
+     "odds": "-140",
+     "implied": "58.4%",
+     "est": "",
+     "result": "L",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 2.5,
+     "Profit (u)": -2.5,
+     "title": "NHL 2-leg parlay, separate copy of today's Kaprizov/Tkachuk ticket, not a challenge ticket",
+     "legs": [
+      {
+       "mark": "none",
+       "text": "Kirill Kaprizov 1+ pt -480 MIN@VAN 8:00 PM"
+      },
+      {
+       "mark": "none",
+       "text": "Matthew Tkachuk 1+ pt -240 BUF@FLA 4:00 PM"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "sport": "NBA",
+     "game": "LAC@DAL 6:00 PM AZ",
+     "pick": "ABSOLUTE FAVORITE: Keaton Wagler 15+ pts+reb+ast",
+     "book": "FanDuel",
+     "odds": "-122",
+     "implied": "55.0%",
+     "est": "63%",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "ABSOLUTE FAVORITE: Keaton Wagler 15+ pts+reb+ast",
+     "legs": []
+    },
+    {
+     "date": "2026-11-21",
+     "sport": "NHL",
+     "game": "WSH@BOS 5:00 PM AZ",
+     "pick": "Bruins ML",
+     "book": "FanDuel",
+     "odds": "-122",
+     "implied": "55.0%",
+     "est": "58%",
+     "result": "",
+     "favorite": "Y",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "Bruins ML",
+     "legs": []
+    },
+    {
+     "date": "2026-11-21",
+     "sport": "NBA",
+     "game": "LAC@DAL 6:00 PM AZ",
+     "pick": "Mavericks -5.5",
+     "book": "FanDuel",
+     "odds": "-106",
+     "implied": "51.5%",
+     "est": "56%",
+     "result": "",
+     "favorite": "Y",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "Mavericks -5.5",
+     "legs": []
+    },
+    {
+     "date": "2026-11-21",
+     "sport": "NCAAF",
+     "game": "LSU@TENN 1:30 PM AZ",
+     "pick": "Tennessee ML",
+     "book": "FanDuel",
+     "odds": "-110",
+     "implied": "52.4%",
+     "est": "55%",
+     "result": "",
+     "favorite": "Y",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "Tennessee ML",
+     "legs": []
+    },
+    {
+     "date": "2026-11-21",
+     "sport": "Soccer",
+     "game": "VFB@S04 10:30 AM AZ",
+     "pick": "Stuttgart ML (3-way)",
+     "book": "FanDuel",
+     "odds": "-125",
+     "implied": "55.6%",
+     "est": "58%",
+     "result": "",
+     "favorite": "Y",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "Stuttgart ML (3-way)",
+     "legs": []
+    },
+    {
+     "date": "2026-11-21",
+     "sport": "NCAAF",
+     "game": "UCLA@MICH 1:30 PM AZ",
+     "pick": "UCLA -3.5",
+     "book": "FanDuel",
+     "odds": "-110",
+     "implied": "52.4%",
+     "est": "55%",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "UCLA -3.5",
+     "legs": []
+    },
+    {
+     "date": "2026-11-21",
+     "sport": "NBA",
+     "game": "POR@NY 5:30 PM AZ",
+     "pick": "Karl-Anthony Towns 12+ reb",
+     "book": "FanDuel",
+     "odds": "-200",
+     "implied": "66.7%",
+     "est": "76%",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "Karl-Anthony Towns 12+ reb",
+     "legs": []
+    },
+    {
+     "date": "2026-11-21",
+     "sport": "NHL",
+     "game": "ANA@UTA 7:00 PM AZ",
+     "pick": "Clayton Keller 1+ pt",
+     "book": "FanDuel",
+     "odds": "-390",
+     "implied": "79.6%",
+     "est": "83%",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "Clayton Keller 1+ pt",
+     "legs": []
+    },
+    {
+     "date": "2026-11-21",
+     "sport": "NBA",
+     "game": "MEM@MIN 6:00 PM AZ",
+     "pick": "SLEEPER: Jaden McDaniels 6+ reb",
+     "book": "FanDuel",
+     "odds": "+112",
+     "implied": "47.2%",
+     "est": "55%",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "SLEEPER: Jaden McDaniels 6+ reb",
+     "legs": []
+    },
+    {
+     "date": "2026-11-21",
+     "sport": "NCAAF",
+     "game": "UCLA@MICH 1:30 PM / TTU@BAY 1:30 PM / UTSA@UAB 6:00 PM AZ",
+     "pick": "NCAAF 3-leg parlay (Tony in Sal chat:\n- '1unit both'\n- about +248 computed\n- slip price unconfirmed): UCLA ML -178 at Michigan 1:30 PM\n- Texas Tech ML -215 at Baylor 1:30 PM\n- UTSA ML -192 at UAB 6:00 PM",
+     "book": "FanDuel",
+     "odds": "+248",
+     "implied": "28.7%",
+     "est": "",
+     "result": "L",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": -1,
+     "title": "NCAAF 3-leg parlay",
+     "legs": [
+      {
+       "mark": "none",
+       "text": "UCLA ML -178 at Michigan 1:30 PM"
+      },
+      {
+       "mark": "none",
+       "text": "Texas Tech ML -215 at Baylor 1:30 PM"
+      },
+      {
+       "mark": "none",
+       "text": "UTSA ML -192 at UAB 6:00 PM"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "sport": "NCAAM",
+     "game": "DRKE@MOST 1:00 PM / USF@GMU 2:00 PM / MICH@VILL 5:00 PM AZ",
+     "pick": "NCAAM 3-leg parlay (Tony in Sal chat:\n- '1unit both'\n- about +297 computed\n- slip price unconfirmed): Drake ML -162 at Missouri State 1:00 PM\n- George Mason ML -166 vs South Florida 2:00 PM\n- Michigan ML -188 at Villanova 5:00 PM",
+     "book": "FanDuel",
+     "odds": "+297",
+     "implied": "25.2%",
+     "est": "",
+     "result": "L",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": -1,
+     "title": "NCAAM 3-leg parlay",
+     "legs": [
+      {
+       "mark": "none",
+       "text": "Drake ML -162 at Missouri State 1:00 PM"
+      },
+      {
+       "mark": "none",
+       "text": "George Mason ML -166 vs South Florida 2:00 PM"
+      },
+      {
+       "mark": "none",
+       "text": "Michigan ML -188 at Villanova 5:00 PM"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "sport": "NBA",
+     "game": "MEM@MIN 6:10 PM / LAC@DAL 6:10 PM / BOS@SAC 8:10 PM AZ",
+     "pick": "NBA 5-leg parlay (about +344 computed, slip price unconfirmed, Fears dropped, not listed, replaces unplayed Coward/Flagg/Sabonis 3-leg):\n- Jaden McDaniels o18.5 pts+reb -300 MEM@MIN 6:10 PM\n- Cedric Coward o18.5 pts+reb -320 MEM@MIN 6:10 PM\n- Kyrie Irving o3.5 ast -270 LAC@DAL 6:10 PM\n- Derrick Jones Jr. o6.5 pts -310 LAC@DAL 6:10 PM\n- Darius Acuff Jr. o28.5 PRA -250 BOS@SAC 8:10 PM",
+     "book": "FanDuel",
+     "odds": "+344",
+     "implied": "22.5%",
+     "est": "",
+     "result": "L",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 0.75,
+     "Profit (u)": -0.75,
+     "title": "NBA 5-leg parlay",
+     "legs": [
+      {
+       "mark": "none",
+       "text": "Jaden McDaniels o18.5 pts+reb -300 MEM@MIN 6:10 PM"
+      },
+      {
+       "mark": "none",
+       "text": "Cedric Coward o18.5 pts+reb -320 MEM@MIN 6:10 PM"
+      },
+      {
+       "mark": "none",
+       "text": "Kyrie Irving o3.5 ast -270 LAC@DAL 6:10 PM"
+      },
+      {
+       "mark": "none",
+       "text": "Derrick Jones Jr. o6.5 pts -310 LAC@DAL 6:10 PM"
+      },
+      {
+       "mark": "none",
+       "text": "Darius Acuff Jr. o28.5 PRA -250 BOS@SAC 8:10 PM"
       }
      ]
     }
    ],
-   "day": "0-0 (4 pending)",
-   "tony_played": "0-0",
-   "net": "+0.00u (4 pending)",
-   "running": "+93.16u",
+   "day": "0-9 (9 pending)",
+   "tony_played": "0-9",
+   "net": "-9.50u",
+   "running": "+83.66u",
    "date": "2026-11-21"
   },
   {
@@ -14993,13 +15296,13 @@
    "rows": [
     [
      "All picks",
-     "74-104-1",
+     "74-113-1",
      "19-39",
-     "9-14",
+     "9-15",
      "0-0",
-     "5-1",
-     "12-19-1",
-     "29-31"
+     "5-2",
+     "12-20-1",
+     "29-37"
     ],
     [
      "Favorites",
@@ -15013,18 +15316,18 @@
     ],
     [
      "Tony played",
-     "55-87-1",
+     "55-96-1",
      "15-35",
-     "4-10",
+     "4-11",
      "0-0",
-     "4-1",
-     "5-12-1",
-     "27-29"
+     "4-2",
+     "5-13-1",
+     "27-35"
     ]
    ],
    "units": {
-    "net": "+78.84u",
-    "pending": "10 pending"
+    "net": "+69.34u",
+    "pending": "6 pending"
    }
   },
   {
@@ -15077,17 +15380,17 @@
   }
  ],
  "legend": "Green = win, Red = loss, Yellow = push, Gray = pending. Newest day first.",
- "ticket_count": 633,
- "version": "a48d25f9a9",
+ "ticket_count": 647,
+ "version": "9173c938c1",
  "archive_sports": {},
- "live_ticket_count": 633,
+ "live_ticket_count": 647,
  "totals": {
   "grand": [
-   93.16,
+   83.66,
    257,
-   323,
-   49,
-   633
+   332,
+   54,
+   647
   ],
   "m2026-10": [
    14.32,
@@ -15097,18 +15400,18 @@
    408
   ],
   "m2026-11": [
-   78.84,
+   69.34,
    74,
-   104,
-   47,
-   225
+   113,
+   52,
+   239
   ],
   "sLadder": [
-   18.68,
+   17.68,
    15,
-   10,
+   11,
    0,
-   26
+   27
   ],
   "sMLB": [
    0.0,
@@ -15125,25 +15428,25 @@
    7
   ],
   "sNBA": [
-   -7.78,
+   -8.53,
    62,
-   87,
+   88,
    0,
-   164
+   169
   ],
   "sNCAAF": [
-   -0.45,
+   -1.45,
    11,
-   15,
+   16,
    0,
-   33
+   36
   ],
   "sNCAAM": [
-   -1.27,
+   -2.27,
    1,
-   4,
+   5,
    0,
-   5
+   6
   ],
   "sNFL": [
    3.33,
@@ -15153,18 +15456,18 @@
    116
   ],
   "sNHL": [
-   -2.71,
+   -5.21,
    45,
-   54,
+   55,
    0,
-   113
+   116
   ],
   "sSoccer": [
-   42.03,
+   38.78,
    65,
-   69,
+   73,
    0,
-   145
+   146
   ],
   "sWNBA": [
    -1.0,
@@ -15174,11 +15477,11 @@
    2
   ],
   "y2026": [
-   93.16,
+   83.66,
    257,
-   323,
-   49,
-   633
+   332,
+   54,
+   647
   ]
  },
  "prune_cutoff": "2026-09-21",
@@ -15198,15 +15501,15 @@
     "period": "November 2026",
     "units": {
      "NFL": 5.76,
-     "NHL": -2.9,
-     "NBA": -6.8,
+     "NHL": -5.4,
+     "NBA": -7.55,
      "WNBA": 0,
-     "Soccer": 30.14,
-     "NCAAF": 4.3,
+     "Soccer": 26.89,
+     "NCAAF": 3.3,
      "MLB": 0,
-     "Multi": 48.34
+     "Multi": 46.34
     },
-    "total": 78.84
+    "total": 69.34
    },
    {
     "period": "October 2026",
@@ -15226,15 +15529,15 @@
     "period": "Grand total",
     "units": {
      "NFL": 3.33,
-     "NHL": -2.71,
-     "NBA": -7.78,
+     "NHL": -5.21,
+     "NBA": -8.53,
      "WNBA": -1.0,
-     "Soccer": 42.03,
-     "NCAAF": -0.45,
+     "Soccer": 38.78,
+     "NCAAF": -1.45,
      "MLB": 0,
-     "Multi": 59.74
+     "Multi": 57.74
     },
-    "total": 93.16
+    "total": 83.66
    }
   ]
  }
