@@ -14,40 +14,40 @@
  "records": [
   [
    "All picks",
-   "257-332-1",
-   "44-68",
+   "259-339-1",
+   "45-71",
    "45-55",
    "11-10",
    "11-16",
-   "62-89-1",
-   "84-94"
+   "63-89-1",
+   "84-98"
   ],
   [
    "Favorites",
-   "35-20",
-   "3-4",
+   "37-21",
+   "4-4",
    "7-4",
    "0-0",
    "3-2",
-   "12-4",
-   "10-6"
+   "13-4",
+   "10-7"
   ],
   [
    "Tony played",
-   "105-170-1",
-   "17-44",
+   "107-177-1",
+   "18-47",
    "12-22",
    "0-0",
    "8-13",
-   "10-34-1",
-   "58-57"
+   "11-34-1",
+   "58-61"
   ]
  ],
  "units": [
   {
    "period": "November 2026",
-   "net": "+69.34u",
-   "settled": 145,
+   "net": "+64.85u",
+   "settled": 154,
    "pending": 6
   },
   {
@@ -58,18 +58,390 @@
   },
   {
    "period": "Year 2026",
-   "net": "+83.66u",
-   "settled": 188,
+   "net": "+79.17u",
+   "settled": 197,
    "pending": 8
   },
   {
    "period": "Grand total",
-   "net": "+83.66u",
-   "settled": 188,
+   "net": "+79.17u",
+   "settled": 197,
    "pending": 8
   }
  ],
  "days": [
+  {
+   "banner": "Sunday, Nov 22   |   Day: 2-7 (6 pending)   |   Tony played: 2-7   |   Net -4.49u   |   Running +79.17u",
+   "label": "Sunday, Nov 22",
+   "tickets": [
+    {
+     "date": "2026-11-22",
+     "sport": "Ladder",
+     "game": "OKC@MIA 4:00 PM / ORL@WSH 5:00 PM / EDM@STL 5:00 PM AZ",
+     "pick": "Day 1 LADDER restart (about +106 computed, slip price unconfirmed):\n- Connor McDavid 1+ pt -520 EDM@STL 5:00 PM\n- Davion Mitchell 20+ pts+ast -260 OKC@MIA 4:00 PM\n- Desmond Bane 15+ pts -400 ORL@WSH 5:00 PM",
+     "book": "FanDuel",
+     "odds": "+106",
+     "implied": "48.5%",
+     "est": "60%",
+     "result": "L",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 2.5,
+     "Profit (u)": -2.5,
+     "title": "Day 1 LADDER restart",
+     "legs": [
+      {
+       "mark": "none",
+       "text": "Connor McDavid 1+ pt -520 EDM@STL 5:00 PM"
+      },
+      {
+       "mark": "none",
+       "text": "Davion Mitchell 20+ pts+ast -260 OKC@MIA 4:00 PM"
+      },
+      {
+       "mark": "none",
+       "text": "Desmond Bane 15+ pts -400 ORL@WSH 5:00 PM"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "sport": "NFL",
+     "game": "TB@DET 11:00 AM AZ",
+     "pick": "Lions -3.5 (Tony in Sal chat: 'One unit each', slip -115)",
+     "book": "FanDuel",
+     "odds": "-115",
+     "implied": "53.5%",
+     "est": "57%",
+     "result": "W",
+     "favorite": "Y",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": 0.87,
+     "title": "Lions -3.5 (Tony in Sal chat: 'One unit each', slip -115)",
+     "legs": []
+    },
+    {
+     "date": "2026-11-22",
+     "sport": "NBA",
+     "game": "DAL@UTA 5:00 PM AZ",
+     "pick": "Mavericks ML (Tony in Sal chat: 'One unit each', slip -112)",
+     "book": "FanDuel",
+     "odds": "-112",
+     "implied": "52.8%",
+     "est": "57%",
+     "result": "W",
+     "favorite": "Y",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": 0.89,
+     "title": "Mavericks ML (Tony in Sal chat: 'One unit each', slip -112)",
+     "legs": []
+    },
+    {
+     "date": "2026-11-22",
+     "sport": "NHL",
+     "game": "BUF@TB 3:00 PM AZ",
+     "pick": "Lightning ML",
+     "book": "FanDuel",
+     "odds": "-210",
+     "implied": "67.7%",
+     "est": "70%",
+     "result": "",
+     "favorite": "Y",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "Lightning ML",
+     "legs": []
+    },
+    {
+     "date": "2026-11-22",
+     "sport": "Soccer",
+     "game": "MUN@LIV 9:30 AM AZ",
+     "pick": "Liverpool ML (3-way)",
+     "book": "FanDuel",
+     "odds": "-135",
+     "implied": "57.4%",
+     "est": "61%",
+     "result": "",
+     "favorite": "Y",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "Liverpool ML (3-way)",
+     "legs": []
+    },
+    {
+     "date": "2026-11-22",
+     "sport": "NCAAM",
+     "game": "BUT@NEB 10:00 AM AZ",
+     "pick": "Nebraska -11.5 (Tony in Sal chat: 'One unit each', slip -120)",
+     "book": "FanDuel",
+     "odds": "-120",
+     "implied": "54.5%",
+     "est": "56%",
+     "result": "L",
+     "favorite": "Y",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": -1,
+     "title": "Nebraska -11.5 (Tony in Sal chat: 'One unit each', slip -120)",
+     "legs": []
+    },
+    {
+     "date": "2026-11-22",
+     "sport": "NFL",
+     "game": "TEN@DAL 11:00 AM AZ",
+     "pick": "Dak Prescott 275+ pass yds",
+     "book": "FanDuel",
+     "odds": "-152",
+     "implied": "60.3%",
+     "est": "63%",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "Dak Prescott 275+ pass yds",
+     "legs": []
+    },
+    {
+     "date": "2026-11-22",
+     "sport": "NHL",
+     "game": "CAR@NYR 10:30 AM AZ",
+     "pick": "Sebastian Aho 1+ pt",
+     "book": "FanDuel",
+     "odds": "-210",
+     "implied": "67.7%",
+     "est": "72%",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "Sebastian Aho 1+ pt",
+     "legs": []
+    },
+    {
+     "date": "2026-11-22",
+     "sport": "NBA",
+     "game": "DEN@CHI 5:00 PM AZ",
+     "pick": "Nikola Jokic 8+ ast",
+     "book": "FanDuel",
+     "odds": "-340",
+     "implied": "77.3%",
+     "est": "82%",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "Nikola Jokic 8+ ast",
+     "legs": []
+    },
+    {
+     "date": "2026-11-22",
+     "sport": "NBA",
+     "game": "DAL@UTA 5:00 PM AZ",
+     "pick": "SLEEPER: Ace Bailey 6+ reb",
+     "book": "FanDuel",
+     "odds": "+114",
+     "implied": "46.7%",
+     "est": "55%",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "SLEEPER: Ace Bailey 6+ reb",
+     "legs": []
+    },
+    {
+     "date": "2026-11-22",
+     "sport": "Multi",
+     "game": "BUT@NEB 10:00 AM / TB@DET 11:00 AM / DAL@UTA 5:00 PM AZ",
+     "pick": "3-leg parlay (Tony in Sal chat:\n- 'Half unit on the 3 leg parlay'\n- slip +548): Nebraska -11.5 -120 BUT@NEB 10:00 AM\n- Lions -3.5 -115 TB@DET 11:00 AM\n- Mavericks ML -112 DAL@UTA 5:00 PM",
+     "book": "FanDuel",
+     "odds": "+548",
+     "implied": "15.4%",
+     "est": "",
+     "result": "L",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 0.5,
+     "Profit (u)": -0.5,
+     "title": "3-leg parlay",
+     "legs": [
+      {
+       "mark": "none",
+       "text": "Nebraska -11.5 -120 BUT@NEB 10:00 AM"
+      },
+      {
+       "mark": "none",
+       "text": "Lions -3.5 -115 TB@DET 11:00 AM"
+      },
+      {
+       "mark": "none",
+       "text": "Mavericks ML -112 DAL@UTA 5:00 PM"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "sport": "NFL",
+     "game": "MIA@BUF 11:00 AM / PIT@PHI 11:00 AM AZ",
+     "pick": "NFL 2-leg anytime-TD parlay (Tony in Sal chat:\n- 'One unit. And .25 unit on the 5 lotto'\n- about +633 computed\n- slip price unconfirmed\n- Cook and Freiermuth also on the 5-leg lotto): James Cook anytime TD -190 MIA@BUF 11:00 AM\n- Pat Freiermuth anytime TD +380 PIT@PHI 11:00 AM",
+     "book": "FanDuel",
+     "odds": "+633",
+     "implied": "13.6%",
+     "est": "",
+     "result": "L",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": -1,
+     "title": "NFL 2-leg anytime-TD parlay",
+     "legs": [
+      {
+       "mark": "none",
+       "text": "James Cook anytime TD -190 MIA@BUF 11:00 AM"
+      },
+      {
+       "mark": "none",
+       "text": "Pat Freiermuth anytime TD +380 PIT@PHI 11:00 AM"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "sport": "NFL",
+     "game": "MIA@BUF 11:00 AM / TB@DET 11:00 AM / ARI@KC 11:00 AM / PIT@PHI 11:00 AM / BAL@CAR 11:00 AM AZ",
+     "pick": "NFL early 5-leg anytime-TD lotto (Tony in Sal chat:\n- 'One unit. And .25 unit on the 5 lotto'\n- about +28912 computed\n- slip price unconfirmed\n- Cook and Freiermuth also on the 2-leg): James Cook anytime TD -190 MIA@BUF 11:00 AM\n- Jameson Williams anytime TD +220 TB@DET 11:00 AM\n- Rashee Rice anytime TD +175 ARI@KC 11:00 AM\n- Pat Freiermuth anytime TD +380 PIT@PHI 11:00 AM\n- Darren Waller anytime TD +350 BAL@CAR 11:00 AM",
+     "book": "FanDuel",
+     "odds": "+28912",
+     "implied": "0.3%",
+     "est": "",
+     "result": "L",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 0.25,
+     "Profit (u)": -0.25,
+     "title": "NFL early 5-leg anytime-TD lotto",
+     "legs": [
+      {
+       "mark": "none",
+       "text": "James Cook anytime TD -190 MIA@BUF 11:00 AM"
+      },
+      {
+       "mark": "none",
+       "text": "Jameson Williams anytime TD +220 TB@DET 11:00 AM"
+      },
+      {
+       "mark": "none",
+       "text": "Rashee Rice anytime TD +175 ARI@KC 11:00 AM"
+      },
+      {
+       "mark": "none",
+       "text": "Pat Freiermuth anytime TD +380 PIT@PHI 11:00 AM"
+      },
+      {
+       "mark": "none",
+       "text": "Darren Waller anytime TD +350 BAL@CAR 11:00 AM"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "sport": "NCAAM",
+     "game": "WIU@CAN 11:00 AM / VT vs OKST 1:30 PM / MCN@TXST 1:30 PM / MINN vs UTAH 4:00 PM / VALP vs USM 4:00 PM / URI vs UAB 5:00 PM / UVU vs UTM 6:00 PM AZ",
+     "pick": "NCAAM 7-leg ML lotto (about +1814 computed, slip price unconfirmed):\n- Canisius ML -152 vs Western Illinois 11:00 AM\n- Virginia Tech ML -130 vs Oklahoma State 1:30 PM\n- Texas State ML -132 vs McNeese 1:30 PM\n- Minnesota ML -465 vs Utah 4:00 PM\n- Valparaiso ML -335 vs Southern Miss 4:00 PM\n- Rhode Island ML -132 vs UAB 5:00 PM\n- Utah Valley ML -295 vs UT Martin 6:00 PM",
+     "book": "FanDuel",
+     "odds": "+1814",
+     "implied": "5.2%",
+     "est": "",
+     "result": "L",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 0.5,
+     "Profit (u)": -0.5,
+     "title": "NCAAM 7-leg ML lotto",
+     "legs": [
+      {
+       "mark": "none",
+       "text": "Canisius ML -152 vs Western Illinois 11:00 AM"
+      },
+      {
+       "mark": "none",
+       "text": "Virginia Tech ML -130 vs Oklahoma State 1:30 PM"
+      },
+      {
+       "mark": "none",
+       "text": "Texas State ML -132 vs McNeese 1:30 PM"
+      },
+      {
+       "mark": "none",
+       "text": "Minnesota ML -465 vs Utah 4:00 PM"
+      },
+      {
+       "mark": "none",
+       "text": "Valparaiso ML -335 vs Southern Miss 4:00 PM"
+      },
+      {
+       "mark": "none",
+       "text": "Rhode Island ML -132 vs UAB 5:00 PM"
+      },
+      {
+       "mark": "none",
+       "text": "Utah Valley ML -295 vs UT Martin 6:00 PM"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "sport": "NFL",
+     "game": "TB@DET 11:00 AM / BAL@CAR 11:00 AM / MIA@BUF 11:00 AM / JAX@NYG 2:25 PM / MIN vs SF 6:20 PM AZ",
+     "pick": "NFL all-day 5-leg anytime-TD lotto (about +16657 computed, slip price unconfirmed):\n- Sam LaPorta anytime TD +210 TB@DET 11:00 AM\n- Zay Flowers anytime TD +180 BAL@CAR 11:00 AM\n- Keon Coleman anytime TD +260 MIA@BUF 11:00 AM\n- Isaiah Likely anytime TD +230 JAX@NYG 2:25 PM\n- Christian McCaffrey anytime TD -160 MIN vs SF (Mexico City) 6:20 PM",
+     "book": "FanDuel",
+     "odds": "+16657",
+     "implied": "0.6%",
+     "est": "",
+     "result": "L",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 0.5,
+     "Profit (u)": -0.5,
+     "title": "NFL all-day 5-leg anytime-TD lotto",
+     "legs": [
+      {
+       "mark": "none",
+       "text": "Sam LaPorta anytime TD +210 TB@DET 11:00 AM"
+      },
+      {
+       "mark": "none",
+       "text": "Zay Flowers anytime TD +180 BAL@CAR 11:00 AM"
+      },
+      {
+       "mark": "none",
+       "text": "Keon Coleman anytime TD +260 MIA@BUF 11:00 AM"
+      },
+      {
+       "mark": "none",
+       "text": "Isaiah Likely anytime TD +230 JAX@NYG 2:25 PM"
+      },
+      {
+       "mark": "none",
+       "text": "Christian McCaffrey anytime TD -160 MIN vs SF (Mexico City) 6:20 PM"
+      }
+     ]
+    }
+   ],
+   "day": "2-7 (6 pending)",
+   "tony_played": "2-7",
+   "net": "-4.49u",
+   "running": "+79.17u",
+   "date": "2026-11-22"
+  },
   {
    "banner": "Saturday, Nov 21   |   Day: 0-9 (9 pending)   |   Tony played: 0-9   |   Net -9.50u   |   Running +83.66u",
    "label": "Saturday, Nov 21",
@@ -15296,37 +15668,37 @@
    "rows": [
     [
      "All picks",
-     "74-113-1",
-     "19-39",
+     "76-120-1",
+     "20-42",
      "9-15",
      "0-0",
      "5-2",
-     "12-20-1",
-     "29-37"
+     "13-20-1",
+     "29-41"
     ],
     [
      "Favorites",
-     "13-4",
-     "1-1",
+     "15-5",
+     "2-1",
      "3-1",
      "0-0",
      "2-0",
-     "4-1",
-     "3-1"
+     "5-1",
+     "3-2"
     ],
     [
      "Tony played",
-     "55-96-1",
-     "15-35",
+     "57-103-1",
+     "16-38",
      "4-11",
      "0-0",
      "4-2",
-     "5-13-1",
-     "27-35"
+     "6-13-1",
+     "27-39"
     ]
    ],
    "units": {
-    "net": "+69.34u",
+    "net": "+64.85u",
     "pending": "6 pending"
    }
   },
@@ -15380,17 +15752,17 @@
   }
  ],
  "legend": "Green = win, Red = loss, Yellow = push, Gray = pending. Newest day first.",
- "ticket_count": 647,
- "version": "9173c938c1",
+ "ticket_count": 662,
+ "version": "6d5d3f4a12",
  "archive_sports": {},
- "live_ticket_count": 647,
+ "live_ticket_count": 662,
  "totals": {
   "grand": [
-   83.66,
-   257,
-   332,
-   54,
-   647
+   79.17,
+   259,
+   339,
+   60,
+   662
   ],
   "m2026-10": [
    14.32,
@@ -15400,18 +15772,18 @@
    408
   ],
   "m2026-11": [
-   69.34,
-   74,
-   113,
-   52,
-   239
+   64.85,
+   76,
+   120,
+   58,
+   254
   ],
   "sLadder": [
-   17.68,
+   15.18,
    15,
-   11,
+   12,
    0,
-   27
+   28
   ],
   "sMLB": [
    0.0,
@@ -15421,18 +15793,18 @@
    22
   ],
   "sMulti": [
-   42.33,
+   41.83,
    3,
-   4,
+   5,
    0,
-   7
+   8
   ],
   "sNBA": [
-   -8.53,
-   62,
+   -7.64,
+   63,
    88,
    0,
-   169
+   172
   ],
   "sNCAAF": [
    -1.45,
@@ -15442,32 +15814,32 @@
    36
   ],
   "sNCAAM": [
-   -2.27,
+   -3.77,
    1,
-   5,
+   7,
    0,
-   6
+   8
   ],
   "sNFL": [
-   3.33,
-   44,
-   68,
+   2.45,
+   45,
+   71,
    0,
-   116
+   121
   ],
   "sNHL": [
    -5.21,
    45,
    55,
    0,
-   116
+   118
   ],
   "sSoccer": [
    38.78,
    65,
    73,
    0,
-   146
+   147
   ],
   "sWNBA": [
    -1.0,
@@ -15477,14 +15849,14 @@
    2
   ],
   "y2026": [
-   83.66,
-   257,
-   332,
-   54,
-   647
+   79.17,
+   259,
+   339,
+   60,
+   662
   ]
  },
- "prune_cutoff": "2026-09-21",
+ "prune_cutoff": "2026-09-22",
  "units_by_sport": {
   "sports": [
    "NFL",
@@ -15500,16 +15872,16 @@
    {
     "period": "November 2026",
     "units": {
-     "NFL": 5.76,
+     "NFL": 4.88,
      "NHL": -5.4,
-     "NBA": -7.55,
+     "NBA": -6.66,
      "WNBA": 0,
      "Soccer": 26.89,
      "NCAAF": 3.3,
      "MLB": 0,
-     "Multi": 46.34
+     "Multi": 41.84
     },
-    "total": 69.34
+    "total": 64.85
    },
    {
     "period": "October 2026",
@@ -15528,16 +15900,16 @@
    {
     "period": "Grand total",
     "units": {
-     "NFL": 3.33,
+     "NFL": 2.45,
      "NHL": -5.21,
-     "NBA": -8.53,
+     "NBA": -7.64,
      "WNBA": -1.0,
      "Soccer": 38.78,
      "NCAAF": -1.45,
      "MLB": 0,
-     "Multi": 57.74
+     "Multi": 53.24
     },
-    "total": 83.66
+    "total": 79.17
    }
   ]
  }
