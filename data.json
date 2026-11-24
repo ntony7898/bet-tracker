@@ -14,13 +14,13 @@
  "records": [
   [
    "All picks",
-   "264-347-1",
+   "265-347-1",
    "45-72",
    "45-55",
    "11-10",
    "11-16",
    "64-90-1",
-   "88-104"
+   "89-104"
   ],
   [
    "Favorites",
@@ -34,21 +34,21 @@
   ],
   [
    "Tony played",
-   "112-185-1",
+   "113-185-1",
    "18-48",
    "12-22",
    "0-0",
    "8-13",
    "12-35-1",
-   "62-67"
+   "63-67"
   ]
  ],
  "units": [
   {
    "period": "November 2026",
-   "net": "+63.89u",
-   "settled": 167,
-   "pending": 6
+   "net": "+68.89u",
+   "settled": 168,
+   "pending": 7
   },
   {
    "period": "October 2026",
@@ -58,48 +58,288 @@
   },
   {
    "period": "Year 2026",
-   "net": "+78.21u",
-   "settled": 210,
-   "pending": 8
+   "net": "+83.21u",
+   "settled": 211,
+   "pending": 9
   },
   {
    "period": "Grand total",
-   "net": "+78.21u",
-   "settled": 210,
-   "pending": 8
+   "net": "+83.21u",
+   "settled": 211,
+   "pending": 9
   }
  ],
  "days": [
   {
-   "banner": "Monday, Nov 23   |   Day: 4-9 (8 pending)   |   Tony played: 4-9   |   Net -5.48u   |   Running +78.21u",
-   "label": "Monday, Nov 23",
+   "banner": "Tuesday, Nov 24   |   Day: 0-0 (12 pending)   |   Tony played: 0-0   |   Net +0.00u (1 pending)   |   Running +83.21u",
+   "label": "Tuesday, Nov 24",
    "tickets": [
     {
-     "date": "2026-11-23",
+     "date": "2026-11-24",
      "sport": "Ladder",
-     "game": "POR@PHI 5:00 PM / OKC@IND 5:30 PM / MIN@SJ 8:00 PM AZ",
-     "pick": "Day 2 LADDER (not confirmed placed, Tony in Sophie chat:\n⏳ 'Day 2 I'm putting a hundred'\n⏳ about +100 computed from FanDuel 8:20 AM AZ\n⏳ slip price unconfirmed): Tyrese Maxey 4+ ast -330 POR@PHI 5:00 PM\n⏳ Pascal Siakam 20+ pts+ast -360 OKC@IND 5:30 PM\n⏳ Kirill Kaprizov 1+ pt -500 MIN@SJ 8:00 PM",
+     "game": "DET@ORL 5:00 PM / VGK@EDM 6:00 PM / BOS@WSH 6:00 PM AZ",
+     "pick": "Day 3 LADDER (stake unconfirmed, about +103 computed from FanDuel 8:\n⏳ 05 AM AZ): Desmond Bane 20+ Pts\n⏳ Reb\n⏳ Ast -330 DET@ORL 5:00 PM\n⏳ Connor McDavid 1+ Points -620 VGK@EDM 6:00 PM\n⏳ Anthony Davis 20+ Pts\n⏳ Ast -290 BOS@WSH 6:00 PM",
      "book": "FanDuel",
-     "odds": "+100",
-     "implied": "50.0%",
+     "odds": "+103",
+     "implied": "49.1%",
+     "est": "68%",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 10.15,
+     "Profit (u)": "",
+     "title": "Day 3 LADDER",
+     "legs": [
+      {
+       "mark": "pending",
+       "text": "Desmond Bane 20+ Pts"
+      },
+      {
+       "mark": "pending",
+       "text": "Reb"
+      },
+      {
+       "mark": "pending",
+       "text": "Ast -330 DET@ORL 5:00 PM"
+      },
+      {
+       "mark": "pending",
+       "text": "Connor McDavid 1+ Points -620 VGK@EDM 6:00 PM"
+      },
+      {
+       "mark": "pending",
+       "text": "Anthony Davis 20+ Pts"
+      },
+      {
+       "mark": "pending",
+       "text": "Ast -290 BOS@WSH 6:00 PM"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "sport": "NBA",
+     "game": "DET@ORL 5:00 PM",
+     "pick": "Pistons -2.5",
+     "book": "FanDuel",
+     "odds": "-106",
+     "implied": "51.5%",
+     "est": "55%",
+     "result": "",
+     "favorite": "Y",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "Pistons -2.5",
+     "legs": []
+    },
+    {
+     "date": "2026-11-24",
+     "sport": "NHL",
+     "game": "VGK@EDM 6:00 PM",
+     "pick": "Oilers ML",
+     "book": "FanDuel",
+     "odds": "-102",
+     "implied": "50.5%",
+     "est": "53%",
+     "result": "",
+     "favorite": "Y",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "Oilers ML",
+     "legs": []
+    },
+    {
+     "date": "2026-11-24",
+     "sport": "NHL",
+     "game": "VGK@EDM 6:00 PM",
+     "pick": "Over 6.5 goals",
+     "book": "FanDuel",
+     "odds": "+102",
+     "implied": "49.5%",
+     "est": "52%",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "Over 6.5 goals",
+     "legs": []
+    },
+    {
+     "date": "2026-11-24",
+     "sport": "NCAAF",
+     "game": "KENT@EMU 5:00 PM",
+     "pick": "Eastern Michigan -5.5",
+     "book": "FanDuel",
+     "odds": "-114",
+     "implied": "53.3%",
+     "est": "55%",
+     "result": "",
+     "favorite": "Y",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "Eastern Michigan -5.5",
+     "legs": []
+    },
+    {
+     "date": "2026-11-24",
+     "sport": "NCAAM",
+     "game": "PROV vs ARIZ 3:00 PM",
+     "pick": "Arizona -7.5",
+     "book": "FanDuel",
+     "odds": "-106",
+     "implied": "51.5%",
+     "est": "53%",
+     "result": "",
+     "favorite": "Y",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "Arizona -7.5",
+     "legs": []
+    },
+    {
+     "date": "2026-11-24",
+     "sport": "Soccer",
+     "game": "Feyenoord v Porto 1:00 PM",
+     "pick": "Porto ML (90 min)",
+     "book": "FanDuel",
+     "odds": "+115",
+     "implied": "46.5%",
+     "est": "49%",
+     "result": "",
+     "favorite": "Y",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "Porto ML (90 min)",
+     "legs": []
+    },
+    {
+     "date": "2026-11-24",
+     "sport": "NHL",
+     "game": "VGK@EDM 6:00 PM",
+     "pick": "Leon Draisaitl 2+ points",
+     "book": "FanDuel",
+     "odds": "-106",
+     "implied": "51.5%",
+     "est": "57%",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "Leon Draisaitl 2+ points",
+     "legs": []
+    },
+    {
+     "date": "2026-11-24",
+     "sport": "NBA",
+     "game": "DET@ORL 5:00 PM",
+     "pick": "Franz Wagner o29.5 pts+ast",
+     "book": "FanDuel",
+     "odds": "-130",
+     "implied": "56.5%",
+     "est": "68%",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "Franz Wagner o29.5 pts+ast",
+     "legs": []
+    },
+    {
+     "date": "2026-11-24",
+     "sport": "NBA",
+     "game": "BOS@WSH 6:00 PM",
+     "pick": "Kyshawn George o18.5 pts+ast",
+     "book": "FanDuel",
+     "odds": "-130",
+     "implied": "56.5%",
+     "est": "66%",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "Kyshawn George o18.5 pts+ast",
+     "legs": []
+    },
+    {
+     "date": "2026-11-24",
+     "sport": "NBA",
+     "game": "DAL@DEN 8:00 PM",
+     "pick": "Christian Braun o2.5 assists",
+     "book": "FanDuel",
+     "odds": "+110",
+     "implied": "47.6%",
+     "est": "58%",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "Christian Braun o2.5 assists",
+     "legs": []
+    },
+    {
+     "date": "2026-11-24",
+     "sport": "NBA",
+     "game": "DET@ORL 5:00 PM",
+     "pick": "SLEEPER: Anthony Black o4.5 assists",
+     "book": "FanDuel",
+     "odds": "+102",
+     "implied": "49.5%",
      "est": "62%",
      "result": "",
      "favorite": "N",
      "tony_played": "N",
      "Stake (u)": "",
      "Profit (u)": "",
+     "title": "SLEEPER: Anthony Black o4.5 assists",
+     "legs": []
+    }
+   ],
+   "day": "0-0 (12 pending)",
+   "tony_played": "0-0",
+   "net": "+0.00u (1 pending)",
+   "running": "+83.21u",
+   "date": "2026-11-24"
+  },
+  {
+   "banner": "Monday, Nov 23   |   Day: 5-9 (7 pending)   |   Tony played: 5-9   |   Net -0.48u   |   Running +83.21u",
+   "label": "Monday, Nov 23",
+   "tickets": [
+    {
+     "date": "2026-11-23",
+     "sport": "Ladder",
+     "game": "POR@PHI 5:00 PM / OKC@IND 5:30 PM / MIN@SJ 8:00 PM AZ",
+     "pick": "Day 2 LADDER (about +100 computed from FanDuel 8:\n- 20 AM AZ\n- slip price unconfirmed\n- graded W from ESPN box scores per Sal: Maxey 5 ast\n- Siakam 20 pts\n- 5 ast\n- Kaprizov 1 G 3 A): Tyrese Maxey 4+ ast -330 POR@PHI 5:00 PM\n- Pascal Siakam 20+ pts+ast -360 OKC@IND 5:30 PM\n- Kirill Kaprizov 1+ pt -500 MIN@SJ 8:00 PM",
+     "book": "FanDuel",
+     "odds": "+100",
+     "implied": "50.0%",
+     "est": "62%",
+     "result": "W",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 5,
+     "Profit (u)": 5,
      "title": "Day 2 LADDER",
      "legs": [
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "Tyrese Maxey 4+ ast -330 POR@PHI 5:00 PM"
       },
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "Pascal Siakam 20+ pts+ast -360 OKC@IND 5:30 PM"
       },
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "Kirill Kaprizov 1+ pt -500 MIN@SJ 8:00 PM"
       }
      ]
@@ -506,10 +746,10 @@
      ]
     }
    ],
-   "day": "4-9 (8 pending)",
-   "tony_played": "4-9",
-   "net": "-5.48u",
-   "running": "+78.21u",
+   "day": "5-9 (7 pending)",
+   "tony_played": "5-9",
+   "net": "-0.48u",
+   "running": "+83.21u",
    "date": "2026-11-23"
   },
   {
@@ -16118,13 +16358,13 @@
    "rows": [
     [
      "All picks",
-     "81-128-1",
+     "82-128-1",
      "20-43",
      "9-15",
      "0-0",
      "5-2",
      "14-21-1",
-     "33-47"
+     "34-47"
     ],
     [
      "Favorites",
@@ -16138,18 +16378,18 @@
     ],
     [
      "Tony played",
-     "62-111-1",
+     "63-111-1",
      "16-39",
      "4-11",
      "0-0",
      "4-2",
      "7-14-1",
-     "31-45"
+     "32-45"
     ]
    ],
    "units": {
-    "net": "+63.89u",
-    "pending": "6 pending"
+    "net": "+68.89u",
+    "pending": "7 pending"
    }
   },
   {
@@ -16202,17 +16442,17 @@
   }
  ],
  "legend": "Green = win, Red = loss, Yellow = push, Gray = pending. Newest day first.",
- "ticket_count": 683,
- "version": "b66f8f77e9",
+ "ticket_count": 695,
+ "version": "fa30ada4c7",
  "archive_sports": {},
- "live_ticket_count": 683,
+ "live_ticket_count": 695,
  "totals": {
   "grand": [
-   78.21,
-   264,
+   83.21,
+   265,
    347,
-   68,
-   683
+   79,
+   695
   ],
   "m2026-10": [
    14.32,
@@ -16222,18 +16462,18 @@
    408
   ],
   "m2026-11": [
-   63.89,
-   81,
+   68.89,
+   82,
    128,
-   66,
-   275
+   77,
+   287
   ],
   "sLadder": [
-   19.7,
-   16,
+   24.7,
+   17,
    11,
    0,
-   29
+   30
   ],
   "sMLB": [
    0.0,
@@ -16254,21 +16494,21 @@
    64,
    89,
    0,
-   176
+   181
   ],
   "sNCAAF": [
    -1.45,
    11,
    16,
    0,
-   36
+   37
   ],
   "sNCAAM": [
    -4.77,
    1,
    8,
    0,
-   9
+   10
   ],
   "sNFL": [
    1.45,
@@ -16282,14 +16522,14 @@
    45,
    55,
    0,
-   122
+   125
   ],
   "sSoccer": [
    36.39,
    68,
    78,
    0,
-   155
+   156
   ],
   "sWNBA": [
    -1.0,
@@ -16299,14 +16539,14 @@
    2
   ],
   "y2026": [
-   78.21,
-   264,
+   83.21,
+   265,
    347,
-   68,
-   683
+   79,
+   695
   ]
  },
- "prune_cutoff": "2026-09-23",
+ "prune_cutoff": "2026-09-24",
  "units_by_sport": {
   "sports": [
    "NFL",
@@ -16329,9 +16569,9 @@
      "Soccer": 24.5,
      "NCAAF": 3.3,
      "MLB": 0,
-     "Multi": 44.36
+     "Multi": 49.36
     },
-    "total": 63.89
+    "total": 68.89
    },
    {
     "period": "October 2026",
@@ -16357,9 +16597,9 @@
      "Soccer": 36.39,
      "NCAAF": -1.45,
      "MLB": 0,
-     "Multi": 55.76
+     "Multi": 60.76
     },
-    "total": 78.21
+    "total": 83.21
    }
   ]
  }
