@@ -14,41 +14,41 @@
  "records": [
   [
    "All picks",
-   "260-338-1",
-   "45-71",
+   "264-347-1",
+   "45-72",
    "45-55",
    "11-10",
    "11-16",
-   "63-89-1",
-   "85-97"
+   "64-90-1",
+   "88-104"
   ],
   [
    "Favorites",
-   "37-21",
-   "4-4",
+   "41-24",
+   "4-5",
    "7-4",
    "0-0",
    "3-2",
-   "13-4",
-   "10-7"
+   "14-4",
+   "13-9"
   ],
   [
    "Tony played",
-   "108-176-1",
-   "18-47",
+   "112-185-1",
+   "18-48",
    "12-22",
    "0-0",
    "8-13",
-   "11-34-1",
-   "59-60"
+   "12-35-1",
+   "62-67"
   ]
  ],
  "units": [
   {
    "period": "November 2026",
-   "net": "+69.37u",
-   "settled": 154,
-   "pending": 7
+   "net": "+63.89u",
+   "settled": 167,
+   "pending": 6
   },
   {
    "period": "October 2026",
@@ -58,49 +58,49 @@
   },
   {
    "period": "Year 2026",
-   "net": "+83.69u",
-   "settled": 197,
-   "pending": 9
+   "net": "+78.21u",
+   "settled": 210,
+   "pending": 8
   },
   {
    "period": "Grand total",
-   "net": "+83.69u",
-   "settled": 197,
-   "pending": 9
+   "net": "+78.21u",
+   "settled": 210,
+   "pending": 8
   }
  ],
  "days": [
   {
-   "banner": "Monday, Nov 23   |   Day: 0-0 (12 pending)   |   Tony played: 0-0   |   Net +0.00u (1 pending)   |   Running +83.69u",
+   "banner": "Monday, Nov 23   |   Day: 4-9 (8 pending)   |   Tony played: 4-9   |   Net -5.48u   |   Running +78.21u",
    "label": "Monday, Nov 23",
    "tickets": [
     {
      "date": "2026-11-23",
      "sport": "Ladder",
      "game": "POR@PHI 5:00 PM / OKC@IND 5:30 PM / MIN@SJ 8:00 PM AZ",
-     "pick": "Day 1 LADDER restart (stake TBD by Tony; about +103 computed, slip price unconfirmed):\n⏳ Tyrese Maxey 4+ ast -310 POR@PHI 5:00 PM\n⏳ Pascal Siakam 20+ pts+ast -350 OKC@IND 5:30 PM\n⏳ Kirill Kaprizov 1+ pt -520 MIN@SJ 8:00 PM",
+     "pick": "Day 2 LADDER (not confirmed placed, Tony in Sophie chat:\n⏳ 'Day 2 I'm putting a hundred'\n⏳ about +100 computed from FanDuel 8:20 AM AZ\n⏳ slip price unconfirmed): Tyrese Maxey 4+ ast -330 POR@PHI 5:00 PM\n⏳ Pascal Siakam 20+ pts+ast -360 OKC@IND 5:30 PM\n⏳ Kirill Kaprizov 1+ pt -500 MIN@SJ 8:00 PM",
      "book": "FanDuel",
-     "odds": "+103",
-     "implied": "49.3%",
+     "odds": "+100",
+     "implied": "50.0%",
      "est": "62%",
      "result": "",
      "favorite": "N",
-     "tony_played": "Y",
-     "Stake (u)": 0.5,
+     "tony_played": "N",
+     "Stake (u)": "",
      "Profit (u)": "",
-     "title": "Day 1 LADDER restart",
+     "title": "Day 2 LADDER",
      "legs": [
       {
        "mark": "pending",
-       "text": "Tyrese Maxey 4+ ast -310 POR@PHI 5:00 PM"
+       "text": "Tyrese Maxey 4+ ast -330 POR@PHI 5:00 PM"
       },
       {
        "mark": "pending",
-       "text": "Pascal Siakam 20+ pts+ast -350 OKC@IND 5:30 PM"
+       "text": "Pascal Siakam 20+ pts+ast -360 OKC@IND 5:30 PM"
       },
       {
        "mark": "pending",
-       "text": "Kirill Kaprizov 1+ pt -520 MIN@SJ 8:00 PM"
+       "text": "Kirill Kaprizov 1+ pt -500 MIN@SJ 8:00 PM"
       }
      ]
     },
@@ -108,34 +108,34 @@
      "date": "2026-11-23",
      "sport": "NFL",
      "game": "CIN@WSH 6:15 PM",
-     "pick": "Bengals -5.5",
+     "pick": "Bengals -5.5 (Tony in Sal chat: 'I took all 5 favorites 1unit', card -120, slip price unconfirmed)",
      "book": "FanDuel",
      "odds": "-120",
      "implied": "54.5%",
      "est": "56%",
-     "result": "",
+     "result": "L",
      "favorite": "Y",
-     "tony_played": "N",
-     "Stake (u)": "",
-     "Profit (u)": "",
-     "title": "Bengals -5.5",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": -1,
+     "title": "Bengals -5.5 (Tony in Sal chat: 'I took all 5 favorites 1unit', card -120, slip price unconfirmed)",
      "legs": []
     },
     {
      "date": "2026-11-23",
      "sport": "NBA",
      "game": "MEM@CHA 5:00 PM",
-     "pick": "Grizzlies -2.5",
+     "pick": "Grizzlies -2.5 (Tony in Sal chat: 'I took all 5 favorites 1unit', card -110, slip price unconfirmed)",
      "book": "FanDuel",
      "odds": "-110",
      "implied": "52.4%",
      "est": "58%",
-     "result": "",
+     "result": "W",
      "favorite": "Y",
-     "tony_played": "N",
-     "Stake (u)": "",
-     "Profit (u)": "",
-     "title": "Grizzlies -2.5",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": 0.91,
+     "title": "Grizzlies -2.5 (Tony in Sal chat: 'I took all 5 favorites 1unit', card -110, slip price unconfirmed)",
      "legs": []
     },
     {
@@ -176,34 +176,34 @@
      "date": "2026-11-23",
      "sport": "Soccer",
      "game": "LAFC@STL 6:00 PM",
-     "pick": "St. Louis City vs LAFC Over 2.5 goals",
+     "pick": "St. Louis City vs LAFC Over 2.5 goals (Tony in Sal chat: 'I took all 5 favorites 1unit', card -160, slip price unconfirmed)",
      "book": "FanDuel",
      "odds": "-160",
      "implied": "61.5%",
      "est": "62%",
-     "result": "",
+     "result": "W",
      "favorite": "Y",
-     "tony_played": "N",
-     "Stake (u)": "",
-     "Profit (u)": "",
-     "title": "St. Louis City vs LAFC Over 2.5 goals",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": 0.62,
+     "title": "St. Louis City vs LAFC Over 2.5 goals (Tony in Sal chat: 'I took all 5 favorites 1unit', card -160, slip price unconfirmed)",
      "legs": []
     },
     {
      "date": "2026-11-23",
-     "sport": "NCAAB",
+     "sport": "NCAAM",
      "game": "WASH vs BYU 3:00 PM",
-     "pick": "BYU -11.5",
+     "pick": "BYU -11.5 (Tony in Sal chat: 'I took all 5 favorites 1unit', card -105, slip price unconfirmed)",
      "book": "FanDuel",
      "odds": "-105",
      "implied": "51.2%",
      "est": "53%",
-     "result": "",
+     "result": "L",
      "favorite": "Y",
-     "tony_played": "N",
-     "Stake (u)": "",
-     "Profit (u)": "",
-     "title": "BYU -11.5",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": -1,
+     "title": "BYU -11.5 (Tony in Sal chat: 'I took all 5 favorites 1unit', card -105, slip price unconfirmed)",
      "legs": []
     },
     {
@@ -290,12 +290,226 @@
      "Profit (u)": "",
      "title": "SLEEPER: Kyle Connor 2+ points",
      "legs": []
+    },
+    {
+     "date": "2026-11-23",
+     "sport": "Multi",
+     "game": "TOR@NYI 5:30 PM / MIN@SJ 8:00 PM AZ",
+     "pick": "NHL 2-leg ML parlay (Tony in Sal chat:\n- 'I took all 5 favorites 1unit. I assumed the NHL was a 2leg'\n- about +144 computed\n- slip price unconfirmed\n- Wild ML also correlates with Kaprizov 1+ pt on the same MIN@SJ game if that ticket is placed): Wild ML -200 MIN@SJ 8:00 PM\n- Islanders ML -160 TOR@NYI 5:30 PM",
+     "book": "FanDuel",
+     "odds": "+144",
+     "implied": "41.0%",
+     "est": "",
+     "result": "L",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": -1,
+     "title": "NHL 2-leg ML parlay",
+     "legs": [
+      {
+       "mark": "none",
+       "text": "Wild ML -200 MIN@SJ 8:00 PM"
+      },
+      {
+       "mark": "none",
+       "text": "Islanders ML -160 TOR@NYI 5:30 PM"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-23",
+     "sport": "NBA",
+     "game": "LAC@HOU 6:40 PM",
+     "pick": "Keaton Wagler o13.5 pts+reb+ast (Tony in Sal chat: 'I'll take Keaton for 1', card -106, slip price unconfirmed)",
+     "book": "FanDuel",
+     "odds": "-106",
+     "implied": "51.5%",
+     "est": "76%",
+     "result": "L",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": -1,
+     "title": "Keaton Wagler o13.5 pts+reb+ast (Tony in Sal chat: 'I'll take Keaton for 1', card -106, slip price unconfirmed)",
+     "legs": []
+    },
+    {
+     "date": "2026-11-23",
+     "sport": "Soccer",
+     "game": "Monza v Fiorentina 12:45 PM / Brentford v Everton 1:00 PM / Levante v Elche 1:00 PM / St. Louis v LAFC 6:00 PM AZ",
+     "pick": "Soccer 4-leg SOA parlay (Tony in Sal chat:\n- 'Im in for 2 units. one with all 4 and one with the early 3'\n- about +1576 computed from live prices\n- slip price unconfirmed\n- shares 3 legs with the early 3-leg and Son SOA correlates with the open St. Louis vs LAFC Over 2.5): Jaidon Anthony SOA +125 Brentford v Everton 1:00 PM\n- Iván Romero SOA +115 Levante v Elche 1:00 PM\n- Gustavo Varela SOA +105 Monza v Fiorentina 12:45 PM\n- Son Heung-Min SOA -145 St. Louis v LAFC 6:00 PM",
+     "book": "FanDuel",
+     "odds": "+1576",
+     "implied": "6.0%",
+     "est": "",
+     "result": "L",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": -1,
+     "title": "Soccer 4-leg SOA parlay",
+     "legs": [
+      {
+       "mark": "none",
+       "text": "Jaidon Anthony SOA +125 Brentford v Everton 1:00 PM"
+      },
+      {
+       "mark": "none",
+       "text": "Iván Romero SOA +115 Levante v Elche 1:00 PM"
+      },
+      {
+       "mark": "none",
+       "text": "Gustavo Varela SOA +105 Monza v Fiorentina 12:45 PM"
+      },
+      {
+       "mark": "none",
+       "text": "Son Heung-Min SOA -145 St. Louis v LAFC 6:00 PM"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-23",
+     "sport": "Soccer",
+     "game": "Monza v Fiorentina 12:45 PM / Brentford v Everton 1:00 PM / Levante v Elche 1:00 PM AZ",
+     "pick": "Soccer 3-leg SOA parlay (Tony in Sal chat:\n- 'Im in for 2 units. one with all 4 and one with the early 3'\n- about +892 computed from live prices\n- slip price unconfirmed\n- shares 3 legs with the 4-leg): Jaidon Anthony SOA +125 Brentford v Everton 1:00 PM\n- Iván Romero SOA +115 Levante v Elche 1:00 PM\n- Gustavo Varela SOA +105 Monza v Fiorentina 12:45 PM",
+     "book": "FanDuel",
+     "odds": "+892",
+     "implied": "10.1%",
+     "est": "",
+     "result": "L",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": -1,
+     "title": "Soccer 3-leg SOA parlay",
+     "legs": [
+      {
+       "mark": "none",
+       "text": "Jaidon Anthony SOA +125 Brentford v Everton 1:00 PM"
+      },
+      {
+       "mark": "none",
+       "text": "Iván Romero SOA +115 Levante v Elche 1:00 PM"
+      },
+      {
+       "mark": "none",
+       "text": "Gustavo Varela SOA +105 Monza v Fiorentina 12:45 PM"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-23",
+     "sport": "Soccer",
+     "game": "Monza v Fiorentina 12:45 PM",
+     "pick": "Monza v Fiorentina Over 2.5 goals (Tony in Sal chat: 'All one unit', FanDuel 12:18 PM board -162, slip price unconfirmed)",
+     "book": "FanDuel",
+     "odds": "-162",
+     "implied": "61.8%",
+     "est": "",
+     "result": "W",
+     "favorite": "Y",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": 0.62,
+     "title": "Monza v Fiorentina Over 2.5 goals (Tony in Sal chat: 'All one unit', FanDuel 12:18 PM board -162, slip price unconfirmed)",
+     "legs": []
+    },
+    {
+     "date": "2026-11-23",
+     "sport": "Soccer",
+     "game": "Levante v Elche 1:00 PM",
+     "pick": "Levante v Elche Over 2.5 goals (Tony in Sal chat: 'All one unit', FanDuel 12:18 PM board -142, slip price unconfirmed)",
+     "book": "FanDuel",
+     "odds": "-142",
+     "implied": "58.7%",
+     "est": "",
+     "result": "L",
+     "favorite": "Y",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": -1,
+     "title": "Levante v Elche Over 2.5 goals (Tony in Sal chat: 'All one unit', FanDuel 12:18 PM board -142, slip price unconfirmed)",
+     "legs": []
+    },
+    {
+     "date": "2026-11-23",
+     "sport": "Soccer",
+     "game": "Brentford v Everton 1:00 PM",
+     "pick": "Brentford v Everton Over 2.5 goals (Tony in Sal chat: 'All one unit', FanDuel 12:18 PM board -115, slip price unconfirmed)",
+     "book": "FanDuel",
+     "odds": "-115",
+     "implied": "53.5%",
+     "est": "",
+     "result": "W",
+     "favorite": "Y",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": 0.87,
+     "title": "Brentford v Everton Over 2.5 goals (Tony in Sal chat: 'All one unit', FanDuel 12:18 PM board -115, slip price unconfirmed)",
+     "legs": []
+    },
+    {
+     "date": "2026-11-23",
+     "sport": "Soccer",
+     "game": "Monza v Fiorentina 12:45 PM / Levante v Elche 1:00 PM / Brentford v Everton 1:00 PM AZ",
+     "pick": "Soccer 3-leg overs parlay (Tony in Sal chat:\n- 'Half unit on all 3 parlay'\n- about +415 computed\n- slip price unconfirmed\n- same games as the straight overs and the SOA parlays): Monza v Fiorentina Over 2.5 -162 12:45 PM\n- Levante v Elche Over 2.5 -142 1:00 PM\n- Brentford v Everton Over 2.5 -115 1:00 PM",
+     "book": "FanDuel",
+     "odds": "+415",
+     "implied": "19.4%",
+     "est": "",
+     "result": "L",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 0.5,
+     "Profit (u)": -0.5,
+     "title": "Soccer 3-leg overs parlay",
+     "legs": [
+      {
+       "mark": "none",
+       "text": "Monza v Fiorentina Over 2.5 -162 12:45 PM"
+      },
+      {
+       "mark": "none",
+       "text": "Levante v Elche Over 2.5 -142 1:00 PM"
+      },
+      {
+       "mark": "none",
+       "text": "Brentford v Everton Over 2.5 -115 1:00 PM"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-23",
+     "sport": "Soccer",
+     "game": "Brentford v Everton 1:00 PM",
+     "pick": "Soccer same-game 2-leg SOA parlay (Tony in Sal chat:\n- 'Also 1 unit on barry and anthony on the everton game SOA' then 'This is a parlay 2 leg 1 unit'\n- about +406 independent-leg estimate as placeholder\n- FanDuel SGP slip price unknown\n- fix from slip\n- correlated with Brentford v Everton Over 2.5\n- the overs parlay and both SOA parlays): Thierno Barry SOA +125\n- Jaidon Anthony SOA +125 Brentford v Everton 1:00 PM",
+     "book": "FanDuel",
+     "odds": "+406",
+     "implied": "19.8%",
+     "est": "",
+     "result": "L",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": -1,
+     "title": "Soccer same-game 2-leg SOA parlay",
+     "legs": [
+      {
+       "mark": "none",
+       "text": "Thierno Barry SOA +125"
+      },
+      {
+       "mark": "none",
+       "text": "Jaidon Anthony SOA +125 Brentford v Everton 1:00 PM"
+      }
+     ]
     }
    ],
-   "day": "0-0 (12 pending)",
-   "tony_played": "0-0",
-   "net": "+0.00u (1 pending)",
-   "running": "+83.69u",
+   "day": "4-9 (8 pending)",
+   "tony_played": "4-9",
+   "net": "-5.48u",
+   "running": "+78.21u",
    "date": "2026-11-23"
   },
   {
@@ -15904,38 +16118,38 @@
    "rows": [
     [
      "All picks",
-     "77-119-1",
-     "20-42",
+     "81-128-1",
+     "20-43",
      "9-15",
      "0-0",
      "5-2",
-     "13-20-1",
-     "30-40"
+     "14-21-1",
+     "33-47"
     ],
     [
      "Favorites",
-     "15-5",
-     "2-1",
+     "19-8",
+     "2-2",
      "3-1",
      "0-0",
      "2-0",
-     "5-1",
-     "3-2"
+     "6-1",
+     "6-4"
     ],
     [
      "Tony played",
-     "58-102-1",
-     "16-38",
+     "62-111-1",
+     "16-39",
      "4-11",
      "0-0",
      "4-2",
-     "6-13-1",
-     "28-38"
+     "7-14-1",
+     "31-45"
     ]
    ],
    "units": {
-    "net": "+69.37u",
-    "pending": "7 pending"
+    "net": "+63.89u",
+    "pending": "6 pending"
    }
   },
   {
@@ -15988,17 +16202,17 @@
   }
  ],
  "legend": "Green = win, Red = loss, Yellow = push, Gray = pending. Newest day first.",
- "ticket_count": 674,
- "version": "398e73b4b3",
+ "ticket_count": 683,
+ "version": "b66f8f77e9",
  "archive_sports": {},
- "live_ticket_count": 674,
+ "live_ticket_count": 683,
  "totals": {
   "grand": [
-   83.69,
-   260,
-   338,
-   72,
-   674
+   78.21,
+   264,
+   347,
+   68,
+   683
   ],
   "m2026-10": [
    14.32,
@@ -16008,11 +16222,11 @@
    408
   ],
   "m2026-11": [
-   69.37,
-   77,
-   119,
-   70,
-   266
+   63.89,
+   81,
+   128,
+   66,
+   275
   ],
   "sLadder": [
    19.7,
@@ -16029,25 +16243,18 @@
    22
   ],
   "sMulti": [
-   41.83,
+   40.83,
    3,
-   5,
+   6,
    0,
-   8
+   9
   ],
   "sNBA": [
-   -7.64,
-   63,
-   88,
+   -7.73,
+   64,
+   89,
    0,
-   175
-  ],
-  "sNCAAB": [
-   0.0,
-   0,
-   0,
-   0,
-   1
+   176
   ],
   "sNCAAF": [
    -1.45,
@@ -16057,16 +16264,16 @@
    36
   ],
   "sNCAAM": [
-   -3.77,
+   -4.77,
    1,
-   7,
+   8,
    0,
-   8
+   9
   ],
   "sNFL": [
-   2.45,
+   1.45,
    45,
-   71,
+   72,
    0,
    123
   ],
@@ -16078,11 +16285,11 @@
    122
   ],
   "sSoccer": [
-   38.78,
-   65,
-   73,
+   36.39,
+   68,
+   78,
    0,
-   148
+   155
   ],
   "sWNBA": [
    -1.0,
@@ -16092,11 +16299,11 @@
    2
   ],
   "y2026": [
-   83.69,
-   260,
-   338,
-   72,
-   674
+   78.21,
+   264,
+   347,
+   68,
+   683
   ]
  },
  "prune_cutoff": "2026-09-23",
@@ -16115,16 +16322,16 @@
    {
     "period": "November 2026",
     "units": {
-     "NFL": 4.88,
+     "NFL": 3.88,
      "NHL": -5.4,
-     "NBA": -6.66,
+     "NBA": -6.75,
      "WNBA": 0,
-     "Soccer": 26.89,
+     "Soccer": 24.5,
      "NCAAF": 3.3,
      "MLB": 0,
-     "Multi": 46.36
+     "Multi": 44.36
     },
-    "total": 69.37
+    "total": 63.89
    },
    {
     "period": "October 2026",
@@ -16143,16 +16350,16 @@
    {
     "period": "Grand total",
     "units": {
-     "NFL": 2.45,
+     "NFL": 1.45,
      "NHL": -5.21,
-     "NBA": -7.64,
+     "NBA": -7.73,
      "WNBA": -1.0,
-     "Soccer": 38.78,
+     "Soccer": 36.39,
      "NCAAF": -1.45,
      "MLB": 0,
-     "Multi": 57.76
+     "Multi": 55.76
     },
-    "total": 83.69
+    "total": 78.21
    }
   ]
  }
