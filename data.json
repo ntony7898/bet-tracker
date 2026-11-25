@@ -14,41 +14,41 @@
  "records": [
   [
    "All picks",
-   "265-347-1",
+   "272-360-1",
    "45-72",
-   "45-55",
+   "46-57",
    "11-10",
-   "11-16",
-   "64-90-1",
-   "89-104"
+   "11-17",
+   "67-93-1",
+   "92-111"
   ],
   [
    "Favorites",
-   "41-24",
+   "44-26",
    "4-5",
-   "7-4",
+   "7-5",
    "0-0",
-   "3-2",
-   "14-4",
-   "13-9"
+   "3-3",
+   "15-4",
+   "15-9"
   ],
   [
    "Tony played",
-   "113-185-1",
+   "115-194-1",
    "18-48",
    "12-22",
    "0-0",
    "8-13",
-   "12-35-1",
-   "63-67"
+   "13-37-1",
+   "64-74"
   ]
  ],
  "units": [
   {
    "period": "November 2026",
-   "net": "+68.89u",
-   "settled": 168,
-   "pending": 7
+   "net": "+71.29u",
+   "settled": 179,
+   "pending": 6
   },
   {
    "period": "October 2026",
@@ -58,60 +58,60 @@
   },
   {
    "period": "Year 2026",
-   "net": "+83.21u",
-   "settled": 211,
-   "pending": 9
+   "net": "+85.61u",
+   "settled": 222,
+   "pending": 8
   },
   {
    "period": "Grand total",
-   "net": "+83.21u",
-   "settled": 211,
-   "pending": 9
+   "net": "+85.61u",
+   "settled": 222,
+   "pending": 8
   }
  ],
  "days": [
   {
-   "banner": "Tuesday, Nov 24   |   Day: 0-0 (12 pending)   |   Tony played: 0-0   |   Net +0.00u (1 pending)   |   Running +83.21u",
+   "banner": "Tuesday, Nov 24   |   Day: 7-13   |   Tony played: 2-9   |   Net +2.40u   |   Running +85.61u",
    "label": "Tuesday, Nov 24",
    "tickets": [
     {
      "date": "2026-11-24",
      "sport": "Ladder",
      "game": "DET@ORL 5:00 PM / VGK@EDM 6:00 PM / BOS@WSH 6:00 PM AZ",
-     "pick": "Day 3 LADDER (stake unconfirmed, about +103 computed from FanDuel 8:\n⏳ 05 AM AZ): Desmond Bane 20+ Pts\n⏳ Reb\n⏳ Ast -330 DET@ORL 5:00 PM\n⏳ Connor McDavid 1+ Points -620 VGK@EDM 6:00 PM\n⏳ Anthony Davis 20+ Pts\n⏳ Ast -290 BOS@WSH 6:00 PM",
+     "pick": "Day 3 LADDER (about +103 computed from FanDuel 8:\n- 05 AM AZ\n✅ slip price unconfirmed): Desmond Bane 20+ Pts\n- Reb\n- Ast -330 DET@ORL 5:00 PM\n✅ Connor McDavid 1+ Points -620 VGK@EDM 6:00 PM\n✅ Anthony Davis 20+ Pts\n- Ast -290 BOS@WSH 6:00 PM",
      "book": "FanDuel",
      "odds": "+103",
      "implied": "49.1%",
      "est": "68%",
-     "result": "",
+     "result": "W",
      "favorite": "N",
      "tony_played": "Y",
-     "Stake (u)": 10.15,
-     "Profit (u)": "",
+     "Stake (u)": 10,
+     "Profit (u)": 10.3,
      "title": "Day 3 LADDER",
      "legs": [
       {
-       "mark": "pending",
+       "mark": "hit",
        "text": "Desmond Bane 20+ Pts"
       },
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "Reb"
       },
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "Ast -330 DET@ORL 5:00 PM"
       },
       {
-       "mark": "pending",
+       "mark": "hit",
        "text": "Connor McDavid 1+ Points -620 VGK@EDM 6:00 PM"
       },
       {
-       "mark": "pending",
+       "mark": "hit",
        "text": "Anthony Davis 20+ Pts"
       },
       {
-       "mark": "pending",
+       "mark": "none",
        "text": "Ast -290 BOS@WSH 6:00 PM"
       }
      ]
@@ -125,7 +125,7 @@
      "odds": "-106",
      "implied": "51.5%",
      "est": "55%",
-     "result": "",
+     "result": "W",
      "favorite": "Y",
      "tony_played": "N",
      "Stake (u)": "",
@@ -142,7 +142,7 @@
      "odds": "-102",
      "implied": "50.5%",
      "est": "53%",
-     "result": "",
+     "result": "L",
      "favorite": "Y",
      "tony_played": "N",
      "Stake (u)": "",
@@ -159,7 +159,7 @@
      "odds": "+102",
      "implied": "49.5%",
      "est": "52%",
-     "result": "",
+     "result": "W",
      "favorite": "N",
      "tony_played": "N",
      "Stake (u)": "",
@@ -176,7 +176,7 @@
      "odds": "-114",
      "implied": "53.3%",
      "est": "55%",
-     "result": "",
+     "result": "L",
      "favorite": "Y",
      "tony_played": "N",
      "Stake (u)": "",
@@ -193,7 +193,7 @@
      "odds": "-106",
      "implied": "51.5%",
      "est": "53%",
-     "result": "",
+     "result": "W",
      "favorite": "Y",
      "tony_played": "N",
      "Stake (u)": "",
@@ -210,7 +210,7 @@
      "odds": "+115",
      "implied": "46.5%",
      "est": "49%",
-     "result": "",
+     "result": "W",
      "favorite": "Y",
      "tony_played": "N",
      "Stake (u)": "",
@@ -227,7 +227,7 @@
      "odds": "-106",
      "implied": "51.5%",
      "est": "57%",
-     "result": "",
+     "result": "L",
      "favorite": "N",
      "tony_played": "N",
      "Stake (u)": "",
@@ -244,7 +244,7 @@
      "odds": "-130",
      "implied": "56.5%",
      "est": "68%",
-     "result": "",
+     "result": "L",
      "favorite": "N",
      "tony_played": "N",
      "Stake (u)": "",
@@ -261,7 +261,7 @@
      "odds": "-130",
      "implied": "56.5%",
      "est": "66%",
-     "result": "",
+     "result": "W",
      "favorite": "N",
      "tony_played": "N",
      "Stake (u)": "",
@@ -273,41 +273,280 @@
      "date": "2026-11-24",
      "sport": "NBA",
      "game": "DAL@DEN 8:00 PM",
-     "pick": "Christian Braun o2.5 assists",
+     "pick": "Christian Braun o2.5 assists (Tony in Sal chat 9:00 AM AZ: 'All 3 1 unit', FanDuel 8:22 AM AZ +110, slip price unconfirmed)",
      "book": "FanDuel",
      "odds": "+110",
      "implied": "47.6%",
      "est": "58%",
-     "result": "",
+     "result": "W",
      "favorite": "N",
-     "tony_played": "N",
-     "Stake (u)": "",
-     "Profit (u)": "",
-     "title": "Christian Braun o2.5 assists",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": 1.1,
+     "title": "Christian Braun o2.5 assists (Tony in Sal chat 9:00 AM AZ: 'All 3 1 unit', FanDuel 8:22 AM AZ +110, slip price unconfirmed)",
      "legs": []
     },
     {
      "date": "2026-11-24",
      "sport": "NBA",
      "game": "DET@ORL 5:00 PM",
-     "pick": "SLEEPER: Anthony Black o4.5 assists",
+     "pick": "SLEEPER: Anthony Black o4.5 assists (Tony in Sal chat 9:00 AM AZ: 'All 3 1 unit', FanDuel 8:22 AM AZ +100, card +102, slip price unconfirmed)",
      "book": "FanDuel",
-     "odds": "+102",
-     "implied": "49.5%",
+     "odds": "+100",
+     "implied": "50.0%",
      "est": "62%",
-     "result": "",
+     "result": "L",
      "favorite": "N",
-     "tony_played": "N",
-     "Stake (u)": "",
-     "Profit (u)": "",
-     "title": "SLEEPER: Anthony Black o4.5 assists",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": -1,
+     "title": "SLEEPER: Anthony Black o4.5 assists (Tony in Sal chat 9:00 AM AZ: 'All 3 1 unit', FanDuel 8:22 AM AZ +100, card +102, slip price unconfirmed)",
      "legs": []
+    },
+    {
+     "date": "2026-11-24",
+     "sport": "NBA",
+     "game": "DET@ORL 5:00 PM",
+     "pick": "Franz Wagner o36.5 pts+reb+ast (Tony in Sal chat 9:00 AM AZ: 'All 3 1 unit', FanDuel 8:22 AM AZ -122, slip price unconfirmed)",
+     "book": "FanDuel",
+     "odds": "-122",
+     "implied": "55.0%",
+     "est": "",
+     "result": "L",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": -1,
+     "title": "Franz Wagner o36.5 pts+reb+ast (Tony in Sal chat 9:00 AM AZ: 'All 3 1 unit', FanDuel 8:22 AM AZ -122, slip price unconfirmed)",
+     "legs": []
+    },
+    {
+     "date": "2026-11-24",
+     "sport": "Soccer",
+     "game": "Bodo/Glimt v LASK / Galatasaray v Aston Villa 10:45 AM AZ",
+     "pick": "UCL 2-leg SOA parlay (Tony in Sal chat 9:\n- 59 AM AZ: '1unit on both SOA aprlay. 1 unit on both game props parlay. and 1 unit on all 4 parlay'\n- about +152 computed from FanDuel 9:55 AM AZ\n- slip price unconfirmed\n❌ correlated with the game-props parlay and the 4-leg): Ola Brynhildsen To Score Or Assist -175 Bodo/Glimt v LASK\n❌ Nicolas Jackson To Score Or Assist -165 Galatasaray v Aston Villa",
+     "book": "FanDuel",
+     "odds": "+152",
+     "implied": "39.7%",
+     "est": "",
+     "result": "L",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": -1,
+     "title": "UCL 2-leg SOA parlay",
+     "legs": [
+      {
+       "mark": "miss",
+       "text": "Ola Brynhildsen To Score Or Assist -175 Bodo/Glimt v LASK"
+      },
+      {
+       "mark": "miss",
+       "text": "Nicolas Jackson To Score Or Assist -165 Galatasaray v Aston Villa"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "sport": "Soccer",
+     "game": "Bodo/Glimt v LASK / Galatasaray v Aston Villa 10:45 AM AZ",
+     "pick": "UCL 2-leg game props parlay (Tony in Sal chat 9:\n- 59 AM AZ: '1unit on both SOA aprlay. 1 unit on both game props parlay. and 1 unit on all 4 parlay'\n- about +152 computed from FanDuel 9:55 AM AZ\n- slip price unconfirmed\n❌ correlated with the SOA parlay and the 4-leg): Bodo/Glimt v LASK Over 3.5 Goals -164\n✅ Galatasaray v Aston Villa Over 2.5 Goals -176",
+     "book": "FanDuel",
+     "odds": "+152",
+     "implied": "39.6%",
+     "est": "",
+     "result": "L",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": -1,
+     "title": "UCL 2-leg game props parlay",
+     "legs": [
+      {
+       "mark": "miss",
+       "text": "Bodo/Glimt v LASK Over 3.5 Goals -164"
+      },
+      {
+       "mark": "hit",
+       "text": "Galatasaray v Aston Villa Over 2.5 Goals -176"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "sport": "Soccer",
+     "game": "Bodo/Glimt v LASK / Galatasaray v Aston Villa 10:45 AM AZ",
+     "pick": "UCL 4-leg parlay (Tony in Sal chat 9:\n- 59 AM AZ: '1unit on both SOA aprlay. 1 unit on both game props parlay. and 1 unit on all 4 parlay'\n- about +537 computed from FanDuel 9:55 AM AZ\n- slip price unconfirmed\n❌ same legs as both 2-leg parlays): Ola Brynhildsen To Score Or Assist -175\n❌ Nicolas Jackson To Score Or Assist -165\n❌ Bodo/Glimt v LASK Over 3.5 Goals -164\n✅ Galatasaray v Aston Villa Over 2.5 Goals -176",
+     "book": "FanDuel",
+     "odds": "+537",
+     "implied": "15.7%",
+     "est": "",
+     "result": "L",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": -1,
+     "title": "UCL 4-leg parlay",
+     "legs": [
+      {
+       "mark": "miss",
+       "text": "Ola Brynhildsen To Score Or Assist -175"
+      },
+      {
+       "mark": "miss",
+       "text": "Nicolas Jackson To Score Or Assist -165"
+      },
+      {
+       "mark": "miss",
+       "text": "Bodo/Glimt v LASK Over 3.5 Goals -164"
+      },
+      {
+       "mark": "hit",
+       "text": "Galatasaray v Aston Villa Over 2.5 Goals -176"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "sport": "Soccer",
+     "game": "Como v AEK / Feyenoord v Porto / Leipzig v Lens 1:00 PM AZ",
+     "pick": "UCL 3-leg SOA parlay (Tony in Sal chat 12:\n- 24 PM AZ: 'All 3 parlays 1 unit'\n- slip odds per Tony in Sal chat 12:26 PM AZ: 'In order. +626. +557. +1321'\n❌ Paz\n❌ Gimenez and Nusa also in the 6-leg): Paz To Score Or Assist (Como v AEK)\n❌ Gimenez To Score Or Assist (Feyenoord v Porto)\n✅ Nusa To Score Or Assist (Leipzig v Lens)",
+     "book": "FanDuel",
+     "odds": "+626",
+     "implied": "13.8%",
+     "est": "",
+     "result": "L",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": -1,
+     "title": "UCL 3-leg SOA parlay",
+     "legs": [
+      {
+       "mark": "miss",
+       "text": "Paz To Score Or Assist (Como v AEK)"
+      },
+      {
+       "mark": "miss",
+       "text": "Gimenez To Score Or Assist (Feyenoord v Porto)"
+      },
+      {
+       "mark": "hit",
+       "text": "Nusa To Score Or Assist (Leipzig v Lens)"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "sport": "Soccer",
+     "game": "Real Madrid v PSV / Man City v Napoli / Leipzig v Lens 1:00 PM AZ",
+     "pick": "UCL 3-leg SOA parlay (Tony in Sal chat 12:\n- 24 PM AZ: 'All 3 parlays 1 unit'\n- slip odds per Tony in Sal chat 12:26 PM AZ: 'In order. +626. +557. +1321'\n✅ Baumgartner correlates with Nusa\n✅ same Leipzig attack): Vinicius Jr To Score Or Assist (Real Madrid v PSV)\n✅ Hojlund To Score Or Assist (Man City v Napoli)\n❌ Baumgartner To Score Or Assist (Leipzig v Lens)",
+     "book": "FanDuel",
+     "odds": "+557",
+     "implied": "15.2%",
+     "est": "",
+     "result": "L",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": -1,
+     "title": "UCL 3-leg SOA parlay",
+     "legs": [
+      {
+       "mark": "hit",
+       "text": "Vinicius Jr To Score Or Assist (Real Madrid v PSV)"
+      },
+      {
+       "mark": "hit",
+       "text": "Hojlund To Score Or Assist (Man City v Napoli)"
+      },
+      {
+       "mark": "miss",
+       "text": "Baumgartner To Score Or Assist (Leipzig v Lens)"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "sport": "Soccer",
+     "game": "Arsenal v Dortmund / Como v AEK / Feyenoord v Porto / Man City v Napoli / Real Madrid v PSV / Leipzig v Lens 1:00 PM AZ",
+     "pick": "UCL 6-leg SOA parlay (Tony in Sal chat 12:\n- 24 PM AZ: 'All 3 parlays 1 unit'\n- slip odds per Tony in Sal chat 12:26 PM AZ: 'In order. +626. +557. +1321'\n❌ shares Paz\n✅ Gimenez and Nusa with the first 3-leg): Gyokeres SOA (Arsenal v Dortmund)\n❌ Paz SOA (Como v AEK)\n❌ Gimenez SOA (Feyenoord v Porto)\n❌ Haaland SOA (Man City v Napoli)\n✅ Mbappe SOA (Real Madrid v PSV)\n✅ Nusa SOA (Leipzig v Lens)",
+     "book": "FanDuel",
+     "odds": "+1321",
+     "implied": "7.0%",
+     "est": "",
+     "result": "L",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": -1,
+     "title": "UCL 6-leg SOA parlay",
+     "legs": [
+      {
+       "mark": "hit",
+       "text": "Gyokeres SOA (Arsenal v Dortmund)"
+      },
+      {
+       "mark": "miss",
+       "text": "Paz SOA (Como v AEK)"
+      },
+      {
+       "mark": "miss",
+       "text": "Gimenez SOA (Feyenoord v Porto)"
+      },
+      {
+       "mark": "miss",
+       "text": "Haaland SOA (Man City v Napoli)"
+      },
+      {
+       "mark": "hit",
+       "text": "Mbappe SOA (Real Madrid v PSV)"
+      },
+      {
+       "mark": "hit",
+       "text": "Nusa SOA (Leipzig v Lens)"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "sport": "Soccer",
+     "game": "Man City v Napoli / Real Madrid v PSV / Como v AEK / Arsenal v Dortmund 1:00 PM AZ",
+     "pick": "UCL 4-leg Anytime Goalscorer parlay (Tony in Sal chat 12:\n- 28 PM AZ: 'I did goal scorer instead 1unit for +636'\n❌ Paz and Gyokeres overlap the SOA parlays\n❌ Haaland and Mbappe overlap the 6-leg): Haaland Anytime Goalscorer (Man City v Napoli)\n✅ Mbappe Anytime Goalscorer (Real Madrid v PSV)\n❌ Nico Paz Anytime Goalscorer (Como v AEK)\n✅ Gyokeres Anytime Goalscorer (Arsenal v Dortmund)",
+     "book": "FanDuel",
+     "odds": "+636",
+     "implied": "13.6%",
+     "est": "",
+     "result": "L",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": -1,
+     "title": "UCL 4-leg Anytime Goalscorer parlay",
+     "legs": [
+      {
+       "mark": "miss",
+       "text": "Haaland Anytime Goalscorer (Man City v Napoli)"
+      },
+      {
+       "mark": "hit",
+       "text": "Mbappe Anytime Goalscorer (Real Madrid v PSV)"
+      },
+      {
+       "mark": "miss",
+       "text": "Nico Paz Anytime Goalscorer (Como v AEK)"
+      },
+      {
+       "mark": "hit",
+       "text": "Gyokeres Anytime Goalscorer (Arsenal v Dortmund)"
+      }
+     ]
     }
    ],
-   "day": "0-0 (12 pending)",
-   "tony_played": "0-0",
-   "net": "+0.00u (1 pending)",
-   "running": "+83.21u",
+   "day": "7-13",
+   "tony_played": "2-9",
+   "net": "+2.40u",
+   "running": "+85.61u",
    "date": "2026-11-24"
   },
   {
@@ -16358,38 +16597,38 @@
    "rows": [
     [
      "All picks",
-     "82-128-1",
+     "89-141-1",
      "20-43",
-     "9-15",
+     "10-17",
      "0-0",
-     "5-2",
-     "14-21-1",
-     "34-47"
+     "5-3",
+     "17-24-1",
+     "37-54"
     ],
     [
      "Favorites",
-     "19-8",
+     "22-10",
      "2-2",
-     "3-1",
+     "3-2",
      "0-0",
-     "2-0",
-     "6-1",
-     "6-4"
+     "2-1",
+     "7-1",
+     "8-4"
     ],
     [
      "Tony played",
-     "63-111-1",
+     "65-120-1",
      "16-39",
      "4-11",
      "0-0",
      "4-2",
-     "7-14-1",
-     "32-45"
+     "8-16-1",
+     "33-52"
     ]
    ],
    "units": {
-    "net": "+68.89u",
-    "pending": "7 pending"
+    "net": "+71.29u",
+    "pending": "6 pending"
    }
   },
   {
@@ -16442,17 +16681,17 @@
   }
  ],
  "legend": "Green = win, Red = loss, Yellow = push, Gray = pending. Newest day first.",
- "ticket_count": 695,
- "version": "fa30ada4c7",
+ "ticket_count": 703,
+ "version": "8c2d8fe13a",
  "archive_sports": {},
- "live_ticket_count": 695,
+ "live_ticket_count": 703,
  "totals": {
   "grand": [
-   83.21,
-   265,
-   347,
-   79,
-   695
+   85.61,
+   272,
+   360,
+   67,
+   703
   ],
   "m2026-10": [
    14.32,
@@ -16462,15 +16701,15 @@
    408
   ],
   "m2026-11": [
-   68.89,
-   82,
-   128,
-   77,
-   287
+   71.29,
+   89,
+   141,
+   65,
+   295
   ],
   "sLadder": [
-   24.7,
-   17,
+   35.0,
+   18,
    11,
    0,
    30
@@ -16490,22 +16729,22 @@
    9
   ],
   "sNBA": [
-   -7.73,
-   64,
-   89,
+   -8.63,
+   67,
+   92,
    0,
-   181
+   182
   ],
   "sNCAAF": [
    -1.45,
    11,
-   16,
+   17,
    0,
    37
   ],
   "sNCAAM": [
    -4.77,
-   1,
+   2,
    8,
    0,
    10
@@ -16519,17 +16758,17 @@
   ],
   "sNHL": [
    -5.21,
-   45,
-   55,
+   46,
+   57,
    0,
    125
   ],
   "sSoccer": [
-   36.39,
-   68,
-   78,
+   29.39,
+   69,
+   85,
    0,
-   156
+   163
   ],
   "sWNBA": [
    -1.0,
@@ -16539,11 +16778,11 @@
    2
   ],
   "y2026": [
-   83.21,
-   265,
-   347,
-   79,
-   695
+   85.61,
+   272,
+   360,
+   67,
+   703
   ]
  },
  "prune_cutoff": "2026-09-24",
@@ -16564,14 +16803,14 @@
     "units": {
      "NFL": 3.88,
      "NHL": -5.4,
-     "NBA": -6.75,
+     "NBA": -7.65,
      "WNBA": 0,
-     "Soccer": 24.5,
+     "Soccer": 17.5,
      "NCAAF": 3.3,
      "MLB": 0,
-     "Multi": 49.36
+     "Multi": 59.66
     },
-    "total": 68.89
+    "total": 71.29
    },
    {
     "period": "October 2026",
@@ -16592,14 +16831,14 @@
     "units": {
      "NFL": 1.45,
      "NHL": -5.21,
-     "NBA": -7.73,
+     "NBA": -8.63,
      "WNBA": -1.0,
-     "Soccer": 36.39,
+     "Soccer": 29.39,
      "NCAAF": -1.45,
      "MLB": 0,
-     "Multi": 60.76
+     "Multi": 71.06
     },
-    "total": 83.21
+    "total": 85.61
    }
   ]
  }
