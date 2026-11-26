@@ -14,13 +14,13 @@
  "records": [
   [
    "All picks",
-   "272-360-1",
+   "273-362-1",
    "45-72",
-   "46-57",
+   "47-58",
    "11-10",
    "11-17",
    "67-93-1",
-   "92-111"
+   "92-112"
   ],
   [
    "Favorites",
@@ -34,20 +34,20 @@
   ],
   [
    "Tony played",
-   "115-194-1",
+   "116-196-1",
    "18-48",
-   "12-22",
+   "13-23",
    "0-0",
    "8-13",
    "13-37-1",
-   "64-74"
+   "64-75"
   ]
  ],
  "units": [
   {
    "period": "November 2026",
-   "net": "+71.29u",
-   "settled": 179,
+   "net": "+51.07u",
+   "settled": 182,
    "pending": 6
   },
   {
@@ -58,18 +58,136 @@
   },
   {
    "period": "Year 2026",
-   "net": "+85.61u",
-   "settled": 222,
+   "net": "+65.39u",
+   "settled": 225,
    "pending": 8
   },
   {
    "period": "Grand total",
-   "net": "+85.61u",
-   "settled": 222,
+   "net": "+65.39u",
+   "settled": 225,
    "pending": 8
   }
  ],
  "days": [
+  {
+   "banner": "Wednesday, Nov 25   |   Day: 1-2 (2 pending)   |   Tony played: 1-2   |   Net -20.22u   |   Running +65.39u",
+   "label": "Wednesday, Nov 25",
+   "tickets": [
+    {
+     "date": "2026-11-25",
+     "sport": "Ladder",
+     "game": "MIA@PHI 3:00 PM / UTA@MIN 6:00 PM / SA@POR 8:00 PM",
+     "pick": "Day 4 LADDER 3-leg parlay (about +115 computed from FanDuel 8:\n- 15 AM AZ\n- slip price unconfirmed\n✅ ladder stake exempt from 2u max per Tony): Tyrese Maxey 4+ Assists -480 MIA@PHI 3:00 PM\n❌ Kirill Kaprizov 1+ Points -400 UTA@MIN 6:00 PM\n✅ Deni Avdija 20+ Points -235 SA@POR 8:00 PM",
+     "book": "FanDuel",
+     "odds": "+115",
+     "implied": "46.4%",
+     "est": "",
+     "result": "L",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 20,
+     "Profit (u)": -20,
+     "title": "Day 4 LADDER 3-leg parlay",
+     "legs": [
+      {
+       "mark": "hit",
+       "text": "Tyrese Maxey 4+ Assists -480 MIA@PHI 3:00 PM"
+      },
+      {
+       "mark": "miss",
+       "text": "Kirill Kaprizov 1+ Points -400 UTA@MIN 6:00 PM"
+      },
+      {
+       "mark": "hit",
+       "text": "Deni Avdija 20+ Points -235 SA@POR 8:00 PM"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "sport": "NBA",
+     "game": "LAC@MEM 6:00 PM",
+     "pick": "Grizzlies -6.5 (NOT PLAYED; Tony in Sal chat 12:42 PM AZ Nov 25: 'Im not playing the -6.5 grizzle anymore'; earlier logged as 1u from the 8:31 AM message)",
+     "book": "FanDuel",
+     "odds": "-115",
+     "implied": "53.5%",
+     "est": "",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "Grizzlies -6.5 (NOT PLAYED; Tony in Sal chat 12:42 PM AZ Nov 25: 'Im not playing the -6.5 grizzle anymore'; earlier logged as 1u from the 8:31 AM message)",
+     "legs": []
+    },
+    {
+     "date": "2026-11-25",
+     "sport": "NHL",
+     "game": "CAR@TB 5:00 PM",
+     "pick": "Hurricanes ML (Tony in Sal chat 8:\n- 31 AM AZ: '1 unit for all straight. I combined 1and 2 as a 2 leg for 1unit'\n- FanDuel 8:15 AM AZ card price\n- slip unconfirmed)",
+     "book": "FanDuel",
+     "odds": "-128",
+     "implied": "56.1%",
+     "est": "",
+     "result": "W",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": 0.78,
+     "title": "Hurricanes ML (Tony in Sal chat 8:31 AM AZ: '1 unit for all straight. I combined 1and 2 as a 2 leg for 1unit', FanDuel 8:15 AM AZ card price, slip unconfirmed)",
+     "legs": []
+    },
+    {
+     "date": "2026-11-25",
+     "sport": "NBA",
+     "game": "CLE@NYK 5:30 PM",
+     "pick": "Meleek Thomas 10+ Points (NOT PLAYED; Tony in Sal chat 3:11 PM AZ Nov 25: 'take this one out Meleek Thomas'; earlier logged as 1u from the 8:31 AM message)",
+     "book": "FanDuel",
+     "odds": "+158",
+     "implied": "38.8%",
+     "est": "",
+     "result": "",
+     "favorite": "N",
+     "tony_played": "N",
+     "Stake (u)": "",
+     "Profit (u)": "",
+     "title": "Meleek Thomas 10+ Points (NOT PLAYED; Tony in Sal chat 3:11 PM AZ Nov 25: 'take this one out Meleek Thomas'; earlier logged as 1u from the 8:31 AM message)",
+     "legs": []
+    },
+    {
+     "date": "2026-11-25",
+     "sport": "NHL",
+     "game": "OTT@FLA 5:00 PM / VAN@DET 5:30 PM",
+     "pick": "NHL 2-leg parlay (Tony in Sal chat 8:\n- 31 AM AZ: '1 unit for all straight. I combined 1and 2 as a 2 leg for 1unit'\n- FanDuel 8:15 AM AZ card price\n- slip unconfirmed\n- about +143 computed from legs\n- Sal's +124 note was off\n- Tony in Sal chat 8:32 AM AZ: 'Since I combined them I didn't play them straight'\n❌ so no Tkachuk or Boeser straights): Matthew Tkachuk 1+ Points -200 OTT@FLA 5:00 PM\n❌ Brock Boeser 1+ Points -162 VAN@DET 5:30 PM",
+     "book": "FanDuel",
+     "odds": "+143",
+     "implied": "41.2%",
+     "est": "",
+     "result": "L",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 1,
+     "Profit (u)": -1,
+     "title": "NHL 2-leg parlay",
+     "legs": [
+      {
+       "mark": "miss",
+       "text": "Matthew Tkachuk 1+ Points -200 OTT@FLA 5:00 PM"
+      },
+      {
+       "mark": "miss",
+       "text": "Brock Boeser 1+ Points -162 VAN@DET 5:30 PM"
+      }
+     ]
+    }
+   ],
+   "day": "1-2 (2 pending)",
+   "tony_played": "1-2",
+   "net": "-20.22u",
+   "running": "+65.39u",
+   "date": "2026-11-25"
+  },
   {
    "banner": "Tuesday, Nov 24   |   Day: 7-13   |   Tony played: 2-9   |   Net +2.40u   |   Running +85.61u",
    "label": "Tuesday, Nov 24",
@@ -16597,13 +16715,13 @@
    "rows": [
     [
      "All picks",
-     "89-141-1",
+     "90-143-1",
      "20-43",
-     "10-17",
+     "11-18",
      "0-0",
      "5-3",
      "17-24-1",
-     "37-54"
+     "37-55"
     ],
     [
      "Favorites",
@@ -16617,17 +16735,17 @@
     ],
     [
      "Tony played",
-     "65-120-1",
+     "66-122-1",
      "16-39",
-     "4-11",
+     "5-12",
      "0-0",
      "4-2",
      "8-16-1",
-     "33-52"
+     "33-53"
     ]
    ],
    "units": {
-    "net": "+71.29u",
+    "net": "+51.07u",
     "pending": "6 pending"
    }
   },
@@ -16681,17 +16799,17 @@
   }
  ],
  "legend": "Green = win, Red = loss, Yellow = push, Gray = pending. Newest day first.",
- "ticket_count": 703,
- "version": "8c2d8fe13a",
+ "ticket_count": 708,
+ "version": "49bb3e008f",
  "archive_sports": {},
- "live_ticket_count": 703,
+ "live_ticket_count": 708,
  "totals": {
   "grand": [
-   85.61,
-   272,
-   360,
-   67,
-   703
+   65.39,
+   273,
+   362,
+   69,
+   708
   ],
   "m2026-10": [
    14.32,
@@ -16701,18 +16819,18 @@
    408
   ],
   "m2026-11": [
-   71.29,
-   89,
-   141,
-   65,
-   295
+   51.07,
+   90,
+   143,
+   67,
+   300
   ],
   "sLadder": [
-   35.0,
+   15.0,
    18,
-   11,
+   12,
    0,
-   30
+   31
   ],
   "sMLB": [
    0.0,
@@ -16733,7 +16851,7 @@
    67,
    92,
    0,
-   182
+   184
   ],
   "sNCAAF": [
    -1.45,
@@ -16757,11 +16875,11 @@
    123
   ],
   "sNHL": [
-   -5.21,
-   46,
-   57,
+   -5.43,
+   47,
+   58,
    0,
-   125
+   127
   ],
   "sSoccer": [
    29.39,
@@ -16778,14 +16896,14 @@
    2
   ],
   "y2026": [
-   85.61,
-   272,
-   360,
-   67,
-   703
+   65.39,
+   273,
+   362,
+   69,
+   708
   ]
  },
- "prune_cutoff": "2026-09-24",
+ "prune_cutoff": "2026-09-25",
  "units_by_sport": {
   "sports": [
    "NFL",
@@ -16802,15 +16920,15 @@
     "period": "November 2026",
     "units": {
      "NFL": 3.88,
-     "NHL": -5.4,
+     "NHL": -5.62,
      "NBA": -7.65,
      "WNBA": 0,
      "Soccer": 17.5,
      "NCAAF": 3.3,
      "MLB": 0,
-     "Multi": 59.66
+     "Multi": 39.66
     },
-    "total": 71.29
+    "total": 51.07
    },
    {
     "period": "October 2026",
@@ -16830,15 +16948,15 @@
     "period": "Grand total",
     "units": {
      "NFL": 1.45,
-     "NHL": -5.21,
+     "NHL": -5.43,
      "NBA": -8.63,
      "WNBA": -1.0,
      "Soccer": 29.39,
      "NCAAF": -1.45,
      "MLB": 0,
-     "Multi": 71.06
+     "Multi": 51.06
     },
-    "total": 85.61
+    "total": 65.39
    }
   ]
  }
