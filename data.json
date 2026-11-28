@@ -14,13 +14,13 @@
  "records": [
   [
    "All picks",
-   "273-362-1",
+   "273-363-1",
    "45-72",
    "47-58",
    "11-10",
    "11-17",
    "67-93-1",
-   "92-112"
+   "92-113"
   ],
   [
    "Favorites",
@@ -34,20 +34,20 @@
   ],
   [
    "Tony played",
-   "116-196-1",
+   "116-197-1",
    "18-48",
    "13-23",
    "0-0",
    "8-13",
    "13-37-1",
-   "64-75"
+   "64-76"
   ]
  ],
  "units": [
   {
    "period": "November 2026",
-   "net": "+51.07u",
-   "settled": 182,
+   "net": "+48.57u",
+   "settled": 183,
    "pending": 6
   },
   {
@@ -58,18 +58,59 @@
   },
   {
    "period": "Year 2026",
-   "net": "+65.39u",
-   "settled": 225,
+   "net": "+62.89u",
+   "settled": 226,
    "pending": 8
   },
   {
    "period": "Grand total",
-   "net": "+65.39u",
-   "settled": 225,
+   "net": "+62.89u",
+   "settled": 226,
    "pending": 8
   }
  ],
  "days": [
+  {
+   "banner": "Friday, Nov 27   |   Day: 0-1   |   Tony played: 0-1   |   Net -2.50u   |   Running +62.89u",
+   "label": "Friday, Nov 27",
+   "tickets": [
+    {
+     "date": "2026-11-27",
+     "sport": "Ladder",
+     "game": "FLA@WSH 1:08 PM / PHI@IND 5:40 PM / WPG@NYI 5:40 PM",
+     "pick": "Day 1 LADDER 3-leg parlay (about -111 computed from FanDuel 8 AM AZ prices (card said about +90, decimal 1.90), slip price unconfirmed):\n- Sam Reinhart 2+ Shots on Goal -260 FLA@WSH 1:08 PM\n✅ Tyrese Maxey 4+ Assists -460 PHI@IND 5:40 PM\n- Kyle Connor 2+ Shots on Goal -780 WPG@NYI 5:40 PM",
+     "book": "FanDuel",
+     "odds": "-111",
+     "implied": "52.6%",
+     "est": "",
+     "result": "L",
+     "favorite": "N",
+     "tony_played": "Y",
+     "Stake (u)": 2.5,
+     "Profit (u)": -2.5,
+     "title": "Day 1 LADDER 3-leg parlay",
+     "legs": [
+      {
+       "mark": "none",
+       "text": "Sam Reinhart 2+ Shots on Goal -260 FLA@WSH 1:08 PM"
+      },
+      {
+       "mark": "hit",
+       "text": "Tyrese Maxey 4+ Assists -460 PHI@IND 5:40 PM"
+      },
+      {
+       "mark": "none",
+       "text": "Kyle Connor 2+ Shots on Goal -780 WPG@NYI 5:40 PM"
+      }
+     ]
+    }
+   ],
+   "day": "0-1",
+   "tony_played": "0-1",
+   "net": "-2.50u",
+   "running": "+62.89u",
+   "date": "2026-11-27"
+  },
   {
    "banner": "Wednesday, Nov 25   |   Day: 1-2 (2 pending)   |   Tony played: 1-2   |   Net -20.22u   |   Running +65.39u",
    "label": "Wednesday, Nov 25",
@@ -16715,13 +16756,13 @@
    "rows": [
     [
      "All picks",
-     "90-143-1",
+     "90-144-1",
      "20-43",
      "11-18",
      "0-0",
      "5-3",
      "17-24-1",
-     "37-55"
+     "37-56"
     ],
     [
      "Favorites",
@@ -16735,17 +16776,17 @@
     ],
     [
      "Tony played",
-     "66-122-1",
+     "66-123-1",
      "16-39",
      "5-12",
      "0-0",
      "4-2",
      "8-16-1",
-     "33-53"
+     "33-54"
     ]
    ],
    "units": {
-    "net": "+51.07u",
+    "net": "+48.57u",
     "pending": "6 pending"
    }
   },
@@ -16799,17 +16840,17 @@
   }
  ],
  "legend": "Green = win, Red = loss, Yellow = push, Gray = pending. Newest day first.",
- "ticket_count": 708,
- "version": "49bb3e008f",
+ "ticket_count": 709,
+ "version": "bc9d1658f8",
  "archive_sports": {},
- "live_ticket_count": 708,
+ "live_ticket_count": 709,
  "totals": {
   "grand": [
-   65.39,
+   62.89,
    273,
-   362,
+   363,
    69,
-   708
+   709
   ],
   "m2026-10": [
    14.32,
@@ -16819,18 +16860,18 @@
    408
   ],
   "m2026-11": [
-   51.07,
+   48.57,
    90,
-   143,
+   144,
    67,
-   300
+   301
   ],
   "sLadder": [
-   15.0,
+   12.5,
    18,
-   12,
+   13,
    0,
-   31
+   32
   ],
   "sMLB": [
    0.0,
@@ -16896,14 +16937,14 @@
    2
   ],
   "y2026": [
-   65.39,
+   62.89,
    273,
-   362,
+   363,
    69,
-   708
+   709
   ]
  },
- "prune_cutoff": "2026-09-26",
+ "prune_cutoff": "2026-09-27",
  "units_by_sport": {
   "sports": [
    "NFL",
@@ -16926,9 +16967,9 @@
      "Soccer": 17.5,
      "NCAAF": 3.3,
      "MLB": 0,
-     "Multi": 39.66
+     "Multi": 37.16
     },
-    "total": 51.07
+    "total": 48.57
    },
    {
     "period": "October 2026",
@@ -16954,9 +16995,9 @@
      "Soccer": 29.39,
      "NCAAF": -1.45,
      "MLB": 0,
-     "Multi": 51.06
+     "Multi": 48.56
     },
-    "total": 65.39
+    "total": 62.89
    }
   ]
  }
